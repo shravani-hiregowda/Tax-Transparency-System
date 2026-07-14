@@ -166,8 +166,13 @@ def allocate_union_pool(allocation_data, union_amount):
 # AI EXPLANATION
 # ==============================
 def ai_explain(user_text: str) -> str:
+    clean_text = user_text.strip().lower().rstrip("?.!")
+    greetings = {"hi", "hello", "hey", "greetings", "good morning", "good afternoon", "good evening", "yo"}
+    if clean_text in greetings:
+        return "Hello! Welcome to the Tax Transparency System. How can I help you explore budget allocations or calculate tax distributions today?"
+
     if not OPENROUTER_API_KEY or not ai_client:
-        return "AI explanation unavailable."
+        return "AI explanation unavailable. Please configure the OPENROUTER_API_KEY environment variable on your server to enable conversational AI."
 
     try:
         response = ai_client.chat.completions.create(
