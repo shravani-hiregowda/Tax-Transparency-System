@@ -61,10 +61,12 @@ Your tone should reflect institutional credibility, not classroom teaching.
 TTS is analytical, not promotional.
 """
 
-ai_client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key=OPENROUTER_API_KEY
-)
+ai_client = None
+if OPENROUTER_API_KEY:
+    ai_client = OpenAI(
+        base_url="https://openrouter.ai/api/v1",
+        api_key=OPENROUTER_API_KEY
+    )
 
 # ==============================
 # UTILITIES
@@ -163,7 +165,7 @@ def allocate_union_pool(allocation_data, union_amount):
 # AI EXPLANATION
 # ==============================
 def ai_explain(user_text: str) -> str:
-    if not OPENROUTER_API_KEY:
+    if not OPENROUTER_API_KEY or not ai_client:
         return "AI explanation unavailable."
 
     try:
