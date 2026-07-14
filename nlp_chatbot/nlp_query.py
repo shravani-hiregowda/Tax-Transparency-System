@@ -254,22 +254,25 @@ def smart_tax_flow(user_text):
                 devolved = cgst * DEVOLUTION_RATE
                 retained = cgst - devolved
 
-                tax_funded = retained * (1 - DEFICIT_SHARE)
-                debt_component = retained * DEFICIT_SHARE
+                # The full tax contribution is spent, leveraging additional borrowing
+                tax_funded = retained
+                total_spending = retained / (1 - DEFICIT_SHARE)
+                debt_component = total_spending * DEFICIT_SHARE
 
-                revenue_component = tax_funded * REVENUE_EXP_SHARE
-                capex_component = tax_funded * CAPEX_SHARE
+                # Revenue and Capital splits are calculated from the total leveraged spending
+                revenue_component = total_spending * REVENUE_EXP_SHARE
+                capex_component = total_spending * CAPEX_SHARE
 
                 lines.append("")
                 lines.append("Union Fiscal Flow:")
                 lines.append(f"Devolved to States (41%): {money(devolved)}")
-                lines.append(f"Retained by Union: {money(retained)}")
+                lines.append(f"Retained by Union (Tax Revenue): {money(retained)}")
                 lines.append(f"Tax-Funded Expenditure: {money(tax_funded)}")
-                lines.append(f"Debt-Financed Component: {money(debt_component)}")
+                lines.append(f"Debt-Financed Component (Leveraged): {money(debt_component)}")
                 lines.append(f"Revenue Expenditure Portion: {money(revenue_component)}")
                 lines.append(f"Capital Expenditure Portion: {money(capex_component)}")
 
-                allocation = allocate_union_pool(allocation_data, tax_funded)
+                allocation = allocate_union_pool(allocation_data, total_spending)
 
                 lines.append("")
                 lines.append(
