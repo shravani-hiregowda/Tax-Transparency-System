@@ -23,6 +23,7 @@ function Login() {
       // ✅ Store user data for sidebar
       localStorage.setItem("username", res.data.username);
       localStorage.setItem("userEmail", res.data.email);
+      localStorage.setItem("isLoggedIn", "true");
 
       navigate("/chat");
 
