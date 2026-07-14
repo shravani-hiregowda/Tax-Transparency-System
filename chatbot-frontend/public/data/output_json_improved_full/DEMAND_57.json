@@ -1,0 +1,283 @@
+{
+    "demand_no": 57,
+    "ministry": "Ministry Of Home Affairs",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Transfers to Delhi",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 966.0,
+                        "capital_2024_25": 142.0,
+                        "total_2024_25": 1108.0,
+                        "budget_2025_26": 968.01,
+                        "capital_2025_26": 380.0,
+                        "total_2025_26": 1348.01,
+                        "revised_2024_25": 967.01,
+                        "capital_revised_2024_25": 274.99,
+                        "total_revised_2024_25": 1242.0,
+                        "budget_2026_27": 968.01,
+                        "capital_2026_27": 380.0,
+                        "total_2026_27": 1348.01
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Other Grants/Loans/Transfers",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Enhanced compensation to 1984 riots victims",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 2.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Grants towards contribution to Union Territory Disaster",
+                    "values": {
+                        "actual_2024_25": 15.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 15.0,
+                        "budget_2025_26": 15.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15.0,
+                        "revised_2024_25": 15.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15.0,
+                        "budget_2026_27": 15.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Central Assistance to Union Territories",
+                    "values": {
+                        "actual_2024_25": 951.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 951.0,
+                        "budget_2025_26": 951.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 951.0,
+                        "revised_2024_25": 951.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 951.0,
+                        "budget_2026_27": 951.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 951.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Additional Central Assistance for Externally Aided",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 142.0,
+                        "total_2024_25": 142.0,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": 380.0,
+                        "total_2025_26": 380.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": 274.99,
+                        "total_revised_2024_25": 275.0,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": 380.0,
+                        "total_2026_27": 380.01
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Projects (Chandrawal water treatment Plant)",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Other Grants/Loans/Transfers",
+                    "values": {
+                        "actual_2024_25": 966.0,
+                        "capital_2024_25": 142.0,
+                        "total_2024_25": 1108.0,
+                        "budget_2025_26": 968.01,
+                        "capital_2025_26": 380.0,
+                        "total_2025_26": 1348.01,
+                        "revised_2024_25": 967.01,
+                        "capital_revised_2024_25": 274.99,
+                        "total_revised_2024_25": 1242.0,
+                        "budget_2026_27": 968.01,
+                        "capital_2026_27": 380.0,
+                        "total_2026_27": 1348.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 966.0,
+                        "capital_2024_25": 142.0,
+                        "total_2024_25": 1108.0,
+                        "budget_2025_26": 968.01,
+                        "capital_2025_26": 380.0,
+                        "total_2025_26": 1348.01,
+                        "revised_2024_25": 967.01,
+                        "capital_revised_2024_25": 274.99,
+                        "total_revised_2024_25": 1242.0,
+                        "budget_2026_27": 968.01,
+                        "capital_2026_27": 380.0,
+                        "total_2026_27": 1348.01
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 966.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 966.0,
+                        "budget_2025_26": 968.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 968.01,
+                        "revised_2024_25": 967.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 967.01,
+                        "budget_2026_27": 968.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 968.01
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Loans and Advances to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 142.0,
+                        "total_2024_25": 142.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 380.0,
+                        "total_2025_26": 380.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 274.99,
+                        "total_revised_2024_25": 274.99,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 380.0,
+                        "total_2026_27": 380.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 966.0,
+                        "capital_2024_25": 142.0,
+                        "total_2024_25": 1108.0,
+                        "budget_2025_26": 968.01,
+                        "capital_2025_26": 380.0,
+                        "total_2025_26": 1348.01,
+                        "revised_2024_25": 967.01,
+                        "capital_revised_2024_25": 274.99,
+                        "total_revised_2024_25": 1242.0,
+                        "budget_2026_27": 968.01,
+                        "capital_2026_27": 380.0,
+                        "total_2026_27": 1348.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 966.0,
+                        "capital_2024_25": 142.0,
+                        "total_2024_25": 1108.0,
+                        "budget_2025_26": 968.01,
+                        "capital_2025_26": 380.0,
+                        "total_2025_26": 1348.01,
+                        "revised_2024_25": 967.01,
+                        "capital_revised_2024_25": 274.99,
+                        "total_revised_2024_25": 1242.0,
+                        "budget_2026_27": 968.01,
+                        "capital_2026_27": 380.0,
+                        "total_2026_27": 1348.01
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "1",
+                    "name": "Enhanced compensation to",
+                    "values": {
+                        "actual_2024_25": 1984.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "4. Additional Central Assistance for Externally Aided Projects (Chandrawal water treatment",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Grants towards contribution to Union Territory Disaster Response Fund:..Provision is for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF HOME AFFAIRS",
+            "items": []
+        }
+    ]
+}

@@ -1,0 +1,1284 @@
+{
+    "demand_no": 25,
+    "ministry": "Ministry Of Education",
+    "department": "Department Of School Education And Literacy",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 65159.0,
+                        "capital_2024_25": 0.25,
+                        "total_2024_25": 65159.25,
+                        "budget_2025_26": 78571.3,
+                        "capital_2025_26": 0.8,
+                        "total_2025_26": 78572.1,
+                        "revised_2024_25": 70566.34,
+                        "capital_revised_2024_25": 0.8,
+                        "total_revised_2024_25": 70567.14,
+                        "budget_2026_27": 83561.41,
+                        "capital_2026_27": 0.85,
+                        "total_2026_27": 83562.26
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 46.84,
+                        "capital_2024_25": 0.25,
+                        "total_2024_25": 47.09,
+                        "budget_2025_26": 51.71,
+                        "capital_2025_26": 0.8,
+                        "total_2025_26": 52.51,
+                        "revised_2024_25": 50.31,
+                        "capital_revised_2024_25": 0.8,
+                        "total_revised_2024_25": 51.11,
+                        "budget_2026_27": 53.67,
+                        "capital_2026_27": 0.85,
+                        "total_2026_27": 54.52
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Directorate of Adult Education",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.08,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 46.76,
+                        "capital_2024_25": 0.25,
+                        "total_2024_25": 47.01,
+                        "budget_2025_26": 51.72,
+                        "capital_2025_26": 0.8,
+                        "total_2025_26": 52.52,
+                        "revised_2024_25": 50.32,
+                        "capital_revised_2024_25": 0.8,
+                        "total_revised_2024_25": 51.12,
+                        "budget_2026_27": 53.68,
+                        "capital_2026_27": 0.85,
+                        "total_2026_27": 54.53
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Pradhan Mantri Innovative Learning Programme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 55.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.0,
+                        "revised_2024_25": 5.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.0,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "National Means cum Merit Scholarship Scheme",
+                    "values": {
+                        "actual_2024_25": 352.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 352.49,
+                        "budget_2025_26": 374.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 374.0,
+                        "revised_2024_25": 374.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 374.0,
+                        "budget_2026_27": 381.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 381.0
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "National Means cum Merit Scholarship Scheme",
+                    "values": {
+                        "actual_2024_25": 352.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 352.49,
+                        "budget_2025_26": 374.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 374.0,
+                        "revised_2024_25": 374.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 374.0,
+                        "budget_2026_27": 381.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 381.0
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "Transfer to Madhyamik evam Uchchatar",
+                    "values": {
+                        "actual_2024_25": 352.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 352.6,
+                        "budget_2025_26": 374.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 374.0,
+                        "revised_2024_25": 374.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 374.0,
+                        "budget_2026_27": 381.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 381.0
+                    }
+                },
+                {
+                    "code": "5.03",
+                    "name": "Amount met from MUSK",
+                    "values": {
+                        "actual_2024_25": -352.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -352.0,
+                        "budget_2025_26": -374.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -374.0,
+                        "revised_2024_25": -374.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -374.0,
+                        "budget_2026_27": -381.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -381.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 353.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 353.09,
+                        "budget_2025_26": 374.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 374.0,
+                        "revised_2024_25": 374.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 374.0,
+                        "budget_2026_27": 381.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 381.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Atal Tinkering Labs (ATL) Scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": 3200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3200.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 353.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 353.09,
+                        "budget_2025_26": 429.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 429.0,
+                        "revised_2024_25": 879.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 879.0,
+                        "budget_2026_27": 3631.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3631.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Kendriya Vidyalaya Sangathan (KVS)",
+                    "values": {
+                        "actual_2024_25": 8727.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8727.0,
+                        "budget_2025_26": 9503.84,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9503.84,
+                        "revised_2024_25": 9503.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9503.84,
+                        "budget_2026_27": 10129.41,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10129.41
+                    }
+                },
+                {
+                    "code": "7.01",
+                    "name": "Kendriya Vidyalaya Sangathan (KVS)",
+                    "values": {
+                        "actual_2024_25": 8727.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8727.0,
+                        "budget_2025_26": 9503.84,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9503.84,
+                        "revised_2024_25": 9503.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9503.84,
+                        "budget_2026_27": 10129.41,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10129.41
+                    }
+                },
+                {
+                    "code": "7.02",
+                    "name": "Transfer to MUSK",
+                    "values": {
+                        "actual_2024_25": 4500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4500.0,
+                        "budget_2025_26": 5000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5000.0,
+                        "revised_2024_25": 5000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5000.0,
+                        "budget_2026_27": 6000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6000.0
+                    }
+                },
+                {
+                    "code": "7.03",
+                    "name": "Amount met from MUSK",
+                    "values": {
+                        "actual_2024_25": -4500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -4500.0,
+                        "budget_2025_26": -5000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -5000.0,
+                        "revised_2024_25": -5000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -5000.0,
+                        "budget_2026_27": -6000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -6000.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 8727.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8727.0,
+                        "budget_2025_26": 9503.84,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9503.84,
+                        "revised_2024_25": 9503.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9503.84,
+                        "budget_2026_27": 10129.41,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10129.41
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "Navodaya Vidyalaya Samiti (NVS)",
+                    "values": {
+                        "actual_2024_25": 5370.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5370.79,
+                        "budget_2025_26": 5305.23,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5305.23,
+                        "revised_2024_25": 5750.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5750.0,
+                        "budget_2026_27": 6025.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6025.0
+                    }
+                },
+                {
+                    "code": "8.01",
+                    "name": "Navodaya Vidyalaya Samiti (NVS)",
+                    "values": {
+                        "actual_2024_25": 5370.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5370.79,
+                        "budget_2025_26": 5305.23,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5305.23,
+                        "revised_2024_25": 5750.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5750.0,
+                        "budget_2026_27": 6025.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6025.0
+                    }
+                },
+                {
+                    "code": "8.02",
+                    "name": "Transfer to MUSK",
+                    "values": {
+                        "actual_2024_25": 2800.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2800.0,
+                        "budget_2025_26": 5000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5000.0,
+                        "revised_2024_25": 5000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5000.0,
+                        "budget_2026_27": 5500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5500.0
+                    }
+                },
+                {
+                    "code": "8.03",
+                    "name": "Amount met from MUSK",
+                    "values": {
+                        "actual_2024_25": -2800.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2800.0,
+                        "budget_2025_26": -5000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -5000.0,
+                        "revised_2024_25": -5000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -5000.0,
+                        "budget_2026_27": -5500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -5500.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 5370.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5370.79,
+                        "budget_2025_26": 5305.23,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5305.23,
+                        "revised_2024_25": 5750.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5750.0,
+                        "budget_2026_27": 6025.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6025.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "9",
+                    "name": "National Council of Educational Research and Training",
+                    "values": {
+                        "actual_2024_25": 517.42,
+                        "capital_2024_25": null,
+                        "total_2024_25": 517.42,
+                        "budget_2025_26": 593.71,
+                        "capital_2025_26": null,
+                        "total_2025_26": 593.71,
+                        "revised_2024_25": 623.16,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 623.16,
+                        "budget_2026_27": 681.79,
+                        "capital_2026_27": null,
+                        "total_2026_27": 681.79
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "National Bal Bhawan",
+                    "values": {
+                        "actual_2024_25": 24.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.33,
+                        "budget_2025_26": 27.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 27.8,
+                        "revised_2024_25": 30.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 30.51,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30.51
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Actual Recoveries (ABs)",
+                    "values": {
+                        "actual_2024_25": -549.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": -549.75,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 14089.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14089.79,
+                        "budget_2025_26": 15430.58,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15430.58,
+                        "revised_2024_25": 15907.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15907.0,
+                        "budget_2026_27": 16866.71,
+                        "capital_2026_27": null,
+                        "total_2026_27": 16866.71
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 14089.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14089.79,
+                        "budget_2025_26": 15430.58,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15430.58,
+                        "revised_2024_25": 15907.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15907.0,
+                        "budget_2026_27": 16866.71,
+                        "capital_2026_27": null,
+                        "total_2026_27": 16866.71
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Samagra Shiksha",
+                    "values": {
+                        "actual_2024_25": 35001.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 35001.58,
+                        "budget_2025_26": 41249.98,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41249.98,
+                        "revised_2024_25": 38000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 38000.0,
+                        "budget_2026_27": 42100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 42100.0
+                    }
+                },
+                {
+                    "code": "12.01",
+                    "name": "Samagra Shiksha (SS)",
+                    "values": {
+                        "actual_2024_25": 35001.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 35001.58,
+                        "budget_2025_26": 41249.98,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41249.98,
+                        "revised_2024_25": 38000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 38000.0,
+                        "budget_2026_27": 42100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 42100.0
+                    }
+                },
+                {
+                    "code": "12.02",
+                    "name": "EAP Component",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.02,
+                        "revised_2024_25": 0.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.02,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.02
+                    }
+                },
+                {
+                    "code": "12.03",
+                    "name": "Transfer to MUSK",
+                    "values": {
+                        "actual_2024_25": 5010.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5010.0,
+                        "budget_2025_26": 6250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6250.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12.04",
+                    "name": "Amount met from MUSK",
+                    "values": {
+                        "actual_2024_25": -3510.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -3510.0,
+                        "budget_2025_26": -6250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -6250.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12.05",
+                    "name": "Transfer to Prarambhik Shiksha Kosh (PSK)",
+                    "values": {
+                        "actual_2024_25": 31000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 31000.0,
+                        "budget_2025_26": 35000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35000.0,
+                        "revised_2024_25": 38000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 38000.0,
+                        "budget_2026_27": 42100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 42100.0
+                    }
+                },
+                {
+                    "code": "12.06",
+                    "name": "Amount met from PSK",
+                    "values": {
+                        "actual_2024_25": -31000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -31000.0,
+                        "budget_2025_26": -35000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -35000.0,
+                        "revised_2024_25": -38000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -38000.0,
+                        "budget_2026_27": -42100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -42100.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 36501.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 36501.58,
+                        "budget_2025_26": 41250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41250.0,
+                        "revised_2024_25": 38000.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 38000.02,
+                        "budget_2026_27": 42100.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 42100.02
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "13",
+                    "name": "Pradhan Mantri Poshan Shakti Nirman (PM POSHAN)",
+                    "values": {
+                        "actual_2024_25": 9903.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9903.01,
+                        "budget_2025_26": 12500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12500.0,
+                        "revised_2024_25": 10600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10600.0,
+                        "budget_2026_27": 12750.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12750.0
+                    }
+                },
+                {
+                    "code": "13.01",
+                    "name": "PM POSHAN",
+                    "values": {
+                        "actual_2024_25": 9903.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9903.01,
+                        "budget_2025_26": 12500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12500.0,
+                        "revised_2024_25": 10600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10600.0,
+                        "budget_2026_27": 12750.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12750.0
+                    }
+                },
+                {
+                    "code": "13.02",
+                    "name": "Transfer to PSK",
+                    "values": {
+                        "actual_2024_25": 9900.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9900.0,
+                        "budget_2025_26": 12500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12500.0,
+                        "revised_2024_25": 10600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10600.0,
+                        "budget_2026_27": 12750.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12750.0
+                    }
+                },
+                {
+                    "code": "13.03",
+                    "name": "Amount met from PSK",
+                    "values": {
+                        "actual_2024_25": -9900.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -9900.0,
+                        "budget_2025_26": -12500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -12500.0,
+                        "revised_2024_25": -10600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -10600.0,
+                        "budget_2026_27": -12750.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -12750.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 9903.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9903.01,
+                        "budget_2025_26": 12500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12500.0,
+                        "revised_2024_25": 10600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10600.0,
+                        "budget_2026_27": 12750.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12750.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "Strengthening Teaching-Learning and Results for States",
+                    "values": {
+                        "actual_2024_25": 843.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 843.44,
+                        "budget_2025_26": 1250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1250.0,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "PM Schools for Rising India (PM SHRI)",
+                    "values": {
+                        "actual_2024_25": 3504.3,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3504.3,
+                        "budget_2025_26": 7500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7500.0,
+                        "revised_2024_25": 4500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4500.0,
+                        "budget_2026_27": 7500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7500.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "New India Literacy Programme (NILP)",
+                    "values": {
+                        "actual_2024_25": 130.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 130.39,
+                        "budget_2025_26": 160.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 160.0,
+                        "revised_2024_25": 130.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 130.0,
+                        "budget_2026_27": 160.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 160.0
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Actual Recoveries (CSS)",
+                    "values": {
+                        "actual_2024_25": -213.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": -213.36,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 50669.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 50669.36,
+                        "budget_2025_26": 62660.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 62660.0,
+                        "revised_2024_25": 53730.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 53730.02,
+                        "budget_2026_27": 63010.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 63010.02
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 65159.0,
+                        "capital_2024_25": 0.25,
+                        "total_2024_25": 65159.25,
+                        "budget_2025_26": 78571.3,
+                        "capital_2025_26": 0.8,
+                        "total_2025_26": 78572.1,
+                        "revised_2024_25": 70566.34,
+                        "capital_revised_2024_25": 0.8,
+                        "total_revised_2024_25": 70567.14,
+                        "budget_2026_27": 83561.41,
+                        "capital_2026_27": 0.85,
+                        "total_2026_27": 83562.26
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "General Education",
+                    "values": {
+                        "actual_2024_25": 16507.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16507.9,
+                        "budget_2025_26": 17325.32,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17325.32,
+                        "revised_2024_25": 17594.19,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17594.19,
+                        "budget_2026_27": 21599.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 21599.05
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 46.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": 46.76,
+                        "budget_2025_26": 51.71,
+                        "capital_2025_26": null,
+                        "total_2025_26": 51.71,
+                        "revised_2024_25": 50.31,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.31,
+                        "budget_2026_27": 53.67,
+                        "capital_2026_27": null,
+                        "total_2026_27": 53.67
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.25,
+                        "total_2024_25": 0.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.8,
+                        "total_2025_26": 0.8,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.8,
+                        "total_revised_2024_25": 0.8,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.85,
+                        "total_2026_27": 0.85
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 16554.66,
+                        "capital_2024_25": 0.25,
+                        "total_2024_25": 16554.91,
+                        "budget_2025_26": 17377.03,
+                        "capital_2025_26": 0.8,
+                        "total_2025_26": 17377.83,
+                        "revised_2024_25": 17644.5,
+                        "capital_revised_2024_25": 0.8,
+                        "total_revised_2024_25": 17645.3,
+                        "budget_2026_27": 21652.72,
+                        "capital_2026_27": 0.85,
+                        "total_2026_27": 21653.57
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 7497.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7497.45,
+                        "revised_2024_25": 6799.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6799.29,
+                        "budget_2026_27": 7960.48,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7960.48
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 47023.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 47023.73,
+                        "budget_2025_26": 51505.21,
+                        "capital_2025_26": null,
+                        "total_2025_26": 51505.21,
+                        "revised_2024_25": 43649.64,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 43649.64,
+                        "budget_2026_27": 51522.77,
+                        "capital_2026_27": null,
+                        "total_2026_27": 51522.77
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 1580.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1580.61,
+                        "budget_2025_26": 2191.61,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2191.61,
+                        "revised_2024_25": 2472.91,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2472.91,
+                        "budget_2026_27": 2425.44,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2425.44
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 48604.34,
+                        "capital_2024_25": null,
+                        "total_2024_25": 48604.34,
+                        "budget_2025_26": 61194.27,
+                        "capital_2025_26": null,
+                        "total_2025_26": 61194.27,
+                        "revised_2024_25": 52921.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 52921.84,
+                        "budget_2026_27": 61908.69,
+                        "capital_2026_27": null,
+                        "total_2026_27": 61908.69
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 65159.0,
+                        "capital_2024_25": 0.25,
+                        "total_2024_25": 65159.25,
+                        "budget_2025_26": 78571.3,
+                        "capital_2025_26": 0.8,
+                        "total_2025_26": 78572.1,
+                        "revised_2024_25": 70566.34,
+                        "capital_revised_2024_25": 0.8,
+                        "total_revised_2024_25": 70567.14,
+                        "budget_2026_27": 83561.41,
+                        "capital_2026_27": 0.85,
+                        "total_2026_27": 83562.26
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure on the Secretariat of the 8. Navodaya Vidyalaya Samiti (NVS):..In pursuance of National Policy of Education (NPE)-1986",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Directorate of Adult Education:..Directorate of Adult Education (DAE) has been functioning",
+                    "values": {
+                        "actual_2024_25": 1986.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "National Council of Educational Research and Training (NCERT):..National Council of",
+                    "values": {
+                        "actual_2024_25": 1961.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Pradhan Mantri Innovative Learning Programme (DHRUV):..Pradhan Mantri Innovative",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "National Bal Bhawan:..National Bal Bhawan (NBB), New Delhi established by the Government",
+                    "values": {
+                        "actual_2024_25": 1956.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "National Means cum Merit Scholarship Scheme:..National Means-cum-Merit Scholarship",
+                    "values": {
+                        "actual_2024_25": 2008.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "12. Samagra Shiksha:..The erstwhile Schemes of Sarva Shiksha Abhiyan (SSA), Rashtriya",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Atal Tinkering Labs (ATL) Scheme:..Atal Tinkering Labs (ATL) Scheme is a flagship initiative",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Kendriya Vidyalaya Sangathan (KVS):..Kendriya Vidyalaya Sangathan was set up in",
+                    "values": {
+                        "actual_2024_25": 1965.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "Pradhan Mantri Poshan Shakti Nirman (PM POSHAN):..Pradhan Mantri Poshan Shakti",
+                    "values": {
+                        "actual_2024_25": 2013.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Strengthening Teaching-Learning and Results for States (STARS):..The Strengthening",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "PM Schools for Rising India (PM SHRI):..The Scheme of PM SHRI, earlier known as",
+                    "values": {
+                        "actual_2024_25": 15000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "16. New India Literacy Programme (NILP):..A new Centrally Sponsored Scheme of Adult",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF EDUCATION",
+            "items": []
+        }
+    ]
+}

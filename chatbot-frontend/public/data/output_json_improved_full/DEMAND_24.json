@@ -1,0 +1,816 @@
+{
+    "demand_no": 24,
+    "ministry": "Ministry Of Earth Sciences",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2371.84,
+                        "capital_2024_25": 999.33,
+                        "total_2024_25": 3371.17,
+                        "budget_2025_26": 2770.78,
+                        "capital_2025_26": 879.03,
+                        "total_2025_26": 3649.81,
+                        "revised_2024_25": 2901.65,
+                        "capital_revised_2024_25": 478.35,
+                        "total_revised_2024_25": 3380.0,
+                        "budget_2026_27": 3073.19,
+                        "capital_2026_27": 716.04,
+                        "total_2026_27": 3789.23
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 64.89,
+                        "capital_2024_25": 2.07,
+                        "total_2024_25": 66.96,
+                        "budget_2025_26": 82.87,
+                        "capital_2025_26": 3.96,
+                        "total_2025_26": 86.83,
+                        "revised_2024_25": 83.1,
+                        "capital_revised_2024_25": 3.78,
+                        "total_revised_2024_25": 86.88,
+                        "budget_2026_27": 88.6,
+                        "capital_2026_27": 4.59,
+                        "total_2026_27": 93.19
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Meteorology",
+                    "values": {
+                        "actual_2024_25": 590.37,
+                        "capital_2024_25": 1.71,
+                        "total_2024_25": 592.08,
+                        "budget_2025_26": 632.11,
+                        "capital_2025_26": 1.07,
+                        "total_2025_26": 633.18,
+                        "revised_2024_25": 624.35,
+                        "capital_revised_2024_25": 1.07,
+                        "total_revised_2024_25": 625.42,
+                        "budget_2026_27": 647.99,
+                        "capital_2026_27": 0.8,
+                        "total_2026_27": 648.79
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -10.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": -10.57,
+                        "budget_2025_26": -8.27,
+                        "capital_2025_26": null,
+                        "total_2025_26": -8.27,
+                        "revised_2024_25": -8.27,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -8.27,
+                        "budget_2026_27": -9.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -9.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 579.8,
+                        "capital_2024_25": 1.71,
+                        "total_2024_25": 581.51,
+                        "budget_2025_26": 623.84,
+                        "capital_2025_26": 1.07,
+                        "total_2025_26": 624.91,
+                        "revised_2024_25": 616.08,
+                        "capital_revised_2024_25": 1.07,
+                        "total_revised_2024_25": 617.15,
+                        "budget_2026_27": 638.99,
+                        "capital_2026_27": 0.8,
+                        "total_2026_27": 639.79
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "National Centre for Medium Range Weather Forecasting",
+                    "values": {
+                        "actual_2024_25": 12.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12.72,
+                        "budget_2025_26": 15.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15.97,
+                        "revised_2024_25": 15.95,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15.95,
+                        "budget_2026_27": 17.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 657.41,
+                        "capital_2024_25": 3.78,
+                        "total_2024_25": 661.19,
+                        "budget_2025_26": 722.68,
+                        "capital_2025_26": 5.03,
+                        "total_2025_26": 727.71,
+                        "revised_2024_25": 715.13,
+                        "capital_revised_2024_25": 4.85,
+                        "total_revised_2024_25": 719.98,
+                        "budget_2026_27": 745.09,
+                        "capital_2026_27": 5.39,
+                        "total_2026_27": 750.48
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Deep Ocean Mission (DOM)",
+                    "values": {
+                        "actual_2024_25": 494.97,
+                        "capital_2024_25": 94.99,
+                        "total_2024_25": 589.96,
+                        "budget_2025_26": 300.0,
+                        "capital_2025_26": 300.0,
+                        "total_2025_26": 600.0,
+                        "revised_2024_25": 440.4,
+                        "capital_revised_2024_25": 219.6,
+                        "total_revised_2024_25": 660.0,
+                        "budget_2026_27": 450.0,
+                        "capital_2026_27": 175.0,
+                        "total_2026_27": 625.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Mission Mausam",
+                    "values": {
+                        "actual_2024_25": 356.15,
+                        "capital_2024_25": 159.55,
+                        "total_2024_25": 515.7,
+                        "budget_2025_26": 799.6,
+                        "capital_2025_26": 529.4,
+                        "total_2025_26": 1329.0,
+                        "revised_2024_25": 662.4,
+                        "capital_revised_2024_25": 177.6,
+                        "total_revised_2024_25": 840.0,
+                        "budget_2026_27": 855.29,
+                        "capital_2026_27": 487.0,
+                        "total_2026_27": 1342.29
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "High Performance Computing System",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 714.31,
+                        "total_2024_25": 714.31,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": 5.0,
+                        "total_2025_26": 55.0,
+                        "revised_2024_25": 11.0,
+                        "capital_revised_2024_25": 39.0,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Prithvi Vigyan (PRITHVI)",
+                    "values": {
+                        "actual_2024_25": 637.12,
+                        "capital_2024_25": 26.7,
+                        "total_2024_25": 663.82,
+                        "budget_2025_26": 660.4,
+                        "capital_2025_26": 39.6,
+                        "total_2025_26": 700.0,
+                        "revised_2024_25": 812.7,
+                        "capital_revised_2024_25": 37.3,
+                        "total_revised_2024_25": 850.0,
+                        "budget_2026_27": 751.35,
+                        "capital_2026_27": 48.65,
+                        "total_2026_27": 800.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 1488.24,
+                        "capital_2024_25": 995.55,
+                        "total_2024_25": 2483.79,
+                        "budget_2025_26": 1810.0,
+                        "capital_2025_26": 874.0,
+                        "total_2025_26": 2684.0,
+                        "revised_2024_25": 1926.5,
+                        "capital_revised_2024_25": 473.5,
+                        "total_revised_2024_25": 2400.0,
+                        "budget_2026_27": 2056.64,
+                        "capital_2026_27": 710.65,
+                        "total_2026_27": 2767.29
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Indian National Centre for Ocean Information Services",
+                    "values": {
+                        "actual_2024_25": 28.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 28.0,
+                        "budget_2025_26": 29.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 29.0,
+                        "revised_2024_25": 29.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 29.0,
+                        "budget_2026_27": 30.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "National Institute of Ocean Technology (NIOT)",
+                    "values": {
+                        "actual_2024_25": 64.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 64.29,
+                        "budget_2025_26": 68.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 68.0,
+                        "revised_2024_25": 71.38,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 71.38,
+                        "budget_2026_27": 79.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 79.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "National Centre for Polar and Ocean Research, Goa",
+                    "values": {
+                        "actual_2024_25": 31.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 31.0,
+                        "budget_2025_26": 32.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 32.0,
+                        "revised_2024_25": 34.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 34.0,
+                        "budget_2026_27": 37.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 37.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Indian Institute of Tropical Meteorology (IITM)",
+                    "values": {
+                        "actual_2024_25": 90.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 90.0,
+                        "budget_2025_26": 91.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 91.5,
+                        "revised_2024_25": 103.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 103.0,
+                        "budget_2026_27": 103.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 103.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "National Centre for Earth Science Studies (NCESS)",
+                    "values": {
+                        "actual_2024_25": 17.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 17.89,
+                        "budget_2025_26": 17.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17.6,
+                        "revised_2024_25": 22.64,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22.64,
+                        "budget_2026_27": 22.46,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22.46
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 231.18,
+                        "capital_2024_25": null,
+                        "total_2024_25": 231.18,
+                        "budget_2025_26": 238.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 238.1,
+                        "revised_2024_25": 260.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 260.02,
+                        "budget_2026_27": 271.46,
+                        "capital_2026_27": null,
+                        "total_2026_27": 271.46
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "13",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -4.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": -4.99,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 226.19,
+                        "capital_2024_25": null,
+                        "total_2024_25": 226.19,
+                        "budget_2025_26": 238.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 238.1,
+                        "revised_2024_25": 260.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 260.02,
+                        "budget_2026_27": 271.46,
+                        "capital_2026_27": null,
+                        "total_2026_27": 271.46
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2371.84,
+                        "capital_2024_25": 999.33,
+                        "total_2024_25": 3371.17,
+                        "budget_2025_26": 2770.78,
+                        "capital_2025_26": 879.03,
+                        "total_2025_26": 3649.81,
+                        "revised_2024_25": 2901.65,
+                        "capital_revised_2024_25": 478.35,
+                        "total_revised_2024_25": 3380.0,
+                        "budget_2026_27": 3073.19,
+                        "capital_2026_27": 716.04,
+                        "total_2026_27": 3789.23
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Oceanographic Research",
+                    "values": {
+                        "actual_2024_25": 1255.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1255.2,
+                        "budget_2025_26": 1089.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1089.4,
+                        "revised_2024_25": 1387.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1387.48,
+                        "budget_2026_27": 1347.35,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1347.35
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Other Scientific Research",
+                    "values": {
+                        "actual_2024_25": 10.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10.92,
+                        "budget_2025_26": 15.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15.97,
+                        "revised_2024_25": 15.95,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15.95,
+                        "budget_2026_27": 17.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17.5
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 64.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 64.55,
+                        "budget_2025_26": 82.87,
+                        "capital_2025_26": null,
+                        "total_2025_26": 82.87,
+                        "revised_2024_25": 83.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 83.1,
+                        "budget_2026_27": 88.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 88.6
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Meteorology",
+                    "values": {
+                        "actual_2024_25": 1041.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1041.17,
+                        "budget_2025_26": 1582.54,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1582.54,
+                        "revised_2024_25": 1415.12,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1415.12,
+                        "budget_2026_27": 1619.74,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1619.74
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Oceanographic Research",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 121.69,
+                        "total_2024_25": 121.69,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 339.6,
+                        "total_2025_26": 339.6,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 256.9,
+                        "total_revised_2024_25": 256.9,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 223.65,
+                        "total_2026_27": 223.65
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on Meteorology",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 875.57,
+                        "total_2024_25": 875.57,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 535.47,
+                        "total_2025_26": 535.47,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 217.67,
+                        "total_revised_2024_25": 217.67,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 487.8,
+                        "total_2026_27": 487.8
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.07,
+                        "total_2024_25": 2.07,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.96,
+                        "total_2025_26": 3.96,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.78,
+                        "total_revised_2024_25": 3.78,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4.59,
+                        "total_2026_27": 4.59
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 2371.84,
+                        "capital_2024_25": 999.33,
+                        "total_2024_25": 3371.17,
+                        "budget_2025_26": 2770.78,
+                        "capital_2025_26": 879.03,
+                        "total_2025_26": 3649.81,
+                        "revised_2024_25": 2901.65,
+                        "capital_revised_2024_25": 478.35,
+                        "total_revised_2024_25": 3380.0,
+                        "budget_2026_27": 3073.19,
+                        "capital_2026_27": 716.04,
+                        "total_2026_27": 3789.23
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2371.84,
+                        "capital_2024_25": 999.33,
+                        "total_2024_25": 3371.17,
+                        "budget_2025_26": 2770.78,
+                        "capital_2025_26": 879.03,
+                        "total_2025_26": 3649.81,
+                        "revised_2024_25": 2901.65,
+                        "capital_revised_2024_25": 478.35,
+                        "total_revised_2024_25": 3380.0,
+                        "budget_2026_27": 3073.19,
+                        "capital_2026_27": 716.04,
+                        "total_2026_27": 3789.23
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "1",
+                    "name": "Secretariat:..Secretariat-Economic Services: The Budget Provision is required for Secretariat 4. Deep Ocean Mission (DOM):..The Deep Ocean Mission aims to explore deep-oceanic",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Expenditure of the Ministry of Earth Sciences including Departmental Accounting Organization of Ministry of Earth resources and develop technologies for their sustainable use. The Mission consists of six major themes, namely (i)",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Meteorology:..India Meteorological Department (IMD) is the Principal Government agency in",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Mission Mausam:..This is an ambitious initiative/scheme by the Ministry of Earth Sciences",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "National Centre for Medium Range Weather Forecasting (NCMRWF):..The National Centre",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "High Performance Computing System:..The High-Performance Computing (HPC)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Prithvi Vigyan (PRITHVI):..The scheme deals with the study of various aspects of Earth",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "low investigations. And, the research, education, training, and outreach program supports extramural projects to",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Indian National Centre for Ocean Information Services (INCOIS):..INCOIS, Hyderabad: It",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "National Institute of Ocean Technology (NIOT):..NIOT, Chennai: The major aim of NIOT",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "National Centre for Polar and Ocean Research, Goa (NCPOR):..NCPOR, Goa is the premier",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Indian Institute of Tropical Meteorology (IITM):..IITM, Pune undertakes basic research on",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "National Centre for Earth Science Studies (NCESS):..NCESS, Thiruvananthapuram fosters",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF EDUCATION",
+            "items": []
+        }
+    ]
+}

@@ -1,0 +1,808 @@
+{
+    "demand_no": 18,
+    "ministry": "Ministry Of Culture",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 3062.47,
+                        "capital_2024_25": 182.32,
+                        "total_2024_25": 3244.79,
+                        "budget_2025_26": 3168.51,
+                        "capital_2025_26": 192.45,
+                        "total_2025_26": 3360.96,
+                        "revised_2024_25": 3357.64,
+                        "capital_revised_2024_25": 192.45,
+                        "total_revised_2024_25": 3550.09,
+                        "budget_2026_27": 3216.63,
+                        "capital_2026_27": 200.0,
+                        "total_2026_27": 3416.63
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat including Central Secretariat Library",
+                    "values": {
+                        "actual_2024_25": 67.24,
+                        "capital_2024_25": 2.07,
+                        "total_2024_25": 69.31,
+                        "budget_2025_26": 71.42,
+                        "capital_2025_26": 3.08,
+                        "total_2025_26": 74.5,
+                        "revised_2024_25": 62.51,
+                        "capital_revised_2024_25": 4.73,
+                        "total_revised_2024_25": 67.24,
+                        "budget_2026_27": 66.08,
+                        "capital_2026_27": 3.74,
+                        "total_2026_27": 69.82
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Archaeological Survey of India (ASI)",
+                    "values": {
+                        "actual_2024_25": 1096.66,
+                        "capital_2024_25": 133.95,
+                        "total_2024_25": 1230.61,
+                        "budget_2025_26": 1142.59,
+                        "capital_2025_26": 135.9,
+                        "total_2025_26": 1278.49,
+                        "revised_2024_25": 1056.72,
+                        "capital_revised_2024_25": 125.14,
+                        "total_revised_2024_25": 1181.86,
+                        "budget_2026_27": 1104.43,
+                        "capital_2026_27": 131.35,
+                        "total_2026_27": 1235.78
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Libraries and Archives",
+                    "values": {
+                        "actual_2024_25": 118.21,
+                        "capital_2024_25": 26.86,
+                        "total_2024_25": 145.07,
+                        "budget_2025_26": 128.99,
+                        "capital_2025_26": 27.56,
+                        "total_2025_26": 156.55,
+                        "revised_2024_25": 131.88,
+                        "capital_revised_2024_25": 32.35,
+                        "total_revised_2024_25": 164.23,
+                        "budget_2026_27": 133.7,
+                        "capital_2026_27": 37.2,
+                        "total_2026_27": 170.9
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Museums",
+                    "values": {
+                        "actual_2024_25": 109.74,
+                        "capital_2024_25": 8.78,
+                        "total_2024_25": 118.52,
+                        "budget_2025_26": 111.75,
+                        "capital_2025_26": 14.88,
+                        "total_2025_26": 126.63,
+                        "revised_2024_25": 122.25,
+                        "capital_revised_2024_25": 17.43,
+                        "total_revised_2024_25": 139.68,
+                        "budget_2026_27": 118.52,
+                        "capital_2026_27": 16.67,
+                        "total_2026_27": 135.19
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Anthropological Survey of India (AnSI)",
+                    "values": {
+                        "actual_2024_25": 42.26,
+                        "capital_2024_25": 10.98,
+                        "total_2024_25": 53.24,
+                        "budget_2025_26": 44.76,
+                        "capital_2025_26": 11.03,
+                        "total_2025_26": 55.79,
+                        "revised_2024_25": 50.84,
+                        "capital_revised_2024_25": 10.8,
+                        "total_revised_2024_25": 61.64,
+                        "budget_2026_27": 49.74,
+                        "capital_2026_27": 11.03,
+                        "total_2026_27": 60.77
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.02,
+                        "capital_2024_25": -0.32,
+                        "total_2024_25": -0.34,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 1434.09,
+                        "capital_2024_25": 182.32,
+                        "total_2024_25": 1616.41,
+                        "budget_2025_26": 1499.51,
+                        "capital_2025_26": 192.45,
+                        "total_2025_26": 1691.96,
+                        "revised_2024_25": 1424.2,
+                        "capital_revised_2024_25": 190.45,
+                        "total_revised_2024_25": 1614.65,
+                        "budget_2026_27": 1472.47,
+                        "capital_2026_27": 199.99,
+                        "total_2026_27": 1672.46
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Centenaries and Anniversaries, Celebrations and",
+                    "values": {
+                        "actual_2024_25": 106.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 106.13,
+                        "budget_2025_26": 35.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35.0,
+                        "revised_2024_25": 109.31,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 109.31,
+                        "budget_2026_27": 98.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 98.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Schemes",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Kala Sanskriti Vikas Yojana",
+                    "values": {
+                        "actual_2024_25": 200.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": 200.67,
+                        "budget_2025_26": 198.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 198.5,
+                        "revised_2024_25": 375.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 375.0,
+                        "budget_2026_27": 150.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 150.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Development of Museums",
+                    "values": {
+                        "actual_2024_25": 133.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 133.85,
+                        "budget_2025_26": 210.72,
+                        "capital_2025_26": null,
+                        "total_2025_26": 210.72,
+                        "revised_2024_25": 285.0,
+                        "capital_revised_2024_25": 2.0,
+                        "total_revised_2024_25": 287.0,
+                        "budget_2026_27": 149.99,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 150.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Development of Libraries and Archives",
+                    "values": {
+                        "actual_2024_25": 20.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 20.72,
+                        "budget_2025_26": 53.19,
+                        "capital_2025_26": null,
+                        "total_2025_26": 53.19,
+                        "revised_2024_25": 35.07,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 35.07,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Global Engagement and International Cooperation",
+                    "values": {
+                        "actual_2024_25": 8.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.82,
+                        "budget_2025_26": 4.65,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4.65,
+                        "revised_2024_25": 4.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4.65,
+                        "budget_2026_27": 30.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "National Mission on Cultural Mapping and Roadmap",
+                    "values": {
+                        "actual_2024_25": 7.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.4,
+                        "budget_2025_26": 22.46,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22.46,
+                        "revised_2024_25": 1.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.5,
+                        "budget_2026_27": 58.39,
+                        "capital_2026_27": null,
+                        "total_2026_27": 58.39
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "National Mission for Manuscripts",
+                    "values": {
+                        "actual_2024_25": 2.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.63,
+                        "budget_2025_26": 60.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 60.0,
+                        "revised_2024_25": 15.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15.0,
+                        "budget_2026_27": 60.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 60.0
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Recoveries",
+                    "values": {
+                        "actual_2024_25": -14.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": -14.87,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 465.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 465.35,
+                        "budget_2025_26": 584.52,
+                        "capital_2025_26": null,
+                        "total_2025_26": 584.52,
+                        "revised_2024_25": 825.53,
+                        "capital_revised_2024_25": 2.0,
+                        "total_revised_2024_25": 827.53,
+                        "budget_2026_27": 596.38,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 596.39
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "15",
+                    "name": "Support to Akademies",
+                    "values": {
+                        "actual_2024_25": 508.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 508.13,
+                        "budget_2025_26": 411.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 411.42,
+                        "revised_2024_25": 455.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 455.8,
+                        "budget_2026_27": 460.62,
+                        "capital_2026_27": null,
+                        "total_2026_27": 460.62
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Support to Museums",
+                    "values": {
+                        "actual_2024_25": 365.42,
+                        "capital_2024_25": null,
+                        "total_2024_25": 365.42,
+                        "budget_2025_26": 379.58,
+                        "capital_2025_26": null,
+                        "total_2025_26": 379.58,
+                        "revised_2024_25": 374.83,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 374.83,
+                        "budget_2026_27": 390.51,
+                        "capital_2026_27": null,
+                        "total_2026_27": 390.51
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Support to Libraries",
+                    "values": {
+                        "actual_2024_25": 94.91,
+                        "capital_2024_25": null,
+                        "total_2024_25": 94.91,
+                        "budget_2025_26": 114.69,
+                        "capital_2025_26": null,
+                        "total_2025_26": 114.69,
+                        "revised_2024_25": 108.34,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 108.34,
+                        "budget_2026_27": 116.51,
+                        "capital_2026_27": null,
+                        "total_2026_27": 116.51
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Buddhist Tibetan Institutions and Memorials",
+                    "values": {
+                        "actual_2024_25": 169.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 169.89,
+                        "budget_2025_26": 158.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 158.6,
+                        "revised_2024_25": 146.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 146.35,
+                        "budget_2026_27": 158.55,
+                        "capital_2026_27": null,
+                        "total_2026_27": 158.55
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 1138.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1138.35,
+                        "budget_2025_26": 1064.29,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1064.29,
+                        "revised_2024_25": 1085.32,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1085.32,
+                        "budget_2026_27": 1126.19,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1126.19
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "19",
+                    "name": "Grantee Bodies",
+                    "values": {
+                        "actual_2024_25": 24.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.68,
+                        "budget_2025_26": 20.19,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.19,
+                        "revised_2024_25": 22.59,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22.59,
+                        "budget_2026_27": 21.59,
+                        "capital_2026_27": null,
+                        "total_2026_27": 21.59
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 1163.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1163.03,
+                        "budget_2025_26": 1084.48,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1084.48,
+                        "revised_2024_25": 1107.91,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1107.91,
+                        "budget_2026_27": 1147.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1147.78
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3062.47,
+                        "capital_2024_25": 182.32,
+                        "total_2024_25": 3244.79,
+                        "budget_2025_26": 3168.51,
+                        "capital_2025_26": 192.45,
+                        "total_2025_26": 3360.96,
+                        "revised_2024_25": 3357.64,
+                        "capital_revised_2024_25": 192.45,
+                        "total_revised_2024_25": 3550.09,
+                        "budget_2026_27": 3216.63,
+                        "capital_2026_27": 200.0,
+                        "total_2026_27": 3416.63
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Art and Culture",
+                    "values": {
+                        "actual_2024_25": 2995.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2995.25,
+                        "budget_2025_26": 3038.64,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3038.64,
+                        "revised_2024_25": 3212.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3212.62,
+                        "budget_2026_27": 3090.91,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3090.91
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 67.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": 67.22,
+                        "budget_2025_26": 71.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 71.42,
+                        "revised_2024_25": 62.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 62.51,
+                        "budget_2026_27": 66.08,
+                        "capital_2026_27": null,
+                        "total_2026_27": 66.08
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Education, Sports, Art and Culture",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 180.25,
+                        "total_2024_25": 180.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 189.37,
+                        "total_2025_26": 189.37,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 187.72,
+                        "total_revised_2024_25": 187.72,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 196.26,
+                        "total_2026_27": 196.26
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.07,
+                        "total_2024_25": 2.07,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.08,
+                        "total_2025_26": 3.08,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4.73,
+                        "total_revised_2024_25": 4.73,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3.74,
+                        "total_2026_27": 3.74
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 3062.47,
+                        "capital_2024_25": 182.32,
+                        "total_2024_25": 3244.79,
+                        "budget_2025_26": 3110.06,
+                        "capital_2025_26": 192.45,
+                        "total_2025_26": 3302.51,
+                        "revised_2024_25": 3275.13,
+                        "capital_revised_2024_25": 192.45,
+                        "total_revised_2024_25": 3467.58,
+                        "budget_2026_27": 3156.99,
+                        "capital_2026_27": 200.0,
+                        "total_2026_27": 3356.99
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 58.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 58.45,
+                        "revised_2024_25": 82.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 82.51,
+                        "budget_2026_27": 59.64,
+                        "capital_2026_27": null,
+                        "total_2026_27": 59.64
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 58.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 58.45,
+                        "revised_2024_25": 82.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 82.51,
+                        "budget_2026_27": 59.64,
+                        "capital_2026_27": null,
+                        "total_2026_27": 59.64
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3062.47,
+                        "capital_2024_25": 182.32,
+                        "total_2024_25": 3244.79,
+                        "budget_2025_26": 3168.51,
+                        "capital_2025_26": 192.45,
+                        "total_2025_26": 3360.96,
+                        "revised_2024_25": 3357.64,
+                        "capital_revised_2024_25": 192.45,
+                        "total_revised_2024_25": 3550.09,
+                        "budget_2026_27": 3216.63,
+                        "capital_2026_27": 200.0,
+                        "total_2026_27": 3416.63
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat including Central Secretariat Library:..It includes expenditure on account of 4. Museums:..The provision is for expenditure of the subordinate offices National Museum,",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Archaeological Survey of India (ASI):..The provision is for Archaeological Survey of India",
+                    "values": {
+                        "actual_2024_25": 1861.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "5. Anthropological Survey of India (AnSI):..The provision is for expenditure of the",
+            "items": []
+        },
+        {
+            "heading": "and antiquities, maintenance of gardens & development of new gardens surrounding Centrally Protected Monuments Indian population, collects and preserves documents of scientific interest about the people of India. The Survey through",
+            "items": []
+        },
+        {
+            "heading": "Training in different areas of Archaeology. A National Mission for Monuments & Antiquities has also been 7. Centenaries and Anniversaries, Celebrations and Schemes:..Provision under the",
+            "items": []
+        },
+        {
+            "heading": "3. Libraries and Archives:..The provision is for expenditure of the attached office National Holkar, 350th Shaheedi Diwas of Sri Guru Tegh Bahadur ji, Samvidhan Hatya Diwas , Commemoration of 150th year",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Kala Sanskriti Vikas Yojana:..The financial provision is for scheme Kala Sanskriti Vikas Asiatic Society (Mumbai), Thanjavur Maharaja Serfoji Saraswati Mahal Library, Central Library and Connemara Public",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Yojana (KSVY). This umbrella scheme includes Missions and Schemes namely; Financial Assistance for Training Library.",
+            "items": []
+        },
+        {
+            "heading": "9. Development of Museums:..The provision under Development of Museum is for expenditure",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "Development of Libraries and Archives:..The provision under Development of Libraries is for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure of the activities relating to National Mission on Libraries, Scheme of financial assistance to state/UT",
+            "items": []
+        },
+        {
+            "heading": "11. Global Engagement and International Cooperation:..The provision is for expenditure on the",
+            "items": []
+        },
+        {
+            "heading": "activities relating to Global Engagement Scheme. This scheme includes following sub-schemes, International Culture",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "National Mission on Cultural Mapping and Roadmap:..The Provision under National Mission",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "13. National Mission for Manuscripts:..The provision is for expenditure on activities related to the",
+            "items": []
+        },
+        {
+            "heading": "15. Support to Akademies:..The provision includes the expenditure of autonomous bodies namely",
+            "items": []
+        },
+        {
+            "heading": "16. Support to Museums:..provision includes the expenditure of autonomous bodies namely",
+            "items": []
+        },
+        {
+            "heading": "17. Support to Libraries:..The provision includes the expenditure of autonomous bodies namely",
+            "items": []
+        },
+        {
+            "heading": "18. Buddhist Tibetan Institutions and Memorials:..The provision includes the expenditure of",
+            "items": []
+        },
+        {
+            "heading": "autonomous bodies namely Gandhi Smriti and Darshan Samiti, Maulana Abul Kalam Azad Institute of Asian Studies,",
+            "items": []
+        },
+        {
+            "heading": "19. Grantee Bodies:..The provision is for expenditure of the activities relating to Vrindavan",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF DEFENCE",
+            "items": []
+        }
+    ]
+}

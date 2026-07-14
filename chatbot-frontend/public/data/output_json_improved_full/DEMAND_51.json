@@ -1,0 +1,1945 @@
+{
+    "demand_no": 51,
+    "ministry": "Ministry Of Home Affairs",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 135073.72,
+                        "capital_2024_25": 11561.1,
+                        "total_2024_25": 146634.82,
+                        "budget_2025_26": 143811.87,
+                        "capital_2025_26": 16579.19,
+                        "total_2025_26": 160391.06,
+                        "revised_2024_25": 146262.78,
+                        "capital_revised_2024_25": 16020.61,
+                        "total_revised_2024_25": 162283.39,
+                        "budget_2026_27": 152530.06,
+                        "capital_2026_27": 21272.47,
+                        "total_2026_27": 173802.53
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Central Armed Police Forces",
+                    "values": {
+                        "actual_2024_25": 33475.06,
+                        "capital_2024_25": 545.52,
+                        "total_2024_25": 34020.58,
+                        "budget_2025_26": 34593.17,
+                        "capital_2025_26": 554.0,
+                        "total_2025_26": 35147.17,
+                        "revised_2024_25": 36674.32,
+                        "capital_revised_2024_25": 577.16,
+                        "total_revised_2024_25": 37251.48,
+                        "budget_2026_27": 37915.92,
+                        "capital_2026_27": 602.01,
+                        "total_2026_27": 38517.93
+                    }
+                },
+                {
+                    "code": "1.01",
+                    "name": "Central Reserve Police Force",
+                    "values": {
+                        "actual_2024_25": 33475.06,
+                        "capital_2024_25": 545.52,
+                        "total_2024_25": 34020.58,
+                        "budget_2025_26": 34593.17,
+                        "capital_2025_26": 554.0,
+                        "total_2025_26": 35147.17,
+                        "revised_2024_25": 36674.32,
+                        "capital_revised_2024_25": 577.16,
+                        "total_revised_2024_25": 37251.48,
+                        "budget_2026_27": 37915.92,
+                        "capital_2026_27": 602.01,
+                        "total_2026_27": 38517.93
+                    }
+                },
+                {
+                    "code": "1.02",
+                    "name": "National Security Guard",
+                    "values": {
+                        "actual_2024_25": 1068.02,
+                        "capital_2024_25": 27.89,
+                        "total_2024_25": 1095.91,
+                        "budget_2025_26": 1215.15,
+                        "capital_2025_26": 59.48,
+                        "total_2025_26": 1274.63,
+                        "revised_2024_25": 1196.83,
+                        "capital_revised_2024_25": 69.18,
+                        "total_revised_2024_25": 1266.01,
+                        "budget_2026_27": 1301.85,
+                        "capital_2026_27": 120.62,
+                        "total_2026_27": 1422.47
+                    }
+                },
+                {
+                    "code": "1.03",
+                    "name": "Border Security Force",
+                    "values": {
+                        "actual_2024_25": 27273.57,
+                        "capital_2024_25": 664.96,
+                        "total_2024_25": 27938.53,
+                        "budget_2025_26": 27598.98,
+                        "capital_2025_26": 632.29,
+                        "total_2025_26": 28231.27,
+                        "revised_2024_25": 28933.12,
+                        "capital_revised_2024_25": 634.71,
+                        "total_revised_2024_25": 29567.83,
+                        "budget_2026_27": 28881.84,
+                        "capital_2026_27": 685.8,
+                        "total_2026_27": 29567.64
+                    }
+                },
+                {
+                    "code": "1.04",
+                    "name": "Indo-Tibetan Border Police",
+                    "values": {
+                        "actual_2024_25": 9203.93,
+                        "capital_2024_25": 133.31,
+                        "total_2024_25": 9337.24,
+                        "budget_2025_26": 10227.95,
+                        "capital_2025_26": 142.13,
+                        "total_2025_26": 10370.08,
+                        "revised_2024_25": 9716.8,
+                        "capital_revised_2024_25": 152.05,
+                        "total_revised_2024_25": 9868.85,
+                        "budget_2026_27": 11098.28,
+                        "capital_2026_27": 225.8,
+                        "total_2026_27": 11324.08
+                    }
+                },
+                {
+                    "code": "1.05",
+                    "name": "Central Industrial Security Force",
+                    "values": {
+                        "actual_2024_25": 15326.37,
+                        "capital_2024_25": 54.03,
+                        "total_2024_25": 15380.4,
+                        "budget_2025_26": 16018.58,
+                        "capital_2025_26": 66.25,
+                        "total_2025_26": 16084.83,
+                        "revised_2024_25": 16271.74,
+                        "capital_revised_2024_25": 105.27,
+                        "total_revised_2024_25": 16377.01,
+                        "budget_2026_27": 16720.02,
+                        "capital_2026_27": 108.83,
+                        "total_2026_27": 16828.85
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -690.66,
+                        "capital_2024_25": null,
+                        "total_2024_25": -690.66,
+                        "budget_2025_26": -775.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -775.0,
+                        "revised_2024_25": -755.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -755.0,
+                        "budget_2026_27": -855.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -855.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 14635.71,
+                        "capital_2024_25": 54.03,
+                        "total_2024_25": 14689.74,
+                        "budget_2025_26": 15243.58,
+                        "capital_2025_26": 66.25,
+                        "total_2025_26": 15309.83,
+                        "revised_2024_25": 15516.74,
+                        "capital_revised_2024_25": 105.27,
+                        "total_revised_2024_25": 15622.01,
+                        "budget_2026_27": 15865.02,
+                        "capital_2026_27": 108.83,
+                        "total_2026_27": 15973.85
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "1.06",
+                    "name": "Assam Rifles",
+                    "values": {
+                        "actual_2024_25": 7620.48,
+                        "capital_2024_25": 356.88,
+                        "total_2024_25": 7977.36,
+                        "budget_2025_26": 7921.73,
+                        "capital_2025_26": 352.56,
+                        "total_2025_26": 8274.29,
+                        "revised_2024_25": 7994.44,
+                        "capital_revised_2024_25": 381.57,
+                        "total_revised_2024_25": 8376.01,
+                        "budget_2026_27": 8454.66,
+                        "capital_2026_27": 342.02,
+                        "total_2026_27": 8796.68
+                    }
+                },
+                {
+                    "code": "1.07",
+                    "name": "Shashastra Seema Bal",
+                    "values": {
+                        "actual_2024_25": 9413.18,
+                        "capital_2024_25": 180.7,
+                        "total_2024_25": 9593.88,
+                        "budget_2025_26": 10117.2,
+                        "capital_2025_26": 120.08,
+                        "total_2025_26": 10237.28,
+                        "revised_2024_25": 10290.58,
+                        "capital_revised_2024_25": 205.09,
+                        "total_revised_2024_25": 10495.67,
+                        "budget_2026_27": 10766.87,
+                        "capital_2026_27": 217.64,
+                        "total_2026_27": 10984.51
+                    }
+                },
+                {
+                    "code": "1.08",
+                    "name": "Departmental Accounting",
+                    "values": {
+                        "actual_2024_25": 168.01,
+                        "capital_2024_25": 2.85,
+                        "total_2024_25": 170.86,
+                        "budget_2025_26": 190.22,
+                        "capital_2025_26": 2.28,
+                        "total_2025_26": 192.5,
+                        "revised_2024_25": 185.59,
+                        "capital_revised_2024_25": 2.71,
+                        "total_revised_2024_25": 188.3,
+                        "budget_2026_27": 199.65,
+                        "capital_2026_27": 2.49,
+                        "total_2026_27": 202.14
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Central Armed Police Forces",
+                    "values": {
+                        "actual_2024_25": 102857.96,
+                        "capital_2024_25": 1966.14,
+                        "total_2024_25": 104824.1,
+                        "budget_2025_26": 107107.98,
+                        "capital_2025_26": 1929.07,
+                        "total_2025_26": 109037.05,
+                        "revised_2024_25": 110508.42,
+                        "capital_revised_2024_25": 2127.74,
+                        "total_revised_2024_25": 112636.16,
+                        "budget_2026_27": 114484.09,
+                        "capital_2026_27": 2305.21,
+                        "total_2026_27": 116789.3
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Intelligence Bureau",
+                    "values": {
+                        "actual_2024_25": 3707.12,
+                        "capital_2024_25": 306.07,
+                        "total_2024_25": 4013.19,
+                        "budget_2025_26": 3662.59,
+                        "capital_2025_26": 230.76,
+                        "total_2025_26": 3893.35,
+                        "revised_2024_25": 3902.1,
+                        "capital_revised_2024_25": 257.01,
+                        "total_revised_2024_25": 4159.11,
+                        "budget_2026_27": 4232.89,
+                        "capital_2026_27": 2549.54,
+                        "total_2026_27": 6782.43
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "National Intelligence Grid",
+                    "values": {
+                        "actual_2024_25": 38.41,
+                        "capital_2024_25": 210.01,
+                        "total_2024_25": 248.42,
+                        "budget_2025_26": 36.68,
+                        "capital_2025_26": 121.55,
+                        "total_2025_26": 158.23,
+                        "revised_2024_25": 58.07,
+                        "capital_revised_2024_25": 91.45,
+                        "total_revised_2024_25": 149.52,
+                        "budget_2026_27": 56.81,
+                        "capital_2026_27": 52.17,
+                        "total_2026_27": 108.98
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Special Protection Group",
+                    "values": {
+                        "actual_2024_25": 457.57,
+                        "capital_2024_25": 74.65,
+                        "total_2024_25": 532.22,
+                        "budget_2025_26": 430.0,
+                        "capital_2025_26": 59.0,
+                        "total_2025_26": 489.0,
+                        "revised_2024_25": 452.68,
+                        "capital_revised_2024_25": 66.92,
+                        "total_revised_2024_25": 519.6,
+                        "budget_2026_27": 424.99,
+                        "capital_2026_27": 75.0,
+                        "total_2026_27": 499.99
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Delhi Police",
+                    "values": {
+                        "actual_2024_25": 11595.91,
+                        "capital_2024_25": 537.25,
+                        "total_2024_25": 12133.16,
+                        "budget_2025_26": 11315.63,
+                        "capital_2025_26": 616.03,
+                        "total_2025_26": 11931.66,
+                        "revised_2024_25": 11761.61,
+                        "capital_revised_2024_25": 644.09,
+                        "total_revised_2024_25": 12405.7,
+                        "budget_2026_27": 11881.55,
+                        "capital_2026_27": 622.1,
+                        "total_2026_27": 12503.65
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Jammu & Kashmir Police",
+                    "values": {
+                        "actual_2024_25": 8314.34,
+                        "capital_2024_25": 239.04,
+                        "total_2024_25": 8553.38,
+                        "budget_2025_26": 8897.72,
+                        "capital_2025_26": 428.01,
+                        "total_2025_26": 9325.73,
+                        "revised_2024_25": 8740.98,
+                        "capital_revised_2024_25": 356.46,
+                        "total_revised_2024_25": 9097.44,
+                        "budget_2026_27": 9428.13,
+                        "capital_2026_27": 497.37,
+                        "total_2026_27": 9925.5
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Central Police Organisations",
+                    "values": {
+                        "actual_2024_25": 1418.47,
+                        "capital_2024_25": 72.72,
+                        "total_2024_25": 1491.19,
+                        "budget_2025_26": 1610.05,
+                        "capital_2025_26": 144.83,
+                        "total_2025_26": 1754.88,
+                        "revised_2024_25": 1746.24,
+                        "capital_revised_2024_25": 211.11,
+                        "total_revised_2024_25": 1957.35,
+                        "budget_2026_27": 1970.39,
+                        "capital_2026_27": 214.15,
+                        "total_2026_27": 2184.54
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Education, Training and Research",
+                    "values": {
+                        "actual_2024_25": 301.99,
+                        "capital_2024_25": 344.66,
+                        "total_2024_25": 646.65,
+                        "budget_2025_26": 871.94,
+                        "capital_2025_26": 242.53,
+                        "total_2025_26": 1114.47,
+                        "revised_2024_25": 527.28,
+                        "capital_revised_2024_25": 138.67,
+                        "total_revised_2024_25": 665.95,
+                        "budget_2026_27": 756.06,
+                        "capital_2026_27": 152.72,
+                        "total_2026_27": 908.78
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Criminology and Forensic Science",
+                    "values": {
+                        "actual_2024_25": 71.44,
+                        "capital_2024_25": 6.86,
+                        "total_2024_25": 78.3,
+                        "budget_2025_26": 80.36,
+                        "capital_2025_26": 14.99,
+                        "total_2025_26": 95.35,
+                        "revised_2024_25": 85.94,
+                        "capital_revised_2024_25": 13.63,
+                        "total_revised_2024_25": 99.57,
+                        "budget_2026_27": 104.79,
+                        "capital_2026_27": 28.1,
+                        "total_2026_27": 132.89
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -460.98,
+                        "capital_2024_25": -38.73,
+                        "total_2024_25": -499.71,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 128302.23,
+                        "capital_2024_25": 3718.67,
+                        "total_2024_25": 132020.9,
+                        "budget_2025_26": 134012.95,
+                        "capital_2025_26": 3786.77,
+                        "total_2025_26": 137799.72,
+                        "revised_2024_25": 137783.32,
+                        "capital_revised_2024_25": 3907.08,
+                        "total_revised_2024_25": 141690.4,
+                        "budget_2026_27": 143339.7,
+                        "capital_2026_27": 6496.36,
+                        "total_2026_27": 149836.06
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "IVFRT (Immigration, Visa and Foreigners Registration",
+                    "values": {
+                        "actual_2024_25": 199.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": 199.97,
+                        "budget_2025_26": 250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 250.0,
+                        "revised_2024_25": 200.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": 245.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 245.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "BSF Air Wing, Aircrafts, River Boats and Helibase",
+                    "values": {
+                        "actual_2024_25": 14.93,
+                        "capital_2024_25": 57.59,
+                        "total_2024_25": 72.52,
+                        "budget_2025_26": 18.94,
+                        "capital_2025_26": 77.52,
+                        "total_2025_26": 96.46,
+                        "revised_2024_25": 22.32,
+                        "capital_revised_2024_25": 58.82,
+                        "total_revised_2024_25": 81.14,
+                        "budget_2026_27": 23.04,
+                        "capital_2026_27": 72.01,
+                        "total_2026_27": 95.05
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Border Infrastructure and Management",
+                    "values": {
+                        "actual_2024_25": 304.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": 304.05,
+                        "budget_2025_26": 359.32,
+                        "capital_2025_26": null,
+                        "total_2025_26": 359.32,
+                        "revised_2024_25": 321.92,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 321.92,
+                        "budget_2026_27": 310.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 310.0
+                    }
+                },
+                {
+                    "code": "13.01",
+                    "name": "Maintenance and Border Check Post",
+                    "values": {
+                        "actual_2024_25": 304.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": 304.05,
+                        "budget_2025_26": 359.32,
+                        "capital_2025_26": null,
+                        "total_2025_26": 359.32,
+                        "revised_2024_25": 321.92,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 321.92,
+                        "budget_2026_27": 310.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 310.0
+                    }
+                },
+                {
+                    "code": "13.02",
+                    "name": "Capital Outlay",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3649.79,
+                        "total_2024_25": 3649.79,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5237.93,
+                        "total_2025_26": 5237.93,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 5150.39,
+                        "total_revised_2024_25": 5150.39,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5266.51,
+                        "total_2026_27": 5266.51
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Border Infrastructure and Management",
+                    "values": {
+                        "actual_2024_25": 304.05,
+                        "capital_2024_25": 3649.79,
+                        "total_2024_25": 3953.84,
+                        "budget_2025_26": 359.32,
+                        "capital_2025_26": 5237.93,
+                        "total_2025_26": 5597.25,
+                        "revised_2024_25": 321.92,
+                        "capital_revised_2024_25": 5150.39,
+                        "total_revised_2024_25": 5472.31,
+                        "budget_2026_27": 310.0,
+                        "capital_2026_27": 5266.51,
+                        "total_2026_27": 5576.51
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "Police Infrastructure",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1894.58,
+                        "total_2024_25": 1894.58,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4038.7,
+                        "total_2025_26": 4038.7,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3508.22,
+                        "total_revised_2024_25": 3508.22,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5040.87,
+                        "total_2026_27": 5040.87
+                    }
+                },
+                {
+                    "code": "14.01",
+                    "name": "Building Projects of CAPFs and Central Police",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1894.58,
+                        "total_2024_25": 1894.58,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4038.7,
+                        "total_2025_26": 4038.7,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3508.22,
+                        "total_revised_2024_25": 3508.22,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5040.87,
+                        "total_2026_27": 5040.87
+                    }
+                },
+                {
+                    "code": "14.02",
+                    "name": "Delhi Police",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 233.61,
+                        "total_2024_25": 233.61,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 327.5,
+                        "total_2025_26": 327.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 162.51,
+                        "total_revised_2024_25": 162.51,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 342.5,
+                        "total_2026_27": 342.5
+                    }
+                },
+                {
+                    "code": "14.03",
+                    "name": "Assistance to States/UTs for Narcotic Control",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4.99,
+                        "total_2024_25": 4.99,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 13.0,
+                        "total_2025_26": 13.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 13.5,
+                        "total_revised_2024_25": 13.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 10.0,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Police Infrastructure",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2133.18,
+                        "total_2024_25": 2133.18,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4379.2,
+                        "total_2025_26": 4379.2,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3684.23,
+                        "total_revised_2024_25": 3684.23,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5393.37,
+                        "total_2026_27": 5393.37
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "15. Schemes for Safety of Women",
+            "items": [
+                {
+                    "code": "15.01",
+                    "name": "Nirbhaya Fund Transfer",
+                    "values": {
+                        "actual_2024_25": 100.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 100.0,
+                        "budget_2025_26": 200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": 150.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 150.0,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "15.02",
+                    "name": "Cyber Crime Prevention against Women and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 44.37,
+                        "capital_2025_26": 0.02,
+                        "total_2025_26": 44.39,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Children and Miscellaneous Schemes",
+            "items": [
+                {
+                    "code": "15.03",
+                    "name": "Women Help Desk/Strengthening of Anti Human",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 19.58,
+                        "capital_2025_26": null,
+                        "total_2025_26": 19.58,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15.04",
+                    "name": "Nirbhaya Funded Projects for Women Safety",
+                    "values": {
+                        "actual_2024_25": 26.03,
+                        "capital_2024_25": 0.3,
+                        "total_2024_25": 26.33,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 29.56,
+                        "capital_revised_2024_25": 0.02,
+                        "total_revised_2024_25": 29.58,
+                        "budget_2026_27": 91.01,
+                        "capital_2026_27": 0.02,
+                        "total_2026_27": 91.03
+                    }
+                },
+                {
+                    "code": "15.05",
+                    "name": "Met from Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": -26.03,
+                        "capital_2024_25": -0.3,
+                        "total_2024_25": -26.33,
+                        "budget_2025_26": -63.95,
+                        "capital_2025_26": -0.02,
+                        "total_2025_26": -63.97,
+                        "revised_2024_25": -29.56,
+                        "capital_revised_2024_25": -0.02,
+                        "total_revised_2024_25": -29.58,
+                        "budget_2026_27": -91.01,
+                        "capital_2026_27": -0.02,
+                        "total_2026_27": -91.03
+                    }
+                },
+                {
+                    "code": "15.06",
+                    "name": "Emergency Response Support System",
+                    "values": {
+                        "actual_2024_25": 30.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 30.0,
+                        "budget_2025_26": 180.12,
+                        "capital_2025_26": null,
+                        "total_2025_26": 180.12,
+                        "revised_2024_25": 130.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 130.0,
+                        "budget_2026_27": 175.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 175.05
+                    }
+                },
+                {
+                    "code": "15.07",
+                    "name": "Upgradation of Central Forensic Science",
+                    "values": {
+                        "actual_2024_25": 0.74,
+                        "capital_2024_25": 7.13,
+                        "total_2024_25": 7.87,
+                        "budget_2025_26": 6.0,
+                        "capital_2025_26": 74.0,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": 2.5,
+                        "capital_revised_2024_25": 16.5,
+                        "total_revised_2024_25": 19.0,
+                        "budget_2026_27": 2.0,
+                        "capital_2026_27": 12.0,
+                        "total_2026_27": 14.0
+                    }
+                },
+                {
+                    "code": "15.08",
+                    "name": "Modernisation of Forensic Capacitites",
+                    "values": {
+                        "actual_2024_25": 148.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 148.55,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 350.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 350.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Schemes for Safety of Women",
+                    "values": {
+                        "actual_2024_25": 279.29,
+                        "capital_2024_25": 7.13,
+                        "total_2024_25": 286.42,
+                        "budget_2025_26": 886.12,
+                        "capital_2025_26": 74.0,
+                        "total_2025_26": 960.12,
+                        "revised_2024_25": 632.5,
+                        "capital_revised_2024_25": 16.5,
+                        "total_revised_2024_25": 649.0,
+                        "budget_2026_27": 877.05,
+                        "capital_2026_27": 12.0,
+                        "total_2026_27": 889.05
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "16",
+                    "name": "Modernization Plan IV for Central Armed Police Forces",
+                    "values": {
+                        "actual_2024_25": 16.52,
+                        "capital_2024_25": 102.72,
+                        "total_2024_25": 119.24,
+                        "budget_2025_26": 62.91,
+                        "capital_2025_26": 290.01,
+                        "total_2025_26": 352.92,
+                        "revised_2024_25": 47.4,
+                        "capital_revised_2024_25": 563.39,
+                        "total_revised_2024_25": 610.79,
+                        "budget_2026_27": 91.48,
+                        "capital_2026_27": 252.18,
+                        "total_2026_27": 343.66
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Inter Operable Criminal Justice System",
+                    "values": {
+                        "actual_2024_25": 108.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 108.62,
+                        "budget_2025_26": 300.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 300.2,
+                        "revised_2024_25": 300.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 300.01,
+                        "budget_2026_27": 550.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 550.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Modernization of Prisons",
+                    "values": {
+                        "actual_2024_25": 43.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 43.62,
+                        "budget_2025_26": 300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 300.0,
+                        "revised_2024_25": 252.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 252.0,
+                        "budget_2026_27": 300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 300.0
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Support to poor prisoners",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 1.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.5,
+                        "budget_2026_27": 2.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "National Forensic Infrastructure Enhancement Scheme",
+                    "values": {
+                        "actual_2024_25": 4.5,
+                        "capital_2024_25": 17.0,
+                        "total_2024_25": 21.5,
+                        "budget_2025_26": 38.0,
+                        "capital_2025_26": 212.02,
+                        "total_2025_26": 250.02,
+                        "revised_2024_25": 8.3,
+                        "capital_revised_2024_25": 89.46,
+                        "total_revised_2024_25": 97.76,
+                        "budget_2026_27": 29.97,
+                        "capital_2026_27": 100.03,
+                        "total_2026_27": 130.0
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Vibrant Villages Programme Phase-II (VVP Phase-II)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 50.02,
+                        "capital_2026_27": 250.0,
+                        "total_2026_27": 300.02
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 971.5,
+                        "capital_2024_25": 5967.41,
+                        "total_2024_25": 6938.91,
+                        "budget_2025_26": 2220.49,
+                        "capital_2025_26": 10270.68,
+                        "total_2025_26": 12491.17,
+                        "revised_2024_25": 1785.95,
+                        "capital_revised_2024_25": 9562.79,
+                        "total_revised_2024_25": 11348.74,
+                        "budget_2026_27": 2478.56,
+                        "capital_2026_27": 11346.1,
+                        "total_2026_27": 13824.66
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "22",
+                    "name": "Land Port Authority of India",
+                    "values": {
+                        "actual_2024_25": 327.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 327.7,
+                        "budget_2025_26": 341.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 341.0,
+                        "revised_2024_25": 279.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 279.0,
+                        "budget_2026_27": 336.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 336.0
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "National Forensic Science University",
+                    "values": {
+                        "actual_2024_25": 85.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 85.0,
+                        "budget_2025_26": 120.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 120.0,
+                        "revised_2024_25": 138.81,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 138.81,
+                        "budget_2026_27": 145.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 145.0
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Rashtriya Raksha University",
+                    "values": {
+                        "actual_2024_25": 152.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 152.0,
+                        "budget_2025_26": 150.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": 175.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 175.0,
+                        "budget_2026_27": 184.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 184.4
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 564.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 564.7,
+                        "budget_2025_26": 611.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 611.0,
+                        "revised_2024_25": 592.81,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 592.81,
+                        "budget_2026_27": 665.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 665.4
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "25",
+                    "name": "India Reserve Battalions and Reimbursement to states for",
+                    "values": {
+                        "actual_2024_25": 65.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 65.24,
+                        "budget_2025_26": 115.24,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 116.24,
+                        "revised_2024_25": 107.69,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 107.69,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 100.01
+                    }
+                },
+                {
+                    "code": "26",
+                    "name": "Welfare Grant and Misc.",
+                    "values": {
+                        "actual_2024_25": 1199.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1199.28,
+                        "budget_2025_26": 878.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 878.36,
+                        "revised_2024_25": 1422.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1422.65,
+                        "budget_2026_27": 1090.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1090.0
+                    }
+                },
+                {
+                    "code": "27",
+                    "name": "Research",
+                    "values": {
+                        "actual_2024_25": 825.0,
+                        "capital_2024_25": 1875.02,
+                        "total_2024_25": 2700.02,
+                        "budget_2025_26": 750.0,
+                        "capital_2025_26": 2520.74,
+                        "total_2025_26": 3270.74,
+                        "revised_2024_25": 825.0,
+                        "capital_revised_2024_25": 2550.74,
+                        "total_revised_2024_25": 3375.74,
+                        "budget_2026_27": 875.0,
+                        "capital_2026_27": 3000.0,
+                        "total_2026_27": 3875.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 2089.52,
+                        "capital_2024_25": 1875.02,
+                        "total_2024_25": 3964.54,
+                        "budget_2025_26": 1743.6,
+                        "capital_2025_26": 2521.74,
+                        "total_2025_26": 4265.34,
+                        "revised_2024_25": 2355.34,
+                        "capital_revised_2024_25": 2550.74,
+                        "total_revised_2024_25": 4906.08,
+                        "budget_2026_27": 2065.0,
+                        "capital_2026_27": 3000.01,
+                        "total_2026_27": 5065.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 2654.22,
+                        "capital_2024_25": 1875.02,
+                        "total_2024_25": 4529.24,
+                        "budget_2025_26": 2354.6,
+                        "capital_2025_26": 2521.74,
+                        "total_2025_26": 4876.34,
+                        "revised_2024_25": 2948.15,
+                        "capital_revised_2024_25": 2550.74,
+                        "total_revised_2024_25": 5498.89,
+                        "budget_2026_27": 2730.4,
+                        "capital_2026_27": 3000.01,
+                        "total_2026_27": 5730.41
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "28",
+                    "name": "Modernisation of Police Forces",
+                    "values": {
+                        "actual_2024_25": 114.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 114.92,
+                        "budget_2025_26": 587.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 587.97,
+                        "revised_2024_25": 272.97,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 272.97,
+                        "budget_2026_27": 450.54,
+                        "capital_2026_27": null,
+                        "total_2026_27": 450.54
+                    }
+                },
+                {
+                    "code": "28.01",
+                    "name": "Modernisation of State Police Forces and Crime",
+                    "values": {
+                        "actual_2024_25": 114.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 114.92,
+                        "budget_2025_26": 587.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 587.97,
+                        "revised_2024_25": 272.97,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 272.97,
+                        "budget_2026_27": 450.54,
+                        "capital_2026_27": null,
+                        "total_2026_27": 450.54
+                    }
+                },
+                {
+                    "code": "28.02",
+                    "name": "Security Related Expenditure(SRE) and Special",
+                    "values": {
+                        "actual_2024_25": 2788.18,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2788.18,
+                        "budget_2025_26": 3481.27,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3481.27,
+                        "revised_2024_25": 3006.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3006.56,
+                        "budget_2026_27": 3180.8,
+                        "capital_2026_27": 430.0,
+                        "total_2026_27": 3610.8
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Modernisation of Police Forces",
+                    "values": {
+                        "actual_2024_25": 2903.1,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2903.1,
+                        "budget_2025_26": 4069.24,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4069.24,
+                        "revised_2024_25": 3279.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3279.53,
+                        "budget_2026_27": 3631.34,
+                        "capital_2026_27": 430.0,
+                        "total_2026_27": 4061.34
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "29",
+                    "name": "Border Area Development Program",
+                    "values": {
+                        "actual_2024_25": 86.41,
+                        "capital_2024_25": null,
+                        "total_2024_25": 86.41,
+                        "budget_2025_26": 98.19,
+                        "capital_2025_26": null,
+                        "total_2025_26": 98.19,
+                        "revised_2024_25": 20.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 20.0,
+                        "budget_2026_27": 0.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.06
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "30. Scheme for Safety of Women ( Safe City projects)",
+            "items": [
+                {
+                    "code": "30.01",
+                    "name": "Safe City Projects",
+                    "values": {
+                        "actual_2024_25": 78.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 78.61,
+                        "budget_2025_26": 215.34,
+                        "capital_2025_26": null,
+                        "total_2025_26": 215.34,
+                        "revised_2024_25": 133.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 133.35,
+                        "budget_2026_27": 125.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 125.0
+                    }
+                },
+                {
+                    "code": "30.02",
+                    "name": "Met From Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": -85.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": -85.32,
+                        "budget_2025_26": -215.34,
+                        "capital_2025_26": null,
+                        "total_2025_26": -215.34,
+                        "revised_2024_25": -133.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -133.35,
+                        "budget_2026_27": -125.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -125.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": -6.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": -6.71,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "31",
+                    "name": "Vibrant Villages Programme",
+                    "values": {
+                        "actual_2024_25": 205.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 205.83,
+                        "budget_2025_26": 1056.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1056.4,
+                        "revised_2024_25": 445.83,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 445.83,
+                        "budget_2026_27": 350.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 350.0
+                    }
+                },
+                {
+                    "code": "32",
+                    "name": "Recovery.",
+                    "values": {
+                        "actual_2024_25": -42.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": -42.86,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 3145.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3145.77,
+                        "budget_2025_26": 5223.83,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5223.83,
+                        "revised_2024_25": 3745.36,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3745.36,
+                        "budget_2026_27": 3981.4,
+                        "capital_2026_27": 430.0,
+                        "total_2026_27": 4411.4
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 135073.72,
+                        "capital_2024_25": 11561.1,
+                        "total_2024_25": 146634.82,
+                        "budget_2025_26": 143811.87,
+                        "capital_2025_26": 16579.19,
+                        "total_2025_26": 160391.06,
+                        "revised_2024_25": 146262.78,
+                        "capital_revised_2024_25": 16020.61,
+                        "total_revised_2024_25": 162283.39,
+                        "budget_2026_27": 152530.06,
+                        "capital_2026_27": 21272.47,
+                        "total_2026_27": 173802.53
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Police",
+                    "values": {
+                        "actual_2024_25": 132025.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 132025.82,
+                        "budget_2025_26": 138802.46,
+                        "capital_2025_26": null,
+                        "total_2025_26": 138802.46,
+                        "revised_2024_25": 142630.85,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 142630.85,
+                        "budget_2026_27": 149438.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 149438.13
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay on Police",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 11561.1,
+                        "total_2024_25": 11561.1,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 15768.19,
+                        "total_2025_26": 15768.19,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15210.61,
+                        "total_revised_2024_25": 15210.61,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20462.46,
+                        "total_2026_27": 20462.46
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 132025.82,
+                        "capital_2024_25": 11561.1,
+                        "total_2024_25": 143586.92,
+                        "budget_2025_26": 138802.46,
+                        "capital_2025_26": 15768.19,
+                        "total_2025_26": 154570.65,
+                        "revised_2024_25": 142630.85,
+                        "capital_revised_2024_25": 15210.61,
+                        "total_revised_2024_25": 157841.46,
+                        "budget_2026_27": 149438.13,
+                        "capital_2026_27": 20462.46,
+                        "total_2026_27": 169900.59
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 1452.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1452.0,
+                        "budget_2025_26": 3494.39,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3494.39,
+                        "revised_2024_25": 2116.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2116.75,
+                        "budget_2026_27": 2386.91,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2386.91
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 1595.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1595.9,
+                        "budget_2025_26": 1515.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1515.02,
+                        "revised_2024_25": 1515.18,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1515.18,
+                        "budget_2026_27": 705.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 705.02
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 810.0,
+                        "total_2025_26": 810.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 810.0,
+                        "total_revised_2024_25": 810.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 810.0,
+                        "total_2026_27": 810.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Loans and Advances to State Governments",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 1.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 3047.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3047.9,
+                        "budget_2025_26": 5009.41,
+                        "capital_2025_26": 811.0,
+                        "total_2025_26": 5820.41,
+                        "revised_2024_25": 3631.93,
+                        "capital_revised_2024_25": 810.0,
+                        "total_revised_2024_25": 4441.93,
+                        "budget_2026_27": 3091.93,
+                        "capital_2026_27": 810.01,
+                        "total_2026_27": 3901.94
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 135073.72,
+                        "capital_2024_25": 11561.1,
+                        "total_2024_25": 146634.82,
+                        "budget_2025_26": 143811.87,
+                        "capital_2025_26": 16579.19,
+                        "total_2025_26": 160391.06,
+                        "revised_2024_25": 146262.78,
+                        "capital_revised_2024_25": 16020.61,
+                        "total_revised_2024_25": 162283.39,
+                        "budget_2026_27": 152530.06,
+                        "capital_2026_27": 21272.47,
+                        "total_2026_27": 173802.53
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Central Armed Police Forces:..This provision is for meeting administrative expenditures of Academy of Police Training, Central Detective Training School, Bureau of Police Research and Development, Central",
+            "items": []
+        },
+        {
+            "heading": "R & D projects for better efficiency and increased reach out to public and police, (c) National Academy of Coastal",
+            "items": []
+        },
+        {
+            "heading": "9. Criminology and Forensic Science:..This covers adminsitrative expenditure on the",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Intelligence Bureau:..This provision is for meeting the administrative expenses of Intelligence",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Development Schemes, establishment of Regional Forensic Laboratories and DNA Centres.",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "IVFRT (Immigration, Visa and Foreigners Registration and Tracking):..The provision is for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "National Intelligence Grid:..The provision is for National Intelligence Grid which aims to link",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "BSF Air Wing, Aircrafts, River Boats and Helibase:..This provision is meant for procurement",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Special Protection Group:..Includes provision for Special Protection Group which provides",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13.01",
+                    "name": "Maintenance and Border Check Post:..The provision includes outlays for maintenance of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Delhi Police:..Delhi Police is responsible for maintaining and enforcing law and order in the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "routine expenses as well as for various schemes to be implemented by Delhi Police such as developing traffic and 13.02. Capital Outlay:..The provision is for erection of barbed wire fencing, construction of roads,",
+            "items": []
+        },
+        {
+            "heading": "6. Jammu & Kashmir Police:..This provision is for meeting administrative expenditures of the have a check on illegal activities. The provision also includes construction of Border Out Posts.",
+            "items": []
+        },
+        {
+            "heading": "traffic management in J&K . 14.01. Building Projects of CAPFs and Central Police Organisations:..This provision is for",
+            "items": []
+        },
+        {
+            "heading": "7. Central Police Organisations:..This provision is for administrative expenditures in respect of",
+            "items": []
+        },
+        {
+            "heading": "14.02. Delhi Police:..This provision is for Office Building and Residential Building projects by Delhi",
+            "items": []
+        },
+        {
+            "heading": "8. Education, Training and Research:..This covers expenditure on the Sardar Vallabhbhai Patel",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "14.03",
+                    "name": "Assistance to States/UTs for Narcotic Control:..This provision is for capacity building, 27. Research:..This provision is for providing support for Research activities.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "28.01",
+                    "name": "Modernisation of State Police Forces and Crime and Criminal Tracking Network and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "15. Schemes for Safety of Women:..The provision under this scheme is for transfer of funds to Systems(CCTNS):..This item contains provision for the Schemes Modernisation of State Police Force, assistance to",
+            "items": []
+        },
+        {
+            "heading": "Nirbhaya Fund in the Public Account and expenditures, Cyber Crime Prevention against Women & Children, Women States for Special Projects/Schemes for upgrading Police infrastructure, Crime and Criminal Tracking Network and",
+            "items": []
+        },
+        {
+            "heading": "Capacities. 28.02. Security Related Expenditure(SRE) and Special Infrastructure Scheme for Left Wing",
+            "items": []
+        },
+        {
+            "heading": "Extremist (LWE) Areas:..This item contains provision for the Schemes of Security Related Expenditure (SRE),",
+            "items": [
+                {
+                    "code": "16",
+                    "name": "Modernization Plan IV for Central Armed Police Forces:..The provision is towards special infrastructure scheme & special central assistance to",
+                    "values": {
+                        "actual_2024_25": 35.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure on Modernization Plan IV for Central Armed Police Forces to equip the forces with state of the art affected areas, assistance to central agencies for LWE management, civic action programmes, Media Plan Activities in",
+            "items": []
+        },
+        {
+            "heading": "17. Inter Operable Criminal Justice System:..This provision is for expenditure on Inter Operable 29. Border Area Development Program:..The provision is for meeting the expenditure for Border",
+            "items": []
+        },
+        {
+            "heading": "18. Modernization of Prisons:..This provision is for expenditure on Modernization of Prisons 30. Scheme for Safety of Women ( Safe City projects):..This provision is for development of",
+            "items": []
+        },
+        {
+            "heading": "safe city projects in various States/UTs financed from Nirbhaya Fund.",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "Support to poor prisoners:..This provision is to provide support to poor persons who are in",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "developmental works.",
+            "items": [
+                {
+                    "code": "20",
+                    "name": "National Forensic Infrastructure Enhancement Scheme:..This provision is for strengthening",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Vibrant Villages Programme Phase-II (VVP Phase-II):..This provision aims at the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "and other developmental works.",
+            "items": [
+                {
+                    "code": "22",
+                    "name": "Land Port Authority of India:..This provision is for meeting the expenses of Land Port",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "National Forensic Science University:..This provision is for meeting the academic,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Rashtriya Raksha University:..This provision is for meeting the academic, administrative,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "India Reserve Battalions and Reimbursement to states for deployment of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "26. Welfare Grant and Misc.:..The provision is mainly for Medical facilities under Ayushman",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF HOME AFFAIRS",
+            "items": []
+        }
+    ]
+}

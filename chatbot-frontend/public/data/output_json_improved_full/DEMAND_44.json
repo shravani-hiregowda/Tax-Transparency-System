@@ -1,0 +1,1157 @@
+{
+    "demand_no": 44,
+    "ministry": "Ministry Of Fisheries",
+    "department": "Department Of Animal Husbandry And Dairying",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2763.31,
+                        "capital_2024_25": 198.01,
+                        "total_2024_25": 2961.32,
+                        "budget_2025_26": 4254.45,
+                        "capital_2025_26": 585.95,
+                        "total_2025_26": 4840.4,
+                        "revised_2024_25": 4650.44,
+                        "capital_revised_2024_25": 652.39,
+                        "total_revised_2024_25": 5302.83,
+                        "budget_2026_27": 5705.95,
+                        "capital_2026_27": 447.51,
+                        "total_2026_27": 6153.46
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 56.95,
+                        "capital_2024_25": 1.48,
+                        "total_2024_25": 58.43,
+                        "budget_2025_26": 78.05,
+                        "capital_2025_26": 1.95,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": 78.55,
+                        "capital_revised_2024_25": 1.45,
+                        "total_revised_2024_25": 80.0,
+                        "budget_2026_27": 81.0,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 83.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Animal Health Institute",
+                    "values": {
+                        "actual_2024_25": 18.2,
+                        "capital_2024_25": 35.54,
+                        "total_2024_25": 53.74,
+                        "budget_2025_26": 30.66,
+                        "capital_2025_26": 69.34,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": 52.15,
+                        "capital_revised_2024_25": 17.36,
+                        "total_revised_2024_25": 69.51,
+                        "budget_2026_27": 38.19,
+                        "capital_2026_27": 36.24,
+                        "total_2026_27": 74.43
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Small Livestock Institute",
+                    "values": {
+                        "actual_2024_25": 33.13,
+                        "capital_2024_25": 2.13,
+                        "total_2024_25": 35.26,
+                        "budget_2025_26": 43.74,
+                        "capital_2025_26": 6.26,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 35.5,
+                        "capital_revised_2024_25": 2.5,
+                        "total_revised_2024_25": 38.0,
+                        "budget_2026_27": 34.09,
+                        "capital_2026_27": 2.91,
+                        "total_2026_27": 37.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Breed Improvement Institute",
+                    "values": {
+                        "actual_2024_25": 28.08,
+                        "capital_2024_25": 4.03,
+                        "total_2024_25": 32.11,
+                        "budget_2025_26": 35.05,
+                        "capital_2025_26": 14.95,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 59.44,
+                        "capital_revised_2024_25": 9.36,
+                        "total_revised_2024_25": 68.8,
+                        "budget_2026_27": 33.89,
+                        "capital_2026_27": 4.11,
+                        "total_2026_27": 38.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Centre of Excellence for Animal Husbandry",
+                    "values": {
+                        "actual_2024_25": 19.98,
+                        "capital_2024_25": 3.82,
+                        "total_2024_25": 23.8,
+                        "budget_2025_26": 29.69,
+                        "capital_2025_26": 15.2,
+                        "total_2025_26": 44.89,
+                        "revised_2024_25": 25.84,
+                        "capital_revised_2024_25": 4.16,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 24.6,
+                        "capital_2026_27": 0.4,
+                        "total_2026_27": 25.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.06,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 156.28,
+                        "capital_2024_25": 47.0,
+                        "total_2024_25": 203.28,
+                        "budget_2025_26": 217.19,
+                        "capital_2025_26": 107.7,
+                        "total_2025_26": 324.89,
+                        "revised_2024_25": 251.48,
+                        "capital_revised_2024_25": 34.83,
+                        "total_revised_2024_25": 286.31,
+                        "budget_2026_27": 211.77,
+                        "capital_2026_27": 45.66,
+                        "total_2026_27": 257.43
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Livestock Health and Disease Control Programme",
+                    "values": {
+                        "actual_2024_25": 1728.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1728.57,
+                        "budget_2025_26": 1980.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1980.0,
+                        "revised_2024_25": 1980.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1980.0,
+                        "budget_2026_27": 2010.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2010.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Infrastructure Development Fund",
+                    "values": {
+                        "actual_2024_25": 379.41,
+                        "capital_2024_25": null,
+                        "total_2024_25": 379.41,
+                        "budget_2025_26": 460.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 460.0,
+                        "revised_2024_25": 362.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 362.25,
+                        "budget_2026_27": 465.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 465.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Dairy Development",
+                    "values": {
+                        "actual_2024_25": 142.92,
+                        "capital_2024_25": 151.0,
+                        "total_2024_25": 293.92,
+                        "budget_2025_26": 524.55,
+                        "capital_2025_26": 475.45,
+                        "total_2025_26": 1000.0,
+                        "revised_2024_25": 383.84,
+                        "capital_revised_2024_25": 616.16,
+                        "total_revised_2024_25": 1000.0,
+                        "budget_2026_27": 655.0,
+                        "capital_2026_27": 400.0,
+                        "total_2026_27": 1055.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Rashtriya Gokul Mission",
+                    "values": {
+                        "actual_2024_25": 424.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": 424.8,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 700.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 700.0,
+                        "budget_2026_27": 800.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 800.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Integrated Scheme for Entrepreneurship Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -555.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": -555.03,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 2120.67,
+                        "capital_2024_25": 151.0,
+                        "total_2024_25": 2271.67,
+                        "budget_2025_26": 2964.56,
+                        "capital_2025_26": 475.45,
+                        "total_2025_26": 3440.01,
+                        "revised_2024_25": 3426.09,
+                        "capital_revised_2024_25": 616.16,
+                        "total_revised_2024_25": 4042.25,
+                        "budget_2026_27": 4430.0,
+                        "capital_2026_27": 400.0,
+                        "total_2026_27": 4830.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "Animal Welfare Board",
+                    "values": {
+                        "actual_2024_25": 5.91,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.91,
+                        "budget_2025_26": 10.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.3,
+                        "revised_2024_25": 7.82,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7.82,
+                        "budget_2026_27": 7.24,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7.24
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Committee for Control and Supervision of Experiments on",
+                    "values": {
+                        "actual_2024_25": 1.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.49,
+                        "budget_2025_26": 1.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.7,
+                        "revised_2024_25": 1.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.7,
+                        "budget_2026_27": 1.79,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.79
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Statutory and Regulatory Bodies",
+                    "values": {
+                        "actual_2024_25": 7.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.4,
+                        "budget_2025_26": 12.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12.0,
+                        "revised_2024_25": 9.52,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9.52,
+                        "budget_2026_27": 9.03,
+                        "capital_2026_27": null,
+                        "total_2026_27": 9.03
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "15",
+                    "name": "Veterinary Council of India",
+                    "values": {
+                        "actual_2024_25": 5.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.05,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 18.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 18.3,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Delhi Milk Scheme(DMS)",
+                    "values": {
+                        "actual_2024_25": 137.65,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 137.66,
+                        "budget_2025_26": 212.2,
+                        "capital_2025_26": 2.8,
+                        "total_2025_26": 215.0,
+                        "revised_2024_25": 178.6,
+                        "capital_revised_2024_25": 1.4,
+                        "total_revised_2024_25": 180.0,
+                        "budget_2026_27": 208.15,
+                        "capital_2026_27": 1.85,
+                        "total_2026_27": 210.0
+                    }
+                },
+                {
+                    "code": "16.01",
+                    "name": "Expenditure of DMS",
+                    "values": {
+                        "actual_2024_25": 137.65,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 137.66,
+                        "budget_2025_26": 212.2,
+                        "capital_2025_26": 2.8,
+                        "total_2025_26": 215.0,
+                        "revised_2024_25": 178.6,
+                        "capital_revised_2024_25": 1.4,
+                        "total_revised_2024_25": 180.0,
+                        "budget_2026_27": 208.15,
+                        "capital_2026_27": 1.85,
+                        "total_2026_27": 210.0
+                    }
+                },
+                {
+                    "code": "16.02",
+                    "name": "Less Receipts",
+                    "values": {
+                        "actual_2024_25": -116.34,
+                        "capital_2024_25": null,
+                        "total_2024_25": -116.34,
+                        "budget_2025_26": -215.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -215.0,
+                        "revised_2024_25": -180.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -180.0,
+                        "budget_2026_27": -210.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -210.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 21.31,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 21.32,
+                        "budget_2025_26": -2.8,
+                        "capital_2025_26": 2.8,
+                        "total_2025_26": null,
+                        "revised_2024_25": -1.4,
+                        "capital_revised_2024_25": 1.4,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -1.85,
+                        "capital_2026_27": 1.85,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "17",
+                    "name": "International Cooperation",
+                    "values": {
+                        "actual_2024_25": 2.91,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.91,
+                        "budget_2025_26": 3.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.5,
+                        "revised_2024_25": 3.72,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.72,
+                        "budget_2026_27": 3.85,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3.85
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Operation and Maintenance Contract of CCBF (Alamadhi,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 33.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 33.73,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 24.22,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 24.23,
+                        "budget_2025_26": 0.7,
+                        "capital_2025_26": 2.8,
+                        "total_2025_26": 3.5,
+                        "revised_2024_25": 36.05,
+                        "capital_revised_2024_25": 1.4,
+                        "total_revised_2024_25": 37.45,
+                        "budget_2026_27": 2.0,
+                        "capital_2026_27": 1.85,
+                        "total_2026_27": 3.85
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 36.67,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 36.68,
+                        "budget_2025_26": 22.7,
+                        "capital_2025_26": 2.8,
+                        "total_2025_26": 25.5,
+                        "revised_2024_25": 63.87,
+                        "capital_revised_2024_25": 1.4,
+                        "total_revised_2024_25": 65.27,
+                        "budget_2026_27": 21.03,
+                        "capital_2026_27": 1.85,
+                        "total_2026_27": 22.88
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "Development Programmes",
+                    "values": {
+                        "actual_2024_25": 36.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": 36.37,
+                        "budget_2025_26": 250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 250.0,
+                        "revised_2024_25": 149.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 149.0,
+                        "budget_2026_27": 235.15,
+                        "capital_2026_27": null,
+                        "total_2026_27": 235.15
+                    }
+                },
+                {
+                    "code": "19.01",
+                    "name": "Livestock Census and Integrated Sample",
+                    "values": {
+                        "actual_2024_25": 36.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": 36.37,
+                        "budget_2025_26": 250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 250.0,
+                        "revised_2024_25": 149.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 149.0,
+                        "budget_2026_27": 235.15,
+                        "capital_2026_27": null,
+                        "total_2026_27": 235.15
+                    }
+                },
+                {
+                    "code": "19.02",
+                    "name": "National Livestock Mission",
+                    "values": {
+                        "actual_2024_25": 429.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 429.82,
+                        "budget_2025_26": 800.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 800.0,
+                        "revised_2024_25": 760.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 760.0,
+                        "budget_2026_27": 808.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 808.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Development Programmes",
+                    "values": {
+                        "actual_2024_25": 466.19,
+                        "capital_2024_25": null,
+                        "total_2024_25": 466.19,
+                        "budget_2025_26": 1050.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1050.0,
+                        "revised_2024_25": 909.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 909.0,
+                        "budget_2026_27": 1043.15,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1043.15
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "20",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -16.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": -16.5,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 449.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 449.69,
+                        "budget_2025_26": 1050.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1050.0,
+                        "revised_2024_25": 909.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 909.0,
+                        "budget_2026_27": 1043.15,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1043.15
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2763.31,
+                        "capital_2024_25": 198.01,
+                        "total_2024_25": 2961.32,
+                        "budget_2025_26": 4254.45,
+                        "capital_2025_26": 585.95,
+                        "total_2025_26": 4840.4,
+                        "revised_2024_25": 4650.44,
+                        "capital_revised_2024_25": 652.39,
+                        "total_revised_2024_25": 5302.83,
+                        "budget_2026_27": 5705.95,
+                        "capital_2026_27": 447.51,
+                        "total_2026_27": 6153.46
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Animal Husbandry",
+                    "values": {
+                        "actual_2024_25": 1763.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1763.46,
+                        "budget_2025_26": 2287.17,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2287.17,
+                        "revised_2024_25": 3048.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3048.0,
+                        "budget_2026_27": 3534.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3534.4
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Dairy Development",
+                    "values": {
+                        "actual_2024_25": 329.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 329.59,
+                        "budget_2025_26": 697.75,
+                        "capital_2025_26": null,
+                        "total_2025_26": 697.75,
+                        "revised_2024_25": 457.61,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 457.61,
+                        "budget_2026_27": 818.15,
+                        "capital_2026_27": null,
+                        "total_2026_27": 818.15
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 56.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 56.89,
+                        "budget_2025_26": 78.05,
+                        "capital_2025_26": null,
+                        "total_2025_26": 78.05,
+                        "revised_2024_25": 78.55,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 78.55,
+                        "budget_2026_27": 81.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 81.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Animal Husbandry",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 45.52,
+                        "total_2024_25": 45.52,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 105.75,
+                        "total_2025_26": 105.75,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 33.38,
+                        "total_revised_2024_25": 33.38,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 43.66,
+                        "total_2026_27": 43.66
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Dairy Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.8,
+                        "total_2025_26": 2.8,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.4,
+                        "total_revised_2024_25": 1.4,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.85,
+                        "total_2026_27": 1.85
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.48,
+                        "total_2024_25": 1.48,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.95,
+                        "total_2025_26": 1.95,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.45,
+                        "total_revised_2024_25": 1.45,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Loans for Dairy Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 151.0,
+                        "total_2024_25": 151.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 475.45,
+                        "total_2025_26": 475.45,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 616.16,
+                        "total_revised_2024_25": 616.16,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 400.0,
+                        "total_2026_27": 400.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 2149.94,
+                        "capital_2024_25": 198.01,
+                        "total_2024_25": 2347.95,
+                        "budget_2025_26": 3062.97,
+                        "capital_2025_26": 585.95,
+                        "total_2025_26": 3648.92,
+                        "revised_2024_25": 3584.16,
+                        "capital_revised_2024_25": 652.39,
+                        "total_revised_2024_25": 4236.55,
+                        "budget_2026_27": 4433.55,
+                        "capital_2026_27": 447.51,
+                        "total_2026_27": 4881.06
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 270.96,
+                        "capital_2025_26": null,
+                        "total_2025_26": 270.96,
+                        "revised_2024_25": 287.38,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 287.38,
+                        "budget_2026_27": 411.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 411.76
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 596.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 596.56,
+                        "budget_2025_26": 875.59,
+                        "capital_2025_26": null,
+                        "total_2025_26": 875.59,
+                        "revised_2024_25": 745.97,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 745.97,
+                        "budget_2026_27": 821.88,
+                        "capital_2026_27": null,
+                        "total_2026_27": 821.88
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 16.81,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16.81,
+                        "budget_2025_26": 44.93,
+                        "capital_2025_26": null,
+                        "total_2025_26": 44.93,
+                        "revised_2024_25": 32.93,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 32.93,
+                        "budget_2026_27": 38.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 38.76
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 613.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": 613.37,
+                        "budget_2025_26": 1191.48,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1191.48,
+                        "revised_2024_25": 1066.28,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1066.28,
+                        "budget_2026_27": 1272.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1272.4
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2763.31,
+                        "capital_2024_25": 198.01,
+                        "total_2024_25": 2961.32,
+                        "budget_2025_26": 4254.45,
+                        "capital_2025_26": 585.95,
+                        "total_2025_26": 4840.4,
+                        "revised_2024_25": 4650.44,
+                        "capital_revised_2024_25": 652.39,
+                        "total_revised_2024_25": 5302.83,
+                        "budget_2026_27": 5705.95,
+                        "capital_2026_27": 447.51,
+                        "total_2026_27": 6153.46
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure of the Secretariat and 11. Integrated Scheme for Entrepreneurship Development:..To support entrepreneurship",
+            "items": []
+        },
+        {
+            "heading": "2. Animal Health Institute:..The provision is for establishment related expenditure of Animal",
+            "items": []
+        },
+        {
+            "heading": "13. Animal Welfare Board:..The provision is for establishment related expenditure of Animal",
+            "items": []
+        },
+        {
+            "heading": "Welfare Board.",
+            "items": []
+        },
+        {
+            "heading": "3. Small Livestock Institute:..The provision is for establishment related expenditure Central",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Committee for Control and Supervision of Experiments on Animal (CCSEA):..The",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "provision is for establishment related expenditure of the office which was established as per the prevention of cruelty to",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 4.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": ".. T",
+            "items": []
+        },
+        {
+            "heading": "n is for establishment related expenditure of",
+            "items": [
+                {
+                    "code": "15",
+                    "name": "Veterinary Council of India:..The provision is for salary, other expenses and construction of",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "16. Delhi Milk Scheme(DMS):..The provision is for establishment related expenditure which is",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Livestock Health and Disease Control Programme:..Livestock Health and Disease Control",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "International Cooperation:..The provision is kept for contribution to different International",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Infrastructure Development Fund:..Under Atma Nirbhar Bharat Abhiyan stimulus package,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Operation and Maintenance Contract of CCBF (Alamadhi, Andesh Nagar and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Dairy Development:..The provision is for release of funds to different Milk Unions/State Milk",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Federations for approved projects and for Dairying Through Cooperatives component - B of Dairy Development 19.01. Livestock Census and Integrated Sample Survey:..The provision is for the scheme of",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "Rashtriya Gokul Mission:..The allocation for National Programme for Bovine Breeding, 19.02. National Livestock Mission:..The provision is for the scheme with the objective of sustainable",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF FOOD PROCESSING INDUSTRIES",
+            "items": []
+        }
+    ]
+}

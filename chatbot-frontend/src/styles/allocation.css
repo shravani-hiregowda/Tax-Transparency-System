@@ -1,0 +1,314 @@
+:root {
+  --bg: #f5f7fb;
+  --card: #ffffff;
+  --accent: #0b5ed7;
+  --accent-dark: #004aad;
+  --text-dark: #1e293b;
+  --muted: #64748b;
+  --radius: 14px;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  font-family: 'Inter', sans-serif;
+}
+
+/* Reset */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(180deg, #f8fafc, #eef3fb);
+  color: var(--text-dark);
+  font-family: 'Inter', sans-serif;
+}
+
+/* ================= MAIN LAYOUT ================= */
+.main {
+  width: 100%;
+  max-width: 100%;
+  padding: 40px 50px;
+  margin: 0 auto;
+}
+
+/* ================= VIZ WRAPPER ================= */
+.viz-container {
+  display: flex;                     /* FIX #1 */
+  flex-direction: row;               /* FIX #2 */
+  gap: 40px;
+  width: 100%;                       /* FIX #3 */
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(10px);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 40px;
+  align-items: flex-start;
+  overflow: visible;
+  max-height: 80vh;
+}
+
+/* ================= CHART SECTION ================= */
+.chart-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+#mainChart {
+  width: 100%;
+  max-width: 420px;
+  max-height: 420px;
+  margin: 0 auto 16px;
+}
+
+/* ================= LEGEND ================= */
+.sticky-legend {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  padding: 12px 16px;
+  max-height: 260px;
+  width: 100%;
+  max-width: 600px;
+  overflow-y: auto;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+.legend-item {
+  display: flex;
+  gap: 12px;
+  padding: 6px 0;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.legend-item:last-child {
+  border-bottom: none;
+}
+
+.legend-swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 4px;
+}
+
+.legend-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: #0b4f6c;
+}
+
+.legend-sub {
+  font-size: 12px;
+  color: #64748b;
+}
+
+/* ================= DOWNLOAD BUTTON ================= */
+.chart-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 18px;
+}
+
+.download-menu {
+  position: relative;
+}
+
+.download-chart-btn {
+  background: linear-gradient(90deg, #0b5ed7, #004aad);
+  color: #fff;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.dropdown-options {
+  position: absolute;
+  right: 0;
+  top: 42px;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  display: none;
+  flex-direction: column;
+  box-shadow: var(--shadow);
+  z-index: 1000;
+}
+
+.dropdown-options.show {
+  display: flex;
+}
+
+.dropdown-options button {
+  padding: 10px 14px;
+  border: none;
+  background: transparent;
+  text-align: left;
+  cursor: pointer;
+}
+
+/* ================= SIDEBAR ================= */
+.level-selector {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  width: 200px;
+  min-width: 200px;         /* FIX #4 */
+}
+
+.level-selector h3 {
+  margin: 0 0 6px;
+  color: var(--accent-dark);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.level-btn {
+  background: #e2e8f0;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+}
+canvas {
+  display: block;
+}
+
+
+.level-btn.active {
+  background: linear-gradient(180deg, var(--accent), var(--accent-dark));
+  color: #fff;
+}
+
+/* ================= RESPONSIVE ================= */
+@media (max-width: 900px) {
+  .viz-container {
+    flex-direction: column;
+    max-height: none;
+  }
+
+  .level-selector {
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    min-width: unset;
+    margin-top: 20px;
+  }
+
+#mainChart {
+  width: 100%;
+  height: auto;
+}
+
+}
+
+.download-menu * {
+  pointer-events: auto;
+}
+
+
+/* Button */
+.download-chart-btn {
+  background: linear-gradient(90deg, #0b5ed7, #004aad);
+  color: #fff;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 10px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+/* Dropdown Box */
+.dropdown-options {
+  position: absolute;
+  right: 0;
+  top: 48px;
+  min-width: 160px;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+  padding: 6px 0;
+  display: none;
+  z-index: 9999;
+}
+
+
+/* Show dropdown */
+.dropdown-options.show {
+  display: block;
+}
+
+/* Dropdown buttons */
+.dropdown-options button {
+  background: none;
+  border: none;
+  padding: 12px 16px;
+  width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #0b5ed7;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.dropdown-options button:hover {
+  background: #f1f5f9;
+}
+
+/* Smooth fade animation */
+.fade-in {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.fade-out {
+  opacity: 0;
+  transform: translateY(-4px);
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+
+.dropdown-options button {
+  width: 100%;
+  padding: 12px 18px;
+  background: transparent;
+  border: none;
+  text-align: left;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.dropdown-options button:hover {
+  background: #f1f5f9;
+}
+
+.download-menu {
+  position: relative;
+  z-index: auto;
+}
+
+
+.dropdown-options {
+  position: absolute;
+  right: 0;
+  top: 42px;
+  z-index: 99999;
+}
+

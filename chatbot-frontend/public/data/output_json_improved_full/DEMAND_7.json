@@ -1,0 +1,1333 @@
+{
+    "demand_no": 7,
+    "ministry": "Ministry Of Chemicals And Fertilisers",
+    "department": "Department Of Pharmaceuticals",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2933.35,
+                        "capital_2024_25": 39.99,
+                        "total_2024_25": 2973.34,
+                        "budget_2025_26": 5267.16,
+                        "capital_2025_26": 1.56,
+                        "total_2025_26": 5268.72,
+                        "revised_2024_25": 4368.2,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 4369.7,
+                        "budget_2026_27": 5929.42,
+                        "capital_2026_27": 1.8,
+                        "total_2026_27": 5931.22
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 21.12,
+                        "capital_2024_25": 0.83,
+                        "total_2024_25": 21.95,
+                        "budget_2025_26": 22.05,
+                        "capital_2025_26": 1.1,
+                        "total_2025_26": 23.15,
+                        "revised_2024_25": 23.26,
+                        "capital_revised_2024_25": 1.15,
+                        "total_revised_2024_25": 24.41,
+                        "budget_2026_27": 25.07,
+                        "capital_2026_27": 1.4,
+                        "total_2026_27": 26.47
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "National Pharmaceutical Pricing Authority (NPPA)",
+                    "values": {
+                        "actual_2024_25": 16.14,
+                        "capital_2024_25": 0.16,
+                        "total_2024_25": 16.3,
+                        "budget_2025_26": 20.6,
+                        "capital_2025_26": 0.4,
+                        "total_2025_26": 21.0,
+                        "revised_2024_25": 18.15,
+                        "capital_revised_2024_25": 0.35,
+                        "total_revised_2024_25": 18.5,
+                        "budget_2026_27": 19.0,
+                        "capital_2026_27": 0.4,
+                        "total_2026_27": 19.4
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Recovery",
+                    "values": {
+                        "actual_2024_25": -0.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.06,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 37.2,
+                        "capital_2024_25": 0.99,
+                        "total_2024_25": 38.19,
+                        "budget_2025_26": 42.65,
+                        "capital_2025_26": 1.5,
+                        "total_2025_26": 44.15,
+                        "revised_2024_25": 41.41,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 42.91,
+                        "budget_2026_27": 44.07,
+                        "capital_2026_27": 1.8,
+                        "total_2026_27": 45.87
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "National Institutes of Pharmaceutical Education and",
+                    "values": {
+                        "actual_2024_25": 245.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 245.03,
+                        "budget_2025_26": 200.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 200.07,
+                        "revised_2024_25": 281.07,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 281.07,
+                        "budget_2026_27": 215.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 215.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Jan Aushadhi Scheme",
+                    "values": {
+                        "actual_2024_25": 169.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 169.93,
+                        "budget_2025_26": 353.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 353.5,
+                        "revised_2024_25": 190.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 190.0,
+                        "budget_2026_27": 200.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.5
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Consumer Awareness Publicity and Price Monitoring",
+                    "values": {
+                        "actual_2024_25": 4.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4.21,
+                        "budget_2025_26": 6.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6.0,
+                        "revised_2024_25": 4.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4.0,
+                        "budget_2026_27": 3.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Development of Pharmaceutical Indsutry",
+                    "values": {
+                        "actual_2024_25": 2.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.02,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 3.83,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.83,
+                        "budget_2026_27": 2.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": "7.01",
+                    "name": "Pharmaceutical Promotion & Development",
+                    "values": {
+                        "actual_2024_25": 2.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.02,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 3.83,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.83,
+                        "budget_2026_27": 2.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": "7.02",
+                    "name": "Assistance to Pharmaceutical Industry for",
+                    "values": {
+                        "actual_2024_25": 33.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 33.06,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 31.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 31.0,
+                        "budget_2026_27": 15.84,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15.84
+                    }
+                },
+                {
+                    "code": "7.03",
+                    "name": "Pharmaceuticals Technology Upgradation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": 92.09,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 92.09,
+                        "budget_2026_27": 250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 250.0
+                    }
+                },
+                {
+                    "code": "7.04",
+                    "name": "Promotion of Bulk Drug Parks",
+                    "values": {
+                        "actual_2024_25": 2.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.24,
+                        "budget_2025_26": 1460.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1460.0,
+                        "revised_2024_25": 810.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 810.0,
+                        "budget_2026_27": 700.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 700.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Development of Pharmaceutical Indsutry",
+                    "values": {
+                        "actual_2024_25": 37.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 37.32,
+                        "budget_2025_26": 1615.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1615.0,
+                        "revised_2024_25": 936.92,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 936.92,
+                        "budget_2026_27": 967.84,
+                        "capital_2026_27": null,
+                        "total_2026_27": 967.84
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Production Linked Incentive Schemes",
+            "items": []
+        },
+        {
+            "heading": "8. Production Linked Incentive Schemes",
+            "items": [
+                {
+                    "code": "8.01",
+                    "name": "Production Linked Incentive(PLI) Scheme for",
+                    "values": {
+                        "actual_2024_25": 21.3,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21.3,
+                        "budget_2025_26": 40.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 52.86,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 52.86,
+                        "budget_2026_27": 66.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 66.4
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "8.02",
+                    "name": "Production Linked Incentive (PLI) Scheme for",
+                    "values": {
+                        "actual_2024_25": 81.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 81.99,
+                        "budget_2025_26": 104.93,
+                        "capital_2025_26": null,
+                        "total_2025_26": 104.93,
+                        "revised_2024_25": 139.85,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 139.85,
+                        "budget_2026_27": 183.44,
+                        "capital_2026_27": null,
+                        "total_2026_27": 183.44
+                    }
+                },
+                {
+                    "code": "8.03",
+                    "name": "Production Linked Incentive Scheme for",
+                    "values": {
+                        "actual_2024_25": 2330.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2330.0,
+                        "budget_2025_26": 2300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2300.0,
+                        "revised_2024_25": 2300.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2300.0,
+                        "budget_2026_27": 2250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2250.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Production Linked Incentive Schemes",
+                    "values": {
+                        "actual_2024_25": 2433.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2433.29,
+                        "budget_2025_26": 2444.93,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2444.93,
+                        "revised_2024_25": 2492.71,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2492.71,
+                        "budget_2026_27": 2499.84,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2499.84
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "9",
+                    "name": "Promotion of Research and Innovation in Pharma Med-",
+                    "values": {
+                        "actual_2024_25": 48.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 48.44,
+                        "budget_2025_26": 245.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 245.0,
+                        "revised_2024_25": 245.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 245.0,
+                        "budget_2026_27": 750.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 750.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Strengthening of Medical Device Industry",
+                    "values": {
+                        "actual_2024_25": 0.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.9,
+                        "budget_2025_26": 125.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 125.0,
+                        "revised_2024_25": 120.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 120.8,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": "10.01",
+                    "name": "Promotion of Medical Device Parks",
+                    "values": {
+                        "actual_2024_25": 0.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.9,
+                        "budget_2025_26": 125.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 125.0,
+                        "revised_2024_25": 120.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 120.8,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": "10.02",
+                    "name": "Capacity Building and Skill Development for",
+                    "values": {
+                        "actual_2024_25": 0.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.5,
+                        "budget_2025_26": 60.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 60.0,
+                        "revised_2024_25": 20.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 20.0,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "10.03",
+                    "name": "Common Facilities for Medical Devices Clusters",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 60.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 60.0,
+                        "revised_2024_25": 30.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "10.04",
+                    "name": "Marginal Investment Scheme for Reducing",
+                    "values": {
+                        "actual_2024_25": 1.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.27,
+                        "budget_2025_26": 60.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 60.0,
+                        "revised_2024_25": 1.17,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.17,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "10.05",
+                    "name": "Medical Device Clinical Studies Support",
+                    "values": {
+                        "actual_2024_25": 0.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.5,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 0.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.6,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "10.06",
+                    "name": "Medical Device Promotion Scheme",
+                    "values": {
+                        "actual_2024_25": 0.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.15,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 4.52,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4.52,
+                        "budget_2026_27": 4.17,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4.17
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Strengthening of Medical Device Industry",
+                    "values": {
+                        "actual_2024_25": 3.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.32,
+                        "budget_2025_26": 360.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 360.0,
+                        "revised_2024_25": 177.09,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 177.09,
+                        "budget_2026_27": 124.17,
+                        "capital_2026_27": null,
+                        "total_2026_27": 124.17
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "11",
+                    "name": "Scheme of Programme Management",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 25.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 25.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Bio-pharma SHAKTI",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Chemical Parks",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 2941.54,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2941.54,
+                        "budget_2025_26": 5224.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5224.5,
+                        "revised_2024_25": 4326.79,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4326.79,
+                        "budget_2026_27": 5885.35,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5885.35
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Assistance to PSUs",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 39.0,
+                        "total_2024_25": 39.0,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": 0.06,
+                        "total_2025_26": 0.07,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -45.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": -45.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": -45.39,
+                        "capital_2024_25": 39.0,
+                        "total_2024_25": -6.39,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": 0.06,
+                        "total_2025_26": 0.07,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2933.35,
+                        "capital_2024_25": 39.99,
+                        "total_2024_25": 2973.34,
+                        "budget_2025_26": 5267.16,
+                        "capital_2025_26": 1.56,
+                        "total_2025_26": 5268.72,
+                        "revised_2024_25": 4368.2,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 4369.7,
+                        "budget_2026_27": 5929.42,
+                        "capital_2026_27": 1.8,
+                        "total_2026_27": 5931.22
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": 2912.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2912.29,
+                        "budget_2025_26": 5189.69,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5189.69,
+                        "revised_2024_25": 4304.87,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4304.87,
+                        "budget_2026_27": 5862.8,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5862.8
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 21.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21.06,
+                        "budget_2025_26": 22.05,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22.05,
+                        "revised_2024_25": 23.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23.26,
+                        "budget_2026_27": 25.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 25.07
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.99,
+                        "total_2024_25": 0.99,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.5,
+                        "total_2025_26": 1.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 1.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.8,
+                        "total_2026_27": 1.8
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Loans for Chemical and Pharmaceutical Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 39.0,
+                        "total_2024_25": 39.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.06,
+                        "total_2025_26": 0.06,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 2933.35,
+                        "capital_2024_25": 39.99,
+                        "total_2024_25": 2973.34,
+                        "budget_2025_26": 5211.74,
+                        "capital_2025_26": 1.56,
+                        "total_2025_26": 5213.3,
+                        "revised_2024_25": 4328.13,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 4329.63,
+                        "budget_2026_27": 5887.87,
+                        "capital_2026_27": 1.8,
+                        "total_2026_27": 5889.67
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 55.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.42,
+                        "revised_2024_25": 40.07,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.07,
+                        "budget_2026_27": 41.55,
+                        "capital_2026_27": null,
+                        "total_2026_27": 41.55
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 55.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.42,
+                        "revised_2024_25": 40.07,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.07,
+                        "budget_2026_27": 41.55,
+                        "capital_2026_27": null,
+                        "total_2026_27": 41.55
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2933.35,
+                        "capital_2024_25": 39.99,
+                        "total_2024_25": 2973.34,
+                        "budget_2025_26": 5267.16,
+                        "capital_2025_26": 1.56,
+                        "total_2025_26": 5268.72,
+                        "revised_2024_25": 4368.2,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 4369.7,
+                        "budget_2026_27": 5929.42,
+                        "capital_2026_27": 1.8,
+                        "total_2026_27": 5931.22
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Karnataka Antibiotics and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 404.81,
+                        "total_2024_25": 404.81,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 23.65,
+                        "total_2025_26": 23.65,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 487.59,
+                        "total_revised_2024_25": 487.59,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 544.75,
+                        "total_2026_27": 544.75
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Indian Drugs and Pharmaceuticals",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Hindustan Antibiotics Ltd",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Bengal Chemicals and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 21.14,
+                        "total_2024_25": 21.14,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 21.59,
+                        "total_revised_2024_25": 21.59,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 24.4,
+                        "total_2026_27": 24.4
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Bengal Immunity Ltd",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Rajasthan Drugs and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Smith Stanistreet Pharmaceuticals",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 425.95,
+                        "total_2024_25": 425.95,
+                        "budget_2025_26": 0.06,
+                        "capital_2025_26": 23.65,
+                        "total_2025_26": 23.71,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 509.18,
+                        "total_revised_2024_25": 509.18,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 569.15,
+                        "total_2026_27": 569.15
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "1",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 1.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Secretariat:..The provision is for the Salary and Establishment Expenditure of Department of",
+            "items": [
+                {
+                    "code": "7.02",
+                    "name": "Assistance to Pharmaceutical Industry for Common Facilities(API-CF)/Cluster",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "National Pharmaceutical Pricing Authority (NPPA):..The provision is for the Secretariat and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Establishment Expenditure of NPPA,",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "National Institutes of Pharmaceutical Education and Research (NIPERs):..The provision is",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 7.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Jan Aushadhi Scheme:..The provision is under the Jan Aushadhi Scheme for effective their manufacturing infrastructure to attain WHO-GMP norms, have to secure loan from any Financial Institution for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Consumer Awareness Publicity and Price Monitoring:..The provision is for Consumer 7.04. Promotion of Bulk Drug Parks:..To promote setting up of bulk drug parks in the country for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7.01",
+                    "name": "Pharmaceutical Promotion & Development Scheme(PPDS):..The provision is for promotion, by increasing the competitiveness of the domestic bulk drug industry.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "8.01",
+                    "name": "Production Linked Incentive(PLI) Scheme for Promotion of Domestic Manufacturing of 10.05. Medical Device Clinical Studies Support Scheme:..Support will be provided for conducting",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8.02",
+                    "name": "Production Linked Incentive (PLI) Scheme for Domestic Manufacturing of Medical 10.06. Medical Device Promotion Scheme:..The scheme aims to promote Medical Device Industry",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8.03",
+                    "name": "Production Linked Incentive Scheme for Pharmaceuticals:..The objective of the scheme is by the department. Also, support for manufacturer evaluation studies, creation of database, international study",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "product diversification to high value goods in the pharmaceutical sector. directly incur expenditure on industry development activities",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Promotion of Research and Innovation in Pharma Med-Tech (PRIP):..The objective of the 11. Scheme of Programme Management:..The Scheme of Programme Management is designed",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "scheme is to encourage industry to invest in R & D in Priority areas and to inculcate the culture of quality research and as an enabling and cross-cutting scheme to strengthen the implementation, monitoring and evaluation of the schemes",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "Strengthening of Medical Device Industry:..Medical device is a sunrise industry in India, with 12. Bio-pharma SHAKTI:..The scheme aims to develop India as a global Biopharma",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10.01",
+                    "name": "Promotion of Medical Device Parks:..Creation of world class infrastructure facilities in order dependency.",
+                    "values": {
+                        "actual_2024_25": 6.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10.02",
+                    "name": "Capacity Building and Skill Development for Medical Devices:..The main objective of this",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10.03",
+                    "name": "Common Facilities for Medical Devices Clusters:..To strengthen existing infrastructure by",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10.04",
+                    "name": "Marginal Investment Scheme for Reducing Import Dependence:..Medical Device Industry",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Department of Expenditure for Global Tender Enquiry (GTE) for tenders of value below..`.200 crore is available owing",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF CIVIL AVIATION",
+            "items": []
+        }
+    ]
+}

@@ -1,0 +1,2410 @@
+{
+    "demand_no": 62,
+    "ministry": "Ministry Of Jal Shakti",
+    "department": "Department Of Water Resources",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 20566.52,
+                        "capital_2024_25": 300.13,
+                        "total_2024_25": 20866.65,
+                        "budget_2025_26": 24720.49,
+                        "capital_2025_26": 556.34,
+                        "total_2025_26": 25276.83,
+                        "revised_2024_25": 17948.66,
+                        "capital_revised_2024_25": 457.08,
+                        "total_revised_2024_25": 18405.74,
+                        "budget_2026_27": 19437.32,
+                        "capital_2026_27": 475.66,
+                        "total_2026_27": 19912.98
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 141.96,
+                        "capital_2024_25": 28.09,
+                        "total_2024_25": 170.05,
+                        "budget_2025_26": 192.15,
+                        "capital_2025_26": 11.86,
+                        "total_2025_26": 204.01,
+                        "revised_2024_25": 164.1,
+                        "capital_revised_2024_25": 13.15,
+                        "total_revised_2024_25": 177.25,
+                        "budget_2026_27": 176.97,
+                        "capital_2026_27": 11.03,
+                        "total_2026_27": 188.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Central Water Commission",
+                    "values": {
+                        "actual_2024_25": 406.89,
+                        "capital_2024_25": 11.83,
+                        "total_2024_25": 418.72,
+                        "budget_2025_26": 437.63,
+                        "capital_2025_26": 13.5,
+                        "total_2025_26": 451.13,
+                        "revised_2024_25": 433.39,
+                        "capital_revised_2024_25": 9.61,
+                        "total_revised_2024_25": 443.0,
+                        "budget_2026_27": 424.32,
+                        "capital_2026_27": 5.67,
+                        "total_2026_27": 429.99
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Central Water and Power Research Station",
+                    "values": {
+                        "actual_2024_25": 91.64,
+                        "capital_2024_25": 0.45,
+                        "total_2024_25": 92.09,
+                        "budget_2025_26": 96.72,
+                        "capital_2025_26": 1.28,
+                        "total_2025_26": 98.0,
+                        "revised_2024_25": 94.44,
+                        "capital_revised_2024_25": 1.06,
+                        "total_revised_2024_25": 95.5,
+                        "budget_2026_27": 97.04,
+                        "capital_2026_27": 0.74,
+                        "total_2026_27": 97.78
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Central Water and Power Research Station",
+                    "values": {
+                        "actual_2024_25": 91.64,
+                        "capital_2024_25": 0.45,
+                        "total_2024_25": 92.09,
+                        "budget_2025_26": 96.72,
+                        "capital_2025_26": 1.28,
+                        "total_2025_26": 98.0,
+                        "revised_2024_25": 94.44,
+                        "capital_revised_2024_25": 1.06,
+                        "total_revised_2024_25": 95.5,
+                        "budget_2026_27": 97.04,
+                        "capital_2026_27": 0.74,
+                        "total_2026_27": 97.78
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Recoveries of CWPRS",
+                    "values": {
+                        "actual_2024_25": -17.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": -17.9,
+                        "budget_2025_26": -15.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -15.0,
+                        "revised_2024_25": -15.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -15.0,
+                        "budget_2026_27": -15.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -15.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 73.74,
+                        "capital_2024_25": 0.45,
+                        "total_2024_25": 74.19,
+                        "budget_2025_26": 81.72,
+                        "capital_2025_26": 1.28,
+                        "total_2025_26": 83.0,
+                        "revised_2024_25": 79.44,
+                        "capital_revised_2024_25": 1.06,
+                        "total_revised_2024_25": 80.5,
+                        "budget_2026_27": 82.04,
+                        "capital_2026_27": 0.74,
+                        "total_2026_27": 82.78
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "Central Soil and Material Research Station",
+                    "values": {
+                        "actual_2024_25": 29.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.89,
+                        "budget_2025_26": 34.89,
+                        "capital_2025_26": 0.11,
+                        "total_2025_26": 35.0,
+                        "revised_2024_25": 30.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 33.89,
+                        "capital_2026_27": 1.11,
+                        "total_2026_27": 35.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Bansagar Control Board",
+                    "values": {
+                        "actual_2024_25": 0.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.03,
+                        "budget_2025_26": 0.06,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.06,
+                        "revised_2024_25": 0.13,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.13,
+                        "budget_2026_27": 0.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.05
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Upper Yamuna River Board",
+                    "values": {
+                        "actual_2024_25": 2.42,
+                        "capital_2024_25": 0.17,
+                        "total_2024_25": 2.59,
+                        "budget_2025_26": 4.91,
+                        "capital_2025_26": 2.16,
+                        "total_2025_26": 7.07,
+                        "revised_2024_25": 4.98,
+                        "capital_revised_2024_25": 2.04,
+                        "total_revised_2024_25": 7.02,
+                        "budget_2026_27": 5.64,
+                        "capital_2026_27": 1.29,
+                        "total_2026_27": 6.93
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Upper Yamuna River Board",
+                    "values": {
+                        "actual_2024_25": 2.42,
+                        "capital_2024_25": 0.17,
+                        "total_2024_25": 2.59,
+                        "budget_2025_26": 4.91,
+                        "capital_2025_26": 2.16,
+                        "total_2025_26": 7.07,
+                        "revised_2024_25": 4.98,
+                        "capital_revised_2024_25": 2.04,
+                        "total_revised_2024_25": 7.02,
+                        "budget_2026_27": 5.64,
+                        "capital_2026_27": 1.29,
+                        "total_2026_27": 6.93
+                    }
+                },
+                {
+                    "code": "6.02",
+                    "name": "Recoveries of UYRB",
+                    "values": {
+                        "actual_2024_25": -1.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1.95,
+                        "budget_2025_26": -0.91,
+                        "capital_2025_26": -2.16,
+                        "total_2025_26": -3.07,
+                        "revised_2024_25": -1.52,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1.52,
+                        "budget_2026_27": -0.93,
+                        "capital_2026_27": null,
+                        "total_2026_27": -0.93
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 0.47,
+                        "capital_2024_25": 0.17,
+                        "total_2024_25": 0.64,
+                        "budget_2025_26": 4.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4.0,
+                        "revised_2024_25": 3.46,
+                        "capital_revised_2024_25": 2.04,
+                        "total_revised_2024_25": 5.5,
+                        "budget_2026_27": 4.71,
+                        "capital_2026_27": 1.29,
+                        "total_2026_27": 6.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Central Ground Water Board",
+                    "values": {
+                        "actual_2024_25": 290.5,
+                        "capital_2024_25": 0.19,
+                        "total_2024_25": 290.69,
+                        "budget_2025_26": 322.0,
+                        "capital_2025_26": 8.0,
+                        "total_2025_26": 330.0,
+                        "revised_2024_25": 315.58,
+                        "capital_revised_2024_25": 2.42,
+                        "total_revised_2024_25": 318.0,
+                        "budget_2026_27": 313.98,
+                        "capital_2026_27": 0.02,
+                        "total_2026_27": 314.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "National Dam Safety Authority",
+                    "values": {
+                        "actual_2024_25": 6.74,
+                        "capital_2024_25": 2.4,
+                        "total_2024_25": 9.14,
+                        "budget_2025_26": 18.0,
+                        "capital_2025_26": 5.91,
+                        "total_2025_26": 23.91,
+                        "revised_2024_25": 22.7,
+                        "capital_revised_2024_25": 5.3,
+                        "total_revised_2024_25": 28.0,
+                        "budget_2026_27": 32.61,
+                        "capital_2026_27": 2.39,
+                        "total_2026_27": 35.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "National Institute of Hydrology",
+                    "values": {
+                        "actual_2024_25": 48.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": 48.25,
+                        "budget_2025_26": 55.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.0,
+                        "revised_2024_25": 48.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 48.0,
+                        "budget_2026_27": 60.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 60.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "National Water Informatics Centre",
+                    "values": {
+                        "actual_2024_25": 3.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.56,
+                        "budget_2025_26": 4.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4.5,
+                        "revised_2024_25": 9.0,
+                        "capital_revised_2024_25": 1.0,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 12.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "National River Conservation Directorate",
+                    "values": {
+                        "actual_2024_25": 7.6,
+                        "capital_2024_25": 0.14,
+                        "total_2024_25": 7.74,
+                        "budget_2025_26": 10.81,
+                        "capital_2025_26": 0.19,
+                        "total_2025_26": 11.0,
+                        "revised_2024_25": 9.52,
+                        "capital_revised_2024_25": 0.2,
+                        "total_revised_2024_25": 9.72,
+                        "budget_2026_27": 9.88,
+                        "capital_2026_27": 0.12,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "North Eastern Regional Institute of Water and Land",
+                    "values": {
+                        "actual_2024_25": 22.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22.57,
+                        "budget_2025_26": 25.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.5,
+                        "revised_2024_25": 23.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23.0,
+                        "budget_2026_27": 25.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 25.5
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "National Water Development Agency (NWDA)",
+                    "values": {
+                        "actual_2024_25": 42.81,
+                        "capital_2024_25": null,
+                        "total_2024_25": 42.81,
+                        "budget_2025_26": 51.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 51.0,
+                        "revised_2024_25": 44.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 44.0,
+                        "budget_2026_27": 46.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 46.0
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Brahmaputra Board",
+                    "values": {
+                        "actual_2024_25": 55.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 55.07,
+                        "budget_2025_26": 62.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 62.0,
+                        "revised_2024_25": 58.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 58.0,
+                        "budget_2026_27": 59.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 59.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "15",
+                    "name": "National Water Academy",
+                    "values": {
+                        "actual_2024_25": 8.96,
+                        "capital_2024_25": 0.12,
+                        "total_2024_25": 9.08,
+                        "budget_2025_26": 15.37,
+                        "capital_2025_26": 20.82,
+                        "total_2025_26": 36.19,
+                        "revised_2024_25": 12.71,
+                        "capital_revised_2024_25": 0.32,
+                        "total_revised_2024_25": 13.03,
+                        "budget_2026_27": 16.31,
+                        "capital_2026_27": 23.69,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Rajeev Gandhi National Ground Water Training and",
+                    "values": {
+                        "actual_2024_25": 2.26,
+                        "capital_2024_25": 0.03,
+                        "total_2024_25": 2.29,
+                        "budget_2025_26": 3.44,
+                        "capital_2025_26": 0.06,
+                        "total_2025_26": 3.5,
+                        "revised_2024_25": 3.45,
+                        "capital_revised_2024_25": 0.05,
+                        "total_revised_2024_25": 3.5,
+                        "budget_2026_27": 7.99,
+                        "capital_2026_27": 1.7,
+                        "total_2026_27": 9.69
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Attached, Subordinate and Other Offices",
+                    "values": {
+                        "actual_2024_25": 999.34,
+                        "capital_2024_25": 15.33,
+                        "total_2024_25": 1014.67,
+                        "budget_2025_26": 1125.92,
+                        "capital_2025_26": 49.87,
+                        "total_2025_26": 1175.79,
+                        "revised_2024_25": 1092.38,
+                        "capital_revised_2024_25": 22.0,
+                        "total_revised_2024_25": 1114.38,
+                        "budget_2026_27": 1126.28,
+                        "capital_2026_27": 38.73,
+                        "total_2026_27": 1165.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "17",
+                    "name": "Polavaram Project Authority",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 55.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.0,
+                        "revised_2024_25": 17.58,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17.58,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -1.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 1139.91,
+                        "capital_2024_25": 43.42,
+                        "total_2024_25": 1183.33,
+                        "budget_2025_26": 1373.07,
+                        "capital_2025_26": 61.73,
+                        "total_2025_26": 1434.8,
+                        "revised_2024_25": 1274.06,
+                        "capital_revised_2024_25": 35.15,
+                        "total_revised_2024_25": 1309.21,
+                        "budget_2026_27": 1323.25,
+                        "capital_2026_27": 49.76,
+                        "total_2026_27": 1373.01
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": []
+        },
+        {
+            "heading": "Major Irrigation Projects",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "Farakka Barrage Project",
+                    "values": {
+                        "actual_2024_25": 76.29,
+                        "capital_2024_25": 49.36,
+                        "total_2024_25": 125.65,
+                        "budget_2025_26": 88.11,
+                        "capital_2025_26": 51.89,
+                        "total_2025_26": 140.0,
+                        "revised_2024_25": 105.56,
+                        "capital_revised_2024_25": 48.44,
+                        "total_revised_2024_25": 154.0,
+                        "budget_2026_27": 106.27,
+                        "capital_2026_27": 47.73,
+                        "total_2026_27": 154.0
+                    }
+                },
+                {
+                    "code": "19.01",
+                    "name": "Farakka Barrage Project",
+                    "values": {
+                        "actual_2024_25": 76.29,
+                        "capital_2024_25": 49.36,
+                        "total_2024_25": 125.65,
+                        "budget_2025_26": 88.11,
+                        "capital_2025_26": 51.89,
+                        "total_2025_26": 140.0,
+                        "revised_2024_25": 105.56,
+                        "capital_revised_2024_25": 48.44,
+                        "total_revised_2024_25": 154.0,
+                        "budget_2026_27": 106.27,
+                        "capital_2026_27": 47.73,
+                        "total_2026_27": 154.0
+                    }
+                },
+                {
+                    "code": "19.02",
+                    "name": "Recoveries of FBP",
+                    "values": {
+                        "actual_2024_25": -100.79,
+                        "capital_2024_25": -0.06,
+                        "total_2024_25": -100.85,
+                        "budget_2025_26": -71.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -71.0,
+                        "revised_2024_25": -72.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -72.0,
+                        "budget_2026_27": -73.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -73.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": -24.5,
+                        "capital_2024_25": 49.3,
+                        "total_2024_25": 24.8,
+                        "budget_2025_26": 17.11,
+                        "capital_2025_26": 51.89,
+                        "total_2025_26": 69.0,
+                        "revised_2024_25": 33.56,
+                        "capital_revised_2024_25": 48.44,
+                        "total_revised_2024_25": 82.0,
+                        "budget_2026_27": 33.27,
+                        "capital_2026_27": 47.73,
+                        "total_2026_27": 81.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "20",
+                    "name": "Dam Rehabilitation and Improvement Programme",
+                    "values": {
+                        "actual_2024_25": 19.36,
+                        "capital_2024_25": 0.34,
+                        "total_2024_25": 19.7,
+                        "budget_2025_26": 20.15,
+                        "capital_2025_26": 9.5,
+                        "total_2025_26": 29.65,
+                        "revised_2024_25": 19.89,
+                        "capital_revised_2024_25": 1.54,
+                        "total_revised_2024_25": 21.43,
+                        "budget_2026_27": 25.34,
+                        "capital_2026_27": 14.61,
+                        "total_2026_27": 39.95
+                    }
+                },
+                {
+                    "code": "20.01",
+                    "name": "EAP Component",
+                    "values": {
+                        "actual_2024_25": 19.36,
+                        "capital_2024_25": 0.34,
+                        "total_2024_25": 19.7,
+                        "budget_2025_26": 20.15,
+                        "capital_2025_26": 9.5,
+                        "total_2025_26": 29.65,
+                        "revised_2024_25": 19.89,
+                        "capital_revised_2024_25": 1.54,
+                        "total_revised_2024_25": 21.43,
+                        "budget_2026_27": 25.34,
+                        "capital_2026_27": 14.61,
+                        "total_2026_27": 39.95
+                    }
+                },
+                {
+                    "code": "20.02",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 21.38,
+                        "capital_2024_25": 0.12,
+                        "total_2024_25": 21.5,
+                        "budget_2025_26": 20.15,
+                        "capital_2025_26": 0.5,
+                        "total_2025_26": 20.65,
+                        "revised_2024_25": 19.89,
+                        "capital_revised_2024_25": 0.39,
+                        "total_revised_2024_25": 20.28,
+                        "budget_2026_27": 25.34,
+                        "capital_2026_27": 1.61,
+                        "total_2026_27": 26.95
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Dam Rehabilitation and Improvement Programme",
+                    "values": {
+                        "actual_2024_25": 40.74,
+                        "capital_2024_25": 0.46,
+                        "total_2024_25": 41.2,
+                        "budget_2025_26": 40.3,
+                        "capital_2025_26": 10.0,
+                        "total_2025_26": 50.3,
+                        "revised_2024_25": 39.78,
+                        "capital_revised_2024_25": 1.93,
+                        "total_revised_2024_25": 41.71,
+                        "budget_2026_27": 50.68,
+                        "capital_2026_27": 16.22,
+                        "total_2026_27": 66.9
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Major Irrigation Projects",
+                    "values": {
+                        "actual_2024_25": 16.24,
+                        "capital_2024_25": 49.76,
+                        "total_2024_25": 66.0,
+                        "budget_2025_26": 57.41,
+                        "capital_2025_26": 61.89,
+                        "total_2025_26": 119.3,
+                        "revised_2024_25": 73.34,
+                        "capital_revised_2024_25": 50.37,
+                        "total_revised_2024_25": 123.71,
+                        "budget_2026_27": 83.95,
+                        "capital_2026_27": 63.95,
+                        "total_2026_27": 147.9
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "21",
+                    "name": "National Ganga Plan",
+                    "values": {
+                        "actual_2024_25": 576.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 576.35,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 450.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 450.0,
+                        "budget_2026_27": 600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": "21.01",
+                    "name": "EAP Component",
+                    "values": {
+                        "actual_2024_25": 576.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 576.35,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 450.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 450.0,
+                        "budget_2026_27": 600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": "21.02",
+                    "name": "Transfer to Agriculture Infrastructure and",
+                    "values": {
+                        "actual_2024_25": 2400.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2400.0,
+                        "budget_2025_26": 2900.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2900.0,
+                        "revised_2024_25": 2237.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2237.0,
+                        "budget_2026_27": 2500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2500.0
+                    }
+                },
+                {
+                    "code": "21.03",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 2018.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2018.76,
+                        "budget_2025_26": 2900.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2900.0,
+                        "revised_2024_25": 2237.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2237.0,
+                        "budget_2026_27": 2500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2500.0
+                    }
+                },
+                {
+                    "code": "21.04",
+                    "name": "Less - Amount met from Agriculture",
+                    "values": {
+                        "actual_2024_25": -2018.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2018.77,
+                        "budget_2025_26": -2900.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -2900.0,
+                        "revised_2024_25": -2237.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -2237.0,
+                        "budget_2026_27": -2500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -2500.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2976.34,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2976.34,
+                        "budget_2025_26": 3400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3400.0,
+                        "revised_2024_25": 2687.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2687.0,
+                        "budget_2026_27": 3100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3100.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "22",
+                    "name": "River Basin Management",
+                    "values": {
+                        "actual_2024_25": 130.73,
+                        "capital_2024_25": 0.4,
+                        "total_2024_25": 131.13,
+                        "budget_2025_26": 242.37,
+                        "capital_2025_26": 0.63,
+                        "total_2025_26": 243.0,
+                        "revised_2024_25": 167.37,
+                        "capital_revised_2024_25": 0.68,
+                        "total_revised_2024_25": 168.05,
+                        "budget_2026_27": 204.45,
+                        "capital_2026_27": 0.55,
+                        "total_2026_27": 205.0
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "Development of Water Resources Information System",
+                    "values": {
+                        "actual_2024_25": 147.21,
+                        "capital_2024_25": 18.4,
+                        "total_2024_25": 165.61,
+                        "budget_2025_26": 61.16,
+                        "capital_2025_26": 2.23,
+                        "total_2025_26": 63.39,
+                        "revised_2024_25": 169.27,
+                        "capital_revised_2024_25": 30.73,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": 215.4,
+                        "capital_2026_27": 12.6,
+                        "total_2026_27": 228.0
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Ground Water Management and Regulation",
+                    "values": {
+                        "actual_2024_25": 84.61,
+                        "capital_2024_25": 147.44,
+                        "total_2024_25": 232.05,
+                        "budget_2025_26": 97.64,
+                        "capital_2025_26": 411.36,
+                        "total_2025_26": 509.0,
+                        "revised_2024_25": 105.29,
+                        "capital_revised_2024_25": 319.71,
+                        "total_revised_2024_25": 425.0,
+                        "budget_2026_27": 115.78,
+                        "capital_2026_27": 309.22,
+                        "total_2026_27": 425.0
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "National Hydrology Project",
+                    "values": {
+                        "actual_2024_25": 172.62,
+                        "capital_2024_25": 14.2,
+                        "total_2024_25": 186.82,
+                        "budget_2025_26": 6.49,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 6.5,
+                        "revised_2024_25": 3.03,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.03,
+                        "budget_2026_27": 183.11,
+                        "capital_2026_27": 16.89,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "25.01",
+                    "name": "EAP Component",
+                    "values": {
+                        "actual_2024_25": 172.62,
+                        "capital_2024_25": 14.2,
+                        "total_2024_25": 186.82,
+                        "budget_2025_26": 6.49,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 6.5,
+                        "revised_2024_25": 3.03,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.03,
+                        "budget_2026_27": 183.11,
+                        "capital_2026_27": 16.89,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "25.02",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 170.37,
+                        "capital_2024_25": 15.75,
+                        "total_2024_25": 186.12,
+                        "budget_2025_26": 6.49,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 6.5,
+                        "revised_2024_25": 9.92,
+                        "capital_revised_2024_25": 0.05,
+                        "total_revised_2024_25": 9.97,
+                        "budget_2026_27": 183.11,
+                        "capital_2026_27": 16.89,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- National Hydrology Project",
+                    "values": {
+                        "actual_2024_25": 342.99,
+                        "capital_2024_25": 29.95,
+                        "total_2024_25": 372.94,
+                        "budget_2025_26": 12.98,
+                        "capital_2025_26": 0.02,
+                        "total_2025_26": 13.0,
+                        "revised_2024_25": 12.95,
+                        "capital_revised_2024_25": 0.05,
+                        "total_revised_2024_25": 13.0,
+                        "budget_2026_27": 366.22,
+                        "capital_2026_27": 33.78,
+                        "total_2026_27": 400.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "26",
+                    "name": "Research and Development and Implementation of",
+                    "values": {
+                        "actual_2024_25": 32.31,
+                        "capital_2024_25": 9.8,
+                        "total_2024_25": 42.11,
+                        "budget_2025_26": 53.8,
+                        "capital_2025_26": 16.2,
+                        "total_2025_26": 70.0,
+                        "revised_2024_25": 107.16,
+                        "capital_revised_2024_25": 13.45,
+                        "total_revised_2024_25": 120.61,
+                        "budget_2026_27": 243.48,
+                        "capital_2026_27": null,
+                        "total_2026_27": 243.48
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "27",
+                    "name": "Atal Bhujal Yojna",
+                    "values": {
+                        "actual_2024_25": 400.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 400.0,
+                        "budget_2025_26": 468.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 468.0,
+                        "revised_2024_25": 316.74,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 316.74,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "27.01",
+                    "name": "EAP Components",
+                    "values": {
+                        "actual_2024_25": 400.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 400.0,
+                        "budget_2025_26": 468.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 468.0,
+                        "revised_2024_25": 316.74,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 316.74,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "27.02",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 193.72,
+                        "capital_2024_25": 0.36,
+                        "total_2024_25": 194.08,
+                        "budget_2025_26": 1312.0,
+                        "capital_2025_26": 0.4,
+                        "total_2025_26": 1312.4,
+                        "revised_2024_25": 296.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 296.26,
+                        "budget_2026_27": 0.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.13
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Atal Bhujal Yojna",
+                    "values": {
+                        "actual_2024_25": 593.72,
+                        "capital_2024_25": 0.36,
+                        "total_2024_25": 594.08,
+                        "budget_2025_26": 1780.0,
+                        "capital_2025_26": 0.4,
+                        "total_2025_26": 1780.4,
+                        "revised_2024_25": 613.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 613.0,
+                        "budget_2026_27": 0.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.13
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Water Resources Management",
+                    "values": {
+                        "actual_2024_25": 1200.84,
+                        "capital_2024_25": 205.95,
+                        "total_2024_25": 1406.79,
+                        "budget_2025_26": 2005.58,
+                        "capital_2025_26": 430.21,
+                        "total_2025_26": 2435.79,
+                        "revised_2024_25": 1007.67,
+                        "capital_revised_2024_25": 363.94,
+                        "total_revised_2024_25": 1371.61,
+                        "budget_2026_27": 941.01,
+                        "capital_2026_27": 355.6,
+                        "total_2026_27": 1296.61
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "28",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -88.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": -88.45,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 4235.7,
+                        "capital_2024_25": 256.11,
+                        "total_2024_25": 4491.81,
+                        "budget_2025_26": 5705.36,
+                        "capital_2025_26": 492.73,
+                        "total_2025_26": 6198.09,
+                        "revised_2024_25": 3935.38,
+                        "capital_revised_2024_25": 414.99,
+                        "total_revised_2024_25": 4350.37,
+                        "budget_2026_27": 4329.41,
+                        "capital_2026_27": 420.1,
+                        "total_2026_27": 4749.51
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "29",
+                    "name": "Har Khet Ko Pani",
+                    "values": {
+                        "actual_2024_25": 589.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": 589.52,
+                        "budget_2025_26": 1100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1100.0,
+                        "revised_2024_25": 893.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 893.0,
+                        "budget_2026_27": 700.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 700.0
+                    }
+                },
+                {
+                    "code": "30",
+                    "name": "Command Area Development And Water Management",
+                    "values": {
+                        "actual_2024_25": 62.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": 62.04,
+                        "budget_2025_26": 850.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 850.0,
+                        "revised_2024_25": 150.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 150.0,
+                        "budget_2026_27": 45.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "31. Accelerated Irrigation Benefit Programme and National/Special Projects",
+            "items": [
+                {
+                    "code": "31.01",
+                    "name": "Transfer to Agriculture Infrastructure and",
+                    "values": {
+                        "actual_2024_25": 2040.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2040.0,
+                        "budget_2025_26": 2500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2500.0,
+                        "revised_2024_25": 1700.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1700.0,
+                        "budget_2026_27": 2250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2250.0
+                    }
+                },
+                {
+                    "code": "31.02",
+                    "name": "Accelerated Irrigation Benefit Programme and",
+                    "values": {
+                        "actual_2024_25": 1557.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1557.71,
+                        "budget_2025_26": 2500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2500.0,
+                        "revised_2024_25": 1700.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1700.0,
+                        "budget_2026_27": 2250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2250.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "National/Special Projects",
+            "items": [
+                {
+                    "code": "31.03",
+                    "name": "Less - Amount met from Agriculture",
+                    "values": {
+                        "actual_2024_25": -1557.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1557.71,
+                        "budget_2025_26": -2500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -2500.0,
+                        "revised_2024_25": -1700.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1700.0,
+                        "budget_2026_27": -2250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -2250.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2040.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2040.0,
+                        "budget_2025_26": 2500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2500.0,
+                        "revised_2024_25": 1700.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1700.0,
+                        "budget_2026_27": 2250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2250.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "32",
+                    "name": "Servicing of loans from NABARD under PMKSY",
+                    "values": {
+                        "actual_2024_25": 2101.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2101.03,
+                        "budget_2025_26": 2043.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2043.0,
+                        "revised_2024_25": 2031.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2031.6,
+                        "budget_2026_27": 1961.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1961.7
+                    }
+                },
+                {
+                    "code": "32.01",
+                    "name": "Payment of interest for NABARD loan to NWDA",
+                    "values": {
+                        "actual_2024_25": 2101.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2101.03,
+                        "budget_2025_26": 2043.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2043.0,
+                        "revised_2024_25": 2031.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2031.6,
+                        "budget_2026_27": 1961.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1961.7
+                    }
+                },
+                {
+                    "code": "32.02",
+                    "name": "Repayment of principal for NABARD loan to",
+                    "values": {
+                        "actual_2024_25": 1023.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1023.82,
+                        "budget_2025_26": 1024.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1024.0,
+                        "revised_2024_25": 1024.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1024.0,
+                        "budget_2026_27": 1024.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1024.0
+                    }
+                },
+                {
+                    "code": "32.03",
+                    "name": "Interest subvention for NABARD to States under",
+                    "values": {
+                        "actual_2024_25": 684.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": 684.22,
+                        "budget_2025_26": 742.85,
+                        "capital_2025_26": null,
+                        "total_2025_26": 742.85,
+                        "revised_2024_25": 573.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 573.0,
+                        "budget_2026_27": 606.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 606.3
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Servicing of loans from NABARD under PMKSY",
+                    "values": {
+                        "actual_2024_25": 3809.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3809.07,
+                        "budget_2025_26": 3809.85,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3809.85,
+                        "revised_2024_25": 3628.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3628.6,
+                        "budget_2026_27": 3592.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3592.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "33",
+                    "name": "Modernization of Command Area Development and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 546.8,
+                        "capital_revised_2024_25": 3.2,
+                        "total_revised_2024_25": 550.0,
+                        "budget_2026_27": 545.94,
+                        "capital_2026_27": 4.06,
+                        "total_2026_27": 550.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Pradhan Mantri Krishi Sinchai Yojna",
+                    "values": {
+                        "actual_2024_25": 6500.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6500.63,
+                        "budget_2025_26": 8259.85,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8259.85,
+                        "revised_2024_25": 6918.4,
+                        "capital_revised_2024_25": 3.2,
+                        "total_revised_2024_25": 6921.6,
+                        "budget_2026_27": 7132.94,
+                        "capital_2026_27": 4.06,
+                        "total_2026_27": 7137.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "34",
+                    "name": "Flood Management and Border Areas",
+                    "values": {
+                        "actual_2024_25": 386.92,
+                        "capital_2024_25": 0.6,
+                        "total_2024_25": 387.52,
+                        "budget_2025_26": 448.12,
+                        "capital_2025_26": 1.88,
+                        "total_2025_26": 450.0,
+                        "revised_2024_25": 444.72,
+                        "capital_revised_2024_25": 3.74,
+                        "total_revised_2024_25": 448.46,
+                        "budget_2026_27": 795.26,
+                        "capital_2026_27": 1.74,
+                        "total_2026_27": 797.0
+                    }
+                },
+                {
+                    "code": "35",
+                    "name": "Irrigation Census",
+                    "values": {
+                        "actual_2024_25": 18.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18.9,
+                        "budget_2025_26": 40.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 35.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 35.0,
+                        "budget_2026_27": 80.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 80.0
+                    }
+                },
+                {
+                    "code": "36",
+                    "name": "Special Package for Irrigation Projects to address",
+                    "values": {
+                        "actual_2024_25": 185.94,
+                        "capital_2024_25": null,
+                        "total_2024_25": 185.94,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "37",
+                    "name": "National River Conservation Plan -Other Basins",
+                    "values": {
+                        "actual_2024_25": 380.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": 380.97,
+                        "budget_2025_26": 346.64,
+                        "capital_2025_26": null,
+                        "total_2025_26": 346.64,
+                        "revised_2024_25": 257.57,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 257.57,
+                        "budget_2026_27": 241.56,
+                        "capital_2026_27": null,
+                        "total_2026_27": 241.56
+                    }
+                },
+                {
+                    "code": "37.01",
+                    "name": "EAP Component",
+                    "values": {
+                        "actual_2024_25": 380.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": 380.97,
+                        "budget_2025_26": 346.64,
+                        "capital_2025_26": null,
+                        "total_2025_26": 346.64,
+                        "revised_2024_25": 257.57,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 257.57,
+                        "budget_2026_27": 241.56,
+                        "capital_2026_27": null,
+                        "total_2026_27": 241.56
+                    }
+                },
+                {
+                    "code": "37.02",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 208.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": 208.22,
+                        "budget_2025_26": 211.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 211.45,
+                        "revised_2024_25": 258.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 258.04,
+                        "budget_2026_27": 308.44,
+                        "capital_2026_27": null,
+                        "total_2026_27": 308.44
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- National River Conservation Plan -Other Basins",
+                    "values": {
+                        "actual_2024_25": 589.19,
+                        "capital_2024_25": null,
+                        "total_2024_25": 589.19,
+                        "budget_2025_26": 558.09,
+                        "capital_2025_26": null,
+                        "total_2025_26": 558.09,
+                        "revised_2024_25": 515.61,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 515.61,
+                        "budget_2026_27": 550.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 550.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "38",
+                    "name": "Interlinking of Rivers",
+                    "values": {
+                        "actual_2024_25": 2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2000.0,
+                        "budget_2025_26": 2400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2400.0,
+                        "revised_2024_25": 1808.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1808.29,
+                        "budget_2026_27": 1906.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1906.07
+                    }
+                },
+                {
+                    "code": "38.01",
+                    "name": "Transfer to Agriculture Infrastructure &",
+                    "values": {
+                        "actual_2024_25": 2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2000.0,
+                        "budget_2025_26": 2400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2400.0,
+                        "revised_2024_25": 1808.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1808.29,
+                        "budget_2026_27": 1906.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1906.07
+                    }
+                },
+                {
+                    "code": "38.02",
+                    "name": "Interlinking of Rivers",
+                    "values": {
+                        "actual_2024_25": 1954.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1954.86,
+                        "budget_2025_26": 2400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2400.0,
+                        "revised_2024_25": 1808.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1808.29,
+                        "budget_2026_27": 1906.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1906.07
+                    }
+                },
+                {
+                    "code": "38.03",
+                    "name": "Less-Amount met from Agriculture Infrastructure",
+                    "values": {
+                        "actual_2024_25": -1954.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1954.86,
+                        "budget_2025_26": -2400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -2400.0,
+                        "revised_2024_25": -1808.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1808.29,
+                        "budget_2026_27": -1906.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1906.07
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2000.0,
+                        "budget_2025_26": 2400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2400.0,
+                        "revised_2024_25": 1808.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1808.29,
+                        "budget_2026_27": 1906.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1906.07
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "39",
+                    "name": "Revised cost for completion of the Polavaram Irrigation",
+                    "values": {
+                        "actual_2024_25": 5512.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5512.4,
+                        "budget_2025_26": 5936.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5936.0,
+                        "revised_2024_25": 3017.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3017.2,
+                        "budget_2026_27": 3320.39,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3320.39
+                    }
+                },
+                {
+                    "code": "40",
+                    "name": "Actual Recoveries (CSS)",
+                    "values": {
+                        "actual_2024_25": -3.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": -3.07,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 15190.91,
+                        "capital_2024_25": 0.6,
+                        "total_2024_25": 15191.51,
+                        "budget_2025_26": 17642.06,
+                        "capital_2025_26": 1.88,
+                        "total_2025_26": 17643.94,
+                        "revised_2024_25": 12739.22,
+                        "capital_revised_2024_25": 6.94,
+                        "total_revised_2024_25": 12746.16,
+                        "budget_2026_27": 13784.66,
+                        "capital_2026_27": 5.8,
+                        "total_2026_27": 13790.46
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 20566.52,
+                        "capital_2024_25": 300.13,
+                        "total_2024_25": 20866.65,
+                        "budget_2025_26": 24720.49,
+                        "capital_2025_26": 556.34,
+                        "total_2025_26": 25276.83,
+                        "revised_2024_25": 17948.66,
+                        "capital_revised_2024_25": 457.08,
+                        "total_revised_2024_25": 18405.74,
+                        "budget_2026_27": 19437.32,
+                        "capital_2026_27": 475.66,
+                        "total_2026_27": 19912.98
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Major Irrigation",
+                    "values": {
+                        "actual_2024_25": 2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2000.0,
+                        "budget_2025_26": 969.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 969.0,
+                        "revised_2024_25": 917.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 917.48,
+                        "budget_2026_27": 859.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 859.7
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Major and Medium Irrigation",
+                    "values": {
+                        "actual_2024_25": 5744.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5744.97,
+                        "budget_2025_26": 6550.15,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6550.15,
+                        "revised_2024_25": 5367.58,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5367.58,
+                        "budget_2026_27": 5249.79,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5249.79
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Minor Irrigation",
+                    "values": {
+                        "actual_2024_25": 376.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 376.58,
+                        "budget_2025_26": 423.16,
+                        "capital_2025_26": null,
+                        "total_2025_26": 423.16,
+                        "revised_2024_25": 424.4,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 424.4,
+                        "budget_2026_27": 437.91,
+                        "capital_2026_27": null,
+                        "total_2026_27": 437.91
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Flood Control and Drainage",
+                    "values": {
+                        "actual_2024_25": 165.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 165.85,
+                        "budget_2025_26": 38.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 38.02,
+                        "revised_2024_25": 34.72,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 34.72,
+                        "budget_2026_27": 43.26,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43.26
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Other Transport Services",
+                    "values": {
+                        "actual_2024_25": -24.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": -24.5,
+                        "budget_2025_26": 17.11,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17.11,
+                        "revised_2024_25": 33.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 33.56,
+                        "budget_2026_27": 33.27,
+                        "capital_2026_27": null,
+                        "total_2026_27": 33.27
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Ecology and Environment",
+                    "values": {
+                        "actual_2024_25": 2920.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2920.59,
+                        "budget_2025_26": 3437.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3437.8,
+                        "revised_2024_25": 2743.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2743.51,
+                        "budget_2026_27": 3160.18,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3160.18
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 148.43,
+                        "capital_2024_25": null,
+                        "total_2024_25": 148.43,
+                        "budget_2025_26": 210.15,
+                        "capital_2025_26": null,
+                        "total_2025_26": 210.15,
+                        "revised_2024_25": 186.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 186.8,
+                        "budget_2026_27": 209.58,
+                        "capital_2026_27": null,
+                        "total_2026_27": 209.58
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Capital Outlay on Major and Medium Irrigation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 71.94,
+                        "total_2024_25": 71.94,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 64.97,
+                        "total_2025_26": 64.97,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 61.04,
+                        "total_revised_2024_25": 61.04,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.55,
+                        "total_2026_27": 100.55
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Capital Outlay on Minor Irrigation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 147.66,
+                        "total_2024_25": 147.66,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 419.42,
+                        "total_2025_26": 419.42,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 322.18,
+                        "total_revised_2024_25": 322.18,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 310.94,
+                        "total_2026_27": 310.94
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Capital Outlay on Flood Control Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.6,
+                        "total_2024_25": 0.6,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.88,
+                        "total_2025_26": 1.88,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.74,
+                        "total_revised_2024_25": 3.74,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.74,
+                        "total_2026_27": 1.74
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Capital Outlay on Other Transport Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 49.3,
+                        "total_2024_25": 49.3,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 51.89,
+                        "total_2025_26": 51.89,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 48.44,
+                        "total_revised_2024_25": 48.44,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 47.73,
+                        "total_2026_27": 47.73
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Capital Outlay on Other Scientific and Environmental",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.14,
+                        "total_2024_25": 0.14,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.19,
+                        "total_2025_26": 0.19,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.2,
+                        "total_revised_2024_25": 0.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.12,
+                        "total_2026_27": 0.12
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 30.49,
+                        "total_2024_25": 30.49,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 17.77,
+                        "total_2025_26": 17.77,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 18.45,
+                        "total_revised_2024_25": 18.45,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 13.42,
+                        "total_2026_27": 13.42
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 11331.92,
+                        "capital_2024_25": 300.13,
+                        "total_2024_25": 11632.05,
+                        "budget_2025_26": 11645.39,
+                        "capital_2025_26": 556.12,
+                        "total_2025_26": 12201.51,
+                        "revised_2024_25": 9708.05,
+                        "capital_revised_2024_25": 454.05,
+                        "total_revised_2024_25": 10162.1,
+                        "budget_2026_27": 9993.69,
+                        "capital_2026_27": 474.5,
+                        "total_2026_27": 10468.19
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 497.66,
+                        "capital_2025_26": null,
+                        "total_2025_26": 497.66,
+                        "revised_2024_25": 421.88,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 421.88,
+                        "budget_2026_27": 427.94,
+                        "capital_2026_27": null,
+                        "total_2026_27": 427.94
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 9207.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9207.59,
+                        "budget_2025_26": 12524.24,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12524.24,
+                        "revised_2024_25": 7774.15,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7774.15,
+                        "budget_2026_27": 8889.54,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8889.54
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 27.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 27.01,
+                        "budget_2025_26": 53.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 53.2,
+                        "revised_2024_25": 44.58,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 44.58,
+                        "budget_2026_27": 126.15,
+                        "capital_2026_27": null,
+                        "total_2026_27": 126.15
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.22,
+                        "total_2025_26": 0.22,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.03,
+                        "total_revised_2024_25": 3.03,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.16,
+                        "total_2026_27": 1.16
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 9234.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9234.6,
+                        "budget_2025_26": 13075.1,
+                        "capital_2025_26": 0.22,
+                        "total_2025_26": 13075.32,
+                        "revised_2024_25": 8240.61,
+                        "capital_revised_2024_25": 3.03,
+                        "total_revised_2024_25": 8243.64,
+                        "budget_2026_27": 9443.63,
+                        "capital_2026_27": 1.16,
+                        "total_2026_27": 9444.79
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 20566.52,
+                        "capital_2024_25": 300.13,
+                        "total_2024_25": 20866.65,
+                        "budget_2025_26": 24720.49,
+                        "capital_2025_26": 556.34,
+                        "total_2025_26": 25276.83,
+                        "revised_2024_25": 17948.66,
+                        "capital_revised_2024_25": 457.08,
+                        "total_revised_2024_25": 18405.74,
+                        "budget_2026_27": 19437.32,
+                        "capital_2026_27": 475.66,
+                        "total_2026_27": 19912.98
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "WAPCOS Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.5,
+                        "total_2025_26": 1.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 1.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.5,
+                        "total_2026_27": 1.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-WAPCOS Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.5,
+                        "total_2025_26": 1.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 1.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.5,
+                        "total_2026_27": 1.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.5,
+                        "total_2025_26": 1.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 1.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.5,
+                        "total_2026_27": 1.5
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure of secretariat including all",
+            "items": []
+        },
+        {
+            "heading": "2. Central Water Commission:..Provision is for establishment expenditure of Central Water",
+            "items": []
+        },
+        {
+            "heading": "8. National Dam Safety Authority:..The provision is for establishment related expenditure of",
+            "items": []
+        },
+        {
+            "heading": "3. Central Water and Power Research Station:..The provision is for establishment expenditure",
+            "items": []
+        },
+        {
+            "heading": "10. National Water Informatics Centre:..Provision is for establishment expenditure of National",
+            "items": []
+        },
+        {
+            "heading": "4. Central Soil and Material Research Station:..The provision is for establishment expenditure Water Informatics Centre (NWIC), which acts as a central repository of updated water data & allied themes. NWIC",
+            "items": []
+        },
+        {
+            "heading": "and consultant in the above fields to various projects and organizations in India and abroad. 11. National River Conservation Directorate:..The provision is made for establishment",
+            "items": []
+        },
+        {
+            "heading": "expenditure for National River Conservation Directorate. The National River Conservation Directorate (NRCD) is",
+            "items": []
+        },
+        {
+            "heading": "5. Bansagar Control Board:..Provision is establishment expenditure of Bansagar Control Board.",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "North Eastern Regional Institute of Water and Land Management (NERIWALM):..The",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "6. Upper Yamuna River Board:..The provision is for establishment expenditure of monitoring of",
+            "items": []
+        },
+        {
+            "heading": "provision is for Grants for payment of Salaries for establishment related expenditure of North Eastern Regional Institute",
+            "items": []
+        },
+        {
+            "heading": "watershed management; monitoring and reviewing the progress of all projects upto and including Okhla barrage.",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "National Water Development Agency (NWDA):..The provision has been made to meet the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "establishment expenditure of NWDA. Its functions include detailed survey of possible reservoirs sites & interconnecting",
+            "items": []
+        },
+        {
+            "heading": "7. Central Ground Water Board:..The provision is for establishment expenditure of Central",
+            "items": []
+        },
+        {
+            "heading": "14. Brahmaputra Board:..The provision has been made to meet the establishment expenditure of 24. Ground Water Management and Regulation:..Provision is for execution of project relating to",
+            "items": [
+                {
+                    "code": "15",
+                    "name": "National Water Academy:..National Water Academy (NWA) is the central training institute for 25. National Hydrology Project:..Provision is for Implementation of National Hydrology Project,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Rajeev Gandhi National Ground Water Training and Research Institute:..Rajeev Gandhi Sediment Modelling study, National Water Informatics Centre (NWIC) etc. This scheme has been taken up with World",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "26",
+                    "name": "Research and Development and Implementation of National Water Mission:..Provision is",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "17. Polavaram Project Authority:..The provision is for establishment related expenditure of the for research and development to provide educational training and human resources development programs in the",
+            "items": []
+        },
+        {
+            "heading": "Polavaram Irrigation Project (PIP). water sector, and implementing schemes / projects for conservation of water, minimizing of wastage and ensuring its",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "Farakka Barrage Project:..Provision is for execution of Farakka Barrage Project. It was",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "27",
+                    "name": "Atal Bhujal Yojna:..Provision towards Atal Bhujal Yojna to implement project for improving and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "29. Har Khet Ko Pani:..Provision is to implement projects under the schemes of (i) Repair,",
+            "items": []
+        },
+        {
+            "heading": "20. Dam Rehabilitation and Improvement Programme:..Provision is for Dam Rehabilitation and Renovation and Restoration of Water Bodies, (ii) Surface Minor Irrigation Schemes, and (iii) Ground Water Irrigation",
+            "items": []
+        },
+        {
+            "heading": "Improvement Programme and Damodar Valley Corporation to undertake projects for Dam Safety and its rehabilitations. under Har Khet Ko Pani component of approved scheme of PMKSY.",
+            "items": []
+        },
+        {
+            "heading": "expenditure for Command Area Development & Water Management (CAD&WM) components of the umbrella scheme",
+            "items": []
+        },
+        {
+            "heading": "21. National Ganga Plan:..Provision is for implementing schemes/projects under EAP & Non-EAP Pradhan Mantri Krishi Sinchayi Yojna (PMKSY).",
+            "items": []
+        },
+        {
+            "heading": "31. Accelerated Irrigation Benefit Programme and National/Special Projects:..Provision is",
+            "items": []
+        },
+        {
+            "heading": "21.01. EAP Component:..Provision is for implementation of schemes/projects for the river Ganga and made to meet the expenditure for Accelerated Irrigation Benefit Programme (AIBP) and National/Special Projects",
+            "items": []
+        },
+        {
+            "heading": "its tributaries under NGP in EAP mode. It includes schemes for rehabilitation and up-gradation of existing Sewerage components of the umbrella scheme Pradhan Mantri Krishi Sinchayi Yojana (PMKSY).",
+            "items": []
+        },
+        {
+            "heading": "sustainability of assets. made to meet the expenditure for Modernization of Command Area Development & Water Management (M-",
+            "items": [
+                {
+                    "code": "21.03",
+                    "name": "Programme Component:..Provision is for implementation of National Ganga Plan through",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "commissioning of new STPs. mitigation of floods, hydrological observations and investigations of water resource projects with neighbouring",
+            "items": []
+        },
+        {
+            "heading": "22. River Basin Management:..Provision is for (i) Brahmaputra Board for carrying out its regular works, and maintenance of flood protection works of Kosi and Gandak Projects (in Nepal) etc.",
+            "items": []
+        },
+        {
+            "heading": "Schemes, Anti-erosion & Flood Management Works etc.; (ii) Investigation of Water Resources Development Scheme 35. Irrigation Census:..Provision is for implementation of the projects under Irrigation Census",
+            "items": []
+        },
+        {
+            "heading": "which has components for survey, investigation & preparation of DPRs by CWC and grants to NWDA for its regular schemes to take up rationalization of Minor Irrigation Census etc. The schemes aims at collecting comprehensive data",
+            "items": []
+        },
+        {
+            "heading": "expenditure of River Basin Authorities.",
+            "items": [
+                {
+                    "code": "37",
+                    "name": "National River Conservation Plan -Other Basins:..The main objective of National River",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "Development of Water Resources Information System:..Provision is for implementation of Conservation Plan (NRCP) is to improve the water quality of polluted stretches of rivers by reduction in pollution load",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "projects relating to standardized national information system with a network of data banks and data bases, integrating reaching the rivers by undertaking various pollution abatement works in the rivers excluding the Ganga basin.",
+            "items": []
+        },
+        {
+            "heading": "capabilities. 38. Interlinking of Rivers:..Provision is to meet the expenditure for various activities of inter-linking",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "39",
+                    "name": "Revised cost for completion of the Polavaram Irrigation Project (PIP) with water storage",
+                    "values": {
+                        "actual_2024_25": 41.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF JAL SHAKTI",
+            "items": []
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "demand_no": 73,
+    "ministry": "Ministry Of Parliamentary Affairs",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 56.68,
+                        "capital_2024_25": 6.34,
+                        "total_2024_25": 63.02,
+                        "budget_2025_26": 59.9,
+                        "capital_2025_26": 6.66,
+                        "total_2025_26": 66.56,
+                        "revised_2024_25": 58.6,
+                        "capital_revised_2024_25": 7.71,
+                        "total_revised_2024_25": 66.31,
+                        "budget_2026_27": 61.18,
+                        "capital_2026_27": 7.27,
+                        "total_2026_27": 68.45
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 24.42,
+                        "capital_2024_25": 6.34,
+                        "total_2024_25": 30.76,
+                        "budget_2025_26": 28.61,
+                        "capital_2025_26": 6.66,
+                        "total_2025_26": 35.27,
+                        "revised_2024_25": 27.56,
+                        "capital_revised_2024_25": 7.71,
+                        "total_revised_2024_25": 35.27,
+                        "budget_2026_27": 30.28,
+                        "capital_2026_27": 7.27,
+                        "total_2026_27": 37.55
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "National eVidhan Application",
+                    "values": {
+                        "actual_2024_25": 32.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": 32.26,
+                        "budget_2025_26": 31.29,
+                        "capital_2025_26": null,
+                        "total_2025_26": 31.29,
+                        "revised_2024_25": 31.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 31.04,
+                        "budget_2026_27": 30.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30.9
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 56.68,
+                        "capital_2024_25": 6.34,
+                        "total_2024_25": 63.02,
+                        "budget_2025_26": 59.9,
+                        "capital_2025_26": 6.66,
+                        "total_2025_26": 66.56,
+                        "revised_2024_25": 58.6,
+                        "capital_revised_2024_25": 7.71,
+                        "total_revised_2024_25": 66.31,
+                        "budget_2026_27": 61.18,
+                        "capital_2026_27": 7.27,
+                        "total_2026_27": 68.45
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 56.68,
+                        "capital_2024_25": 6.34,
+                        "total_2024_25": 63.02,
+                        "budget_2025_26": 59.9,
+                        "capital_2025_26": 6.66,
+                        "total_2025_26": 66.56,
+                        "revised_2024_25": 58.6,
+                        "capital_revised_2024_25": 7.71,
+                        "total_revised_2024_25": 66.31,
+                        "budget_2026_27": 61.18,
+                        "capital_2026_27": 7.27,
+                        "total_2026_27": 68.45
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat-General Services",
+                    "values": {
+                        "actual_2024_25": 56.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 56.68,
+                        "budget_2025_26": 59.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 59.9,
+                        "revised_2024_25": 58.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 58.6,
+                        "budget_2026_27": 61.18,
+                        "capital_2026_27": null,
+                        "total_2026_27": 61.18
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay on Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 6.34,
+                        "total_2024_25": 6.34,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 6.66,
+                        "total_2025_26": 6.66,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7.71,
+                        "total_revised_2024_25": 7.71,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7.27,
+                        "total_2026_27": 7.27
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 56.68,
+                        "capital_2024_25": 6.34,
+                        "total_2024_25": 63.02,
+                        "budget_2025_26": 59.9,
+                        "capital_2025_26": 6.66,
+                        "total_2025_26": 66.56,
+                        "revised_2024_25": 58.6,
+                        "capital_revised_2024_25": 7.71,
+                        "total_revised_2024_25": 66.31,
+                        "budget_2026_27": 61.18,
+                        "capital_2026_27": 7.27,
+                        "total_2026_27": 68.45
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 56.68,
+                        "capital_2024_25": 6.34,
+                        "total_2024_25": 63.02,
+                        "budget_2025_26": 59.9,
+                        "capital_2025_26": 6.66,
+                        "total_2025_26": 66.56,
+                        "revised_2024_25": 58.6,
+                        "capital_revised_2024_25": 7.71,
+                        "total_revised_2024_25": 66.31,
+                        "budget_2026_27": 61.18,
+                        "capital_2026_27": 7.27,
+                        "total_2026_27": 68.45
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for salaries etc. of staff of the Secretariat, expenditure for",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "National eVidhan Application:..National eVidhan Application-NeVA a Mission Mode Project",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF PERSONNEL, PUBLIC GRIEVANCES AND PENSIONS",
+            "items": []
+        }
+    ]
+}

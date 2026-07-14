@@ -1,0 +1,2323 @@
+{
+    "demand_no": 85,
+    "ministry": "Ministry Of Railways",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 3316.45,
+                        "capital_2024_25": 251946.56,
+                        "total_2024_25": 255263.01,
+                        "budget_2025_26": 3445.18,
+                        "capital_2025_26": 252000.0,
+                        "total_2025_26": 255445.18,
+                        "revised_2024_25": 3466.32,
+                        "capital_revised_2024_25": 252000.0,
+                        "total_revised_2024_25": 255466.32,
+                        "budget_2026_27": 3547.32,
+                        "capital_2026_27": 277830.0,
+                        "total_2026_27": 281377.32
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Working Expenses",
+                    "values": {
+                        "actual_2024_25": 116628.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 116628.69,
+                        "budget_2025_26": 127975.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 127975.36,
+                        "revised_2024_25": 119513.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 119513.1,
+                        "budget_2026_27": 123223.73,
+                        "capital_2026_27": null,
+                        "total_2026_27": 123223.73
+                    }
+                },
+                {
+                    "code": "1.01",
+                    "name": "Staff Cost",
+                    "values": {
+                        "actual_2024_25": 116628.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 116628.69,
+                        "budget_2025_26": 127975.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 127975.36,
+                        "revised_2024_25": 119513.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 119513.1,
+                        "budget_2026_27": 123223.73,
+                        "capital_2026_27": null,
+                        "total_2026_27": 123223.73
+                    }
+                },
+                {
+                    "code": "1.02",
+                    "name": "Office Expenses (Contingent Expenses)",
+                    "values": {
+                        "actual_2024_25": 1886.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1886.16,
+                        "budget_2025_26": 2334.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2334.5,
+                        "revised_2024_25": 2239.64,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2239.64,
+                        "budget_2026_27": 2698.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2698.9
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Working Expenses",
+                    "values": {
+                        "actual_2024_25": 118514.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 118514.85,
+                        "budget_2025_26": 130309.86,
+                        "capital_2025_26": null,
+                        "total_2025_26": 130309.86,
+                        "revised_2024_25": 121752.74,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 121752.74,
+                        "budget_2026_27": 125922.63,
+                        "capital_2026_27": null,
+                        "total_2026_27": 125922.63
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Other Ordinary Working Expenses",
+                    "values": {
+                        "actual_2024_25": 11866.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11866.83,
+                        "budget_2025_26": 9528.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9528.53,
+                        "revised_2024_25": 9925.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9925.21,
+                        "budget_2026_27": 7904.03,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7904.03
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Diesel for Traction",
+                    "values": {
+                        "actual_2024_25": 11866.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11866.83,
+                        "budget_2025_26": 9528.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9528.53,
+                        "revised_2024_25": 9925.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9925.21,
+                        "budget_2026_27": 7904.03,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7904.03
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Electricity for Traction",
+                    "values": {
+                        "actual_2024_25": 21018.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21018.86,
+                        "budget_2025_26": 24707.17,
+                        "capital_2025_26": null,
+                        "total_2025_26": 24707.17,
+                        "revised_2024_25": 23114.23,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23114.23,
+                        "budget_2026_27": 25182.53,
+                        "capital_2026_27": null,
+                        "total_2026_27": 25182.53
+                    }
+                },
+                {
+                    "code": "2.03",
+                    "name": "Materials for Repairs and Maintenance",
+                    "values": {
+                        "actual_2024_25": 14943.91,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14943.91,
+                        "budget_2025_26": 10371.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10371.33,
+                        "revised_2024_25": 11592.06,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11592.06,
+                        "budget_2026_27": 11219.26,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11219.26
+                    }
+                },
+                {
+                    "code": "2.04",
+                    "name": "Contractual Payments",
+                    "values": {
+                        "actual_2024_25": 12297.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12297.98,
+                        "budget_2025_26": 13586.35,
+                        "capital_2025_26": null,
+                        "total_2025_26": 13586.35,
+                        "revised_2024_25": 14777.96,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14777.96,
+                        "budget_2026_27": 15156.74,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15156.74
+                    }
+                },
+                {
+                    "code": "2.05",
+                    "name": "Lease/Hire Charges payable to Indian Railway",
+                    "values": {
+                        "actual_2024_25": 18237.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18237.35,
+                        "budget_2025_26": 31432.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 31432.5,
+                        "revised_2024_25": 23635.33,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23635.33,
+                        "budget_2026_27": 35129.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 35129.78
+                    }
+                },
+                {
+                    "code": "2.06",
+                    "name": "Inter Railway Financial Adjusment (Transfer of",
+                    "values": {
+                        "actual_2024_25": 290.12,
+                        "capital_2024_25": null,
+                        "total_2024_25": 290.12,
+                        "budget_2025_26": 1542.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1542.2,
+                        "revised_2024_25": 349.59,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 349.59,
+                        "budget_2026_27": 343.43,
+                        "capital_2026_27": null,
+                        "total_2026_27": 343.43
+                    }
+                },
+                {
+                    "code": "2.07",
+                    "name": "Electricity for Non-Traction",
+                    "values": {
+                        "actual_2024_25": 2118.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2118.23,
+                        "budget_2025_26": 2173.73,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2173.73,
+                        "revised_2024_25": 2156.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2156.35,
+                        "budget_2026_27": 2170.52,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2170.52
+                    }
+                },
+                {
+                    "code": "2.08",
+                    "name": "Fuel for other than Traction",
+                    "values": {
+                        "actual_2024_25": 1720.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1720.68,
+                        "budget_2025_26": 1849.99,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1849.99,
+                        "revised_2024_25": 1618.82,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1618.82,
+                        "budget_2026_27": 1624.68,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1624.68
+                    }
+                },
+                {
+                    "code": "2.09",
+                    "name": "GST etc",
+                    "values": {
+                        "actual_2024_25": 1214.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1214.23,
+                        "budget_2025_26": 1319.81,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1319.81,
+                        "revised_2024_25": 1297.19,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1297.19,
+                        "budget_2026_27": 1314.49,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1314.49
+                    }
+                },
+                {
+                    "code": "2.10",
+                    "name": "Security -Government Railway Police etc",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1947.04,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1947.04,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.11",
+                    "name": "Other Pensions Expenditure etc.",
+                    "values": {
+                        "actual_2024_25": 3153.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3153.35,
+                        "budget_2025_26": 784.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 784.1,
+                        "revised_2024_25": 1253.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1253.0,
+                        "budget_2026_27": 1213.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1213.0
+                    }
+                },
+                {
+                    "code": "2.12",
+                    "name": "Catering",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 892.17,
+                        "capital_2025_26": null,
+                        "total_2025_26": 892.17,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.13",
+                    "name": "Annual Maintenance Contract / Spectrum",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 478.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 478.03,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.14",
+                    "name": "Miscellaneous Expenditure",
+                    "values": {
+                        "actual_2024_25": 5159.91,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5159.91,
+                        "budget_2025_26": 2421.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2421.2,
+                        "revised_2024_25": 4429.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4429.53,
+                        "budget_2026_27": 4404.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4404.92
+                    }
+                },
+                {
+                    "code": "2.15",
+                    "name": "Appropriation to Depreciation Reserve Fund",
+                    "values": {
+                        "actual_2024_25": 800.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 800.0,
+                        "budget_2025_26": 1500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1500.0,
+                        "revised_2024_25": 1000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1000.0,
+                        "budget_2026_27": 1500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1500.0
+                    }
+                },
+                {
+                    "code": "2.16",
+                    "name": "Appropriation to Pension Fund",
+                    "values": {
+                        "actual_2024_25": 58241.31,
+                        "capital_2024_25": null,
+                        "total_2024_25": 58241.31,
+                        "budget_2025_26": 67344.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 67344.0,
+                        "revised_2024_25": 64241.31,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 64241.31,
+                        "budget_2026_27": 64001.93,
+                        "capital_2026_27": null,
+                        "total_2026_27": 64001.93
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "2.17",
+                    "name": "Expenditure on Pension",
+                    "values": {
+                        "actual_2024_25": 58844.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 58844.07,
+                        "budget_2025_26": 66000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 66000.0,
+                        "revised_2024_25": 65000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 65000.0,
+                        "budget_2026_27": 74500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 74500.0
+                    }
+                },
+                {
+                    "code": "2.18",
+                    "name": "Appropriation to Pension Fund towards re-",
+                    "values": {
+                        "actual_2024_25": 1358.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1358.69,
+                        "budget_2025_26": 1358.69,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1358.69,
+                        "revised_2024_25": 1358.69,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1358.69,
+                        "budget_2026_27": 7598.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7598.07
+                    }
+                },
+                {
+                    "code": "2.19",
+                    "name": "Deduct amount met from Pension Fund",
+                    "values": {
+                        "actual_2024_25": -58844.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": -58844.07,
+                        "budget_2025_26": -66000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -66000.0,
+                        "revised_2024_25": -65000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -65000.0,
+                        "budget_2026_27": -74500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -74500.0
+                    }
+                },
+                {
+                    "code": "2.20",
+                    "name": "Less Recoveries",
+                    "values": {
+                        "actual_2024_25": -7918.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": -7918.49,
+                        "budget_2025_26": -4488.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": -4488.01,
+                        "revised_2024_25": -5502.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -5502.01,
+                        "budget_2026_27": -5186.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": -5186.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 144502.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 144502.96,
+                        "budget_2025_26": 168748.83,
+                        "capital_2025_26": null,
+                        "total_2025_26": 168748.83,
+                        "revised_2024_25": 155247.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 155247.26,
+                        "budget_2026_27": 173577.37,
+                        "capital_2026_27": null,
+                        "total_2026_27": 173577.37
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Appropriation to Railway Funds from Surplus",
+                    "values": {
+                        "actual_2024_25": 541.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 541.39,
+                        "budget_2025_26": 1041.31,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1041.31,
+                        "revised_2024_25": 957.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 957.48,
+                        "budget_2026_27": 1000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1000.0
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Appropriation to Development Fund",
+                    "values": {
+                        "actual_2024_25": 541.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 541.39,
+                        "budget_2025_26": 1041.31,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1041.31,
+                        "revised_2024_25": 957.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 957.48,
+                        "budget_2026_27": 1000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1000.0
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Appropriation to Rashtirya Rail Sanraksha Kosh",
+                    "values": {
+                        "actual_2024_25": 2118.88,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2118.88,
+                        "budget_2025_26": 2000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2000.0,
+                        "revised_2024_25": 1000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1000.0,
+                        "budget_2026_27": 2000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2000.0
+                    }
+                },
+                {
+                    "code": "3.03",
+                    "name": "Appropriation to Capital Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Appropriation to Railway Funds from Surplus",
+                    "values": {
+                        "actual_2024_25": 2660.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2660.27,
+                        "budget_2025_26": 3041.31,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3041.31,
+                        "revised_2024_25": 1957.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1957.48,
+                        "budget_2026_27": 3000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3000.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "Railway Revenue Receipts",
+                    "values": {
+                        "actual_2024_25": -75367.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": -75367.52,
+                        "budget_2025_26": -92800.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -92800.0,
+                        "revised_2024_25": -80000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -80000.0,
+                        "budget_2026_27": -87300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -87300.0
+                    }
+                },
+                {
+                    "code": "4.01",
+                    "name": "Passenger",
+                    "values": {
+                        "actual_2024_25": -75367.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": -75367.52,
+                        "budget_2025_26": -92800.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -92800.0,
+                        "revised_2024_25": -80000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -80000.0,
+                        "budget_2026_27": -87300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -87300.0
+                    }
+                },
+                {
+                    "code": "4.02",
+                    "name": "Other Coaching",
+                    "values": {
+                        "actual_2024_25": -6886.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": -6886.77,
+                        "budget_2025_26": -8500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -8500.0,
+                        "revised_2024_25": -7500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -7500.0,
+                        "budget_2026_27": -9500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -9500.0
+                    }
+                },
+                {
+                    "code": "4.03",
+                    "name": "Goods",
+                    "values": {
+                        "actual_2024_25": -171163.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": -171163.15,
+                        "budget_2025_26": -188000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -188000.0,
+                        "revised_2024_25": -178457.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -178457.48,
+                        "budget_2026_27": -188800.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -188800.0
+                    }
+                },
+                {
+                    "code": "4.04",
+                    "name": "Sundry",
+                    "values": {
+                        "actual_2024_25": -11586.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": -11586.55,
+                        "budget_2025_26": -12000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -12000.0,
+                        "revised_2024_25": -12200.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -12200.0,
+                        "budget_2026_27": -16000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -16000.0
+                    }
+                },
+                {
+                    "code": "4.05",
+                    "name": "Suspense",
+                    "values": {
+                        "actual_2024_25": -109.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": -109.62,
+                        "budget_2025_26": -100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -100.0,
+                        "revised_2024_25": -100.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -100.0,
+                        "budget_2026_27": -100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -100.0
+                    }
+                },
+                {
+                    "code": "4.06",
+                    "name": "Other Miscellaneous Receipts",
+                    "values": {
+                        "actual_2024_25": -564.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": -564.47,
+                        "budget_2025_26": -700.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -700.0,
+                        "revised_2024_25": -700.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -700.0,
+                        "budget_2026_27": -800.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -800.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": -265678.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": -265678.08,
+                        "budget_2025_26": -302100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -302100.0,
+                        "revised_2024_25": -278957.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -278957.48,
+                        "budget_2026_27": -302500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -302500.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "Budget Support from General Revenues",
+                    "values": {
+                        "actual_2024_25": 2602.81,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2602.81,
+                        "budget_2025_26": 2739.18,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2739.18,
+                        "revised_2024_25": 2760.32,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2760.32,
+                        "budget_2026_27": 2882.32,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2882.32
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "Reimbursement of losses on operation of",
+                    "values": {
+                        "actual_2024_25": 2602.81,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2602.81,
+                        "budget_2025_26": 2739.18,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2739.18,
+                        "revised_2024_25": 2760.32,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2760.32,
+                        "budget_2026_27": 2882.32,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2882.32
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "Debt Servicing (interest component) against",
+                    "values": {
+                        "actual_2024_25": 713.64,
+                        "capital_2024_25": null,
+                        "total_2024_25": 713.64,
+                        "budget_2025_26": 706.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 706.0,
+                        "revised_2024_25": 706.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 706.0,
+                        "budget_2026_27": 665.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 665.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "market borrowings for National Projects in 2018-",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 19.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Budget Support from General Revenues",
+                    "values": {
+                        "actual_2024_25": 3316.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3316.45,
+                        "budget_2025_26": 3445.18,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3445.18,
+                        "revised_2024_25": 3466.32,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3466.32,
+                        "budget_2026_27": 3547.32,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3547.32
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 3316.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3316.45,
+                        "budget_2025_26": 3445.18,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3445.18,
+                        "revised_2024_25": 3466.32,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3466.32,
+                        "budget_2026_27": 3547.32,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3547.32
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Transfer to Central Road and Infrastructure Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 11000.0,
+                        "total_2024_25": 11000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 13000.0,
+                        "total_2025_26": 13000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 13000.0,
+                        "total_revised_2024_25": 13000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 13000.0,
+                        "total_2026_27": 13000.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Transfer to National Investment Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 12000.0,
+                        "total_2024_25": 12000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 14000.0,
+                        "total_2025_26": 14000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10000.0,
+                        "total_revised_2024_25": 10000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 31639.0,
+                        "total_2026_27": 31639.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "New Lines",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 33363.03,
+                        "total_2024_25": 33363.03,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 32235.24,
+                        "total_2025_26": 32235.24,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 30631.5,
+                        "total_revised_2024_25": 30631.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 36721.55,
+                        "total_2026_27": 36721.55
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Gauge Conversion",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5212.3,
+                        "total_2024_25": 5212.3,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4550.0,
+                        "total_2025_26": 4550.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4284.0,
+                        "total_revised_2024_25": 4284.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4600.0,
+                        "total_2026_27": 4600.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Doubling",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 32791.16,
+                        "total_2024_25": 32791.16,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 32000.0,
+                        "total_2025_26": 32000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 29026.0,
+                        "total_revised_2024_25": 29026.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 37750.0,
+                        "total_2026_27": 37750.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Computerisation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 360.98,
+                        "total_2024_25": 360.98,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 428.0,
+                        "total_2025_26": 428.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 441.01,
+                        "total_revised_2024_25": 441.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 492.64,
+                        "total_2026_27": 492.64
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Traffic Facilities - Yard Remodelling and Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7334.29,
+                        "total_2024_25": 7334.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 8601.0,
+                        "total_2025_26": 8601.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7873.5,
+                        "total_revised_2024_25": 7873.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7897.27,
+                        "total_2026_27": 7897.27
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Railway Research",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 42.44,
+                        "total_2024_25": 42.44,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 60.6,
+                        "total_2025_26": 60.6,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 87.26,
+                        "total_revised_2024_25": 87.26,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 86.72,
+                        "total_2026_27": 86.72
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Rolling Stock",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 47827.34,
+                        "total_2024_25": 47827.34,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 45530.15,
+                        "total_2025_26": 45530.15,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 50007.77,
+                        "total_revised_2024_25": 50007.77,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 52108.73,
+                        "total_2026_27": 52108.73
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Leased assets - Payment of Capital Component",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 22699.42,
+                        "total_2024_25": 22699.42,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 27904.65,
+                        "total_2025_26": 27904.65,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 28157.13,
+                        "total_revised_2024_25": 28157.13,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 39650.0,
+                        "total_2026_27": 39650.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Road Safety Works - Level Crossings",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 598.83,
+                        "total_2024_25": 598.83,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 706.0,
+                        "total_2025_26": 706.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 700.0,
+                        "total_revised_2024_25": 700.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 800.0,
+                        "total_2026_27": 800.0
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Road Safety Works - Road Over/Under Bridges",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7048.85,
+                        "total_2024_25": 7048.85,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7000.0,
+                        "total_2025_26": 7000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7734.42,
+                        "total_revised_2024_25": 7734.42,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 8225.0,
+                        "total_2026_27": 8225.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Track Renewals",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 23432.67,
+                        "total_2024_25": 23432.67,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 22800.0,
+                        "total_2025_26": 22800.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 25166.45,
+                        "total_revised_2024_25": 25166.45,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 22853.0,
+                        "total_2026_27": 22853.0
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Bridge Works, Turnnel Works and Approaches",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2160.59,
+                        "total_2024_25": 2160.59,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2169.0,
+                        "total_2025_26": 2169.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2528.61,
+                        "total_revised_2024_25": 2528.61,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2557.96,
+                        "total_2026_27": 2557.96
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Signalling and Telecom",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5567.6,
+                        "total_2024_25": 5567.6,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 6800.0,
+                        "total_2025_26": 6800.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 6500.0,
+                        "total_revised_2024_25": 6500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7500.0,
+                        "total_2026_27": 7500.0
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Electrification Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4248.38,
+                        "total_2024_25": 4248.38,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 6150.0,
+                        "total_2025_26": 6150.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4500.0,
+                        "total_revised_2024_25": 4500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5000.0,
+                        "total_2026_27": 5000.0
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Other Electrical Works",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1596.41,
+                        "total_2024_25": 1596.41,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1650.5,
+                        "total_2025_26": 1650.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1958.83,
+                        "total_revised_2024_25": 1958.83,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1952.27,
+                        "total_2026_27": 1952.27
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "Machinery and Plant",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 440.59,
+                        "total_2024_25": 440.59,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 505.0,
+                        "total_2025_26": 505.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 622.33,
+                        "total_revised_2024_25": 622.33,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 649.49,
+                        "total_2026_27": 649.49
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Workshop Including Production Units",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3989.54,
+                        "total_2024_25": 3989.54,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4623.5,
+                        "total_2025_26": 4623.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3185.0,
+                        "total_revised_2024_25": 3185.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3888.29,
+                        "total_2026_27": 3888.29
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "Staff Welfare",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 722.58,
+                        "total_2024_25": 722.58,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 833.0,
+                        "total_2025_26": 833.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1000.0,
+                        "total_revised_2024_25": 1000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 967.31,
+                        "total_2026_27": 967.31
+                    }
+                },
+                {
+                    "code": "26",
+                    "name": "Customer Amenities",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 13034.11,
+                        "total_2024_25": 13034.11,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 12118.39,
+                        "total_2025_26": 12118.39,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 12120.5,
+                        "total_revised_2024_25": 12120.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 11971.82,
+                        "total_2026_27": 11971.82
+                    }
+                },
+                {
+                    "code": "27",
+                    "name": "Investment in PSU/JV/SPV etc.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 25363.52,
+                        "total_2024_25": 25363.52,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 22444.33,
+                        "total_2025_26": 22444.33,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 21598.4,
+                        "total_revised_2024_25": 21598.4,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 17251.0,
+                        "total_2026_27": 17251.0
+                    }
+                },
+                {
+                    "code": "28",
+                    "name": "Other Specified Works",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1150.68,
+                        "total_2024_25": 1150.68,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1241.0,
+                        "total_2025_26": 1241.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1370.62,
+                        "total_revised_2024_25": 1370.62,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1370.77,
+                        "total_2026_27": 1370.77
+                    }
+                },
+                {
+                    "code": "29",
+                    "name": "Training/Human Resource Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 152.76,
+                        "total_2024_25": 152.76,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 301.0,
+                        "total_2025_26": 301.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 395.06,
+                        "total_revised_2024_25": 395.06,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 488.28,
+                        "total_2026_27": 488.28
+                    }
+                },
+                {
+                    "code": "30",
+                    "name": "Stores Suspense",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 23404.57,
+                        "total_2024_25": 23404.57,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 24528.72,
+                        "total_2025_26": 24528.72,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 24487.83,
+                        "total_revised_2024_25": 24487.83,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 27833.84,
+                        "total_2026_27": 27833.84
+                    }
+                },
+                {
+                    "code": "31",
+                    "name": "Manufacturing Suspense",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 54851.22,
+                        "total_2024_25": 54851.22,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 64224.28,
+                        "total_2025_26": 64224.28,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 64905.68,
+                        "total_revised_2024_25": 64905.68,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 73631.52,
+                        "total_2026_27": 73631.52
+                    }
+                },
+                {
+                    "code": "32",
+                    "name": "Miscellaneous Advances",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1379.35,
+                        "total_2024_25": 1379.35,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 505.2,
+                        "total_2025_26": 505.2,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 589.54,
+                        "total_revised_2024_25": 589.54,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 489.51,
+                        "total_2026_27": 489.51
+                    }
+                },
+                {
+                    "code": "33",
+                    "name": "Metropolitan Transportation Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1446.59,
+                        "total_2024_25": 1446.59,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2368.0,
+                        "total_2025_26": 2368.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2355.0,
+                        "total_revised_2024_25": 2355.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2886.0,
+                        "total_2026_27": 2886.0
+                    }
+                },
+                {
+                    "code": "34",
+                    "name": "Transfer to Rashtirya Rail Sanraksha Kosh",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 10000.0,
+                        "total_2024_25": 10000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 10000.0,
+                        "total_2025_26": 10000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10000.0,
+                        "total_revised_2024_25": 10000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 10000.0,
+                        "total_2026_27": 10000.0
+                    }
+                },
+                {
+                    "code": "34.01",
+                    "name": "From Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 10000.0,
+                        "total_2024_25": 10000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 10000.0,
+                        "total_2025_26": 10000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10000.0,
+                        "total_revised_2024_25": 10000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 10000.0,
+                        "total_2026_27": 10000.0
+                    }
+                },
+                {
+                    "code": "35",
+                    "name": "Transfer to Railway Safety Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 44999.73,
+                        "total_2024_25": 44999.73,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 45000.0,
+                        "total_2025_26": 45000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 45000.0,
+                        "total_revised_2024_25": 45000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 45000.0,
+                        "total_2026_27": 45000.0
+                    }
+                },
+                {
+                    "code": "36",
+                    "name": "Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 14996.29,
+                        "total_2024_25": 14996.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 15000.0,
+                        "total_2025_26": 15000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15000.0,
+                        "total_revised_2024_25": 15000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15000.0,
+                        "total_2026_27": 15000.0
+                    }
+                },
+                {
+                    "code": "36.01",
+                    "name": "Transfer to Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 14996.29,
+                        "total_2024_25": 14996.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 15000.0,
+                        "total_2025_26": 15000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15000.0,
+                        "total_revised_2024_25": 15000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15000.0,
+                        "total_2026_27": 15000.0
+                    }
+                },
+                {
+                    "code": "36.02",
+                    "name": "Production of energy efficient three phase",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 12797.21,
+                        "total_2024_25": 12797.21,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 13364.78,
+                        "total_2025_26": 13364.78,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 13364.78,
+                        "total_revised_2024_25": 13364.78,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 13387.9,
+                        "total_2026_27": 13387.9
+                    }
+                },
+                {
+                    "code": "36.03",
+                    "name": "Dum Dum airport New Garia via Rajerhat",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1449.08,
+                        "total_2024_25": 1449.08,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 720.72,
+                        "total_2025_26": 720.72,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 911.32,
+                        "total_revised_2024_25": 911.32,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 705.5,
+                        "total_2026_27": 705.5
+                    }
+                },
+                {
+                    "code": "36.04",
+                    "name": "Joka Binoy Badal Dinesh Bagh via Majerhat",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 750.0,
+                        "total_2024_25": 750.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 914.5,
+                        "total_2025_26": 914.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 723.9,
+                        "total_revised_2024_25": 723.9,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 906.6,
+                        "total_2026_27": 906.6
+                    }
+                },
+                {
+                    "code": "36.05",
+                    "name": "Amount met from Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -14996.29,
+                        "total_2024_25": -14996.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -15000.0,
+                        "total_2025_26": -15000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -15000.0,
+                        "total_revised_2024_25": -15000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -15000.0,
+                        "total_2026_27": -15000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 14996.29,
+                        "total_2024_25": 14996.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 15000.0,
+                        "total_2025_26": 15000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15000.0,
+                        "total_revised_2024_25": 15000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15000.0,
+                        "total_2026_27": 15000.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "37",
+                    "name": "Issue of Bonus Shares",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -377.3,
+                        "total_2024_25": -377.3,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -8.35,
+                        "total_revised_2024_25": -8.35,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "37.01",
+                    "name": "Receipts Assumed",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -377.3,
+                        "total_2024_25": -377.3,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -8.35,
+                        "total_revised_2024_25": -8.35,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "37.02",
+                    "name": "M/S Rail India Techn ical and Economic",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 317.2,
+                        "total_2024_25": 317.2,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "37.03",
+                    "name": "M/S Container Corporation of India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 60.1,
+                        "total_2024_25": 60.1,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 8.35,
+                        "total_revised_2024_25": 8.35,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total- Issue of Bonus Shares",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "38",
+                    "name": "Amount met from",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -11000.0,
+                        "total_2024_25": -11000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -13000.0,
+                        "total_2025_26": -13000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -13000.0,
+                        "total_revised_2024_25": -13000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -13000.0,
+                        "total_2026_27": -13000.0
+                    }
+                },
+                {
+                    "code": "38.01",
+                    "name": "Central Road and Infrastructure Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -11000.0,
+                        "total_2024_25": -11000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -13000.0,
+                        "total_2025_26": -13000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -13000.0,
+                        "total_revised_2024_25": -13000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -13000.0,
+                        "total_2026_27": -13000.0
+                    }
+                },
+                {
+                    "code": "38.02",
+                    "name": "National Investment Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -12000.0,
+                        "total_2024_25": -12000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -14000.0,
+                        "total_2025_26": -14000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -10000.0,
+                        "total_revised_2024_25": -10000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -31639.0,
+                        "total_2026_27": -31639.0
+                    }
+                },
+                {
+                    "code": "38.04",
+                    "name": "Depreciation Reserve Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -540.67,
+                        "total_2024_25": -540.67,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -1000.0,
+                        "total_2025_26": -1000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -1000.0,
+                        "total_revised_2024_25": -1000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -1000.0,
+                        "total_2026_27": -1000.0
+                    }
+                },
+                {
+                    "code": "38.05",
+                    "name": "Development Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -447.53,
+                        "total_2024_25": -447.53,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -1000.0,
+                        "total_2025_26": -1000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -1000.0,
+                        "total_revised_2024_25": -1000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -1000.0,
+                        "total_2026_27": -1000.0
+                    }
+                },
+                {
+                    "code": "38.06",
+                    "name": "Credits or Recoveries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -81281.62,
+                        "total_2024_25": -81281.62,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -92077.56,
+                        "total_2025_26": -92077.56,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -92026.44,
+                        "total_revised_2024_25": -92026.44,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -103592.97,
+                        "total_2026_27": -103592.97
+                    }
+                },
+                {
+                    "code": "38.07",
+                    "name": "Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -200.0,
+                        "total_2025_26": -200.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -200.0,
+                        "total_revised_2024_25": -200.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -200.0,
+                        "total_2026_27": -200.0
+                    }
+                },
+                {
+                    "code": "38.08",
+                    "name": "Rashtriya Rail Sanraksha Kosh",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -10999.71,
+                        "total_2024_25": -10999.71,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -11000.0,
+                        "total_2025_26": -11000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -11000.0,
+                        "total_revised_2024_25": -11000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -11000.0,
+                        "total_2026_27": -11000.0
+                    }
+                },
+                {
+                    "code": "38.09",
+                    "name": "Railway Safety Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -44999.73,
+                        "total_2024_25": -44999.73,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -45000.0,
+                        "total_2025_26": -45000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -45000.0,
+                        "total_revised_2024_25": -45000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -45000.0,
+                        "total_2026_27": -45000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -161269.26,
+                        "total_2024_25": -161269.26,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -177277.56,
+                        "total_2025_26": -177277.56,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -173226.44,
+                        "total_revised_2024_25": -173226.44,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -206431.97,
+                        "total_2026_27": -206431.97
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 251946.56,
+                        "total_2024_25": 251946.56,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 252000.0,
+                        "total_2025_26": 252000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 252000.0,
+                        "total_revised_2024_25": 252000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 277830.0,
+                        "total_2026_27": 277830.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3316.45,
+                        "capital_2024_25": 251946.56,
+                        "total_2024_25": 255263.01,
+                        "budget_2025_26": 3445.18,
+                        "capital_2025_26": 252000.0,
+                        "total_2025_26": 255445.18,
+                        "revised_2024_25": 3466.32,
+                        "capital_revised_2024_25": 252000.0,
+                        "total_revised_2024_25": 255466.32,
+                        "budget_2026_27": 3547.32,
+                        "capital_2026_27": 277830.0,
+                        "total_2026_27": 281377.32
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Indian Railways - Policy Formulation, Direction, Research",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Indian Railways - Commercial Lines - Working Expenses",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Indian Railways - Strategic Lines - Working Expenses",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Appropriation from Railway Surplus",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Other Transport Services",
+                    "values": {
+                        "actual_2024_25": 3316.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3316.45,
+                        "budget_2025_26": 3445.18,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3445.18,
+                        "revised_2024_25": 3466.32,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3466.32,
+                        "budget_2026_27": 3547.32,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3547.32
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on Indian Railways - Commercial Lines",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 251915.73,
+                        "total_2024_25": 251915.73,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 251950.81,
+                        "total_2025_26": 251950.81,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 251943.83,
+                        "total_revised_2024_25": 251943.83,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 277697.42,
+                        "total_2026_27": 277697.42
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Capital Outlay on Indian Railways - Strategic Lines",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 30.83,
+                        "total_2024_25": 30.83,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 49.19,
+                        "total_2025_26": 49.19,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 56.17,
+                        "total_revised_2024_25": 56.17,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 132.58,
+                        "total_2026_27": 132.58
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 3316.45,
+                        "capital_2024_25": 251946.56,
+                        "total_2024_25": 255263.01,
+                        "budget_2025_26": 3445.18,
+                        "capital_2025_26": 252000.0,
+                        "total_2025_26": 255445.18,
+                        "revised_2024_25": 3466.32,
+                        "capital_revised_2024_25": 252000.0,
+                        "total_revised_2024_25": 255466.32,
+                        "budget_2026_27": 3547.32,
+                        "capital_2026_27": 277830.0,
+                        "total_2026_27": 281377.32
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3316.45,
+                        "capital_2024_25": 251946.56,
+                        "total_2024_25": 255263.01,
+                        "budget_2025_26": 3445.18,
+                        "capital_2025_26": 252000.0,
+                        "total_2025_26": 255445.18,
+                        "revised_2024_25": 3466.32,
+                        "capital_revised_2024_25": 252000.0,
+                        "total_revised_2024_25": 255466.32,
+                        "budget_2026_27": 3547.32,
+                        "capital_2026_27": 277830.0,
+                        "total_2026_27": 281377.32
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Indian Railway Finance",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Dedicated Freight Corridor",
+                    "values": {
+                        "actual_2024_25": 7899.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7899.0,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 4370.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4370.75,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Kolkata Metro Rail Corporation",
+                    "values": {
+                        "actual_2024_25": 500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 500.0,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 647.68,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 647.68,
+                        "budget_2026_27": 529.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 529.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "National High Speed Rail",
+                    "values": {
+                        "actual_2024_25": 16000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16000.0,
+                        "budget_2025_26": 19000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 19000.0,
+                        "revised_2024_25": 15500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15500.0,
+                        "budget_2026_27": 15000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15000.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Equity in State Joint Ventures and",
+                    "values": {
+                        "actual_2024_25": 964.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": 964.52,
+                        "budget_2025_26": 2094.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2094.33,
+                        "revised_2024_25": 729.97,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 729.97,
+                        "budget_2026_27": 722.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 722.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Indian Railways",
+                    "values": {
+                        "actual_2024_25": 226858.65,
+                        "capital_2024_25": 1987.92,
+                        "total_2024_25": 228846.57,
+                        "budget_2025_26": 229555.67,
+                        "capital_2025_26": 3000.0,
+                        "total_2025_26": 232555.67,
+                        "revised_2024_25": 230401.6,
+                        "capital_revised_2024_25": 3000.0,
+                        "total_revised_2024_25": 233401.6,
+                        "budget_2026_27": 260579.0,
+                        "capital_2026_27": 3000.0,
+                        "total_2026_27": 263579.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Public Private Partnership and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 15048.85,
+                        "total_2024_25": 15048.85,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 10000.0,
+                        "total_2025_26": 10000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10000.0,
+                        "total_revised_2024_25": 10000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 12000.0,
+                        "total_2026_27": 12000.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Bengaluru Suburban Transport",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 350.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 350.0,
+                        "revised_2024_25": 350.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 350.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Indian Railways",
+                    "values": {
+                        "actual_2024_25": 252222.17,
+                        "capital_2024_25": 17036.77,
+                        "total_2024_25": 269258.94,
+                        "budget_2025_26": 252000.0,
+                        "capital_2025_26": 13000.0,
+                        "total_2025_26": 265000.0,
+                        "revised_2024_25": 252000.0,
+                        "capital_revised_2024_25": 13000.0,
+                        "total_revised_2024_25": 265000.0,
+                        "budget_2026_27": 277830.0,
+                        "capital_2026_27": 15000.0,
+                        "total_2026_27": 292830.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": 252222.17,
+                        "capital_2024_25": 17036.77,
+                        "total_2024_25": 269258.94,
+                        "budget_2025_26": 252000.0,
+                        "capital_2025_26": 13000.0,
+                        "total_2025_26": 265000.0,
+                        "revised_2024_25": 252000.0,
+                        "capital_revised_2024_25": 13000.0,
+                        "total_revised_2024_25": 265000.0,
+                        "budget_2026_27": 277830.0,
+                        "capital_2026_27": 15000.0,
+                        "total_2026_27": 292830.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2.18",
+                    "name": "Appropriation to Pension Fund towards re-payment of Covid related Loans:..This is for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Railway Revenue Receipts:..The revenue receipts of the Ministry of Railways are used to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "finance revenue expenditure on its Working Expenses, Pay & Allowances, Pensions payable to employees etc. except",
+            "items": []
+        },
+        {
+            "heading": "for the expenditure on strategic lines which is partially met from the general revenues through Gross Budgetary",
+            "items": [
+                {
+                    "code": "5.01",
+                    "name": "Reimbursement of losses on operation of Strategic lines:..The provisions of..`.2,882.32",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "5.02. Debt Servicing (interest component) against market borrowings for National Projects in",
+            "items": []
+        },
+        {
+            "heading": "for National Projects...",
+            "items": []
+        },
+        {
+            "heading": "The provision under Capital expenditure towards New Lines, Gauge conversion, Doubling, Traffic facilities,",
+            "items": []
+        },
+        {
+            "heading": "expenditure in BE 2026-27. Further amount of..`.200 crore is being met from Nirbhaya Fund in BE 2026-27...",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF ROAD TRANSPORT AND HIGHWAYS",
+            "items": []
+        }
+    ]
+}

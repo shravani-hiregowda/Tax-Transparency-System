@@ -1,0 +1,1003 @@
+{
+    "demand_no": 23,
+    "ministry": "Ministry Of Development Of North Eastern Region",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 1047.41,
+                        "capital_2024_25": 2323.21,
+                        "total_2024_25": 3370.62,
+                        "budget_2025_26": 1882.76,
+                        "capital_2025_26": 4032.24,
+                        "total_2025_26": 5915.0,
+                        "revised_2024_25": 1411.79,
+                        "capital_revised_2024_25": 3067.41,
+                        "total_revised_2024_25": 4479.2,
+                        "budget_2026_27": 2247.7,
+                        "capital_2026_27": 4564.6,
+                        "total_2026_27": 6812.3
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 30.69,
+                        "capital_2024_25": 0.48,
+                        "total_2024_25": 31.17,
+                        "budget_2025_26": 34.44,
+                        "capital_2025_26": 0.6,
+                        "total_2025_26": 35.04,
+                        "revised_2024_25": 33.1,
+                        "capital_revised_2024_25": 0.6,
+                        "total_revised_2024_25": 33.7,
+                        "budget_2026_27": 34.71,
+                        "capital_2026_27": 0.59,
+                        "total_2026_27": 35.3
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -0.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.16,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 30.53,
+                        "capital_2024_25": 0.48,
+                        "total_2024_25": 31.01,
+                        "budget_2025_26": 34.44,
+                        "capital_2025_26": 0.6,
+                        "total_2025_26": 35.04,
+                        "revised_2024_25": 33.1,
+                        "capital_revised_2024_25": 0.6,
+                        "total_revised_2024_25": 33.7,
+                        "budget_2026_27": 34.71,
+                        "capital_2026_27": 0.59,
+                        "total_2026_27": 35.3
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": []
+        },
+        {
+            "heading": "Schemes of North East Council",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Schemes of North East Council",
+                    "values": {
+                        "actual_2024_25": 712.65,
+                        "capital_2024_25": 24.15,
+                        "total_2024_25": 736.8,
+                        "budget_2025_26": 763.29,
+                        "capital_2025_26": 58.71,
+                        "total_2025_26": 822.0,
+                        "revised_2024_25": 763.29,
+                        "capital_revised_2024_25": 236.71,
+                        "total_revised_2024_25": 1000.0,
+                        "budget_2026_27": 805.01,
+                        "capital_2026_27": 19.99,
+                        "total_2026_27": 825.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "North East Special Infrastructure Development Scheme (NESIDS)",
+                    "values": {
+                        "actual_2024_25": 43.81,
+                        "capital_2024_25": 1418.57,
+                        "total_2024_25": 1462.38,
+                        "budget_2025_26": 95.53,
+                        "capital_2025_26": 2385.47,
+                        "total_2025_26": 2481.0,
+                        "revised_2024_25": 93.35,
+                        "capital_revised_2024_25": 1506.65,
+                        "total_revised_2024_25": 1600.0,
+                        "budget_2026_27": 95.53,
+                        "capital_2026_27": 2404.47,
+                        "total_2026_27": 2500.0
+                    }
+                },
+                {
+                    "code": "4.01",
+                    "name": "NESIDS Programme",
+                    "values": {
+                        "actual_2024_25": 43.81,
+                        "capital_2024_25": 1418.57,
+                        "total_2024_25": 1462.38,
+                        "budget_2025_26": 95.53,
+                        "capital_2025_26": 2385.47,
+                        "total_2025_26": 2481.0,
+                        "revised_2024_25": 93.35,
+                        "capital_revised_2024_25": 1506.65,
+                        "total_revised_2024_25": 1600.0,
+                        "budget_2026_27": 95.53,
+                        "capital_2026_27": 2404.47,
+                        "total_2026_27": 2500.0
+                    }
+                },
+                {
+                    "code": "4.02",
+                    "name": "Central Pool of Resources for North East and",
+                    "values": {
+                        "actual_2024_25": -36.39,
+                        "capital_2024_25": -24.22,
+                        "total_2024_25": -60.61,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4.03",
+                    "name": "Advocacy & Publicity and Capacity",
+                    "values": {
+                        "actual_2024_25": -1.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1.57,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 5.85,
+                        "capital_2024_25": 1394.35,
+                        "total_2024_25": 1400.2,
+                        "budget_2025_26": 95.53,
+                        "capital_2025_26": 2385.47,
+                        "total_2025_26": 2481.0,
+                        "revised_2024_25": 93.35,
+                        "capital_revised_2024_25": 1506.65,
+                        "total_revised_2024_25": 1600.0,
+                        "budget_2026_27": 95.53,
+                        "capital_2026_27": 2404.47,
+                        "total_2026_27": 2500.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North East Enterprise Development Scheme (NEEDS)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 70.0,
+                        "total_2024_25": 70.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 80.0,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 80.0,
+                        "total_revised_2024_25": 80.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Special Development Packages",
+                    "values": {
+                        "actual_2024_25": 7.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.76,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 53.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 53.0,
+                        "budget_2026_27": 156.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 156.0
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Special package for Bodoland Territorial Council",
+                    "values": {
+                        "actual_2024_25": 7.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.76,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 53.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 53.0,
+                        "budget_2026_27": 156.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 156.0
+                    }
+                },
+                {
+                    "code": "6.02",
+                    "name": "Special package for Karbi Anglong (KAATC)",
+                    "values": {
+                        "actual_2024_25": 94.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 94.99,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 95.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 95.0,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "6.03",
+                    "name": "Special package for Dima Hasao (DHATC)",
+                    "values": {
+                        "actual_2024_25": 29.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.73,
+                        "budget_2025_26": 100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": 16.96,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 16.96,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.04",
+                    "name": "Special package for Adivasi Groups of Assam",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 70.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 70.0
+                    }
+                },
+                {
+                    "code": "6.05",
+                    "name": "Special package for Dimasa People of Assam",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 70.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 70.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "6.06",
+                    "name": "Special package for ULFA Groups of Assam",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "6.07",
+                    "name": "Special package for Tribals of Tripura",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Special Development Packages",
+                    "values": {
+                        "actual_2024_25": 132.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 132.48,
+                        "budget_2025_26": 200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": 165.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 165.0,
+                        "budget_2026_27": 1046.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1046.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Prime Minister's Development Initiative for North East Region (PM-DevINE)",
+                    "values": {
+                        "actual_2024_25": 180.65,
+                        "capital_2024_25": 834.23,
+                        "total_2024_25": 1014.88,
+                        "budget_2025_26": 789.5,
+                        "capital_2025_26": 1507.46,
+                        "total_2025_26": 2296.96,
+                        "revised_2024_25": 356.55,
+                        "capital_revised_2024_25": 1243.45,
+                        "total_revised_2024_25": 1600.0,
+                        "budget_2026_27": 260.45,
+                        "capital_2026_27": 2039.55,
+                        "total_2026_27": 2300.0
+                    }
+                },
+                {
+                    "code": "7.01",
+                    "name": "Prime Minister's Development Initiative for North",
+                    "values": {
+                        "actual_2024_25": 180.65,
+                        "capital_2024_25": 834.23,
+                        "total_2024_25": 1014.88,
+                        "budget_2025_26": 789.5,
+                        "capital_2025_26": 1507.46,
+                        "total_2025_26": 2296.96,
+                        "revised_2024_25": 356.55,
+                        "capital_revised_2024_25": 1243.45,
+                        "total_revised_2024_25": 1600.0,
+                        "budget_2026_27": 260.45,
+                        "capital_2026_27": 2039.55,
+                        "total_2026_27": 2300.0
+                    }
+                },
+                {
+                    "code": "7.02",
+                    "name": "Technical Assistance for 'Enhancing Landscape",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.5,
+                        "budget_2026_27": 6.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Prime Minister's Development Initiative for North East Region (PM-",
+                    "values": {
+                        "actual_2024_25": 180.65,
+                        "capital_2024_25": 834.23,
+                        "total_2024_25": 1014.88,
+                        "budget_2025_26": 789.5,
+                        "capital_2025_26": 1507.46,
+                        "total_2025_26": 2296.96,
+                        "revised_2024_25": 357.05,
+                        "capital_revised_2024_25": 1243.45,
+                        "total_revised_2024_25": 1600.5,
+                        "budget_2026_27": 266.45,
+                        "capital_2026_27": 2039.55,
+                        "total_2026_27": 2306.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -14.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": -14.75,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 1016.88,
+                        "capital_2024_25": 2322.73,
+                        "total_2024_25": 3339.61,
+                        "budget_2025_26": 1848.32,
+                        "capital_2025_26": 4031.64,
+                        "total_2025_26": 5879.96,
+                        "revised_2024_25": 1378.69,
+                        "capital_revised_2024_25": 3066.81,
+                        "total_revised_2024_25": 4445.5,
+                        "budget_2026_27": 2212.99,
+                        "capital_2026_27": 4564.01,
+                        "total_2026_27": 6777.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 1047.41,
+                        "capital_2024_25": 2323.21,
+                        "total_2024_25": 3370.62,
+                        "budget_2025_26": 1882.76,
+                        "capital_2025_26": 4032.24,
+                        "total_2025_26": 5915.0,
+                        "revised_2024_25": 1411.79,
+                        "capital_revised_2024_25": 3067.41,
+                        "total_revised_2024_25": 4479.2,
+                        "budget_2026_27": 2247.7,
+                        "capital_2026_27": 4564.6,
+                        "total_2026_27": 6812.3
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat-General Services",
+                    "values": {
+                        "actual_2024_25": 30.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 30.53,
+                        "budget_2025_26": 34.44,
+                        "capital_2025_26": null,
+                        "total_2025_26": 34.44,
+                        "revised_2024_25": 33.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 33.1,
+                        "budget_2026_27": 34.71,
+                        "capital_2026_27": null,
+                        "total_2026_27": 34.71
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": 23.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 23.44,
+                        "budget_2025_26": 32.65,
+                        "capital_2025_26": null,
+                        "total_2025_26": 32.65,
+                        "revised_2024_25": 32.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 32.65,
+                        "budget_2026_27": 35.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": 35.92
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.04,
+                        "total_2024_25": 2.04,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4.97,
+                        "total_2025_26": 4.97,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4.97,
+                        "total_revised_2024_25": 4.97,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4.97,
+                        "total_2026_27": 4.97
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.48,
+                        "total_2024_25": 0.48,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.6,
+                        "total_2025_26": 0.6,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.6,
+                        "total_revised_2024_25": 0.6,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.59,
+                        "total_2026_27": 0.59
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 53.97,
+                        "capital_2024_25": 2.52,
+                        "total_2024_25": 56.49,
+                        "budget_2025_26": 67.09,
+                        "capital_2025_26": 5.57,
+                        "total_2025_26": 72.66,
+                        "revised_2024_25": 65.75,
+                        "capital_revised_2024_25": 5.57,
+                        "total_revised_2024_25": 71.32,
+                        "budget_2026_27": 70.63,
+                        "capital_2026_27": 5.56,
+                        "total_2026_27": 76.19
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "Other Social Services",
+                    "values": {
+                        "actual_2024_25": -1.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1.57,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": -1.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1.57,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Other Loans to Industries and Minerals",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 70.0,
+                        "total_2024_25": 70.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 80.0,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 80.0,
+                        "total_revised_2024_25": 80.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 70.0,
+                        "total_2024_25": 70.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 80.0,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 80.0,
+                        "total_revised_2024_25": 80.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": 1031.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1031.4,
+                        "budget_2025_26": 1815.67,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1815.67,
+                        "revised_2024_25": 1346.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1346.04,
+                        "budget_2026_27": 2177.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2177.07
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": -36.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": -36.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2250.69,
+                        "total_2024_25": 2250.69,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3946.67,
+                        "total_2025_26": 3946.67,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2981.84,
+                        "total_revised_2024_25": 2981.84,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4459.04,
+                        "total_2026_27": 4459.04
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 995.01,
+                        "capital_2024_25": 2250.69,
+                        "total_2024_25": 3245.7,
+                        "budget_2025_26": 1815.67,
+                        "capital_2025_26": 3946.67,
+                        "total_2025_26": 5762.34,
+                        "revised_2024_25": 1346.04,
+                        "capital_revised_2024_25": 2981.84,
+                        "total_revised_2024_25": 4327.88,
+                        "budget_2026_27": 2177.07,
+                        "capital_2026_27": 4459.04,
+                        "total_2026_27": 6636.11
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 1047.41,
+                        "capital_2024_25": 2323.21,
+                        "total_2024_25": 3370.62,
+                        "budget_2025_26": 1882.76,
+                        "capital_2025_26": 4032.24,
+                        "total_2025_26": 5915.0,
+                        "revised_2024_25": 1411.79,
+                        "capital_revised_2024_25": 3067.41,
+                        "total_revised_2024_25": 4479.2,
+                        "budget_2026_27": 2247.7,
+                        "capital_2026_27": 4564.6,
+                        "total_2026_27": 6812.3
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "North East Regional Agricultural",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5.0,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4.25,
+                        "total_revised_2024_25": 4.25,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5.0,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "North Eastern Handicrafts and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 12.7,
+                        "total_2024_25": 12.7,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 44.58,
+                        "total_2025_26": 44.58,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 35.5,
+                        "total_revised_2024_25": 35.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 55.75,
+                        "total_2026_27": 55.75
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "North Eastern Development",
+                    "values": {
+                        "actual_2024_25": 70.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 70.0,
+                        "budget_2025_26": 80.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": 80.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 80.0,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": 70.0,
+                        "capital_2024_25": 12.7,
+                        "total_2024_25": 82.7,
+                        "budget_2025_26": 80.0,
+                        "capital_2025_26": 49.58,
+                        "total_2025_26": 129.58,
+                        "revised_2024_25": 80.0,
+                        "capital_revised_2024_25": 39.75,
+                        "total_revised_2024_25": 119.75,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": 60.75,
+                        "total_2026_27": 160.75
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for expenditure of the Secretariat of the Ministry.",
+            "items": [
+                {
+                    "code": "7.02",
+                    "name": "Technical Assistance for 'Enhancing Landscape & Ecosystem Management (ELEMENT)'",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "3. Schemes of North East Council:..The schemes are to ensure integrated socio-economic",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "North East Special Infrastructure Development Scheme (NESIDS):..The provision is for the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Eastern Region by providing financial assistance for infrastructure projects relating to water supply, power, connectivity",
+            "items": []
+        },
+        {
+            "heading": "with special emphasis on projects promoting tourism; and projects of social sector for creation of infrastructure in",
+            "items": []
+        },
+        {
+            "heading": "primary and secondary sectors of education and health. The scheme subsumes the provision for on-going projects",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "North East Enterprise Development Scheme (NEEDS) erstwhile Loan to North East",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "identifying, financing and nurturing eco-friendly viable industrial infrastructure and agro-horticulture projects in the",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Special Development Packages:..These special development packages are for funding the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "infrastructure, development projects of the area and to uplift marginalized communities while promoting inclusive",
+            "items": [
+                {
+                    "code": "7.01",
+                    "name": "Prime Minister's Development Initiative for North East Region (PM-DevINE):..PM DevINE",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "is implemented to fund infrastructure in the spirit of PM GatiShakti and social development projects based on",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF EARTH SCIENCES",
+            "items": []
+        }
+    ]
+}

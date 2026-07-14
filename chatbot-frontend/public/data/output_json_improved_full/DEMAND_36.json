@@ -1,0 +1,712 @@
+{
+    "demand_no": 36,
+    "ministry": "Ministry Of Finance",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 9135.55,
+                        "capital_2024_25": 2297.25,
+                        "total_2024_25": 11432.8,
+                        "budget_2025_26": 9473.29,
+                        "capital_2025_26": 1425.16,
+                        "total_2025_26": 10898.45,
+                        "revised_2024_25": 10665.52,
+                        "capital_revised_2024_25": 2064.56,
+                        "total_revised_2024_25": 12730.08,
+                        "budget_2026_27": 10320.12,
+                        "capital_2026_27": 4984.45,
+                        "total_2026_27": 15304.57
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": []
+        },
+        {
+            "heading": "1. Collection of Taxes on Income and Expenditure",
+            "items": [
+                {
+                    "code": "1.01",
+                    "name": "Collection of Income Tax",
+                    "values": {
+                        "actual_2024_25": 7727.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7727.93,
+                        "budget_2025_26": 8004.93,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8004.93,
+                        "revised_2024_25": 9239.15,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9239.15,
+                        "budget_2026_27": 8851.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8851.76
+                    }
+                },
+                {
+                    "code": "1.02",
+                    "name": "Collection of Corporation Tax",
+                    "values": {
+                        "actual_2024_25": 1187.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1187.62,
+                        "budget_2025_26": 1231.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1231.53,
+                        "revised_2024_25": 1196.31,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1196.31,
+                        "budget_2026_27": 1231.53,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1231.53
+                    }
+                },
+                {
+                    "code": "1.03",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -8.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": -8.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 8907.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8907.16,
+                        "budget_2025_26": 9236.46,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9236.46,
+                        "revised_2024_25": 10435.46,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10435.46,
+                        "budget_2026_27": 10083.29,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10083.29
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Collection of Taxes on Wealth, Securities Transaction and other Taxes",
+                    "values": {
+                        "actual_2024_25": 22.84,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22.84,
+                        "budget_2025_26": 23.68,
+                        "capital_2025_26": null,
+                        "total_2025_26": 23.68,
+                        "revised_2024_25": 23.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23.01,
+                        "budget_2026_27": 23.68,
+                        "capital_2026_27": null,
+                        "total_2026_27": 23.68
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Collection of Wealth Tax",
+                    "values": {
+                        "actual_2024_25": 22.84,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22.84,
+                        "budget_2025_26": 23.68,
+                        "capital_2025_26": null,
+                        "total_2025_26": 23.68,
+                        "revised_2024_25": 23.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23.01,
+                        "budget_2026_27": 23.68,
+                        "capital_2026_27": null,
+                        "total_2026_27": 23.68
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Securities Transaction Tax",
+                    "values": {
+                        "actual_2024_25": 45.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 45.68,
+                        "budget_2025_26": 47.37,
+                        "capital_2025_26": null,
+                        "total_2025_26": 47.37,
+                        "revised_2024_25": 46.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 46.01,
+                        "budget_2026_27": 47.37,
+                        "capital_2026_27": null,
+                        "total_2026_27": 47.37
+                    }
+                },
+                {
+                    "code": "2.03",
+                    "name": "Collection of Other Taxes",
+                    "values": {
+                        "actual_2024_25": 159.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 159.87,
+                        "budget_2025_26": 165.78,
+                        "capital_2025_26": null,
+                        "total_2025_26": 165.78,
+                        "revised_2024_25": 161.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 161.04,
+                        "budget_2026_27": 165.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 165.78
+                    }
+                },
+                {
+                    "code": "2.04",
+                    "name": "Construction / Purchase of Office Buildings",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 235.37,
+                        "total_2024_25": 235.37,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 247.18,
+                        "total_2025_26": 247.18,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 280.18,
+                        "total_revised_2024_25": 280.18,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1515.46,
+                        "total_2026_27": 1515.46
+                    }
+                },
+                {
+                    "code": "2.05",
+                    "name": "Construction / Purchase of Residential Buildings",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 305.18,
+                        "total_2024_25": 305.18,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 290.98,
+                        "total_2025_26": 290.98,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 297.38,
+                        "total_revised_2024_25": 297.38,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2183.46,
+                        "total_2026_27": 2183.46
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Collection of Taxes on Wealth, Securities Transaction and other",
+                    "values": {
+                        "actual_2024_25": 228.39,
+                        "capital_2024_25": 540.55,
+                        "total_2024_25": 768.94,
+                        "budget_2025_26": 236.83,
+                        "capital_2025_26": 538.16,
+                        "total_2025_26": 774.99,
+                        "revised_2024_25": 230.06,
+                        "capital_revised_2024_25": 577.56,
+                        "total_revised_2024_25": 807.62,
+                        "budget_2026_27": 236.83,
+                        "capital_2026_27": 3698.92,
+                        "total_2026_27": 3935.75
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 9135.55,
+                        "capital_2024_25": 540.55,
+                        "total_2024_25": 9676.1,
+                        "budget_2025_26": 9473.29,
+                        "capital_2025_26": 538.16,
+                        "total_2025_26": 10011.45,
+                        "revised_2024_25": 10665.52,
+                        "capital_revised_2024_25": 577.56,
+                        "total_revised_2024_25": 11243.08,
+                        "budget_2026_27": 10320.12,
+                        "capital_2026_27": 3698.92,
+                        "total_2026_27": 14019.04
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Acquisition of Immovable Property under the Income Tax Act",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.01,
+                        "total_2024_25": 1.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.0,
+                        "total_revised_2024_25": 2.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Gross Expenditure",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.01,
+                        "total_2024_25": 1.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.0,
+                        "total_revised_2024_25": 2.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Less - Sale Proceeds",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -0.01,
+                        "total_2024_25": -0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -2.0,
+                        "total_2025_26": -2.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -2.0,
+                        "total_revised_2024_25": -2.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -2.0,
+                        "total_2026_27": -2.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.0,
+                        "total_2024_25": 1.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1755.7,
+                        "total_2024_25": 1755.7,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 887.0,
+                        "total_2025_26": 887.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1487.0,
+                        "total_revised_2024_25": 1487.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1285.53,
+                        "total_2026_27": 1285.53
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1756.7,
+                        "total_2024_25": 1756.7,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 887.0,
+                        "total_2025_26": 887.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1487.0,
+                        "total_revised_2024_25": 1487.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1285.53,
+                        "total_2026_27": 1285.53
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1756.7,
+                        "total_2024_25": 1756.7,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 887.0,
+                        "total_2025_26": 887.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1487.0,
+                        "total_revised_2024_25": 1487.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1285.53,
+                        "total_2026_27": 1285.53
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 9135.55,
+                        "capital_2024_25": 2297.25,
+                        "total_2024_25": 11432.8,
+                        "budget_2025_26": 9473.29,
+                        "capital_2025_26": 1425.16,
+                        "total_2025_26": 10898.45,
+                        "revised_2024_25": 10665.52,
+                        "capital_revised_2024_25": 2064.56,
+                        "total_revised_2024_25": 12730.08,
+                        "budget_2026_27": 10320.12,
+                        "capital_2026_27": 4984.45,
+                        "total_2026_27": 15304.57
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Collection of Taxes on Income and Expenditure",
+                    "values": {
+                        "actual_2024_25": 8907.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8907.16,
+                        "budget_2025_26": 9236.46,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9236.46,
+                        "revised_2024_25": 10435.46,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10435.46,
+                        "budget_2026_27": 10083.29,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10083.29
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Collection of Taxes on Wealth, Securities Transaction",
+                    "values": {
+                        "actual_2024_25": 228.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 228.39,
+                        "budget_2025_26": 236.83,
+                        "capital_2025_26": null,
+                        "total_2025_26": 236.83,
+                        "revised_2024_25": 230.06,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 230.06,
+                        "budget_2026_27": 236.83,
+                        "capital_2026_27": null,
+                        "total_2026_27": 236.83
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Public Works",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 235.37,
+                        "total_2024_25": 235.37,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 247.18,
+                        "total_2025_26": 247.18,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 280.18,
+                        "total_revised_2024_25": 280.18,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1515.46,
+                        "total_2026_27": 1515.46
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1756.7,
+                        "total_2024_25": 1756.7,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 887.0,
+                        "total_2025_26": 887.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1487.0,
+                        "total_revised_2024_25": 1487.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1285.53,
+                        "total_2026_27": 1285.53
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 9135.55,
+                        "capital_2024_25": 1992.07,
+                        "total_2024_25": 11127.62,
+                        "budget_2025_26": 9473.29,
+                        "capital_2025_26": 1134.18,
+                        "total_2025_26": 10607.47,
+                        "revised_2024_25": 10665.52,
+                        "capital_revised_2024_25": 1767.18,
+                        "total_revised_2024_25": 12432.7,
+                        "budget_2026_27": 10320.12,
+                        "capital_2026_27": 2800.99,
+                        "total_2026_27": 13121.11
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Housing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 305.18,
+                        "total_2024_25": 305.18,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 290.98,
+                        "total_2025_26": 290.98,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 297.38,
+                        "total_revised_2024_25": 297.38,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2183.46,
+                        "total_2026_27": 2183.46
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 305.18,
+                        "total_2024_25": 305.18,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 290.98,
+                        "total_2025_26": 290.98,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 297.38,
+                        "total_revised_2024_25": 297.38,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2183.46,
+                        "total_2026_27": 2183.46
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 9135.55,
+                        "capital_2024_25": 2297.25,
+                        "total_2024_25": 11432.8,
+                        "budget_2025_26": 9473.29,
+                        "capital_2025_26": 1425.16,
+                        "total_2025_26": 10898.45,
+                        "revised_2024_25": 10665.52,
+                        "capital_revised_2024_25": 2064.56,
+                        "total_revised_2024_25": 12730.08,
+                        "budget_2026_27": 10320.12,
+                        "capital_2026_27": 4984.45,
+                        "total_2026_27": 15304.57
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "1.01",
+                    "name": "Collection of Income Tax:..This includes provision for the Direct Tax Organisation which 3. Acquisition of Immovable Property under the Income Tax Act:..The provision is for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "1.02",
+                    "name": "Collection of Corporation Tax:..This includes provision for the Direct Tax Organisation which",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "4. Capital Outlay on Miscellaneous General Services:..The provision is for expenditure on ICT",
+            "items": [
+                {
+                    "code": "2.01",
+                    "name": "Collection of Wealth Tax:..This includes provision for the Direct Tax Organisation which",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Securities Transaction Tax:..This includes provision for the Direct Tax Organisation which",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.03",
+                    "name": "Collection of Other Taxes:..This includes provision for the Direct Tax Organisation which",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.04",
+                    "name": "Construction / Purchase of Office Buildings:..The provision relates to purchase of ready-",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.05",
+                    "name": "Construction / Purchase of Residential Buildings:..The provision relates to purchase of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF FINANCE",
+            "items": []
+        }
+    ]
+}

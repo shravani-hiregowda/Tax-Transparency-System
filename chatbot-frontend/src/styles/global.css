@@ -1,0 +1,82 @@
+html, body {
+  display: block !important;
+  place-items: unset !important;
+  width: 100% !important;
+  min-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+
+/* Every page wrapper should follow this structure */
+.page-wrapper,
+.main,
+.allocation-wrapper,
+.ministry-main,
+.comparison-main,
+.projects-main {
+  width: 100%;
+  max-width: 100%;
+  padding: 40px 50px;     /* same as Home Page */
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+/* Ensure no page is restricted by inherited max-width */
+main, section, article, .content, .viz-container {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Keep the main content centered visually */
+.page-wrapper,
+.main {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Fix: No component is allowed to shrink into left side */
+.viz-container,
+.chart-area-wrapper,
+.chart-section,
+.level-selector,
+.chart-container {
+  width: 100% !important;
+  margin: 0 auto;
+}
+
+/* Smooth large layout spacing */
+body {
+  background: linear-gradient(180deg, #f8fafc, #eef3fb);
+}
+
+/* Fix: Floating scrollbars do not shift layout */
+.viz-container,
+.scrollable-viz {
+  max-height: 80vh;
+  overflow-y: auto;
+  border-radius: 16px;
+  padding: 40px;
+}
+
+/* Fix: Sidebar alignment */
+.level-selector {
+  min-width: 200px;
+  margin-left: 40px;
+}
+
+@media (max-width: 900px) {
+  .page-wrapper,
+  .main,
+  .allocation-wrapper,
+  .ministry-main,
+  .comparison-main {
+    padding: 24px;
+  }
+
+  .level-selector {
+    margin-left: 0;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "categories": {
+    "Goods": {
+      "Automobiles": {
+        "Car": {
+          "Luxury": {
+            "price_above": 1000000,
+            "tax_components": [
+              {"name": "CGST", "rate_percent": 14},
+              {"name": "SGST", "rate_percent": 14},
+              {"name": "Compensation Cess", "rate_percent": 22},
+              {"name": "Road Tax", "rate_percent": "state_specific"},
+              {"name": "Registration Fee", "rate_percent": "state_specific"}
+            ],
+            "notes": "Luxury cars have higher GST, cess, and state-dependent fees."
+          },
+          "Standard": {
+            "price_below": 1000000,
+            "tax_components": [
+              {"name": "CGST", "rate_percent": 9},
+              {"name": "SGST", "rate_percent": 9},
+              {"name": "Road Tax", "rate_percent": "state_specific"},
+              {"name": "Registration Fee", "rate_percent": "state_specific"}
+            ],
+            "notes": "Standard cars GST 18%, variable state taxes apply."
+          },
+          "Electric": {
+            "price_above": 0,
+            "tax_components": [
+              {"name": "CGST", "rate_percent": 2.5},
+              {"name": "SGST", "rate_percent": 2.5},
+              {"name": "Road Tax", "rate_percent": "state_specific_incentive"},
+              {"name": "Registration Fee", "rate_percent": "state_specific_incentive"}
+            ],
+            "notes": "EVs have lower GST and registration fees with possible incentives."
+          }
+        },
+        "Bike": {
+          "above_150cc": {
+            "tax_components": [
+              {"name": "CGST", "rate_percent": 9},
+              {"name": "SGST", "rate_percent": 9},
+              {"name": "Road Tax", "rate_percent": "state_specific"},
+              {"name": "Registration Fee", "rate_percent": "state_specific"}
+            ],
+            "notes": "Bikes above 150cc, total 18% GST plus state fees."
+          },
+          "below_150cc": {
+            "tax_components": [
+              {"name": "CGST", "rate_percent": 6},
+              {"name": "SGST", "rate_percent": 6},
+              {"name": "Road Tax", "rate_percent": "state_specific"},
+              {"name": "Registration Fee", "rate_percent": "state_specific"}
+            ],
+            "notes": "Bikes below 150cc, total 12% GST plus state fees."
+          }
+        }
+      },
+      "Electronics": {
+        "Laptop": {
+          "Standard": {
+            "tax_components": [
+              {"name": "CGST", "rate_percent": 9},
+              {"name": "SGST", "rate_percent": 9}
+            ],
+            "notes": "Standard laptops GST 18%."
+          },
+          "HighEnd": {
+            "price_above": 200000,
+            "tax_components": [
+              {"name": "CGST", "rate_percent": 14},
+              {"name": "SGST", "rate_percent": 14}
+            ],
+            "notes": "High-end laptops GST 28%."
+          }
+        },
+        "Mobile": {
+          "Standard": {
+            "price_below": 100000,
+            "tax_components": [
+              {"name": "CGST", "rate_percent": 6},
+              {"name": "SGST", "rate_percent": 6}
+            ],
+            "notes": "Standard mobiles GST 12%."
+          },
+          "Luxury": {
+            "price_above": 100000,
+            "tax_components": [
+              {"name": "CGST", "rate_percent": 9},
+              {"name": "SGST", "rate_percent": 9}
+            ],
+            "notes": "Luxury mobiles GST 18%."
+          }
+        },
+        "TV": {
+          "Standard": {
+            "tax_components": [
+              {"name": "CGST", "rate_percent": 9},
+              {"name": "SGST", "rate_percent": 9}
+            ],
+            "notes": "Standard televisions GST 18%."
+          },
+          "HighEnd": {
+            "price_above": 150000,
+            "tax_components": [
+              {"name": "CGST", "rate_percent": 14},
+              {"name": "SGST", "rate_percent": 14}
+            ],
+            "notes": "Luxury TVs GST 28%."
+          }
+        }
+      },
+      "Food": {
+        "Essential": {
+          "tax_components": [
+            {"name": "CGST", "rate_percent": 0},
+            {"name": "SGST", "rate_percent": 0}
+          ],
+          "notes": "Exempt essential food items."
+        },
+        "Packaged": {
+          "tax_components": [
+            {"name": "CGST", "rate_percent": 2.5},
+            {"name": "SGST", "rate_percent": 2.5}
+          ],
+          "notes": "Packaged food GST 5%."
+        },
+        "Beverages": {
+          "tax_components": [
+            {"name": "CGST", "rate_percent": 9},
+            {"name": "SGST", "rate_percent": 9}
+          ],
+          "notes": "Beverages GST 18%."
+        }
+      }
+    },
+    "Services": {
+      "IT_Software": {"tax_components": [{"name": "CGST", "rate_percent": 9}, {"name": "SGST", "rate_percent": 9}], "notes": "IT services GST 18%."},
+      "Consulting": {"tax_components": [{"name": "CGST", "rate_percent": 9}, {"name": "SGST", "rate_percent": 9}], "notes": "Consulting GST 18%."},
+      "Healthcare": {"tax_components": [{"name": "CGST", "rate_percent": 0}, {"name": "SGST", "rate_percent": 0}], "notes": "Healthcare exempt."},
+      "Education": {"tax_components": [{"name": "CGST", "rate_percent": 0}, {"name": "SGST", "rate_percent": 0}], "notes": "Education exempt."},
+      "Transport": {"tax_components": [{"name": "CGST", "rate_percent": 2.5}, {"name": "SGST", "rate_percent": 2.5}], "notes": "Transport services GST 5%."},
+      "Hospitality": {"tax_components": [{"name": "CGST", "rate_percent": 6}, {"name": "SGST", "rate_percent": 6}], "notes": "Hospitality GST 12%."},
+      "Entertainment": {"tax_components": [{"name": "CGST", "rate_percent": 9}, {"name": "SGST", "rate_percent": 9}], "notes": "Entertainment GST 18%."},
+      "Financial_Services": {"tax_components": [{"name": "CGST", "rate_percent": 9}, {"name": "SGST", "rate_percent": 9}], "notes": "Banking and insurance GST 18%."}
+    },
+    "IncomeTax": {
+      "Individual": [
+        {"min": 0, "max": 300000, "rate": 0},
+        {"min": 300001, "max": 600000, "rate": 5},
+        {"min": 600001, "max": 900000, "rate": 10},
+        {"min": 900001, "max": 1200000, "rate": 15},
+        {"min": 1200001, "max": 1500000, "rate": 20},
+        {"min": 1500001, "max": 99999999, "rate": 30}
+      ],
+      "Corporate": [
+        {"type": "Domestic", "rate": 25},
+        {"type": "Foreign", "rate": 40}
+      ]
+    }
+  },
+  "state_fees": {
+    "Maharashtra": {"Road Tax": 6, "Registration Fee": 2},
+    "Delhi": {"Road Tax": 4, "Registration Fee": 1},
+    "Karnataka": {"Road Tax": 5, "Registration Fee": 2},
+    "Tamil Nadu": {"Road Tax": 4, "Registration Fee": 1.5},
+    "Gujarat": {"Road Tax": 5, "Registration Fee": 1.5}
+  },
+  "purchase_history": [],
+  "tax_components_template": [
+    {"name": "CGST", "rate_percent": ""},
+    {"name": "SGST", "rate_percent": ""},
+    {"name": "Compensation Cess", "rate_percent": ""},
+    {"name": "Road Tax", "rate_percent": ""},
+    {"name": "Registration Fee", "rate_percent": ""},
+    {"name": "Other", "rate_percent": ""}
+  ],
+  "last_updated": "2025-10-05",
+  "source": "CBIC GST Portal, Income Tax India, State Govt notifications",
+  "dynamic_calculation": {
+    "function_example": "calculateTax(purchase) -> returns detailed breakdown per component, state, and total"
+  }
+}

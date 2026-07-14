@@ -1,0 +1,1381 @@
+{
+    "demand_no": 68,
+    "ministry": "Ministry Of Micro",
+    "department": "Department Of The Ministry Of Msme Which Looks After Several Aspects Relating To Formulation",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 7643.05,
+                        "capital_2024_25": 587.92,
+                        "total_2024_25": 8230.97,
+                        "budget_2025_26": 22452.42,
+                        "capital_2025_26": 715.73,
+                        "total_2025_26": 23168.15,
+                        "revised_2024_25": 11180.32,
+                        "capital_revised_2024_25": 915.66,
+                        "total_revised_2024_25": 12095.98,
+                        "budget_2026_27": 22647.26,
+                        "capital_2026_27": 1919.01,
+                        "total_2026_27": 24566.27
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 35.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 35.62,
+                        "budget_2025_26": 35.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35.53,
+                        "revised_2024_25": 48.63,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 48.63,
+                        "budget_2026_27": 46.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 46.36
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.04,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 35.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 35.58,
+                        "budget_2025_26": 35.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35.53,
+                        "revised_2024_25": 48.63,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 48.63,
+                        "budget_2026_27": 46.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 46.36
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Development Commissioner (MSME)",
+                    "values": {
+                        "actual_2024_25": 187.38,
+                        "capital_2024_25": 12.92,
+                        "total_2024_25": 200.3,
+                        "budget_2025_26": 200.48,
+                        "capital_2025_26": 15.73,
+                        "total_2025_26": 216.21,
+                        "revised_2024_25": 188.17,
+                        "capital_revised_2024_25": 15.66,
+                        "total_revised_2024_25": 203.83,
+                        "budget_2026_27": 200.06,
+                        "capital_2026_27": 18.51,
+                        "total_2026_27": 218.57
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 222.96,
+                        "capital_2024_25": 12.92,
+                        "total_2024_25": 235.88,
+                        "budget_2025_26": 236.01,
+                        "capital_2025_26": 15.73,
+                        "total_2025_26": 251.74,
+                        "revised_2024_25": 236.8,
+                        "capital_revised_2024_25": 15.66,
+                        "total_revised_2024_25": 252.46,
+                        "budget_2026_27": 246.42,
+                        "capital_2026_27": 18.51,
+                        "total_2026_27": 264.93
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Scheme for Fund for Regeneration of Traditional",
+                    "values": {
+                        "actual_2024_25": 0.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.08,
+                        "budget_2025_26": 362.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 362.0,
+                        "revised_2024_25": 140.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 140.0,
+                        "budget_2026_27": 197.49,
+                        "capital_2026_27": null,
+                        "total_2026_27": 197.49
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Coir Vikas Yojana",
+                    "values": {
+                        "actual_2024_25": 74.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 74.48,
+                        "budget_2025_26": 104.39,
+                        "capital_2025_26": null,
+                        "total_2025_26": 104.39,
+                        "revised_2024_25": 95.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 95.0,
+                        "budget_2026_27": 106.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 106.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Khadi Gramodyog Vikas Yojana",
+                    "values": {
+                        "actual_2024_25": 365.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 365.74,
+                        "budget_2025_26": 464.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 464.0,
+                        "revised_2024_25": 354.82,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 354.82,
+                        "budget_2026_27": 425.6,
+                        "capital_2026_27": 0.5,
+                        "total_2026_27": 426.1
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "Khadi Grant (KG)",
+                    "values": {
+                        "actual_2024_25": 365.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 365.74,
+                        "budget_2025_26": 464.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 464.0,
+                        "revised_2024_25": 354.82,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 354.82,
+                        "budget_2026_27": 425.6,
+                        "capital_2026_27": 0.5,
+                        "total_2026_27": 426.1
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "Khadi Vikas Yojana",
+                    "values": {
+                        "actual_2024_25": 423.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 423.02,
+                        "budget_2025_26": 541.77,
+                        "capital_2025_26": null,
+                        "total_2025_26": 541.77,
+                        "revised_2024_25": 446.98,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 446.98,
+                        "budget_2026_27": 581.28,
+                        "capital_2026_27": null,
+                        "total_2026_27": 581.28
+                    }
+                },
+                {
+                    "code": "5.03",
+                    "name": "Gramodyog Vikas Yojana",
+                    "values": {
+                        "actual_2024_25": 53.78,
+                        "capital_2024_25": null,
+                        "total_2024_25": 53.78,
+                        "budget_2025_26": 60.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 60.0,
+                        "revised_2024_25": 68.24,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 68.24,
+                        "budget_2026_27": 87.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 87.13
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Khadi Gramodyog Vikas Yojana",
+                    "values": {
+                        "actual_2024_25": 842.54,
+                        "capital_2024_25": null,
+                        "total_2024_25": 842.54,
+                        "budget_2025_26": 1065.77,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1065.77,
+                        "revised_2024_25": 870.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 870.04,
+                        "budget_2026_27": 1094.01,
+                        "capital_2026_27": 0.5,
+                        "total_2026_27": 1094.51
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Development of Khadi, Village and Coir Industries",
+                    "values": {
+                        "actual_2024_25": 917.1,
+                        "capital_2024_25": null,
+                        "total_2024_25": 917.1,
+                        "budget_2025_26": 1532.16,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1532.16,
+                        "revised_2024_25": 1105.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1105.04,
+                        "budget_2026_27": 1397.5,
+                        "capital_2026_27": 0.5,
+                        "total_2026_27": 1398.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "ASPIRE (Promotion of Innovation, Rural Industry and",
+                    "values": {
+                        "actual_2024_25": 7.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.55,
+                        "budget_2025_26": 20.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.0,
+                        "revised_2024_25": 9.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9.0,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "MSME Champions Scheme",
+                    "values": {
+                        "actual_2024_25": 51.54,
+                        "capital_2024_25": null,
+                        "total_2024_25": 51.54,
+                        "budget_2025_26": 54.72,
+                        "capital_2025_26": null,
+                        "total_2025_26": 54.72,
+                        "revised_2024_25": 54.72,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 54.72,
+                        "budget_2026_27": 54.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 54.72
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Technology Upgradation and Quality Certification",
+                    "values": {
+                        "actual_2024_25": 59.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 59.09,
+                        "budget_2025_26": 74.72,
+                        "capital_2025_26": null,
+                        "total_2025_26": 74.72,
+                        "revised_2024_25": 63.72,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 63.72,
+                        "budget_2026_27": 54.73,
+                        "capital_2026_27": null,
+                        "total_2026_27": 54.73
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Credit Support Schemes",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Prime Minister Employment Generation Programme",
+                    "values": {
+                        "actual_2024_25": 2277.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2277.0,
+                        "budget_2025_26": 2954.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2954.42,
+                        "revised_2024_25": 2548.66,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2548.66,
+                        "budget_2026_27": 4500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4500.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Credit Support Programme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Guarantee Emergency Credit Line (GECL) facility to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 9000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 9000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 9000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Prime Minister Employment Generation Programme (PMEGP) and Other",
+                    "values": {
+                        "actual_2024_25": 2277.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2277.0,
+                        "budget_2025_26": 11954.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11954.42,
+                        "revised_2024_25": 2548.66,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2548.66,
+                        "budget_2026_27": 13500.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 13500.01
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Credit Support Schemes",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Credit Linked Capital Subsidy (CLCS)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.04,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Procurement and Marketing Support Scheme",
+                    "values": {
+                        "actual_2024_25": 61.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 61.73,
+                        "budget_2025_26": 65.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 65.0,
+                        "revised_2024_25": 65.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 65.0,
+                        "budget_2026_27": 65.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 65.0
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Studies, Publicity & International Cooperation (SPIC)",
+                    "values": {
+                        "actual_2024_25": 26.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 26.56,
+                        "budget_2025_26": 27.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 27.0,
+                        "revised_2024_25": 30.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.02,
+                        "budget_2026_27": 45.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.0
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Assistance to Training Institutions",
+                    "values": {
+                        "actual_2024_25": 24.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.5,
+                        "budget_2025_26": 40.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 55.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 55.0,
+                        "budget_2026_27": 90.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 90.0
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Fund of Funds",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 575.0,
+                        "total_2024_25": 575.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 700.0,
+                        "total_2025_26": 700.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 900.0,
+                        "total_revised_2024_25": 900.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1900.0,
+                        "total_2026_27": 1900.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Entrepreneurship cum Skill Development Programme",
+                    "values": {
+                        "actual_2024_25": 73.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": 73.79,
+                        "budget_2025_26": 96.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 96.0,
+                        "revised_2024_25": 95.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 95.7,
+                        "budget_2026_27": 96.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 96.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Enterpreneurship and Skill Development",
+                    "values": {
+                        "actual_2024_25": 98.29,
+                        "capital_2024_25": 575.0,
+                        "total_2024_25": 673.29,
+                        "budget_2025_26": 136.0,
+                        "capital_2025_26": 700.0,
+                        "total_2025_26": 836.0,
+                        "revised_2024_25": 150.7,
+                        "capital_revised_2024_25": 900.0,
+                        "total_revised_2024_25": 1050.7,
+                        "budget_2026_27": 186.0,
+                        "capital_2026_27": 1900.0,
+                        "total_2026_27": 2086.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "17",
+                    "name": "Establishment of New Technology Centres",
+                    "values": {
+                        "actual_2024_25": 37.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 37.45,
+                        "budget_2025_26": 591.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 591.0,
+                        "revised_2024_25": 150.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 150.0,
+                        "budget_2026_27": 531.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 531.2
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Technology Centre Systems Programme (TCSP) EAP",
+                    "values": {
+                        "actual_2024_25": 161.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 161.06,
+                        "budget_2025_26": 400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 400.0,
+                        "revised_2024_25": 228.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 228.5,
+                        "budget_2026_27": 417.84,
+                        "capital_2026_27": null,
+                        "total_2026_27": 417.84
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Raising and Accelerating MSME Performance - RAMP",
+                    "values": {
+                        "actual_2024_25": 662.34,
+                        "capital_2024_25": null,
+                        "total_2024_25": 662.34,
+                        "budget_2025_26": 1500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1500.0,
+                        "revised_2024_25": 1468.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1468.0,
+                        "budget_2026_27": 1500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1500.0
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Micro and Small Enterprise-Cluster Development",
+                    "values": {
+                        "actual_2024_25": 290.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 290.11,
+                        "budget_2025_26": 410.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 410.0,
+                        "revised_2024_25": 320.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 320.0,
+                        "budget_2026_27": 410.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 410.0
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Tool Rooms & Technical Institutions (TR/TIs)",
+                    "values": {
+                        "actual_2024_25": 139.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 139.73,
+                        "budget_2025_26": 160.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 160.0,
+                        "revised_2024_25": 181.22,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 181.22,
+                        "budget_2026_27": 177.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 177.0
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Promotion of MSMEs in NER and Sikkim",
+                    "values": {
+                        "actual_2024_25": 49.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 49.57,
+                        "budget_2025_26": 95.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 95.0,
+                        "revised_2024_25": 90.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 90.0,
+                        "budget_2026_27": 95.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 95.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Infrastructure Development Programme",
+                    "values": {
+                        "actual_2024_25": 1340.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1340.26,
+                        "budget_2025_26": 3156.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3156.0,
+                        "revised_2024_25": 2437.72,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2437.72,
+                        "budget_2026_27": 3131.04,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3131.04
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "23",
+                    "name": "National Schedule Caste/Schedule Tribe Hub Centre",
+                    "values": {
+                        "actual_2024_25": 99.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 99.9,
+                        "budget_2025_26": 151.21,
+                        "capital_2025_26": null,
+                        "total_2025_26": 151.21,
+                        "revised_2024_25": 100.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 100.0,
+                        "budget_2026_27": 115.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 115.0
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "PM Vishwakarma",
+                    "values": {
+                        "actual_2024_25": 3993.1,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3993.1,
+                        "budget_2025_26": 5100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5100.0,
+                        "revised_2024_25": 4400.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4400.0,
+                        "budget_2026_27": 3860.89,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3860.89
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -1469.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1469.33,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 7403.7,
+                        "capital_2024_25": 575.0,
+                        "total_2024_25": 7978.7,
+                        "budget_2025_26": 22196.51,
+                        "capital_2025_26": 700.0,
+                        "total_2025_26": 22896.51,
+                        "revised_2024_25": 10900.9,
+                        "capital_revised_2024_25": 900.0,
+                        "total_revised_2024_25": 11800.9,
+                        "budget_2026_27": 22355.18,
+                        "capital_2026_27": 1900.5,
+                        "total_2026_27": 24255.68
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "26",
+                    "name": "Mahatma Gandhi Institute for Rural Industrialisation.",
+                    "values": {
+                        "actual_2024_25": 16.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16.39,
+                        "budget_2025_26": 19.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 19.9,
+                        "revised_2024_25": 42.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 42.62,
+                        "budget_2026_27": 45.66,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.66
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 7643.05,
+                        "capital_2024_25": 587.92,
+                        "total_2024_25": 8230.97,
+                        "budget_2025_26": 22452.42,
+                        "capital_2025_26": 715.73,
+                        "total_2025_26": 23168.15,
+                        "revised_2024_25": 11180.32,
+                        "capital_revised_2024_25": 915.66,
+                        "total_revised_2024_25": 12095.98,
+                        "budget_2026_27": 22647.26,
+                        "capital_2026_27": 1919.01,
+                        "total_2026_27": 24566.27
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Village and Small Industries",
+                    "values": {
+                        "actual_2024_25": 7607.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7607.47,
+                        "budget_2025_26": 20196.81,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20196.81,
+                        "revised_2024_25": 10073.78,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10073.78,
+                        "budget_2026_27": 20296.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20296.97
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 35.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 35.58,
+                        "budget_2025_26": 35.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35.53,
+                        "revised_2024_25": 48.63,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 48.63,
+                        "budget_2026_27": 46.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 46.36
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Village and Small Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 587.92,
+                        "total_2024_25": 587.92,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 645.73,
+                        "total_2025_26": 645.73,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 786.66,
+                        "total_revised_2024_25": 786.66,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1818.51,
+                        "total_2026_27": 1818.51
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Loans for Village and Small Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.5,
+                        "total_2026_27": 0.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 7643.05,
+                        "capital_2024_25": 587.92,
+                        "total_2024_25": 8230.97,
+                        "budget_2025_26": 20232.34,
+                        "capital_2025_26": 645.73,
+                        "total_2025_26": 20878.07,
+                        "revised_2024_25": 10122.41,
+                        "capital_revised_2024_25": 786.66,
+                        "total_revised_2024_25": 10909.07,
+                        "budget_2026_27": 20343.33,
+                        "capital_2026_27": 1819.01,
+                        "total_2026_27": 22162.34
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2220.08,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2220.08,
+                        "revised_2024_25": 1057.91,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1057.91,
+                        "budget_2026_27": 2303.93,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2303.93
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 70.0,
+                        "total_2025_26": 70.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 129.0,
+                        "total_revised_2024_25": 129.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2220.08,
+                        "capital_2025_26": 70.0,
+                        "total_2025_26": 2290.08,
+                        "revised_2024_25": 1057.91,
+                        "capital_revised_2024_25": 129.0,
+                        "total_revised_2024_25": 1186.91,
+                        "budget_2026_27": 2303.93,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 2403.93
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 7643.05,
+                        "capital_2024_25": 587.92,
+                        "total_2024_25": 8230.97,
+                        "budget_2025_26": 22452.42,
+                        "capital_2025_26": 715.73,
+                        "total_2025_26": 23168.15,
+                        "revised_2024_25": 11180.32,
+                        "capital_revised_2024_25": 915.66,
+                        "total_revised_2024_25": 12095.98,
+                        "budget_2026_27": 22647.26,
+                        "capital_2026_27": 1919.01,
+                        "total_2026_27": 24566.27
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "National Small Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 225.26,
+                        "total_2024_25": 225.26,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 270.0,
+                        "total_2025_26": 270.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 230.0,
+                        "total_revised_2024_25": 230.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 270.0,
+                        "total_2026_27": 270.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 225.26,
+                        "total_2024_25": 225.26,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 270.0,
+                        "total_2025_26": 270.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 230.0,
+                        "total_revised_2024_25": 230.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 270.0,
+                        "total_2026_27": 270.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "1",
+                    "name": "Secretariat:..Provides for establishment-related expenses, salaries, allowances, contingent, 4. Coir Vikas Yojana:..Coir Board implements the umbrella Scheme Coir Vikas Yojana (CVY)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Development Commissioner (MSME):..The office of Development Commissioner (MSME) is",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "Khadi Grant (KG):..Khadi Gramodyog Vikas Yojana - Khadi and Village Industries sectors had",
+                    "values": {
+                        "actual_2024_25": 2019.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "schemes/sub-schemes/components were merged, and brought under one umbrella scheme namely Khadi and",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Scheme for Fund for Regeneration of Traditional Industries (SFURTI):..The Scheme aims",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "Khadi Vikas Yojana:..Khadi Vikas Yojana (KVY) scheme is for promotion and development of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.03",
+                    "name": "Gramodyog Vikas Yojana:..Under sub scheme Gramodyog Vikas Yojana (GVY), Promotion",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "ASPIRE (Promotion of Innovation, Rural Industry and Entrepreneurship):..A scheme to 15. Fund of Funds:..Fund of Funds/ Self Reliant India(SRI) Fund was introduced to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "MSME Champions Scheme:..This scheme is a holistic approach to unify, synergize, and providing growth capital to the deserving and eligible units of MSME sector. Additional provision of..`.1000 crore in BE",
+                    "values": {
+                        "actual_2024_25": 3.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "converge various schemes and Interventions with a purpose of picking up enterprises and modernizing their 2026-27 to continue support to micro enterprises and maintain their access to risk capital...",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Prime Minister Employment Generation Programme (PMEGP):..PMEGP is a credit linked abled, Ex- servicemen and BPL persons to consider self-employment or entrepreneurship as one of the career options.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "subsidy scheme launched in FY 2008-09 through merger of the erstwhile schemes of Prime Minister s Rozgar Yojana The main objective is to promote new enterprises, capacity building of existing MSMEs and inculcating entrepreneurial",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Credit Support Programme:..Under this scheme, guarantee cover is provided for collateral Extension Centres.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Guarantee Emergency Credit Line (GECL) facility to eligible MSME borrowers:..As part of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Raising and Accelerating MSME Performance - RAMP:..RAMP is a World Bank supported",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "active participation of the State Governments. In addition, four new sub schemes have been designed and launched",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Credit Linked Capital Subsidy (CLCS):..The objective of CLCS was to facilitate technology to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Development Projects (e.g. Industrial Estates) and up-gradation of existing industrial estates.",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Procurement and Marketing Support Scheme:..The Scheme aims at promoting new market",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Studies, Publicity & International Cooperation (SPIC):..This scheme is formed by merging",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "of schemes: International Cooperation Scheme, Information Education and Communication (IEC), Survey, Studies and 22. Promotion of MSMEs in NER and Sikkim:..The Promotion of MSMEs in NER and Sikkim",
+            "items": []
+        },
+        {
+            "heading": "Policy Research and National Award & National Board Schemes. Its objectives are publicity to generate awareness of scheme is fully dedicated for development of MSMEs of North Eastern Region and Sikkim. The Scheme provides",
+            "items": []
+        },
+        {
+            "heading": "schemes, survey and Research to understand challenges faced by MSME sector. financial assistance to State Governments for augmenting infrastructure for enhancing the productivity and",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Assistance to Training Institutions:..The scheme provides for financial assistance in the form Technology Centers, development of new and existing Industrial Estates and development of Tourism Sector.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "24",
+                    "name": "PM Vishwakarma:..PM Vishwakarma is a Central Sector Scheme which aims to strengthen",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "26. Mahatma Gandhi Institute for Rural Industrialisation.:..This is an autonomous body under",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF MINES",
+            "items": []
+        }
+    ]
+}

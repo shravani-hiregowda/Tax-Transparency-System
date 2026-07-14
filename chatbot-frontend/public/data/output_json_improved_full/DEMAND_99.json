@@ -1,0 +1,908 @@
+{
+    "demand_no": 99,
+    "ministry": "Ministry Of Tourism",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 159.9,
+                        "capital_2024_25": 4.17,
+                        "total_2024_25": 164.07,
+                        "budget_2025_26": 2534.93,
+                        "capital_2025_26": 6.13,
+                        "total_2025_26": 2541.06,
+                        "revised_2024_25": 1304.17,
+                        "capital_revised_2024_25": 6.13,
+                        "total_revised_2024_25": 1310.3,
+                        "budget_2026_27": 2433.87,
+                        "capital_2026_27": 4.53,
+                        "total_2026_27": 2438.4
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 11.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11.07,
+                        "budget_2025_26": 12.14,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12.14,
+                        "revised_2024_25": 14.37,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14.37,
+                        "budget_2026_27": 12.33,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12.33
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Director General of Tourism",
+                    "values": {
+                        "actual_2024_25": 88.81,
+                        "capital_2024_25": 4.17,
+                        "total_2024_25": 92.98,
+                        "budget_2025_26": 92.78,
+                        "capital_2025_26": 6.13,
+                        "total_2025_26": 98.91,
+                        "revised_2024_25": 109.76,
+                        "capital_revised_2024_25": 6.13,
+                        "total_revised_2024_25": 115.89,
+                        "budget_2026_27": 86.53,
+                        "capital_2026_27": 4.53,
+                        "total_2026_27": 91.06
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 99.88,
+                        "capital_2024_25": 4.17,
+                        "total_2024_25": 104.05,
+                        "budget_2025_26": 104.92,
+                        "capital_2025_26": 6.13,
+                        "total_2025_26": 111.05,
+                        "revised_2024_25": 124.13,
+                        "capital_revised_2024_25": 6.13,
+                        "total_revised_2024_25": 130.26,
+                        "budget_2026_27": 98.86,
+                        "capital_2026_27": 4.53,
+                        "total_2026_27": 103.39
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Integrated Development of Tourist Circuits around",
+                    "values": {
+                        "actual_2024_25": 59.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": 59.25,
+                        "budget_2025_26": 1900.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1900.0,
+                        "revised_2024_25": 517.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 517.0,
+                        "budget_2026_27": 1905.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1905.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Pilgrimage Rejuvenation and Spiritual, Heritage",
+                    "values": {
+                        "actual_2024_25": 80.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 80.93,
+                        "budget_2025_26": 240.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 240.0,
+                        "revised_2024_25": 132.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 132.0,
+                        "budget_2026_27": 245.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 245.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Assistance to Central Agencies for Tourism Infrastructure",
+                    "values": {
+                        "actual_2024_25": 27.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 27.48,
+                        "budget_2025_26": 90.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90.0,
+                        "revised_2024_25": 29.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 29.0,
+                        "budget_2026_27": 86.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 86.5
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Champion Services Sector Scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.03,
+                        "revised_2024_25": 287.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 287.56,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Tourism Infrastructure",
+                    "values": {
+                        "actual_2024_25": 167.66,
+                        "capital_2024_25": null,
+                        "total_2024_25": 167.66,
+                        "budget_2025_26": 2230.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2230.03,
+                        "revised_2024_25": 965.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 965.56,
+                        "budget_2026_27": 2236.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2236.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Overseas Promotion and Publicity including Market",
+                    "values": {
+                        "actual_2024_25": 31.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 31.99,
+                        "budget_2025_26": 3.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.07,
+                        "revised_2024_25": 43.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 43.48,
+                        "budget_2026_27": 3.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3.5
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Domestic Promotion and Publicity including Market",
+                    "values": {
+                        "actual_2024_25": 89.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 89.03,
+                        "budget_2025_26": 136.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 136.9,
+                        "revised_2024_25": 60.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 60.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Promotion and Publicity",
+                    "values": {
+                        "actual_2024_25": 121.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 121.02,
+                        "budget_2025_26": 139.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 139.97,
+                        "revised_2024_25": 103.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 103.48,
+                        "budget_2026_27": 3.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "9",
+                    "name": "Assistance to IHMS/FCIs/IITTM/NIWS",
+                    "values": {
+                        "actual_2024_25": 24.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.4,
+                        "budget_2025_26": 35.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35.0,
+                        "revised_2024_25": 31.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 31.0,
+                        "budget_2026_27": 45.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Capacity Building for Service Providers",
+                    "values": {
+                        "actual_2024_25": 29.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.68,
+                        "budget_2025_26": 25.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.0,
+                        "revised_2024_25": 80.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 80.0,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Training and Skill Development",
+                    "values": {
+                        "actual_2024_25": 54.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": 54.08,
+                        "budget_2025_26": 60.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 60.0,
+                        "revised_2024_25": 111.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 111.0,
+                        "budget_2026_27": 95.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 95.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "11",
+                    "name": "Recoveries",
+                    "values": {
+                        "actual_2024_25": -288.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": -288.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 54.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 54.75,
+                        "budget_2025_26": 2430.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2430.0,
+                        "revised_2024_25": 1180.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1180.04,
+                        "budget_2026_27": 2335.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2335.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Safe Tourist Destination for Women",
+                    "values": {
+                        "actual_2024_25": 5.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.27,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "12.01",
+                    "name": "Transfer to Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": 5.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.27,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "12.02",
+                    "name": "Program Component",
+                    "values": {
+                        "actual_2024_25": 5.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.27,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "12.03",
+                    "name": "Amount met from Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": -5.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": -5.27,
+                        "budget_2025_26": -0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": -0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": -0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 5.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.27,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 159.9,
+                        "capital_2024_25": 4.17,
+                        "total_2024_25": 164.07,
+                        "budget_2025_26": 2534.93,
+                        "capital_2025_26": 6.13,
+                        "total_2025_26": 2541.06,
+                        "revised_2024_25": 1304.17,
+                        "capital_revised_2024_25": 6.13,
+                        "total_revised_2024_25": 1310.3,
+                        "budget_2026_27": 2433.87,
+                        "capital_2026_27": 4.53,
+                        "total_2026_27": 2438.4
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.25,
+                        "revised_2024_25": 0.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.25,
+                        "budget_2026_27": 0.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.25
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.25,
+                        "revised_2024_25": 0.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.25,
+                        "budget_2026_27": 0.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.25
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Social Security and Welfare",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 11.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11.07,
+                        "budget_2025_26": 12.14,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12.14,
+                        "revised_2024_25": 14.37,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14.37,
+                        "budget_2026_27": 12.33,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12.33
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Tourism",
+                    "values": {
+                        "actual_2024_25": 148.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 148.83,
+                        "budget_2025_26": 2282.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2282.53,
+                        "revised_2024_25": 1171.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1171.53,
+                        "budget_2026_27": 2187.68,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2187.68
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Tourism",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4.17,
+                        "total_2024_25": 4.17,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 6.13,
+                        "total_2025_26": 6.13,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 6.13,
+                        "total_revised_2024_25": 6.13,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4.53,
+                        "total_2026_27": 4.53
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 159.9,
+                        "capital_2024_25": 4.17,
+                        "total_2024_25": 164.07,
+                        "budget_2025_26": 2294.67,
+                        "capital_2025_26": 6.13,
+                        "total_2025_26": 2300.8,
+                        "revised_2024_25": 1185.9,
+                        "capital_revised_2024_25": 6.13,
+                        "total_revised_2024_25": 1192.03,
+                        "budget_2026_27": 2200.01,
+                        "capital_2026_27": 4.53,
+                        "total_2026_27": 2204.54
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 240.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 240.0,
+                        "revised_2024_25": 118.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 118.01,
+                        "budget_2026_27": 233.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 233.6
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 240.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 240.0,
+                        "revised_2024_25": 118.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 118.01,
+                        "budget_2026_27": 233.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 233.6
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 159.9,
+                        "capital_2024_25": 4.17,
+                        "total_2024_25": 164.07,
+                        "budget_2025_26": 2534.93,
+                        "capital_2025_26": 6.13,
+                        "total_2025_26": 2541.06,
+                        "revised_2024_25": 1304.17,
+                        "capital_revised_2024_25": 6.13,
+                        "total_revised_2024_25": 1310.3,
+                        "budget_2026_27": 2433.87,
+                        "capital_2026_27": 4.53,
+                        "total_2026_27": 2438.4
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "India Tourism Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 82.94,
+                        "total_2024_25": 82.94,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 70.42,
+                        "total_2025_26": 70.42,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 97.4,
+                        "total_revised_2024_25": 97.4,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Kumarakruppa Frontier Hotels",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 12.4,
+                        "total_2024_25": 12.4,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 10.0,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 13.64,
+                        "total_revised_2024_25": 13.64,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15.0,
+                        "total_2026_27": 15.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 95.34,
+                        "total_2024_25": 95.34,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 80.42,
+                        "total_2025_26": 80.42,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 111.04,
+                        "total_revised_2024_25": 111.04,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15.0,
+                        "total_2026_27": 15.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for meeting the expenditure on the Secretariat of Ministry of 7. Overseas Promotion and Publicity including Market Development Assistance:..The",
+            "items": []
+        },
+        {
+            "heading": "2. Director General Tourism:..The provision is for meeting the expenditure on the Headquarters",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Domestic Promotion and Publicity including Market Development Assistance:..Under this",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Integrated Development of Tourist Circuits around specific themes (Swadesh",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Assistance to IHMS/FCIs/IITTM/NIWS:..Ministry of Tourism extends Central Financial",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "76",
+                    "name": "projects sanctioned under Swadesh Darshan Scheme covering",
+                    "values": {
+                        "actual_2024_25": 13.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Capacity Building for Service Providers:..Under the scheme Capacity Building for Service",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Pilgrimage Rejuvenation and Spiritual, Heritage Augmentation Drive (PRASHAD):..The",
+                    "values": {
+                        "actual_2024_25": 18.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Assistance to Central Agencies for Tourism Infrastructure Development:..Development of introduced.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Champion Services Sector Scheme:..The Champion Service Sector Scheme is formulated",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF TRIBAL AFFAIRS",
+            "items": []
+        }
+    ]
+}

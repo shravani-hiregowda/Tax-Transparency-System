@@ -1,0 +1,818 @@
+{
+    "demand_no": 21,
+    "ministry": "Ministry Of Defence",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "36",
+                    "name": "International Cooperation:..The required amounts under this programmes is allocated to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Central Sector Scheme for Development of Makhana:..To be established for improving Food and Agriculture Organization (FAO) and United Nations World Food Programme (UNWFP) under membership",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "24. Bharat-VISTAAR:..Bharat-Virtually Integrated System to Access Agricultural Resources 37. National Farmers Welfare Program Implementation Society (NFWPIS):..National Farmers",
+            "items": []
+        },
+        {
+            "heading": "(Bharat-VISTAAR): To develop a multilingual AI Chatbot integrating the Agristake portals with ICAR package on Welfare Program Implementation Society (NFWPIS) is an autonomous society and set up as a Project Monitoring Unit",
+            "items": [
+                {
+                    "code": "25",
+                    "name": "Support for High Value Agriculture:..To support high value crops such as coconut, 38. Rashtriya Krishi Vikas Yojna:..Rashtriya Krishi Vikas Yojana (RKVY) is being implemented",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "27",
+                    "name": "Protection of Plant Varieties and Farmers Rights Authority:..It is a statutory body set up to The allocation under the scheme includes..`140 crore in RE 2025-26 and..`100 crore in BE",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "28",
+                    "name": "National Institute of Plant Health Management:..The Institute is engaged in promoting creating institutional capacities for natural farming in documentation & dissemination of best practices, making",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 159768.4,
+                        "total_2024_25": 159768.4,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 180000.0,
+                        "total_2025_26": 180000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 186454.2,
+                        "total_revised_2024_25": 186454.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 219306.47,
+                        "total_2026_27": 219306.47
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Coordination & Services (Directorate of Ordnance",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.83,
+                        "total_2024_25": 0.83,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.0,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.0,
+                        "total_2026_27": 1.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Emergency Authorisation for newly created DPSUs",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 133.58,
+                        "total_2024_25": 133.58,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 88.02,
+                        "total_revised_2024_25": 88.02,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 46.05,
+                        "total_2026_27": 46.05
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Research and Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 14096.58,
+                        "total_2024_25": 14096.58,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 14923.82,
+                        "total_2025_26": 14923.82,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15343.82,
+                        "total_revised_2024_25": 15343.82,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 17250.25,
+                        "total_2026_27": 17250.25
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Inspection - Director General Quality Audit (DGQA)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 10.85,
+                        "total_2024_25": 10.85,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 15.0,
+                        "total_2025_26": 15.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 25.0,
+                        "total_revised_2024_25": 25.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15.0,
+                        "total_2026_27": 15.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Land",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 418.87,
+                        "total_2024_25": 418.87,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1021.38,
+                        "total_2025_26": 1021.38,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 678.89,
+                        "total_revised_2024_25": 678.89,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1237.91,
+                        "total_2026_27": 1237.91
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Aircraft and Aero Engines",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 44364.86,
+                        "total_2024_25": 44364.86,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 48614.06,
+                        "total_2025_26": 48614.06,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 72780.15,
+                        "total_revised_2024_25": 72780.15,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 63733.94,
+                        "total_2026_27": 63733.94
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Heavy and Medium Vehicles",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3569.38,
+                        "total_2024_25": 3569.38,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3650.52,
+                        "total_2025_26": 3650.52,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3696.46,
+                        "total_revised_2024_25": 3696.46,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4580.16,
+                        "total_2026_27": 4580.16
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Other Equipments",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 52204.54,
+                        "total_2024_25": 52204.54,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 63099.03,
+                        "total_2025_26": 63099.03,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 50760.27,
+                        "total_revised_2024_25": 50760.27,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 82217.82,
+                        "total_2026_27": 82217.82
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Joint Staff",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1687.85,
+                        "total_2024_25": 1687.85,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2352.82,
+                        "total_2025_26": 2352.82,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1689.16,
+                        "total_revised_2024_25": 1689.16,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3138.72,
+                        "total_2026_27": 3138.72
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Procurement of Rolling Stock",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 34.9,
+                        "total_2024_25": 34.9,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 500.0,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 358.0,
+                        "total_revised_2024_25": 358.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 450.0,
+                        "total_2026_27": 450.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Ex- Servicemen Contributory Health Scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 14.42,
+                        "total_2024_25": 14.42,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 20.0,
+                        "total_2025_26": 20.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 50.0,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 60.26,
+                        "total_2026_27": 60.26
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Rashtriya Rifles",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 217.32,
+                        "total_2024_25": 217.32,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 150.0,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 222.0,
+                        "total_revised_2024_25": 222.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 255.0,
+                        "total_2026_27": 255.0
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "National Cadet Corps",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8.43,
+                        "total_2024_25": 8.43,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 46.0,
+                        "total_2025_26": 46.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 18.0,
+                        "total_revised_2024_25": 18.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20.0,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Construction Works",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 9214.99,
+                        "total_2024_25": 9214.99,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 11451.74,
+                        "total_2025_26": 11451.74,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10105.82,
+                        "total_revised_2024_25": 10105.82,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 11752.1,
+                        "total_2026_27": 11752.1
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Naval Fleet",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 25566.96,
+                        "total_2024_25": 25566.96,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 24390.95,
+                        "total_2025_26": 24390.95,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 21396.81,
+                        "total_revised_2024_25": 21396.81,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 25023.63,
+                        "total_2026_27": 25023.63
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Naval Dockyard/ Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5618.87,
+                        "total_2024_25": 5618.87,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4500.0,
+                        "total_2025_26": 4500.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4500.0,
+                        "total_revised_2024_25": 4500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4333.7,
+                        "total_2026_27": 4333.7
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Special Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 849.44,
+                        "total_2024_25": 849.44,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1731.52,
+                        "total_2025_26": 1731.52,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1519.89,
+                        "total_revised_2024_25": 1519.89,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1989.12,
+                        "total_2026_27": 1989.12
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Defence Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 143770.83,
+                        "total_2024_25": 143770.83,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 161528.02,
+                        "total_2025_26": 161528.02,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 167775.45,
+                        "total_revised_2024_25": 167775.45,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 198792.36,
+                        "total_2026_27": 198792.36
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "18",
+                    "name": "Projects of the Army",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.71,
+                        "total_2024_25": 0.71,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 335.0,
+                        "total_2025_26": 335.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 76.0,
+                        "total_revised_2024_25": 76.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 89.0,
+                        "total_2026_27": 89.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "Projects of the Air Force",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 261.02,
+                        "total_2024_25": 261.02,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1702.16,
+                        "total_2025_26": 1702.16,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1650.91,
+                        "total_revised_2024_25": 1650.91,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1618.81,
+                        "total_2026_27": 1618.81
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Techonology Development - Assistance for prototype development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 261.73,
+                        "total_2024_25": 261.73,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2037.16,
+                        "total_2025_26": 2037.16,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1726.91,
+                        "total_revised_2024_25": 1726.91,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1707.81,
+                        "total_2026_27": 1707.81
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "20",
+                    "name": "Investment in Public Enterprises",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1494.0,
+                        "total_2024_25": 1494.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1494.0,
+                        "total_2025_26": 1494.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1494.0,
+                        "total_revised_2024_25": 1494.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1494.0,
+                        "total_2026_27": 1494.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 159768.4,
+                        "total_2024_25": 159768.4,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 180000.0,
+                        "total_2025_26": 180000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 186454.2,
+                        "total_revised_2024_25": 186454.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 219306.47,
+                        "total_2026_27": 219306.47
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 159768.4,
+                        "total_2024_25": 159768.4,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 180000.0,
+                        "total_2025_26": 180000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 186454.2,
+                        "total_revised_2024_25": 186454.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 219306.47,
+                        "total_2026_27": 219306.47
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Capital Outlay on Defence Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 159768.4,
+                        "total_2024_25": 159768.4,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 180000.0,
+                        "total_2025_26": 180000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 186454.2,
+                        "total_revised_2024_25": 186454.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 219306.47,
+                        "total_2026_27": 219306.47
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 159768.4,
+                        "total_2024_25": 159768.4,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 180000.0,
+                        "total_2025_26": 180000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 186454.2,
+                        "total_revised_2024_25": 186454.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 219306.47,
+                        "total_2026_27": 219306.47
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 159768.4,
+                        "total_2024_25": 159768.4,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 180000.0,
+                        "total_2025_26": 180000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 186454.2,
+                        "total_revised_2024_25": 186454.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 219306.47,
+                        "total_2026_27": 219306.47
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Armoured Vehicles Nigam Limited",
+                    "values": {
+                        "actual_2024_25": 173.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 173.86,
+                        "budget_2025_26": 173.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 173.0,
+                        "revised_2024_25": 261.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 261.02,
+                        "budget_2026_27": 219.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 219.05
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Advanced Weapons and",
+                    "values": {
+                        "actual_2024_25": 329.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": 329.26,
+                        "budget_2025_26": 329.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 329.0,
+                        "revised_2024_25": 329.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 329.0,
+                        "budget_2026_27": 329.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 329.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Gliders India Limited",
+                    "values": {
+                        "actual_2024_25": 2.14,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.14,
+                        "budget_2025_26": 2.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.5,
+                        "revised_2024_25": 2.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.5,
+                        "budget_2026_27": 2.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.5
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "India Optel Limited",
+                    "values": {
+                        "actual_2024_25": 5.18,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.18,
+                        "budget_2025_26": 6.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6.0,
+                        "revised_2024_25": 6.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.0,
+                        "budget_2026_27": 6.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Munitions India Limited",
+                    "values": {
+                        "actual_2024_25": 745.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 745.45,
+                        "budget_2025_26": 745.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 745.5,
+                        "revised_2024_25": 745.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 745.5,
+                        "budget_2026_27": 745.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 745.5
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Troop Comforts Limited",
+                    "values": {
+                        "actual_2024_25": 143.54,
+                        "capital_2024_25": null,
+                        "total_2024_25": 143.54,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Yantra India Limited",
+                    "values": {
+                        "actual_2024_25": 228.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 228.15,
+                        "budget_2025_26": 228.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 228.0,
+                        "revised_2024_25": 228.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 228.0,
+                        "budget_2026_27": 228.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 228.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": 1627.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1627.58,
+                        "budget_2025_26": 1494.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1494.0,
+                        "revised_2024_25": 1582.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1582.02,
+                        "budget_2026_27": 1540.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1540.05
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "1",
+                    "name": "Coordination & Services (Directorate of Ordnance Factories):..Defence Ordnance",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,565 @@
+{
+    "demand_no": 47,
+    "ministry": "Ministry Of Health And Family Welfare",
+    "department": "Department Of Health Research",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 3382.98,
+                        "capital_2024_25": 0.95,
+                        "total_2024_25": 3383.93,
+                        "budget_2025_26": 3899.43,
+                        "capital_2025_26": 1.26,
+                        "total_2025_26": 3900.69,
+                        "revised_2024_25": 3926.17,
+                        "capital_revised_2024_25": 1.47,
+                        "total_revised_2024_25": 3927.64,
+                        "budget_2026_27": 4819.4,
+                        "capital_2026_27": 1.81,
+                        "total_2026_27": 4821.21
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 41.78,
+                        "capital_2024_25": 0.89,
+                        "total_2024_25": 42.67,
+                        "budget_2025_26": 44.12,
+                        "capital_2025_26": 1.15,
+                        "total_2025_26": 45.27,
+                        "revised_2024_25": 45.37,
+                        "capital_revised_2024_25": 1.36,
+                        "total_revised_2024_25": 46.73,
+                        "budget_2026_27": 50.05,
+                        "capital_2026_27": 1.75,
+                        "total_2026_27": 51.8
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Health Technology Assessment",
+                    "values": {
+                        "actual_2024_25": 17.44,
+                        "capital_2024_25": 0.06,
+                        "total_2024_25": 17.5,
+                        "budget_2025_26": 18.64,
+                        "capital_2025_26": 0.11,
+                        "total_2025_26": 18.75,
+                        "revised_2024_25": 17.87,
+                        "capital_revised_2024_25": 0.11,
+                        "total_revised_2024_25": 17.98,
+                        "budget_2026_27": 24.94,
+                        "capital_2026_27": 0.06,
+                        "total_2026_27": 25.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 59.22,
+                        "capital_2024_25": 0.95,
+                        "total_2024_25": 60.17,
+                        "budget_2025_26": 62.76,
+                        "capital_2025_26": 1.26,
+                        "total_2025_26": 64.02,
+                        "revised_2024_25": 63.24,
+                        "capital_revised_2024_25": 1.47,
+                        "total_revised_2024_25": 64.71,
+                        "budget_2026_27": 74.99,
+                        "capital_2026_27": 1.81,
+                        "total_2026_27": 76.8
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Setting up of nation wide network of laboratories for",
+                    "values": {
+                        "actual_2024_25": 60.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 60.99,
+                        "budget_2025_26": 57.24,
+                        "capital_2025_26": null,
+                        "total_2025_26": 57.24,
+                        "revised_2024_25": 57.24,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 57.24,
+                        "budget_2026_27": 70.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 70.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Development of Infrastructure for Promotion of Health",
+                    "values": {
+                        "actual_2024_25": 80.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 80.0,
+                        "budget_2025_26": 150.18,
+                        "capital_2025_26": null,
+                        "total_2025_26": 150.18,
+                        "revised_2024_25": 175.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 175.0,
+                        "budget_2026_27": 171.35,
+                        "capital_2026_27": null,
+                        "total_2026_27": 171.35
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Development of tools/support to prevent outbreaks of",
+                    "values": {
+                        "actual_2024_25": 8.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.0,
+                        "budget_2025_26": 3.49,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.49,
+                        "revised_2024_25": 3.67,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.67,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Infrastructure Development for Health Research",
+                    "values": {
+                        "actual_2024_25": 148.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 148.99,
+                        "budget_2025_26": 210.91,
+                        "capital_2025_26": null,
+                        "total_2025_26": 210.91,
+                        "revised_2024_25": 235.91,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 235.91,
+                        "budget_2026_27": 241.35,
+                        "capital_2026_27": null,
+                        "total_2026_27": 241.35
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Human Resource and Capacity Development",
+                    "values": {
+                        "actual_2024_25": 124.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 124.06,
+                        "budget_2025_26": 149.77,
+                        "capital_2025_26": null,
+                        "total_2025_26": 149.77,
+                        "revised_2024_25": 152.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 152.02,
+                        "budget_2026_27": 152.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 152.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Prime Minister's Ayushman Bharat Health Infrastructure",
+                    "values": {
+                        "actual_2024_25": 181.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 181.15,
+                        "budget_2025_26": 350.49,
+                        "capital_2025_26": null,
+                        "total_2025_26": 350.49,
+                        "revised_2024_25": 325.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 325.0,
+                        "budget_2026_27": 351.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 351.06
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 454.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 454.2,
+                        "budget_2025_26": 711.17,
+                        "capital_2025_26": null,
+                        "total_2025_26": 711.17,
+                        "revised_2024_25": 712.93,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 712.93,
+                        "budget_2026_27": 744.41,
+                        "capital_2026_27": null,
+                        "total_2026_27": 744.41
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Indian Council of Medical Research, New Delhi",
+                    "values": {
+                        "actual_2024_25": 2869.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2869.56,
+                        "budget_2025_26": 3125.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3125.5,
+                        "revised_2024_25": 3150.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3150.0,
+                        "budget_2026_27": 4000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3382.98,
+                        "capital_2024_25": 0.95,
+                        "total_2024_25": 3383.93,
+                        "budget_2025_26": 3899.43,
+                        "capital_2025_26": 1.26,
+                        "total_2025_26": 3900.69,
+                        "revised_2024_25": 3926.17,
+                        "capital_revised_2024_25": 1.47,
+                        "total_revised_2024_25": 3927.64,
+                        "budget_2026_27": 4819.4,
+                        "capital_2026_27": 1.81,
+                        "total_2026_27": 4821.21
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Medical and Public Health",
+                    "values": {
+                        "actual_2024_25": 3341.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3341.2,
+                        "budget_2025_26": 3703.64,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3703.64,
+                        "revised_2024_25": 3725.63,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3725.63,
+                        "budget_2026_27": 4585.1,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4585.1
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 41.78,
+                        "capital_2024_25": null,
+                        "total_2024_25": 41.78,
+                        "budget_2025_26": 44.12,
+                        "capital_2025_26": null,
+                        "total_2025_26": 44.12,
+                        "revised_2024_25": 45.37,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 45.37,
+                        "budget_2026_27": 50.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.05
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Medical and Public Health",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.06,
+                        "total_2024_25": 0.06,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.11,
+                        "total_2025_26": 0.11,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.11,
+                        "total_revised_2024_25": 0.11,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.06,
+                        "total_2026_27": 0.06
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.89,
+                        "total_2024_25": 0.89,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.15,
+                        "total_2025_26": 1.15,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.36,
+                        "total_revised_2024_25": 1.36,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.75,
+                        "total_2026_27": 1.75
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 3382.98,
+                        "capital_2024_25": 0.95,
+                        "total_2024_25": 3383.93,
+                        "budget_2025_26": 3747.76,
+                        "capital_2025_26": 1.26,
+                        "total_2025_26": 3749.02,
+                        "revised_2024_25": 3771.0,
+                        "capital_revised_2024_25": 1.47,
+                        "total_revised_2024_25": 3772.47,
+                        "budget_2026_27": 4635.15,
+                        "capital_2026_27": 1.81,
+                        "total_2026_27": 4636.96
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 151.67,
+                        "capital_2025_26": null,
+                        "total_2025_26": 151.67,
+                        "revised_2024_25": 155.17,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 155.17,
+                        "budget_2026_27": 184.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 184.25
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 151.67,
+                        "capital_2025_26": null,
+                        "total_2025_26": 151.67,
+                        "revised_2024_25": 155.17,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 155.17,
+                        "budget_2026_27": 184.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 184.25
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3382.98,
+                        "capital_2024_25": 0.95,
+                        "total_2024_25": 3383.93,
+                        "budget_2025_26": 3899.43,
+                        "capital_2025_26": 1.26,
+                        "total_2025_26": 3900.69,
+                        "revised_2024_25": 3926.17,
+                        "capital_revised_2024_25": 1.47,
+                        "total_revised_2024_25": 3927.64,
+                        "budget_2026_27": 4819.4,
+                        "capital_2026_27": 1.81,
+                        "total_2026_27": 4821.21
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure on the Secretariat of the",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Health Technology Assessment:..To provide for health technology assessment system, to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Setting up of nation wide network of laboratories for managing epidemics and national",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Development of Infrastructure for Promotion of Health Research:..The scheme envisages",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Development of tools/support to prevent outbreaks of epidemics:..The provision is made",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Human Resource and Capacity Development:..The provision is for (i) fellowships for training",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Prime Minister's Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)-Bio",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Indian Council of Medical Research, New Delhi:..Indian Council of Medical Research is the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF HEAVY INDUSTRIES",
+            "items": []
+        }
+    ]
+}

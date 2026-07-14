@@ -1,0 +1,16 @@
+/* ===========================
+   GLOBAL THEME VARIABLES
+   =========================== */
+
+:root {
+  --primary: #0b5ed7;
+  --primary-dark: #004aad;
+  --text-dark: #1e293b;
+  --text-muted: #64748b;
+  --bg: #f5f8ff;
+  --white: #ffffff;
+
+  /* UI tokens */
+  --radius: 14px;
+  --shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+}

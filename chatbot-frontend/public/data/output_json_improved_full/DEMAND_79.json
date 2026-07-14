@@ -1,0 +1,1862 @@
+{
+    "demand_no": 79,
+    "ministry": "Ministry Of Power",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 18591.32,
+                        "capital_2024_25": 1122.46,
+                        "total_2024_25": 19713.78,
+                        "budget_2025_26": 21188.59,
+                        "capital_2025_26": 658.41,
+                        "total_2025_26": 21847.0,
+                        "revised_2024_25": 21004.15,
+                        "capital_revised_2024_25": 583.51,
+                        "total_revised_2024_25": 21587.66,
+                        "budget_2026_27": 29635.83,
+                        "capital_2026_27": 361.02,
+                        "total_2026_27": 29996.85
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 65.5,
+                        "capital_2024_25": 11.67,
+                        "total_2024_25": 77.17,
+                        "budget_2025_26": 72.64,
+                        "capital_2025_26": 6.03,
+                        "total_2025_26": 78.67,
+                        "revised_2024_25": 68.02,
+                        "capital_revised_2024_25": 6.19,
+                        "total_revised_2024_25": 74.21,
+                        "budget_2026_27": 72.64,
+                        "capital_2026_27": 6.92,
+                        "total_2026_27": 79.56
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.03,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Statutory Authorities",
+                    "values": {
+                        "actual_2024_25": 137.51,
+                        "capital_2024_25": 2.62,
+                        "total_2024_25": 140.13,
+                        "budget_2025_26": 152.89,
+                        "capital_2025_26": 2.16,
+                        "total_2025_26": 155.05,
+                        "revised_2024_25": 158.29,
+                        "capital_revised_2024_25": 2.84,
+                        "total_revised_2024_25": 161.13,
+                        "budget_2026_27": 161.53,
+                        "capital_2026_27": 3.27,
+                        "total_2026_27": 164.8
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Central Electricity Authority",
+                    "values": {
+                        "actual_2024_25": 137.51,
+                        "capital_2024_25": 2.62,
+                        "total_2024_25": 140.13,
+                        "budget_2025_26": 152.89,
+                        "capital_2025_26": 2.16,
+                        "total_2025_26": 155.05,
+                        "revised_2024_25": 158.29,
+                        "capital_revised_2024_25": 2.84,
+                        "total_revised_2024_25": 161.13,
+                        "budget_2026_27": 161.53,
+                        "capital_2026_27": 3.27,
+                        "total_2026_27": 164.8
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Setting up of Joint Electricity Regulatory",
+                    "values": {
+                        "actual_2024_25": 8.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.61,
+                        "budget_2025_26": 15.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15.5,
+                        "revised_2024_25": 15.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15.3,
+                        "budget_2026_27": 16.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 16.0
+                    }
+                },
+                {
+                    "code": "3.03",
+                    "name": "Setting up of Joint Electricity Regulatory",
+                    "values": {
+                        "actual_2024_25": 1.1,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.1,
+                        "budget_2025_26": 3.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.0,
+                        "revised_2024_25": 3.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.5,
+                        "budget_2026_27": 4.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4.0
+                    }
+                },
+                {
+                    "code": "3.04",
+                    "name": "Appellate Tribunal for Electricity",
+                    "values": {
+                        "actual_2024_25": 44.6,
+                        "capital_2024_25": 0.27,
+                        "total_2024_25": 44.87,
+                        "budget_2025_26": 49.0,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 42.57,
+                        "capital_revised_2024_25": 0.85,
+                        "total_revised_2024_25": 43.42,
+                        "budget_2026_27": 46.2,
+                        "capital_2026_27": 0.8,
+                        "total_2026_27": 47.0
+                    }
+                },
+                {
+                    "code": "3.05",
+                    "name": "Transfers to Central Electricity Regulatory",
+                    "values": {
+                        "actual_2024_25": 85.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 85.0,
+                        "budget_2025_26": 100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": 110.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 110.0,
+                        "budget_2026_27": 115.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 115.0
+                    }
+                },
+                {
+                    "code": "3.06",
+                    "name": "Less- Amount met from CERC Fund",
+                    "values": {
+                        "actual_2024_25": -92.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": -92.72,
+                        "budget_2025_26": -100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -100.0,
+                        "revised_2024_25": -110.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -110.0,
+                        "budget_2026_27": -115.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -115.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 184.1,
+                        "capital_2024_25": 2.89,
+                        "total_2024_25": 186.99,
+                        "budget_2025_26": 220.39,
+                        "capital_2025_26": 3.16,
+                        "total_2025_26": 223.55,
+                        "revised_2024_25": 219.66,
+                        "capital_revised_2024_25": 3.69,
+                        "total_revised_2024_25": 223.35,
+                        "budget_2026_27": 227.73,
+                        "capital_2026_27": 4.07,
+                        "total_2026_27": 231.8
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 249.57,
+                        "capital_2024_25": 14.56,
+                        "total_2024_25": 264.13,
+                        "budget_2025_26": 293.03,
+                        "capital_2025_26": 9.19,
+                        "total_2025_26": 302.22,
+                        "revised_2024_25": 287.68,
+                        "capital_revised_2024_25": 9.88,
+                        "total_revised_2024_25": 297.56,
+                        "budget_2026_27": 300.37,
+                        "capital_2026_27": 10.99,
+                        "total_2026_27": 311.36
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": []
+        },
+        {
+            "heading": "4. Energy Conservation Schemes",
+            "items": [
+                {
+                    "code": "4.01",
+                    "name": "Energy Conservation",
+                    "values": {
+                        "actual_2024_25": 34.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 34.5,
+                        "budget_2025_26": 44.35,
+                        "capital_2025_26": null,
+                        "total_2025_26": 44.35,
+                        "revised_2024_25": 40.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.0,
+                        "budget_2026_27": 17.75,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17.75
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Strengthening of Power Systems",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "Green Energy Corridors",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "Interest Subsidy to National Electricity Fund",
+                    "values": {
+                        "actual_2024_25": 207.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 207.74,
+                        "budget_2025_26": 250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 250.0,
+                        "revised_2024_25": 186.77,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 186.77,
+                        "budget_2026_27": 168.1,
+                        "capital_2026_27": null,
+                        "total_2026_27": 168.1
+                    }
+                },
+                {
+                    "code": "5.03",
+                    "name": "Power System Improvement in North Eastern",
+                    "values": {
+                        "actual_2024_25": 200.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 200.0,
+                        "budget_2025_26": 304.67,
+                        "capital_2025_26": null,
+                        "total_2025_26": 304.67,
+                        "revised_2024_25": 195.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 195.0,
+                        "budget_2026_27": 0.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "5.04",
+                    "name": "Power System Improvement in North Eastern",
+                    "values": {
+                        "actual_2024_25": 120.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 120.0,
+                        "budget_2025_26": 295.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 295.33,
+                        "revised_2024_25": 100.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 100.0,
+                        "budget_2026_27": 0.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.5
+                    }
+                },
+                {
+                    "code": "5.05",
+                    "name": "Strengthening of Transmission System in the",
+                    "values": {
+                        "actual_2024_25": 845.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 845.61,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 712.54,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 712.54,
+                        "budget_2026_27": 800.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 800.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Strengthening of Power Systems",
+                    "values": {
+                        "actual_2024_25": 1373.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1373.35,
+                        "budget_2025_26": 850.01,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 850.02,
+                        "revised_2024_25": 1194.31,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 1194.32,
+                        "budget_2026_27": 969.1,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 969.11
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Power System Development Fund",
+                    "values": {
+                        "actual_2024_25": 1190.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1190.87,
+                        "budget_2025_26": 1100.08,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1100.08,
+                        "revised_2024_25": 1099.58,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1099.58,
+                        "budget_2026_27": 1102.62,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1102.62
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Transfer to Power System Development Fund",
+                    "values": {
+                        "actual_2024_25": 1190.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1190.87,
+                        "budget_2025_26": 1100.08,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1100.08,
+                        "revised_2024_25": 1099.58,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1099.58,
+                        "budget_2026_27": 1102.62,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1102.62
+                    }
+                },
+                {
+                    "code": "6.02",
+                    "name": "Scheme for Power System Development",
+                    "values": {
+                        "actual_2024_25": 723.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 723.35,
+                        "budget_2025_26": 647.46,
+                        "capital_2025_26": null,
+                        "total_2025_26": 647.46,
+                        "revised_2024_25": 646.96,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 646.96,
+                        "budget_2026_27": 650.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 650.0
+                    }
+                },
+                {
+                    "code": "6.03",
+                    "name": "Payment of interest for loan",
+                    "values": {
+                        "actual_2024_25": 467.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": 467.52,
+                        "budget_2025_26": 452.62,
+                        "capital_2025_26": null,
+                        "total_2025_26": 452.62,
+                        "revised_2024_25": 452.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 452.62,
+                        "budget_2026_27": 452.62,
+                        "capital_2026_27": null,
+                        "total_2026_27": 452.62
+                    }
+                },
+                {
+                    "code": "6.04",
+                    "name": "Less-Amount met from Power System",
+                    "values": {
+                        "actual_2024_25": -1190.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1190.87,
+                        "budget_2025_26": -1100.08,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1100.08,
+                        "revised_2024_25": -1099.58,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1099.58,
+                        "budget_2026_27": -1102.62,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1102.62
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 1190.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1190.87,
+                        "budget_2025_26": 1100.08,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1100.08,
+                        "revised_2024_25": 1099.58,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1099.58,
+                        "budget_2026_27": 1102.62,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1102.62
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Reform Linked Distribution Scheme",
+                    "values": {
+                        "actual_2024_25": 12973.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12973.61,
+                        "budget_2025_26": 16021.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16021.0,
+                        "revised_2024_25": 15671.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15671.0,
+                        "budget_2026_27": 18000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 18000.0
+                    }
+                },
+                {
+                    "code": "7.01",
+                    "name": "Reform Linked Distribution Scheme",
+                    "values": {
+                        "actual_2024_25": 12973.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12973.61,
+                        "budget_2025_26": 16021.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16021.0,
+                        "revised_2024_25": 15671.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15671.0,
+                        "budget_2026_27": 18000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 18000.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Scheme for Promoting Energy Efficiency activities in",
+                    "values": {
+                        "actual_2024_25": 34.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": 34.97,
+                        "budget_2025_26": 40.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 35.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 35.0,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Viability Gap Funding for development of Battery Energy",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": 100.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 100.0,
+                        "budget_2026_27": 1000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1000.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Energy Efficiency Financing Facility -ADEETIE",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 72.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 72.0,
+                        "revised_2024_25": 15.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15.0,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Carbon Capture Utilization and Storage Scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -17.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": -17.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 15590.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": 15590.05,
+                        "budget_2025_26": 18327.44,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 18327.45,
+                        "revised_2024_25": 18154.89,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 18154.9,
+                        "budget_2026_27": 21679.47,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 21679.48
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "Training and Research",
+                    "values": {
+                        "actual_2024_25": 233.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 233.0,
+                        "budget_2025_26": 80.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": 90.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 90.0,
+                        "budget_2026_27": 165.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 165.0
+                    }
+                },
+                {
+                    "code": "13.01",
+                    "name": "Central Power Research Institute",
+                    "values": {
+                        "actual_2024_25": 233.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 233.0,
+                        "budget_2025_26": 80.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": 90.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 90.0,
+                        "budget_2026_27": 165.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 165.0
+                    }
+                },
+                {
+                    "code": "13.02",
+                    "name": "National Power Training Institute",
+                    "values": {
+                        "actual_2024_25": 24.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.99,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 40.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.0,
+                        "budget_2026_27": 45.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Training and Research",
+                    "values": {
+                        "actual_2024_25": 257.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 257.99,
+                        "budget_2025_26": 130.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 130.0,
+                        "revised_2024_25": 130.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 130.0,
+                        "budget_2026_27": 210.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 210.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "Assistance to CPSUs",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 568.68,
+                        "total_2024_25": 568.68,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 300.0,
+                        "total_2025_26": 300.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 303.61,
+                        "total_revised_2024_25": 303.61,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "14.01",
+                    "name": "Central Assistance for Pakul Dul HEP under J",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 568.68,
+                        "total_2024_25": 568.68,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 300.0,
+                        "total_2025_26": 300.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 303.61,
+                        "total_revised_2024_25": 303.61,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Power Projects Private Limited (CVPPPL)",
+            "items": [
+                {
+                    "code": "14.02",
+                    "name": "GoI fully serviced bond issue expenditure and",
+                    "values": {
+                        "actual_2024_25": 376.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 376.39,
+                        "budget_2025_26": 376.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 376.4,
+                        "revised_2024_25": 376.4,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 376.4,
+                        "budget_2026_27": 5376.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5376.4
+                    }
+                },
+                {
+                    "code": "14.03",
+                    "name": "GoI fully serviced bond issue expenditure and",
+                    "values": {
+                        "actual_2024_25": 1943.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1943.59,
+                        "budget_2025_26": 1943.59,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1943.59,
+                        "revised_2024_25": 1944.58,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1944.58,
+                        "budget_2026_27": 1944.58,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1944.58
+                    }
+                },
+                {
+                    "code": "14.04",
+                    "name": "Reimbursement of Claim for any expenditure",
+                    "values": {
+                        "actual_2024_25": 51.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 51.6,
+                        "budget_2025_26": 80.12,
+                        "capital_2025_26": null,
+                        "total_2025_26": 80.12,
+                        "revised_2024_25": 94.38,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 94.38,
+                        "budget_2026_27": 80.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 80.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "14.05",
+                    "name": "Grant towards cost of downstream protection",
+                    "values": {
+                        "actual_2024_25": 40.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 40.0,
+                        "budget_2025_26": 13.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 13.0,
+                        "revised_2024_25": 13.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 13.21,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Assistance to CPSUs",
+                    "values": {
+                        "actual_2024_25": 2411.58,
+                        "capital_2024_25": 568.68,
+                        "total_2024_25": 2980.26,
+                        "budget_2025_26": 2413.11,
+                        "capital_2025_26": 300.0,
+                        "total_2025_26": 2713.11,
+                        "revised_2024_25": 2428.57,
+                        "capital_revised_2024_25": 303.61,
+                        "total_revised_2024_25": 2732.18,
+                        "budget_2026_27": 7400.98,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 7400.99
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "15",
+                    "name": "Issue of Bonus Shares",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1148.72,
+                        "total_2024_25": 1148.72,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15.01",
+                    "name": "Power Grid Corporation of India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1148.72,
+                        "total_2024_25": 1148.72,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15.02",
+                    "name": "Power Finance Corporation (PFC)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 369.57,
+                        "total_2024_25": 369.57,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15.03",
+                    "name": "Miscellaneous Capital Receipts",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -1518.29,
+                        "total_2024_25": -1518.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Public Sector Undertakings",
+                    "values": {
+                        "actual_2024_25": 2411.58,
+                        "capital_2024_25": 568.68,
+                        "total_2024_25": 2980.26,
+                        "budget_2025_26": 2413.11,
+                        "capital_2025_26": 300.0,
+                        "total_2025_26": 2713.11,
+                        "revised_2024_25": 2428.57,
+                        "capital_revised_2024_25": 303.61,
+                        "total_revised_2024_25": 2732.18,
+                        "budget_2026_27": 7400.98,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 7400.99
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "16",
+                    "name": "Advance Ultra Super Critical plant",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Support for cost of enabling infrastructure i.e Roads/",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 52.98,
+                        "total_2024_25": 52.98,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 50.0,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 50.0,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 50.0,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Support for flood moderation storage- Hydro Electric",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 486.24,
+                        "total_2024_25": 486.24,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 299.2,
+                        "total_2025_26": 299.2,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 220.0,
+                        "total_revised_2024_25": 220.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 300.0,
+                        "total_2026_27": 300.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Projects",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "Payment Pertaining to International Arbitration Case",
+                    "values": {
+                        "actual_2024_25": 2.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.13,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 3.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.0,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Manufacturing Zones under Atmanirbhar Bharat Package",
+                    "values": {
+                        "actual_2024_25": 80.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 80.0,
+                        "budget_2025_26": 20.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Support for equity participation - Hydro Electric Projects in",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 82.13,
+                        "capital_2024_25": 539.22,
+                        "total_2024_25": 621.35,
+                        "budget_2025_26": 25.01,
+                        "capital_2025_26": 349.21,
+                        "total_2025_26": 374.22,
+                        "revised_2024_25": 3.01,
+                        "capital_revised_2024_25": 270.01,
+                        "total_revised_2024_25": 273.02,
+                        "budget_2026_27": 45.01,
+                        "capital_2026_27": 350.01,
+                        "total_2026_27": 395.02
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 2751.7,
+                        "capital_2024_25": 1107.9,
+                        "total_2024_25": 3859.6,
+                        "budget_2025_26": 2568.12,
+                        "capital_2025_26": 649.21,
+                        "total_2025_26": 3217.33,
+                        "revised_2024_25": 2561.58,
+                        "capital_revised_2024_25": 573.62,
+                        "total_revised_2024_25": 3135.2,
+                        "budget_2026_27": 7655.99,
+                        "capital_2026_27": 350.02,
+                        "total_2026_27": 8006.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 18591.32,
+                        "capital_2024_25": 1122.46,
+                        "total_2024_25": 19713.78,
+                        "budget_2025_26": 21188.59,
+                        "capital_2025_26": 658.41,
+                        "total_2025_26": 21847.0,
+                        "revised_2024_25": 21004.15,
+                        "capital_revised_2024_25": 583.51,
+                        "total_revised_2024_25": 21587.66,
+                        "budget_2026_27": 29635.83,
+                        "capital_2026_27": 361.02,
+                        "total_2026_27": 29996.85
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Power",
+                    "values": {
+                        "actual_2024_25": 18525.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18525.85,
+                        "budget_2025_26": 18960.95,
+                        "capital_2025_26": null,
+                        "total_2025_26": 18960.95,
+                        "revised_2024_25": 18806.61,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 18806.61,
+                        "budget_2026_27": 26644.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 26644.2
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 65.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 65.47,
+                        "budget_2025_26": 72.64,
+                        "capital_2025_26": null,
+                        "total_2025_26": 72.64,
+                        "revised_2024_25": 68.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 68.01,
+                        "budget_2026_27": 72.63,
+                        "capital_2026_27": null,
+                        "total_2026_27": 72.63
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Power Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 553.78,
+                        "total_2024_25": 553.78,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 358.4,
+                        "total_2025_26": 358.4,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 279.89,
+                        "total_revised_2024_25": 279.89,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 361.0,
+                        "total_2026_27": 361.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Loans for Power Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 568.68,
+                        "total_2024_25": 568.68,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 300.0,
+                        "total_2025_26": 300.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 303.61,
+                        "total_revised_2024_25": 303.61,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 18591.32,
+                        "capital_2024_25": 1122.46,
+                        "total_2024_25": 19713.78,
+                        "budget_2025_26": 19033.59,
+                        "capital_2025_26": 658.4,
+                        "total_2025_26": 19691.99,
+                        "revised_2024_25": 18874.62,
+                        "capital_revised_2024_25": 583.5,
+                        "total_revised_2024_25": 19458.12,
+                        "budget_2026_27": 26716.83,
+                        "capital_2026_27": 361.01,
+                        "total_2026_27": 27077.84
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2155.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2155.0,
+                        "revised_2024_25": 2129.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2129.53,
+                        "budget_2026_27": 2919.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2919.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2155.0,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 2155.01,
+                        "revised_2024_25": 2129.53,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 2129.54,
+                        "budget_2026_27": 2919.0,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 2919.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 18591.32,
+                        "capital_2024_25": 1122.46,
+                        "total_2024_25": 19713.78,
+                        "budget_2025_26": 21188.59,
+                        "capital_2025_26": 658.41,
+                        "total_2025_26": 21847.0,
+                        "revised_2024_25": 21004.15,
+                        "capital_revised_2024_25": 583.51,
+                        "total_revised_2024_25": 21587.66,
+                        "budget_2026_27": 29635.83,
+                        "capital_2026_27": 361.02,
+                        "total_2026_27": 29996.85
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Power System Operation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 337.84,
+                        "total_2024_25": 337.84,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 300.0,
+                        "total_2025_26": 300.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 110.0,
+                        "total_revised_2024_25": 110.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 126.0,
+                        "total_2026_27": 126.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "National Hydro Electric Power",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 10541.04,
+                        "total_2024_25": 10541.04,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 13000.0,
+                        "total_2025_26": 13000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 12478.32,
+                        "total_revised_2024_25": 12478.32,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 14323.49,
+                        "total_2026_27": 14323.49
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Damodar Valley Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3116.3,
+                        "total_2024_25": 3116.3,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3394.83,
+                        "total_2025_26": 3394.83,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3394.0,
+                        "total_revised_2024_25": 3394.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5553.0,
+                        "total_2026_27": 5553.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "North Eastern Electric Power",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 960.35,
+                        "total_2024_25": 960.35,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2600.0,
+                        "total_2025_26": 2600.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1500.0,
+                        "total_revised_2024_25": 1500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1959.37,
+                        "total_2026_27": 1959.37
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Satluj Jal Vidyut Nigam Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7705.94,
+                        "total_2024_25": 7705.94,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 12000.0,
+                        "total_2025_26": 12000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7500.0,
+                        "total_revised_2024_25": 7500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 9416.0,
+                        "total_2026_27": 9416.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Tehri Hydro Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5368.93,
+                        "total_2024_25": 5368.93,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3543.65,
+                        "total_2025_26": 3543.65,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3543.0,
+                        "total_revised_2024_25": 3543.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2385.05,
+                        "total_2026_27": 2385.05
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Power Grid Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 24630.0,
+                        "total_2024_25": 24630.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 25000.0,
+                        "total_2025_26": 25000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 28000.0,
+                        "total_revised_2024_25": 28000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 37000.0,
+                        "total_2026_27": 37000.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "National Thermal Power",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 23336.03,
+                        "total_2024_25": 23336.03,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 26000.0,
+                        "total_2025_26": 26000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 29000.0,
+                        "total_revised_2024_25": 29000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 31000.0,
+                        "total_2026_27": 31000.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Chenab Valley Power Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 568.68,
+                        "total_2024_25": 568.68,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 300.0,
+                        "total_2025_26": 300.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 303.61,
+                        "total_revised_2024_25": 303.61,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 76565.11,
+                        "total_2024_25": 76565.11,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 86138.48,
+                        "total_2025_26": 86138.48,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 85828.93,
+                        "total_revised_2024_25": 85828.93,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 101762.92,
+                        "total_2026_27": 101762.92
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "1",
+                    "name": "Secretariat:..Provision is made for expenditure on establishment matters of the Secretariat of continued under Electricity Act,",
+                    "values": {
+                        "actual_2024_25": 2003.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4.01",
+                    "name": "Energy Conservation:..The funds would be utilized for (i) carrying out awareness creation on",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Central Electricity Authority:..The Central Electricity Authority (CEA) as a statutory",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "schemes, promoting and assisting the timely completion of projects, specifying technical standards and safety",
+            "items": [
+                {
+                    "code": "5.02",
+                    "name": "Interest Subsidy to National Electricity Fund:..The National Electricity Fund (NEF) is being",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Setting up of JERC for UTs and Goa:..The Central Government has set up a Joint Electricity",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Regulatory Commission (JERC) for Goa and all Union Territories except Delhi. Expenditure of the Joint Commission is",
+            "items": [
+                {
+                    "code": "5.05",
+                    "name": "Strengthening of Transmission System in the States of Arunachal Pradesh and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.03",
+                    "name": "Setting up of Joint Electricity Regulatory Commission (JERC) for J&K and Ladakh:..The",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Power System Development Fund:..The scheme envisages (a) strengthening of existing",
+                    "values": {
+                        "actual_2024_25": 2003.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.04",
+                    "name": "Appellate Tribunal for Electricity:..Under the provisions of Electricity Act,",
+                    "values": {
+                        "actual_2024_25": 2003.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Reform Linked Distribution Scheme:..The scheme is for distribution sub-sector as a mix of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "3.05. Transfers to Central Electricity Regulatory Commission (CERC) Fund:..CERC is a",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Scheme for Promoting Energy Efficiency activities in different sectors of Indian",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Viability Gap Funding for development of Battery Energy Storage Systems:..A scheme for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Energy Efficiency Financing Facility -ADEETIE (Assistance in Deploying Energy Efficient",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Carbon Capture Utilization and Storage Scheme:..It aims to adopt Carbon Capture",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13.01",
+                    "name": "Central Power Research Institute:..Central Power Research Institute, Bengaluru serves as a",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13.02",
+                    "name": "National Power Training Institute:..National Power Training Institute is engaged in imparting",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "14.02. GoI fully serviced bond issue expenditure and interest (PFC bonds):..The allocation",
+            "items": []
+        },
+        {
+            "heading": "14.03. GoI fully serviced bond issue expenditure and interest (REC Bonds):..Interest payment on",
+            "items": []
+        },
+        {
+            "heading": "14.04. Reimbursement of Claim for any expenditure already incurred by NTPC on Lohari",
+            "items": [
+                {
+                    "code": "17",
+                    "name": "Support for cost of enabling infrastructure i.e Roads/ Bridge etc:..Allocation for developing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "18. Support for flood moderation storage- Hydro Electric Projects:..Allocation for support for",
+            "items": []
+        },
+        {
+            "heading": "Flood moderation storage at Hydro electric projects.",
+            "items": []
+        },
+        {
+            "heading": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
+            "items": []
+        }
+    ]
+}

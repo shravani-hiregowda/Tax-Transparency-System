@@ -1,0 +1,1368 @@
+{
+    "demand_no": 10,
+    "ministry": "Ministry Of Commerce And Industry",
+    "department": "Department Of Commerce",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 5367.76,
+                        "capital_2024_25": 44.69,
+                        "total_2024_25": 5412.45,
+                        "budget_2025_26": 5246.99,
+                        "capital_2025_26": 54.0,
+                        "total_2025_26": 5300.99,
+                        "revised_2024_25": 6556.54,
+                        "capital_revised_2024_25": 49.48,
+                        "total_revised_2024_25": 6606.02,
+                        "budget_2026_27": 5825.76,
+                        "capital_2026_27": 47.31,
+                        "total_2026_27": 5873.07
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 148.13,
+                        "capital_2024_25": 5.43,
+                        "total_2024_25": 153.56,
+                        "budget_2025_26": 158.14,
+                        "capital_2025_26": 10.5,
+                        "total_2025_26": 168.64,
+                        "revised_2024_25": 161.1,
+                        "capital_revised_2024_25": 4.8,
+                        "total_revised_2024_25": 165.9,
+                        "budget_2026_27": 162.38,
+                        "capital_2026_27": 3.75,
+                        "total_2026_27": 166.13
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.2,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 147.93,
+                        "capital_2024_25": 5.43,
+                        "total_2024_25": 153.36,
+                        "budget_2025_26": 158.14,
+                        "capital_2025_26": 10.5,
+                        "total_2025_26": 168.64,
+                        "revised_2024_25": 161.1,
+                        "capital_revised_2024_25": 4.8,
+                        "total_revised_2024_25": 165.9,
+                        "budget_2026_27": 162.38,
+                        "capital_2026_27": 3.75,
+                        "total_2026_27": 166.13
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Directorate General of Commercial Intelligence and",
+                    "values": {
+                        "actual_2024_25": 33.85,
+                        "capital_2024_25": 5.19,
+                        "total_2024_25": 39.04,
+                        "budget_2025_26": 34.45,
+                        "capital_2025_26": 14.0,
+                        "total_2025_26": 48.45,
+                        "revised_2024_25": 34.97,
+                        "capital_revised_2024_25": 14.0,
+                        "total_revised_2024_25": 48.97,
+                        "budget_2026_27": 36.68,
+                        "capital_2026_27": 13.98,
+                        "total_2026_27": 50.66
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Trade Commissioners",
+                    "values": {
+                        "actual_2024_25": 283.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 283.59,
+                        "budget_2025_26": 252.93,
+                        "capital_2025_26": 0.5,
+                        "total_2025_26": 253.43,
+                        "revised_2024_25": 291.35,
+                        "capital_revised_2024_25": 3.48,
+                        "total_revised_2024_25": 294.83,
+                        "budget_2026_27": 311.56,
+                        "capital_2026_27": 1.3,
+                        "total_2026_27": 312.86
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Assistance to Special Economic Zones",
+                    "values": {
+                        "actual_2024_25": 109.48,
+                        "capital_2024_25": 2.77,
+                        "total_2024_25": 112.25,
+                        "budget_2025_26": 121.05,
+                        "capital_2025_26": 3.0,
+                        "total_2025_26": 124.05,
+                        "revised_2024_25": 119.76,
+                        "capital_revised_2024_25": 2.1,
+                        "total_revised_2024_25": 121.86,
+                        "budget_2026_27": 119.52,
+                        "capital_2026_27": 2.38,
+                        "total_2026_27": 121.9
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -0.11,
+                        "total_2024_25": -0.11,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 109.48,
+                        "capital_2024_25": 2.66,
+                        "total_2024_25": 112.14,
+                        "budget_2025_26": 121.05,
+                        "capital_2025_26": 3.0,
+                        "total_2025_26": 124.05,
+                        "revised_2024_25": 119.76,
+                        "capital_revised_2024_25": 2.1,
+                        "total_revised_2024_25": 121.86,
+                        "budget_2026_27": 119.52,
+                        "capital_2026_27": 2.38,
+                        "total_2026_27": 121.9
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "Foreign Trade and Export Promotion",
+                    "values": {
+                        "actual_2024_25": 51.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 51.32,
+                        "budget_2025_26": 48.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 48.0,
+                        "revised_2024_25": 61.17,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 61.17,
+                        "budget_2026_27": 65.26,
+                        "capital_2026_27": null,
+                        "total_2026_27": 65.26
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "International Cooperation",
+                    "values": {
+                        "actual_2024_25": 51.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 51.32,
+                        "budget_2025_26": 48.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 48.0,
+                        "revised_2024_25": 61.17,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 61.17,
+                        "budget_2026_27": 65.26,
+                        "capital_2026_27": null,
+                        "total_2026_27": 65.26
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "Trade Remedies and Trade Defence",
+                    "values": {
+                        "actual_2024_25": 20.33,
+                        "capital_2024_25": 1.0,
+                        "total_2024_25": 21.33,
+                        "budget_2025_26": 21.93,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 22.93,
+                        "revised_2024_25": 21.42,
+                        "capital_revised_2024_25": 1.0,
+                        "total_revised_2024_25": 22.42,
+                        "budget_2026_27": 22.91,
+                        "capital_2026_27": 1.0,
+                        "total_2026_27": 23.91
+                    }
+                },
+                {
+                    "code": "5.03",
+                    "name": "Directorate General of Foreign Trade",
+                    "values": {
+                        "actual_2024_25": 145.36,
+                        "capital_2024_25": 30.41,
+                        "total_2024_25": 175.77,
+                        "budget_2025_26": 157.68,
+                        "capital_2025_26": 25.0,
+                        "total_2025_26": 182.68,
+                        "revised_2024_25": 148.93,
+                        "capital_revised_2024_25": 24.1,
+                        "total_revised_2024_25": 173.03,
+                        "budget_2026_27": 152.21,
+                        "capital_2026_27": 24.9,
+                        "total_2026_27": 177.11
+                    }
+                },
+                {
+                    "code": "5.04",
+                    "name": "International Conferences",
+                    "values": {
+                        "actual_2024_25": 192.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 192.93,
+                        "budget_2025_26": 20.74,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.74,
+                        "revised_2024_25": 3.13,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.13,
+                        "budget_2026_27": 28.58,
+                        "capital_2026_27": null,
+                        "total_2026_27": 28.58
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Foreign Trade and Export Promotion",
+                    "values": {
+                        "actual_2024_25": 409.94,
+                        "capital_2024_25": 31.41,
+                        "total_2024_25": 441.35,
+                        "budget_2025_26": 248.35,
+                        "capital_2025_26": 26.0,
+                        "total_2025_26": 274.35,
+                        "revised_2024_25": 234.65,
+                        "capital_revised_2024_25": 25.1,
+                        "total_revised_2024_25": 259.75,
+                        "budget_2026_27": 268.96,
+                        "capital_2026_27": 25.9,
+                        "total_2026_27": 294.86
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 984.79,
+                        "capital_2024_25": 44.69,
+                        "total_2024_25": 1029.48,
+                        "budget_2025_26": 814.92,
+                        "capital_2025_26": 54.0,
+                        "total_2025_26": 868.92,
+                        "revised_2024_25": 841.83,
+                        "capital_revised_2024_25": 49.48,
+                        "total_revised_2024_25": 891.31,
+                        "budget_2026_27": 899.1,
+                        "capital_2026_27": 47.31,
+                        "total_2026_27": 946.41
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Agricultural Product Export Development Authority",
+                    "values": {
+                        "actual_2024_25": 80.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 80.0,
+                        "budget_2025_26": 80.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": 80.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 80.0,
+                        "budget_2026_27": 81.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 81.6
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Marine Product Export Development Authority (MPEDA)",
+                    "values": {
+                        "actual_2024_25": 108.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 108.85,
+                        "budget_2025_26": 133.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 133.0,
+                        "revised_2024_25": 133.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 133.0,
+                        "budget_2026_27": 135.66,
+                        "capital_2026_27": null,
+                        "total_2026_27": 135.66
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Trade Infrastructure for Export Schemes (TIES)",
+                    "values": {
+                        "actual_2024_25": 51.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": 51.67,
+                        "budget_2025_26": 50.67,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.67,
+                        "revised_2024_25": 50.67,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.67,
+                        "budget_2026_27": 51.68,
+                        "capital_2026_27": null,
+                        "total_2026_27": 51.68
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Duty Drawback Scheme",
+                    "values": {
+                        "actual_2024_25": 257.81,
+                        "capital_2024_25": null,
+                        "total_2024_25": 257.81,
+                        "budget_2025_26": 181.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 181.9,
+                        "revised_2024_25": 182.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 182.29,
+                        "budget_2026_27": 185.54,
+                        "capital_2026_27": null,
+                        "total_2026_27": 185.54
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "Tea Board",
+                    "values": {
+                        "actual_2024_25": 469.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 469.6,
+                        "budget_2025_26": 771.55,
+                        "capital_2025_26": null,
+                        "total_2025_26": 771.55,
+                        "revised_2024_25": 278.47,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 278.47,
+                        "budget_2026_27": 380.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 380.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Coffee Board",
+                    "values": {
+                        "actual_2024_25": 254.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 254.47,
+                        "budget_2025_26": 280.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 280.0,
+                        "revised_2024_25": 290.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 290.0,
+                        "budget_2026_27": 285.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 285.6
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Rubber Board",
+                    "values": {
+                        "actual_2024_25": 348.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": 348.38,
+                        "budget_2025_26": 360.31,
+                        "capital_2025_26": null,
+                        "total_2025_26": 360.31,
+                        "revised_2024_25": 350.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 350.0,
+                        "budget_2026_27": 367.52,
+                        "capital_2026_27": null,
+                        "total_2026_27": 367.52
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Spices Board",
+                    "values": {
+                        "actual_2024_25": 130.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 130.0,
+                        "budget_2025_26": 153.81,
+                        "capital_2025_26": null,
+                        "total_2025_26": 153.81,
+                        "revised_2024_25": 157.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 157.0,
+                        "budget_2026_27": 156.89,
+                        "capital_2026_27": null,
+                        "total_2026_27": 156.89
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Export Promotion Schemes",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Market Access Initiative",
+                    "values": {
+                        "actual_2024_25": 215.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 215.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Gems and Jewellery Sector",
+                    "values": {
+                        "actual_2024_25": 35.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 35.68,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 36.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 36.0,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "15.01",
+                    "name": "Establishment of India Centre for Lab Grown",
+                    "values": {
+                        "actual_2024_25": 35.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 35.68,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 36.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 36.0,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Interest Equalisation Scheme",
+                    "values": {
+                        "actual_2024_25": 2482.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2482.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Export Promotion Mission",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2250.0,
+                        "revised_2024_25": 2250.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2250.0,
+                        "budget_2026_27": 2300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2300.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "National Export Insurance Account",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 1800.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1800.0,
+                        "budget_2026_27": 887.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 887.3
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Export Promotion Schemes",
+                    "values": {
+                        "actual_2024_25": 2732.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2732.68,
+                        "budget_2025_26": 2250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2250.0,
+                        "revised_2024_25": 4086.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4086.0,
+                        "budget_2026_27": 3227.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3227.3
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "19",
+                    "name": "Centre For Research on International Trade-CRIT",
+                    "values": {
+                        "actual_2024_25": 45.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 45.0,
+                        "budget_2025_26": 48.15,
+                        "capital_2025_26": null,
+                        "total_2025_26": 48.15,
+                        "revised_2024_25": 48.15,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 48.15,
+                        "budget_2026_27": 49.11,
+                        "capital_2026_27": null,
+                        "total_2026_27": 49.11
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -126.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": -126.17,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 4352.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4352.29,
+                        "budget_2025_26": 4309.39,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4309.39,
+                        "revised_2024_25": 5655.58,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5655.58,
+                        "budget_2026_27": 4920.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4920.9
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": []
+        },
+        {
+            "heading": "21. Autonomous Institutions",
+            "items": [
+                {
+                    "code": "21.01",
+                    "name": "Indian Institute of Foreign Trade",
+                    "values": {
+                        "actual_2024_25": 25.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 25.0,
+                        "budget_2025_26": 25.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.0,
+                        "revised_2024_25": 53.43,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 53.43,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "21.02",
+                    "name": "Indian Institute of Packaging",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.0,
+                        "budget_2025_26": 96.32,
+                        "capital_2025_26": null,
+                        "total_2025_26": 96.32,
+                        "revised_2024_25": 5.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.0,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Autonomous Institutions",
+                    "values": {
+                        "actual_2024_25": 30.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 30.0,
+                        "budget_2025_26": 121.32,
+                        "capital_2025_26": null,
+                        "total_2025_26": 121.32,
+                        "revised_2024_25": 58.43,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 58.43,
+                        "budget_2026_27": 5.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "22",
+                    "name": "Delegation going abroad",
+                    "values": {
+                        "actual_2024_25": 0.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.24,
+                        "budget_2025_26": 0.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.3,
+                        "revised_2024_25": 0.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.25,
+                        "budget_2026_27": 0.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.25
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "Delegation from abroad",
+                    "values": {
+                        "actual_2024_25": 0.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.23,
+                        "budget_2025_26": 0.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.6,
+                        "revised_2024_25": 0.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.25,
+                        "budget_2026_27": 0.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.3
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Expenditure on disputes over Foreign Trade",
+                    "values": {
+                        "actual_2024_25": 0.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.21,
+                        "budget_2025_26": 0.46,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.46,
+                        "revised_2024_25": 0.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.2,
+                        "budget_2026_27": 0.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.2
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 0.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.68,
+                        "budget_2025_26": 1.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.36,
+                        "revised_2024_25": 0.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.7,
+                        "budget_2026_27": 0.75,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.75
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 30.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 30.68,
+                        "budget_2025_26": 122.68,
+                        "capital_2025_26": null,
+                        "total_2025_26": 122.68,
+                        "revised_2024_25": 59.13,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 59.13,
+                        "budget_2026_27": 5.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.76
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 5367.76,
+                        "capital_2024_25": 44.69,
+                        "total_2024_25": 5412.45,
+                        "budget_2025_26": 5246.99,
+                        "capital_2025_26": 54.0,
+                        "total_2025_26": 5300.99,
+                        "revised_2024_25": 6556.54,
+                        "capital_revised_2024_25": 49.48,
+                        "total_revised_2024_25": 6606.02,
+                        "budget_2026_27": 5825.76,
+                        "capital_2026_27": 47.31,
+                        "total_2026_27": 5873.07
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Plantations",
+                    "values": {
+                        "actual_2024_25": 1200.54,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1200.54,
+                        "budget_2025_26": 1119.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1119.25,
+                        "revised_2024_25": 972.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 972.51,
+                        "budget_2026_27": 934.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 934.2
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": -0.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.03,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 147.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 147.93,
+                        "budget_2025_26": 158.14,
+                        "capital_2025_26": null,
+                        "total_2025_26": 158.14,
+                        "revised_2024_25": 161.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 161.1,
+                        "budget_2026_27": 162.38,
+                        "capital_2026_27": null,
+                        "total_2026_27": 162.38
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Foreign Trade and Export Promotion",
+                    "values": {
+                        "actual_2024_25": 4019.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4019.32,
+                        "budget_2025_26": 3517.78,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3517.78,
+                        "revised_2024_25": 5314.57,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5314.57,
+                        "budget_2026_27": 4473.37,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4473.37
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Foreign Trade and Export Promotion",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.66,
+                        "total_2024_25": 2.66,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.0,
+                        "total_2025_26": 3.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.1,
+                        "total_revised_2024_25": 2.1,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.38,
+                        "total_2026_27": 2.38
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 42.03,
+                        "total_2024_25": 42.03,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 51.0,
+                        "total_2025_26": 51.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 47.38,
+                        "total_revised_2024_25": 47.38,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 44.93,
+                        "total_2026_27": 44.93
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 5367.76,
+                        "capital_2024_25": 44.69,
+                        "total_2024_25": 5412.45,
+                        "budget_2025_26": 4795.17,
+                        "capital_2025_26": 54.0,
+                        "total_2025_26": 4849.17,
+                        "revised_2024_25": 6448.18,
+                        "capital_revised_2024_25": 49.48,
+                        "total_revised_2024_25": 6497.66,
+                        "budget_2026_27": 5569.95,
+                        "capital_2026_27": 47.31,
+                        "total_2026_27": 5617.26
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 451.82,
+                        "capital_2025_26": null,
+                        "total_2025_26": 451.82,
+                        "revised_2024_25": 108.36,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 108.36,
+                        "budget_2026_27": 255.81,
+                        "capital_2026_27": null,
+                        "total_2026_27": 255.81
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 451.82,
+                        "capital_2025_26": null,
+                        "total_2025_26": 451.82,
+                        "revised_2024_25": 108.36,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 108.36,
+                        "budget_2026_27": 255.81,
+                        "capital_2026_27": null,
+                        "total_2026_27": 255.81
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 5367.76,
+                        "capital_2024_25": 44.69,
+                        "total_2024_25": 5412.45,
+                        "budget_2025_26": 5246.99,
+                        "capital_2025_26": 54.0,
+                        "total_2025_26": 5300.99,
+                        "revised_2024_25": 6556.54,
+                        "capital_revised_2024_25": 49.48,
+                        "total_revised_2024_25": 6606.02,
+                        "budget_2026_27": 5825.76,
+                        "capital_2026_27": 47.31,
+                        "total_2026_27": 5873.07
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for secretariat establishment related expenditure of the 6. Agricultural Product Export Development Authority (APEDA):..Agricultural and Processed",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Directorate General of Commercial Intelligence and Statistics:..The Directorate General of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Marine Product Export Development Authority (MPEDA):..The Marine Products Export",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure of the Directorate. Development Authority is responsible for development of marine industry with specialisation on marine export.",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Trade Commissioners:..There are",
+                    "values": {
+                        "actual_2024_25": 105.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Assistance to Special Economic Zones:..The provision is mainly for administrative",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure of the Special Economic Zones, set up as enclaves separated from domestic tariff areas and is intended to 10. Tea Board:..The Board focuses towards development of the tea industry and trade especially",
+            "items": [
+                {
+                    "code": "5.01",
+                    "name": "International Cooperation:..Annual contribution of India to World Trade Organisation. namely, Pradhan Mantri Cha Shramik Protsahan Yojana (PMCSPY) was introduced for the period of FY 2024-25 &",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "2025-26 with an outlay of..`1000 crore to provide for the welfare of Tea workers especially women and their children in",
+            "items": [
+                {
+                    "code": "5.02",
+                    "name": "Trade Remedies and Trade Defence:..This includes provision for trade remedies and trade Assam and West Bengal. The implementation period has been extended further for an more year i.e. 2026-27. The",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.03",
+                    "name": "Directorate General of Foreign Trade:..It is responsible for implementing the Foreign Trade 11. Coffee Board:..The Coffee Board focuses its activities in the areas of research, extension,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Policy with the main objective of promoting Indian exports. The provision is for implementation of various duty development, market intelligence, external & internal promotion and welfare measures. The main functions assigned to",
+            "items": []
+        },
+        {
+            "heading": "neutralization schemes such as Advance Authorization, Duty Free Import Authorization, Duty Entitlement Passbook, the Board include Promotion of Agricultural and Technological Research in the interest of the Coffee Industry,",
+            "items": []
+        },
+        {
+            "heading": "schemes. the coffee produced in India, Management of the other operations as per the provisions of the Coffee Act,1942.",
+            "items": [
+                {
+                    "code": "5.04",
+                    "name": "International Conferences:..This includes provision for International Conferences including 12. Rubber Board:..The Rubber Board is responsible for the development of the rubber industry in",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "Spices Board:..The Spices Board is responsible for overall development, marketing of both",
+                    "values": {
+                        "actual_2024_25": 52.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15.01",
+                    "name": "Establishment of India Centre for Lab Grown Diamond (InCent-LCD) at IIT Madras,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Export Promotion Mission:..The Export Promotion Mission is a flagship initiative to strengthen",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "strategic shift from multiple fragmented schemes to a single, outcome based, and adaptive mechanism that can",
+            "items": []
+        },
+        {
+            "heading": "sub schemes namely, NIRYAT PROTSAHAN which focuses on improving access to affordable trade finance for",
+            "items": []
+        },
+        {
+            "heading": "competitiveness. EPM also consolidates key export support schemes such as the Interest Equalisation Scheme and",
+            "items": [
+                {
+                    "code": "18",
+                    "name": "National Export Insurance Account:..The objective of NEIA is to provide credit insurance",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "support to those projects/sectors/exports which are beyond the underwriting capacity of Export Credit Guarantee",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "Centre For Research on International Trade-CRIT (Centre for WTO Studies):..To expand",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "21.01",
+                    "name": "Indian Institute of Foreign Trade:..The Indian Institute of Foreign Trade was set up in",
+                    "values": {
+                        "actual_2024_25": 1963.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "the Government of India as an autonomous organization to help professionalize the country's foreign trade",
+            "items": [
+                {
+                    "code": "21.02",
+                    "name": "Indian Institute of Packaging:..The Indian Institute of Packaging was established with an",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF COMMERCE AND INDUSTRY",
+            "items": []
+        }
+    ]
+}

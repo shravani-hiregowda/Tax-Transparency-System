@@ -1,0 +1,1433 @@
+{
+    "demand_no": 19,
+    "ministry": "Ministry Of Defence",
+    "department": "Department Staff Quarters",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 16767.97,
+                        "capital_2024_25": 10848.48,
+                        "total_2024_25": 27616.45,
+                        "budget_2025_26": 16295.35,
+                        "capital_2025_26": 12387.62,
+                        "total_2025_26": 28682.97,
+                        "revised_2024_25": 16137.85,
+                        "capital_revised_2024_25": 10963.15,
+                        "total_revised_2024_25": 27101.0,
+                        "budget_2026_27": 16851.36,
+                        "capital_2026_27": 11703.25,
+                        "total_2026_27": 28554.61
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat General Services",
+                    "values": {
+                        "actual_2024_25": 3149.49,
+                        "capital_2024_25": 168.29,
+                        "total_2024_25": 3317.78,
+                        "budget_2025_26": 3627.06,
+                        "capital_2025_26": 119.71,
+                        "total_2025_26": 3746.77,
+                        "revised_2024_25": 3475.56,
+                        "capital_revised_2024_25": 129.71,
+                        "total_revised_2024_25": 3605.27,
+                        "budget_2026_27": 3644.93,
+                        "capital_2026_27": 168.6,
+                        "total_2026_27": 3813.53
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Border Roads Development Board Secretariat",
+                    "values": {
+                        "actual_2024_25": 4641.47,
+                        "capital_2024_25": 10.88,
+                        "total_2024_25": 4652.35,
+                        "budget_2025_26": 4001.0,
+                        "capital_2025_26": 12.0,
+                        "total_2025_26": 4013.0,
+                        "revised_2024_25": 4246.06,
+                        "capital_revised_2024_25": 12.0,
+                        "total_revised_2024_25": 4258.06,
+                        "budget_2026_27": 4456.88,
+                        "capital_2026_27": 14.0,
+                        "total_2026_27": 4470.88
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Coast Guard Organisation",
+                    "values": {
+                        "actual_2024_25": 4013.16,
+                        "capital_2024_25": 4068.95,
+                        "total_2024_25": 8082.11,
+                        "budget_2025_26": 4676.7,
+                        "capital_2025_26": 5000.0,
+                        "total_2025_26": 9676.7,
+                        "revised_2024_25": 4185.0,
+                        "capital_revised_2024_25": 3598.0,
+                        "total_revised_2024_25": 7783.0,
+                        "budget_2026_27": 4392.85,
+                        "capital_2026_27": 4000.0,
+                        "total_2026_27": 8392.85
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Defence Estates Organisation",
+                    "values": {
+                        "actual_2024_25": 706.23,
+                        "capital_2024_25": 14.02,
+                        "total_2024_25": 720.25,
+                        "budget_2025_26": 647.1,
+                        "capital_2025_26": 5.84,
+                        "total_2025_26": 652.94,
+                        "revised_2024_25": 858.87,
+                        "capital_revised_2024_25": 5.84,
+                        "total_revised_2024_25": 864.71,
+                        "budget_2026_27": 888.32,
+                        "capital_2026_27": 8.49,
+                        "total_2026_27": 896.81
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Jammu and Kashmir Light Infantry",
+                    "values": {
+                        "actual_2024_25": 2022.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2022.45,
+                        "budget_2025_26": 2074.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2074.03,
+                        "revised_2024_25": 2021.94,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2021.94,
+                        "budget_2026_27": 2106.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2106.7
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Armed Forces Tribunal",
+                    "values": {
+                        "actual_2024_25": 44.67,
+                        "capital_2024_25": 1.75,
+                        "total_2024_25": 46.42,
+                        "budget_2025_26": 54.11,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 56.11,
+                        "revised_2024_25": 47.14,
+                        "capital_revised_2024_25": 2.0,
+                        "total_revised_2024_25": 49.14,
+                        "budget_2026_27": 49.43,
+                        "capital_2026_27": 2.13,
+                        "total_2026_27": 51.56
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 14577.47,
+                        "capital_2024_25": 4263.89,
+                        "total_2024_25": 18841.36,
+                        "budget_2025_26": 15080.0,
+                        "capital_2025_26": 5139.55,
+                        "total_2025_26": 20219.55,
+                        "revised_2024_25": 14834.57,
+                        "capital_revised_2024_25": 3747.55,
+                        "total_revised_2024_25": 18582.12,
+                        "budget_2026_27": 15539.11,
+                        "capital_2026_27": 4193.22,
+                        "total_2026_27": 19732.33
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Works under Border Roads Development Board",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 6523.95,
+                        "total_2024_25": 6523.95,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7134.5,
+                        "total_2025_26": 7134.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7134.5,
+                        "total_revised_2024_25": 7134.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7380.0,
+                        "total_2026_27": 7380.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Grants to States for Strategic Roads",
+                    "values": {
+                        "actual_2024_25": 44.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 44.86,
+                        "budget_2025_26": 45.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 45.0,
+                        "revised_2024_25": 45.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 45.0,
+                        "budget_2026_27": 47.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 47.25
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Other works",
+                    "values": {
+                        "actual_2024_25": 1295.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1295.85,
+                        "budget_2025_26": 1300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1300.0,
+                        "revised_2024_25": 1390.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1390.0,
+                        "budget_2026_27": 1490.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1490.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Works executed by Border Roads Development Board",
+                    "values": {
+                        "actual_2024_25": 1340.71,
+                        "capital_2024_25": 6523.95,
+                        "total_2024_25": 7864.66,
+                        "budget_2025_26": 1345.0,
+                        "capital_2025_26": 7134.5,
+                        "total_2025_26": 8479.5,
+                        "revised_2024_25": 1435.0,
+                        "capital_revised_2024_25": 7134.5,
+                        "total_revised_2024_25": 8569.5,
+                        "budget_2026_27": 1537.25,
+                        "capital_2026_27": 7380.0,
+                        "total_2026_27": 8917.25
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 1340.71,
+                        "capital_2024_25": 6523.95,
+                        "total_2024_25": 7864.66,
+                        "budget_2025_26": 1345.0,
+                        "capital_2025_26": 7134.5,
+                        "total_2025_26": 8479.5,
+                        "revised_2024_25": 1435.0,
+                        "capital_revised_2024_25": 7134.5,
+                        "total_revised_2024_25": 8569.5,
+                        "budget_2026_27": 1537.25,
+                        "capital_2026_27": 7380.0,
+                        "total_2026_27": 8917.25
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "Maintenance and Repairs to Defence Accounts",
+                    "values": {
+                        "actual_2024_25": 68.91,
+                        "capital_2024_25": null,
+                        "total_2024_25": 68.91,
+                        "budget_2025_26": 70.35,
+                        "capital_2025_26": null,
+                        "total_2025_26": 70.35,
+                        "revised_2024_25": 67.9,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 67.9,
+                        "budget_2026_27": 75.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 75.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Residential Housing facilities to Defence Accounts",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 22.42,
+                        "total_2024_25": 22.42,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 26.0,
+                        "total_2025_26": 26.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 32.0,
+                        "total_revised_2024_25": 32.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 30.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Housing",
+                    "values": {
+                        "actual_2024_25": 68.91,
+                        "capital_2024_25": 22.42,
+                        "total_2024_25": 91.33,
+                        "budget_2025_26": 70.35,
+                        "capital_2025_26": 26.0,
+                        "total_2025_26": 96.35,
+                        "revised_2024_25": 67.9,
+                        "capital_revised_2024_25": 32.0,
+                        "total_revised_2024_25": 99.9,
+                        "budget_2026_27": 75.0,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 105.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "12",
+                    "name": "Capital Outlay for construction of Defence Accounts",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 32.54,
+                        "total_2024_25": 32.54,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 58.28,
+                        "total_2025_26": 58.28,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 42.0,
+                        "total_revised_2024_25": 42.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 60.0,
+                        "total_2026_27": 60.0
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Miscellaneous Loans",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.48,
+                        "total_2024_25": 2.48,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.1,
+                        "total_2025_26": 3.1,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.1,
+                        "total_revised_2024_25": 3.1,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3.25,
+                        "total_2026_27": 3.25
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Canteen Stores Department",
+                    "values": {
+                        "actual_2024_25": 30326.29,
+                        "capital_2024_25": 3.2,
+                        "total_2024_25": 30329.49,
+                        "budget_2025_26": 30500.0,
+                        "capital_2025_26": 26.19,
+                        "total_2025_26": 30526.19,
+                        "revised_2024_25": 32847.0,
+                        "capital_revised_2024_25": 4.0,
+                        "total_revised_2024_25": 32851.0,
+                        "budget_2026_27": 34840.0,
+                        "capital_2026_27": 36.78,
+                        "total_2026_27": 34876.78
+                    }
+                },
+                {
+                    "code": "14.01",
+                    "name": "Canteen Stores Department",
+                    "values": {
+                        "actual_2024_25": 30326.29,
+                        "capital_2024_25": 3.2,
+                        "total_2024_25": 30329.49,
+                        "budget_2025_26": 30500.0,
+                        "capital_2025_26": 26.19,
+                        "total_2025_26": 30526.19,
+                        "revised_2024_25": 32847.0,
+                        "capital_revised_2024_25": 4.0,
+                        "total_revised_2024_25": 32851.0,
+                        "budget_2026_27": 34840.0,
+                        "capital_2026_27": 36.78,
+                        "total_2026_27": 34876.78
+                    }
+                },
+                {
+                    "code": "14.02",
+                    "name": "Less Revenue Receipts",
+                    "values": {
+                        "actual_2024_25": -29545.41,
+                        "capital_2024_25": null,
+                        "total_2024_25": -29545.41,
+                        "budget_2025_26": -30700.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -30700.0,
+                        "revised_2024_25": -33046.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -33046.62,
+                        "budget_2026_27": -35140.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -35140.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 780.88,
+                        "capital_2024_25": 3.2,
+                        "total_2024_25": 784.08,
+                        "budget_2025_26": -200.0,
+                        "capital_2025_26": 26.19,
+                        "total_2025_26": -173.81,
+                        "revised_2024_25": -199.62,
+                        "capital_revised_2024_25": 4.0,
+                        "total_revised_2024_25": -195.62,
+                        "budget_2026_27": -300.0,
+                        "capital_2026_27": 36.78,
+                        "total_2026_27": -263.22
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "15",
+                    "name": "Issue of Bonus Shares",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 49.81,
+                        "total_2024_25": 49.81,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15.01",
+                    "name": "Bharat Dynamic Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 49.81,
+                        "total_2024_25": 49.81,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15.02",
+                    "name": "Less Reciepts assumed",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -49.81,
+                        "total_2024_25": -49.81,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 849.79,
+                        "capital_2024_25": 60.64,
+                        "total_2024_25": 910.43,
+                        "budget_2025_26": -129.65,
+                        "capital_2025_26": 113.57,
+                        "total_2025_26": -16.08,
+                        "revised_2024_25": -131.72,
+                        "capital_revised_2024_25": 81.1,
+                        "total_revised_2024_25": -50.62,
+                        "budget_2026_27": -225.0,
+                        "capital_2026_27": 130.03,
+                        "total_2026_27": -94.97
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 849.79,
+                        "capital_2024_25": 60.64,
+                        "total_2024_25": 910.43,
+                        "budget_2025_26": -129.65,
+                        "capital_2025_26": 113.57,
+                        "total_2025_26": -16.08,
+                        "revised_2024_25": -131.72,
+                        "capital_revised_2024_25": 81.1,
+                        "total_revised_2024_25": -50.62,
+                        "budget_2026_27": -225.0,
+                        "capital_2026_27": 130.03,
+                        "total_2026_27": -94.97
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 16767.97,
+                        "capital_2024_25": 10848.48,
+                        "total_2024_25": 27616.45,
+                        "budget_2025_26": 16295.35,
+                        "capital_2025_26": 12387.62,
+                        "total_2025_26": 28682.97,
+                        "revised_2024_25": 16137.85,
+                        "capital_revised_2024_25": 10963.15,
+                        "total_revised_2024_25": 27101.0,
+                        "budget_2026_27": 16851.36,
+                        "capital_2026_27": 11703.25,
+                        "total_2026_27": 28554.61
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Administration of Justice",
+                    "values": {
+                        "actual_2024_25": 44.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": 44.67,
+                        "budget_2025_26": 54.11,
+                        "capital_2025_26": null,
+                        "total_2025_26": 54.11,
+                        "revised_2024_25": 47.14,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 47.14,
+                        "budget_2026_27": 49.43,
+                        "capital_2026_27": null,
+                        "total_2026_27": 49.43
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Customs",
+                    "values": {
+                        "actual_2024_25": 4013.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4013.16,
+                        "budget_2025_26": 4676.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4676.7,
+                        "revised_2024_25": 4185.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4185.0,
+                        "budget_2026_27": 4392.85,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4392.85
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-General Services",
+                    "values": {
+                        "actual_2024_25": 8497.19,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8497.19,
+                        "budget_2025_26": 8275.16,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8275.16,
+                        "revised_2024_25": 8580.49,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8580.49,
+                        "budget_2026_27": 8990.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8990.13
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Police",
+                    "values": {
+                        "actual_2024_25": 2022.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2022.45,
+                        "budget_2025_26": 2074.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2074.03,
+                        "revised_2024_25": 2021.94,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2021.94,
+                        "budget_2026_27": 2106.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2106.7
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Public Works",
+                    "values": {
+                        "actual_2024_25": 34.31,
+                        "capital_2024_25": null,
+                        "total_2024_25": 34.31,
+                        "budget_2025_26": 40.35,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.35,
+                        "revised_2024_25": 37.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 37.5,
+                        "budget_2026_27": 43.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43.02
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": 780.88,
+                        "capital_2024_25": null,
+                        "total_2024_25": 780.88,
+                        "budget_2025_26": -200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -200.0,
+                        "revised_2024_25": -199.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -199.62,
+                        "budget_2026_27": -300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -300.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Capital Outlay on Other Fiscal Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4068.95,
+                        "total_2024_25": 4068.95,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5000.0,
+                        "total_2025_26": 5000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3598.0,
+                        "total_revised_2024_25": 3598.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4000.0,
+                        "total_2026_27": 4000.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Capital Outlay on Public Works",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 32.54,
+                        "total_2024_25": 32.54,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 58.28,
+                        "total_2025_26": 58.28,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 42.0,
+                        "total_revised_2024_25": 42.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 60.0,
+                        "total_2026_27": 60.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Capital Outlay on Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 193.19,
+                        "total_2024_25": 193.19,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 137.55,
+                        "total_2025_26": 137.55,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 147.55,
+                        "total_revised_2024_25": 147.55,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 191.09,
+                        "total_2026_27": 191.09
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Capital Outlay on Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4.95,
+                        "total_2024_25": 4.95,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 28.19,
+                        "total_2025_26": 28.19,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 6.0,
+                        "total_revised_2024_25": 6.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 38.91,
+                        "total_2026_27": 38.91
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 15392.66,
+                        "capital_2024_25": 4299.63,
+                        "total_2024_25": 19692.29,
+                        "budget_2025_26": 14920.35,
+                        "capital_2025_26": 5224.02,
+                        "total_2025_26": 20144.37,
+                        "revised_2024_25": 14672.45,
+                        "capital_revised_2024_25": 3793.55,
+                        "total_revised_2024_25": 18466.0,
+                        "budget_2026_27": 15282.13,
+                        "capital_2026_27": 4290.0,
+                        "total_2026_27": 19572.13
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "11",
+                    "name": "Housing",
+                    "values": {
+                        "actual_2024_25": 34.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 34.6,
+                        "budget_2025_26": 30.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": 30.4,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.4,
+                        "budget_2026_27": 31.98,
+                        "capital_2026_27": null,
+                        "total_2026_27": 31.98
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Capital Outlay on Housing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 22.42,
+                        "total_2024_25": 22.42,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 26.0,
+                        "total_2025_26": 26.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 32.0,
+                        "total_revised_2024_25": 32.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 30.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 34.6,
+                        "capital_2024_25": 22.42,
+                        "total_2024_25": 57.02,
+                        "budget_2025_26": 30.0,
+                        "capital_2025_26": 26.0,
+                        "total_2025_26": 56.0,
+                        "revised_2024_25": 30.4,
+                        "capital_revised_2024_25": 32.0,
+                        "total_revised_2024_25": 62.4,
+                        "budget_2026_27": 31.98,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 61.98
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "Roads and Bridges",
+                    "values": {
+                        "actual_2024_25": 1295.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1295.85,
+                        "budget_2025_26": 1300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1300.0,
+                        "revised_2024_25": 1390.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1390.0,
+                        "budget_2026_27": 1490.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1490.0
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Capital Outlay on Engineering Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 49.8,
+                        "total_2024_25": 49.8,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Capital Outlay on Telecommunication and Electronic",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -49.8,
+                        "total_2024_25": -49.8,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Capital Outlay on Roads and Bridges",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 6523.95,
+                        "total_2024_25": 6523.95,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 6409.5,
+                        "total_2025_26": 6409.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 6421.05,
+                        "total_revised_2024_25": 6421.05,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 6642.0,
+                        "total_2026_27": 6642.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 1295.85,
+                        "capital_2024_25": 6523.95,
+                        "total_2024_25": 7819.8,
+                        "budget_2025_26": 1300.0,
+                        "capital_2025_26": 6409.5,
+                        "total_2025_26": 7709.5,
+                        "revised_2024_25": 1390.0,
+                        "capital_revised_2024_25": 6421.05,
+                        "total_revised_2024_25": 7811.05,
+                        "budget_2026_27": 1490.0,
+                        "capital_2026_27": 6642.0,
+                        "total_2026_27": 8132.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "17",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 4.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4.5,
+                        "revised_2024_25": 4.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4.5,
+                        "budget_2026_27": 4.73,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4.73
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 44.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 44.86,
+                        "budget_2025_26": 40.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.5,
+                        "revised_2024_25": 40.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.5,
+                        "budget_2026_27": 42.52,
+                        "capital_2026_27": null,
+                        "total_2026_27": 42.52
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 725.0,
+                        "total_2025_26": 725.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 713.45,
+                        "total_revised_2024_25": 713.45,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 738.0,
+                        "total_2026_27": 738.0
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Miscellaneous Loans",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.48,
+                        "total_2024_25": 2.48,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.1,
+                        "total_2025_26": 3.1,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.1,
+                        "total_revised_2024_25": 3.1,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3.25,
+                        "total_2026_27": 3.25
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 44.86,
+                        "capital_2024_25": 2.48,
+                        "total_2024_25": 47.34,
+                        "budget_2025_26": 45.0,
+                        "capital_2025_26": 728.1,
+                        "total_2025_26": 773.1,
+                        "revised_2024_25": 45.0,
+                        "capital_revised_2024_25": 716.55,
+                        "total_revised_2024_25": 761.55,
+                        "budget_2026_27": 47.25,
+                        "capital_2026_27": 741.25,
+                        "total_2026_27": 788.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 16767.97,
+                        "capital_2024_25": 10848.48,
+                        "total_2024_25": 27616.45,
+                        "budget_2025_26": 16295.35,
+                        "capital_2025_26": 12387.62,
+                        "total_2025_26": 28682.97,
+                        "revised_2024_25": 16137.85,
+                        "capital_revised_2024_25": 10963.15,
+                        "total_revised_2024_25": 27101.0,
+                        "budget_2026_27": 16851.36,
+                        "capital_2026_27": 11703.25,
+                        "total_2026_27": 28554.61
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Hindustan Shipyard Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 127.61,
+                        "total_2024_25": 127.61,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 150.0,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 150.0,
+                        "total_revised_2024_25": 150.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 150.0,
+                        "total_2026_27": 150.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "BEML Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 199.18,
+                        "total_2024_25": 199.18,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 684.01,
+                        "total_2025_26": 684.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 220.0,
+                        "total_revised_2024_25": 220.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 400.0,
+                        "total_2026_27": 400.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Bharat Electronics Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 985.0,
+                        "total_2024_25": 985.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 650.0,
+                        "total_2025_26": 650.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 800.0,
+                        "total_revised_2024_25": 800.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 900.0,
+                        "total_2026_27": 900.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Bharat Dynamics Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 148.82,
+                        "total_2024_25": 148.82,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 200.0,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 200.0,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 200.0,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Mazagon Dock Shipbuilders",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 480.21,
+                        "total_2024_25": 480.21,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 500.0,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 500.0,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 500.0,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Mishra Dhatu Nigam Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 49.92,
+                        "total_2024_25": 49.92,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 60.0,
+                        "total_2025_26": 60.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 60.0,
+                        "total_revised_2024_25": 60.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Goa Shipyard Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 27.0,
+                        "total_2024_25": 27.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 20.0,
+                        "total_2025_26": 20.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 30.0,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 25.0,
+                        "total_2026_27": 25.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Garden Reach Shipbuilders and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 68.0,
+                        "total_2024_25": 68.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 50.0,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 70.0,
+                        "total_revised_2024_25": 70.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 70.0,
+                        "total_2026_27": 70.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Hindustan Aeronautics Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1924.0,
+                        "total_2024_25": 1924.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1750.0,
+                        "total_2025_26": 1750.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1750.0,
+                        "total_revised_2024_25": 1750.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1934.0,
+                        "total_2026_27": 1934.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4009.74,
+                        "total_2024_25": 4009.74,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4064.01,
+                        "total_2025_26": 4064.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3780.0,
+                        "total_revised_2024_25": 3780.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4279.0,
+                        "total_2026_27": 4279.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat General Services:..The provision is for expenditure on Defence Secretariat (i.e. This also includes Grants for creation of Capital Assets for Defence Testing Infrastructure Scheme, Defence Corridors",
+            "items": []
+        },
+        {
+            "heading": "Development, Department of Ex-Servicemen Welfare, Finance Division and IDSA) and Defence Accounts Department.",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Border Roads Development Board Secretariat:..The provision is for Border Road",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Organization for establishment related expenditure.",
+            "items": []
+        },
+        {
+            "heading": "3. Coast Guard Organisation:..The provision is for Revenue and Capital expenditure of Coast",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Defence Estates Organisation:..The provision is for Defence Estate Organization, whose",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Jammu and Kashmir Light Infantry:..Jammu & Kashmir Light Infantry which was known as",
+                    "values": {
+                        "actual_2024_25": 15.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Armed Forces Tribunal:..The provision is for Armed Forces Tribunal (AFT), set up under",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Works under Border Roads Development Board:..The provision is for development of such",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Maintenance and Repairs to Defence Accounts Department/Defence Estates",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Residential Housing facilities to Defence Accounts Department/Defence Estate",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Capital Outlay for construction of Defence Accounts Department/Defence Estates",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Miscellaneous Loans:..Provides for miscellaneous loans towards Unit Run Canteens of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14.01",
+                    "name": "Canteen Stores Department:..Canteen Stores Department is a departmental commercial",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "under this head is for net working expenses (the receipts exceeding the gross expenditure).",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF DEFENCE",
+            "items": []
+        }
+    ]
+}

@@ -1,0 +1,1863 @@
+{
+    "demand_no": 11,
+    "ministry": "Ministry Of Commerce And Industry",
+    "department": "Department For Promotion Of Industry And Internal Trade",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 6489.22,
+                        "capital_2024_25": 1397.47,
+                        "total_2024_25": 7886.69,
+                        "budget_2025_26": 7452.93,
+                        "capital_2025_26": 5692.13,
+                        "total_2025_26": 13145.06,
+                        "revised_2024_25": 4114.8,
+                        "capital_revised_2024_25": 4501.35,
+                        "total_revised_2024_25": 8616.15,
+                        "budget_2026_27": 6851.7,
+                        "capital_2026_27": 5119.13,
+                        "total_2026_27": 11970.83
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 276.62,
+                        "capital_2024_25": 6.31,
+                        "total_2024_25": 282.93,
+                        "budget_2025_26": 251.98,
+                        "capital_2025_26": 4.48,
+                        "total_2025_26": 256.46,
+                        "revised_2024_25": 330.67,
+                        "capital_revised_2024_25": 6.3,
+                        "total_revised_2024_25": 336.97,
+                        "budget_2026_27": 300.34,
+                        "capital_2026_27": 4.55,
+                        "total_2026_27": 304.89
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.37,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 276.25,
+                        "capital_2024_25": 6.31,
+                        "total_2024_25": 282.56,
+                        "budget_2025_26": 251.98,
+                        "capital_2025_26": 4.48,
+                        "total_2025_26": 256.46,
+                        "revised_2024_25": 330.67,
+                        "capital_revised_2024_25": 6.3,
+                        "total_revised_2024_25": 336.97,
+                        "budget_2026_27": 300.34,
+                        "capital_2026_27": 4.55,
+                        "total_2026_27": 304.89
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Intellectual Property",
+                    "values": {
+                        "actual_2024_25": 280.11,
+                        "capital_2024_25": 0.69,
+                        "total_2024_25": 280.8,
+                        "budget_2025_26": 275.59,
+                        "capital_2025_26": 0.6,
+                        "total_2025_26": 276.19,
+                        "revised_2024_25": 324.75,
+                        "capital_revised_2024_25": 4.24,
+                        "total_revised_2024_25": 328.99,
+                        "budget_2026_27": 332.71,
+                        "capital_2026_27": 1.75,
+                        "total_2026_27": 334.46
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Controller General of Patent Designs and",
+                    "values": {
+                        "actual_2024_25": 280.11,
+                        "capital_2024_25": 0.69,
+                        "total_2024_25": 280.8,
+                        "budget_2025_26": 275.59,
+                        "capital_2025_26": 0.6,
+                        "total_2025_26": 276.19,
+                        "revised_2024_25": 324.75,
+                        "capital_revised_2024_25": 4.24,
+                        "total_revised_2024_25": 328.99,
+                        "budget_2026_27": 332.71,
+                        "capital_2026_27": 1.75,
+                        "total_2026_27": 334.46
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Intellectual Policy Rights (IPR) Policy",
+                    "values": {
+                        "actual_2024_25": 40.85,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 40.86,
+                        "budget_2025_26": 34.1,
+                        "capital_2025_26": 0.05,
+                        "total_2025_26": 34.15,
+                        "revised_2024_25": 34.4,
+                        "capital_revised_2024_25": 0.02,
+                        "total_revised_2024_25": 34.42,
+                        "budget_2026_27": 28.99,
+                        "capital_2026_27": 0.05,
+                        "total_2026_27": 29.04
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 40.6,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 40.61,
+                        "budget_2025_26": 34.1,
+                        "capital_2025_26": 0.05,
+                        "total_2025_26": 34.15,
+                        "revised_2024_25": 34.4,
+                        "capital_revised_2024_25": 0.02,
+                        "total_revised_2024_25": 34.42,
+                        "budget_2026_27": 28.99,
+                        "capital_2026_27": 0.05,
+                        "total_2026_27": 29.04
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2.03",
+                    "name": "Infrastructure Development in Controller",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 14.77,
+                        "total_2024_25": 14.77,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 11.0,
+                        "total_2025_26": 11.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15.26,
+                        "total_revised_2024_25": 15.26,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 12.0,
+                        "total_2026_27": 12.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Intellectual Property",
+                    "values": {
+                        "actual_2024_25": 320.71,
+                        "capital_2024_25": 15.47,
+                        "total_2024_25": 336.18,
+                        "budget_2025_26": 309.69,
+                        "capital_2025_26": 11.65,
+                        "total_2025_26": 321.34,
+                        "revised_2024_25": 359.15,
+                        "capital_revised_2024_25": 19.52,
+                        "total_revised_2024_25": 378.67,
+                        "budget_2026_27": 361.7,
+                        "capital_2026_27": 13.8,
+                        "total_2026_27": 375.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Attached and Subordinate Offices",
+                    "values": {
+                        "actual_2024_25": 59.6,
+                        "capital_2024_25": 0.49,
+                        "total_2024_25": 60.09,
+                        "budget_2025_26": 63.51,
+                        "capital_2025_26": 0.66,
+                        "total_2025_26": 64.17,
+                        "revised_2024_25": 62.68,
+                        "capital_revised_2024_25": 0.45,
+                        "total_revised_2024_25": 63.13,
+                        "budget_2026_27": 64.66,
+                        "capital_2026_27": 0.65,
+                        "total_2026_27": 65.31
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Petroleum and Explosives Safety Organisation",
+                    "values": {
+                        "actual_2024_25": 59.6,
+                        "capital_2024_25": 0.49,
+                        "total_2024_25": 60.09,
+                        "budget_2025_26": 63.51,
+                        "capital_2025_26": 0.66,
+                        "total_2025_26": 64.17,
+                        "revised_2024_25": 62.68,
+                        "capital_revised_2024_25": 0.45,
+                        "total_revised_2024_25": 63.13,
+                        "budget_2026_27": 64.66,
+                        "capital_2026_27": 0.65,
+                        "total_2026_27": 65.31
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.04,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 59.56,
+                        "capital_2024_25": 0.49,
+                        "total_2024_25": 60.05,
+                        "budget_2025_26": 63.51,
+                        "capital_2025_26": 0.66,
+                        "total_2025_26": 64.17,
+                        "revised_2024_25": 62.68,
+                        "capital_revised_2024_25": 0.45,
+                        "total_revised_2024_25": 63.13,
+                        "budget_2026_27": 64.66,
+                        "capital_2026_27": 0.65,
+                        "total_2026_27": 65.31
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3.02",
+                    "name": "Salt Commissioner",
+                    "values": {
+                        "actual_2024_25": 33.33,
+                        "capital_2024_25": 0.2,
+                        "total_2024_25": 33.53,
+                        "budget_2025_26": 37.18,
+                        "capital_2025_26": 0.34,
+                        "total_2025_26": 37.52,
+                        "revised_2024_25": 36.58,
+                        "capital_revised_2024_25": 0.09,
+                        "total_revised_2024_25": 36.67,
+                        "budget_2026_27": 35.2,
+                        "capital_2026_27": 0.16,
+                        "total_2026_27": 35.36
+                    }
+                },
+                {
+                    "code": "3.03",
+                    "name": "Central Boilers Board",
+                    "values": {
+                        "actual_2024_25": 0.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.5,
+                        "budget_2025_26": 0.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.5,
+                        "revised_2024_25": 1.03,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.03,
+                        "budget_2026_27": 1.38,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.38
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Attached and Subordinate Offices",
+                    "values": {
+                        "actual_2024_25": 93.39,
+                        "capital_2024_25": 0.69,
+                        "total_2024_25": 94.08,
+                        "budget_2025_26": 101.19,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 102.19,
+                        "revised_2024_25": 100.29,
+                        "capital_revised_2024_25": 0.54,
+                        "total_revised_2024_25": 100.83,
+                        "budget_2026_27": 101.24,
+                        "capital_2026_27": 0.81,
+                        "total_2026_27": 102.05
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 690.35,
+                        "capital_2024_25": 22.47,
+                        "total_2024_25": 712.82,
+                        "budget_2025_26": 662.86,
+                        "capital_2025_26": 17.13,
+                        "total_2025_26": 679.99,
+                        "revised_2024_25": 790.11,
+                        "capital_revised_2024_25": 26.36,
+                        "total_revised_2024_25": 816.47,
+                        "budget_2026_27": 763.28,
+                        "capital_2026_27": 19.16,
+                        "total_2026_27": 782.44
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Footwear, Leather and Accessories Development",
+                    "values": {
+                        "actual_2024_25": 282.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 282.59,
+                        "budget_2025_26": 350.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 350.0,
+                        "revised_2024_25": 220.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 220.0,
+                        "budget_2026_27": 300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 300.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Industrial Infrastructure Upgradation Scheme (IIUS)",
+                    "values": {
+                        "actual_2024_25": 6.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6.09,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Price and Production Statistics",
+                    "values": {
+                        "actual_2024_25": 19.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 19.5,
+                        "budget_2025_26": 21.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 21.6,
+                        "revised_2024_25": 21.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 21.6,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "National Industrial Corridor Development and",
+                    "values": {
+                        "actual_2024_25": 1543.84,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1543.84,
+                        "budget_2025_26": 25.01,
+                        "capital_2025_26": 2474.99,
+                        "total_2025_26": 2500.0,
+                        "revised_2024_25": 25.01,
+                        "capital_revised_2024_25": 2974.99,
+                        "total_revised_2024_25": 3000.0,
+                        "budget_2026_27": 0.03,
+                        "capital_2026_27": 2999.97,
+                        "total_2026_27": 3000.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Scheme for Investment Promotion",
+                    "values": {
+                        "actual_2024_25": 161.84,
+                        "capital_2024_25": null,
+                        "total_2024_25": 161.84,
+                        "budget_2025_26": 191.18,
+                        "capital_2025_26": null,
+                        "total_2025_26": 191.18,
+                        "revised_2024_25": 170.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 170.0,
+                        "budget_2026_27": 171.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 171.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Fund of Funds",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1200.0,
+                        "total_2024_25": 1200.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1200.0,
+                        "total_2025_26": 1200.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1200.0,
+                        "total_revised_2024_25": 1200.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1200.0,
+                        "total_2026_27": 1200.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Fund of Funds 2.0",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2000.0,
+                        "total_2025_26": 2000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 300.0,
+                        "total_revised_2024_25": 300.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Startup India Fund of Funds 2.0",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 900.0,
+                        "total_2026_27": 900.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Credit Guarantee Fund",
+                    "values": {
+                        "actual_2024_25": 41.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": 41.67,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Startup India Seed Fund Scheme (SISFS)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 175.0,
+                        "total_2024_25": 175.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Ease of Doing Business",
+                    "values": {
+                        "actual_2024_25": 9.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9.73,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Production Linked Incentive Scheme (PLI) for White",
+                    "values": {
+                        "actual_2024_25": 213.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 213.56,
+                        "budget_2025_26": 444.54,
+                        "capital_2025_26": null,
+                        "total_2025_26": 444.54,
+                        "revised_2024_25": 303.54,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 303.54,
+                        "budget_2026_27": 1003.54,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1003.54
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Manufacturing Mission - Furthering Make in India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Make in India",
+                    "values": {
+                        "actual_2024_25": 426.8,
+                        "capital_2024_25": 1375.0,
+                        "total_2024_25": 1801.8,
+                        "budget_2025_26": 735.73,
+                        "capital_2025_26": 3200.01,
+                        "total_2025_26": 3935.74,
+                        "revised_2024_25": 473.55,
+                        "capital_revised_2024_25": 1500.0,
+                        "total_revised_2024_25": 1973.55,
+                        "budget_2026_27": 1224.54,
+                        "capital_2026_27": 2100.0,
+                        "total_2026_27": 3324.54
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "17",
+                    "name": "Production Linked Incentive (PLI) Scheme for Footwear",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Uttar Poorva Transformative Industrialization Scheme",
+                    "values": {
+                        "actual_2024_25": 8.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.05,
+                        "budget_2025_26": 175.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 175.0,
+                        "revised_2024_25": 33.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 33.0,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "North Eastern Industrial and Investment Promotion Policy",
+                    "values": {
+                        "actual_2024_25": 79.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": 79.97,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 45.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 45.0,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "North East Industrial Development Scheme (NEIDS)",
+                    "values": {
+                        "actual_2024_25": 399.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 399.98,
+                        "budget_2025_26": 400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 400.0,
+                        "revised_2024_25": 100.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 100.0,
+                        "budget_2026_27": 90.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 90.0
+                    }
+                },
+                {
+                    "code": "2017",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 2017.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Transport/Freight Subsidy Scheme",
+                    "values": {
+                        "actual_2024_25": 122.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 122.48,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 5.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.0,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.02
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Package for Special Catagory States for Jammu and",
+                    "values": {
+                        "actual_2024_25": 0.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.95,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "Industrial Development Scheme, 2017 for Union Territory",
+                    "values": {
+                        "actual_2024_25": 24.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.47,
+                        "budget_2025_26": 26.13,
+                        "capital_2025_26": null,
+                        "total_2025_26": 26.13,
+                        "revised_2024_25": 2.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.0,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Industrial Development Scheme for Himachal Pradesh &",
+                    "values": {
+                        "actual_2024_25": 355.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": 355.67,
+                        "budget_2025_26": 150.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": 25.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25.0,
+                        "budget_2026_27": 14.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": 14.92
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "Industrial Development of UT of Jammu and Kashmir",
+                    "values": {
+                        "actual_2024_25": 209.64,
+                        "capital_2024_25": null,
+                        "total_2024_25": 209.64,
+                        "budget_2025_26": 300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 300.0,
+                        "revised_2024_25": 400.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 400.0,
+                        "budget_2026_27": 410.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 410.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Industrial Development of Backward and Remote Areas",
+                    "values": {
+                        "actual_2024_25": 1193.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1193.16,
+                        "budget_2025_26": 926.13,
+                        "capital_2025_26": null,
+                        "total_2025_26": 926.13,
+                        "revised_2024_25": 577.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 577.0,
+                        "budget_2026_27": 554.95,
+                        "capital_2026_27": null,
+                        "total_2026_27": 554.95
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "26",
+                    "name": "Industrial Development of Ladakh, 2022",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "27",
+                    "name": "Refund of Central and Integrated GST to Industrial Units",
+                    "values": {
+                        "actual_2024_25": 2108.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2108.55,
+                        "budget_2025_26": 1852.83,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1852.83,
+                        "revised_2024_25": 1510.76,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1510.76,
+                        "budget_2026_27": 724.21,
+                        "capital_2026_27": null,
+                        "total_2026_27": 724.21
+                    }
+                },
+                {
+                    "code": "28",
+                    "name": "New Scheme for Plug and Play Industrial Parks",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2500.0,
+                        "revised_2024_25": 250.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 250.0,
+                        "budget_2026_27": 3000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3000.0
+                    }
+                },
+                {
+                    "code": "29",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -14.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": -14.71,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 5573.87,
+                        "capital_2024_25": 1375.0,
+                        "total_2024_25": 6948.87,
+                        "budget_2025_26": 6586.3,
+                        "capital_2025_26": 5675.0,
+                        "total_2025_26": 12261.3,
+                        "revised_2024_25": 3110.93,
+                        "capital_revised_2024_25": 4474.99,
+                        "total_revised_2024_25": 7585.92,
+                        "budget_2026_27": 5873.75,
+                        "capital_2026_27": 5099.97,
+                        "total_2026_27": 10973.72
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": []
+        },
+        {
+            "heading": "30. Autonomous Organisations",
+            "items": [
+                {
+                    "code": "30.01",
+                    "name": "Support to Autonomous Institutions",
+                    "values": {
+                        "actual_2024_25": 121.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 121.72,
+                        "budget_2025_26": 123.96,
+                        "capital_2025_26": null,
+                        "total_2025_26": 123.96,
+                        "revised_2024_25": 131.71,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 131.71,
+                        "budget_2026_27": 132.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 132.22
+                    }
+                },
+                {
+                    "code": "30.02",
+                    "name": "World Intellectual Property Organisation (WIPO)",
+                    "values": {
+                        "actual_2024_25": 0.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.87,
+                        "budget_2025_26": 0.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.9,
+                        "revised_2024_25": 1.05,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.05,
+                        "budget_2026_27": 1.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.05
+                    }
+                },
+                {
+                    "code": "30.03",
+                    "name": "Asian Productivity Organization/United Nations",
+                    "values": {
+                        "actual_2024_25": 29.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.93,
+                        "budget_2025_26": 25.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.5,
+                        "revised_2024_25": 19.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 19.0,
+                        "budget_2026_27": 23.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 23.5
+                    }
+                },
+                {
+                    "code": "30.04",
+                    "name": "Assistance to Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 28.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": 28.08,
+                        "budget_2025_26": 23.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 23.4,
+                        "revised_2024_25": 32.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 32.0,
+                        "budget_2026_27": 27.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 27.9
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Autonomous Organisations",
+                    "values": {
+                        "actual_2024_25": 180.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 180.6,
+                        "budget_2025_26": 173.76,
+                        "capital_2025_26": null,
+                        "total_2025_26": 173.76,
+                        "revised_2024_25": 183.76,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 183.76,
+                        "budget_2026_27": 184.67,
+                        "capital_2026_27": null,
+                        "total_2026_27": 184.67
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "31",
+                    "name": "Startup India",
+                    "values": {
+                        "actual_2024_25": 44.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 44.4,
+                        "budget_2025_26": 30.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": 30.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 30.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30.0
+                    }
+                },
+                {
+                    "code": "32",
+                    "name": "Implementation of India - Korea Joint applied R&D",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 44.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 44.4,
+                        "budget_2025_26": 30.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.01,
+                        "revised_2024_25": 30.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 30.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 225.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 225.0,
+                        "budget_2025_26": 203.77,
+                        "capital_2025_26": null,
+                        "total_2025_26": 203.77,
+                        "revised_2024_25": 213.76,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 213.76,
+                        "budget_2026_27": 214.67,
+                        "capital_2026_27": null,
+                        "total_2026_27": 214.67
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 6489.22,
+                        "capital_2024_25": 1397.47,
+                        "total_2024_25": 7886.69,
+                        "budget_2025_26": 7452.93,
+                        "capital_2025_26": 5692.13,
+                        "total_2025_26": 13145.06,
+                        "revised_2024_25": 4114.8,
+                        "capital_revised_2024_25": 4501.35,
+                        "total_revised_2024_25": 8616.15,
+                        "budget_2026_27": 6851.7,
+                        "capital_2026_27": 5119.13,
+                        "total_2026_27": 11970.83
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": 59.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 59.56,
+                        "budget_2025_26": 63.51,
+                        "capital_2025_26": null,
+                        "total_2025_26": 63.51,
+                        "revised_2024_25": 62.68,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 62.68,
+                        "budget_2026_27": 64.66,
+                        "capital_2026_27": null,
+                        "total_2026_27": 64.66
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay on Public Works",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 14.77,
+                        "total_2024_25": 14.77,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 11.0,
+                        "total_2025_26": 11.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15.26,
+                        "total_revised_2024_25": 15.26,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 12.0,
+                        "total_2026_27": 12.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.49,
+                        "total_2024_25": 0.49,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.66,
+                        "total_2025_26": 0.66,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.45,
+                        "total_revised_2024_25": 0.45,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.65,
+                        "total_2026_27": 0.65
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 59.56,
+                        "capital_2024_25": 15.26,
+                        "total_2024_25": 74.82,
+                        "budget_2025_26": 63.51,
+                        "capital_2025_26": 11.66,
+                        "total_2025_26": 75.17,
+                        "revised_2024_25": 62.68,
+                        "capital_revised_2024_25": 15.71,
+                        "total_revised_2024_25": 78.39,
+                        "budget_2026_27": 64.66,
+                        "capital_2026_27": 12.65,
+                        "total_2026_27": 77.31
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": 959.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": 959.08,
+                        "budget_2025_26": 3810.78,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3810.78,
+                        "revised_2024_25": 1177.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1177.02,
+                        "budget_2026_27": 4755.55,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4755.55
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Other Outlays on Industries and Minerals",
+                    "values": {
+                        "actual_2024_25": 4853.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4853.25,
+                        "budget_2025_26": 799.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 799.45,
+                        "revised_2024_25": 776.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 776.45,
+                        "budget_2026_27": 486.81,
+                        "capital_2026_27": null,
+                        "total_2026_27": 486.81
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 276.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": 276.25,
+                        "budget_2025_26": 251.98,
+                        "capital_2025_26": null,
+                        "total_2025_26": 251.98,
+                        "revised_2024_25": 330.67,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 330.67,
+                        "budget_2026_27": 300.34,
+                        "capital_2026_27": null,
+                        "total_2026_27": 300.34
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": 341.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": 341.08,
+                        "budget_2025_26": 331.59,
+                        "capital_2025_26": null,
+                        "total_2025_26": 331.59,
+                        "revised_2024_25": 380.97,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 380.97,
+                        "budget_2026_27": 382.1,
+                        "capital_2026_27": null,
+                        "total_2026_27": 382.1
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Capital Outlay on Other Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1382.21,
+                        "total_2024_25": 1382.21,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5680.47,
+                        "total_2025_26": 5680.47,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4485.64,
+                        "total_revised_2024_25": 4485.64,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5106.48,
+                        "total_2026_27": 5106.48
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 6429.66,
+                        "capital_2024_25": 1382.21,
+                        "total_2024_25": 7811.87,
+                        "budget_2025_26": 5193.8,
+                        "capital_2025_26": 5680.47,
+                        "total_2025_26": 10874.27,
+                        "revised_2024_25": 2665.11,
+                        "capital_revised_2024_25": 4485.64,
+                        "total_revised_2024_25": 7150.75,
+                        "budget_2026_27": 5924.8,
+                        "capital_2026_27": 5106.48,
+                        "total_2026_27": 11031.28
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "9",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2195.62,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2195.62,
+                        "revised_2024_25": 1387.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1387.01,
+                        "budget_2026_27": 862.24,
+                        "capital_2026_27": null,
+                        "total_2026_27": 862.24
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2195.62,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2195.62,
+                        "revised_2024_25": 1387.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1387.01,
+                        "budget_2026_27": 862.24,
+                        "capital_2026_27": null,
+                        "total_2026_27": 862.24
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 6489.22,
+                        "capital_2024_25": 1397.47,
+                        "total_2024_25": 7886.69,
+                        "budget_2025_26": 7452.93,
+                        "capital_2025_26": 5692.13,
+                        "total_2025_26": 13145.06,
+                        "revised_2024_25": 4114.8,
+                        "capital_revised_2024_25": 4501.35,
+                        "total_revised_2024_25": 8616.15,
+                        "budget_2026_27": 6851.7,
+                        "capital_2026_27": 5119.13,
+                        "total_2026_27": 11970.83
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "National Industrial Corridor",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2474.99,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2474.99,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2474.99,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2474.99,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..Provides for Secretariat expenditure of the Department of Promotion for Industry 4. Footwear, Leather and Accessories Development Programme (FLADP):..This scheme",
+            "items": [
+                {
+                    "code": "2.01",
+                    "name": "Controller General of Patent Designs and Trademarks:..This office is responsible for the",
+                    "values": {
+                        "actual_2024_25": 2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Industrial Infrastructure Upgradation Scheme (IIUS):..To enhance competitiveness of",
+                    "values": {
+                        "actual_2024_25": 2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Intellectual Policy Rights (IPR) Policy Management:..Intellectual Property Rights (IPR) 6. Price and Production Statistics:..The funds allocated under this scheme are utilised for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Policy Management is the revised version of three schemes namely the Cell for Intellectual Property Rights Promotion incurring activities of compiling the Output Producer Price Index (Output PPI), Wholesale Price Index, Input Producer",
+            "items": []
+        },
+        {
+            "heading": "enforcement in India and IP teaching in institutes as also to promote studies/research in different field of IPR. SPRIHA scheme is for coordinated and unified development of Industrial Corridor Projects in India. The development framework",
+            "items": [
+                {
+                    "code": "2.03",
+                    "name": "Infrastructure Development in Controller General of Patents Designs and Trade Marks of trunk infrastructure. The States are responsible for providing land as part of their equity in the city/node/project SPV.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Petroleum and Explosives Safety Organisation (PESO):..Provides for establishment costs of",
+                    "values": {
+                        "actual_2024_25": 1934.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Salt Commissioner:..The Organisation is responsible for planning production, targets and 10. Fund of Funds 2.0:..This scheme was formulated as Fund of Funds for Startups Scheme with",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "iodized salt. The budget provides for establishment charges of the organization, for development/welfare schemes of",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 2.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.03",
+                    "name": "Central Boilers Board:..Provides for organizing workshops on operation and maintenance and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Credit Guarantee Fund:..Credit Guarantee Scheme for Start-ups (CGSS) was established for 23. Industrial Development Scheme,",
+                    "values": {
+                        "actual_2024_25": 2017.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Startup India Seed Fund Scheme (SISFS):..The Scheme aims to provide financial assistance 24. Industrial Development Scheme for Himachal Pradesh & Uttarakhand, 2017:..The Scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "Industrial Development of UT of Jammu and Kashmir:..The scheme provides for following",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Ease of Doing Business:..Ease of Doing Business is an initiative which aims of creating a incentives for industrial development of UT of Jammu and Kashmir: i. Capital Investment Incentive, ii. Capital Interest",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "processes and eliminating redundant requirements and procedures. Expenditures are incurred primarily to meet the",
+            "items": [
+                {
+                    "code": "15",
+                    "name": "Production Linked Incentive Scheme (PLI) for White Goods (ACs and LED Lights):..The Services Tax Linked Incentive (GSTLI) and iv. Working Capital Interest subvention.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Manufacturing Mission - Furthering Make in India:..The scheme aims at strengthening the serves as a measure of goodwill gesture to help eligible units in-transition to new GST regime by way of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Production Linked Incentive (PLI) Scheme for Footwear and Leather Sector:..This scheme infrastructure for industrial units.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "enhancing India's manufacturing capabilities and attract large investments, both domestic and foreign in the 30.01. Support to Autonomous Institutions:..Under this project support is provided to Autonomous",
+            "items": [
+                {
+                    "code": "18",
+                    "name": "Uttar Poorva Transformative Industrialization Scheme (UNNATI), 2024:..The scheme aims Manufacturing Technology Institute, Indian Rubber Manufacturers Research Association and National Productivity",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "30.02",
+                    "name": "World Intellectual Property Organisation (WIPO):..Provides for contribution towards India's",
+                    "values": {
+                        "actual_2024_25": 2007.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "North Eastern Industrial and Investment Promotion Policy (NEIPP):..The North East membership of WIPO.",
+                    "values": {
+                        "actual_2024_25": 2007.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "North East Industrial Development Scheme (NEIDS) 2017:..The scheme aims to promote United Nations Industrial Development Organisation (UNIDO).",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "30.04. Assistance to Autonomous Bodies:..Under this, project based support is provided to",
+            "items": [
+                {
+                    "code": "21",
+                    "name": "Transport/Freight Subsidy Scheme:..Transport/Freight Subsidy Scheme (FSS),",
+                    "values": {
+                        "actual_2024_25": 2013.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Package for Special Catagory States for Jammu and Kashmir, Himachal Pradesh and initiative. Its objectives are simplification & handholding, funding support & incentives and industry-academia",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Uttarakhand:..The package is for Industrial Development Schemes for Union Territory of Jammu and Kashmir, Union partnership & incubation. For attaining specific targets, various programs are implemented by the Government under",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "32",
+                    "name": "Implementation of India - Korea Joint applied R&D Programme:..India and Korea signed an",
+                    "values": {
+                        "actual_2024_25": 2018.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "application and techno - commercialization of R and D. The MoU provides for funding of R and D projects by both the",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF COMMUNICATIONS",
+            "items": []
+        }
+    ]
+}

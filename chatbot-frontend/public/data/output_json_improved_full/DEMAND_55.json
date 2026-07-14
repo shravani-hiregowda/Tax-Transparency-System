@@ -1,0 +1,1261 @@
+{
+    "demand_no": 55,
+    "ministry": "Ministry Of Home Affairs",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2374.92,
+                        "capital_2024_25": 2482.13,
+                        "total_2024_25": 4857.05,
+                        "budget_2025_26": 2450.0,
+                        "capital_2025_26": 2242.15,
+                        "total_2025_26": 4692.15,
+                        "revised_2024_25": 5029.7,
+                        "capital_revised_2024_25": 2347.73,
+                        "total_revised_2024_25": 7377.43,
+                        "budget_2026_27": 2542.26,
+                        "capital_2026_27": 2327.05,
+                        "total_2026_27": 4869.31
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 45.64,
+                        "capital_2024_25": null,
+                        "total_2024_25": 45.64,
+                        "budget_2025_26": 47.65,
+                        "capital_2025_26": null,
+                        "total_2025_26": 47.65,
+                        "revised_2024_25": 50.72,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.72,
+                        "budget_2026_27": 52.56,
+                        "capital_2026_27": null,
+                        "total_2026_27": 52.56
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.73,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 44.91,
+                        "capital_2024_25": null,
+                        "total_2024_25": 44.91,
+                        "budget_2025_26": 47.65,
+                        "capital_2025_26": null,
+                        "total_2025_26": 47.65,
+                        "revised_2024_25": 50.72,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.72,
+                        "budget_2026_27": 52.56,
+                        "capital_2026_27": null,
+                        "total_2026_27": 52.56
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Other Establishment",
+                    "values": {
+                        "actual_2024_25": 1701.88,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1701.88,
+                        "budget_2025_26": 1848.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1848.33,
+                        "revised_2024_25": 1786.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1786.29,
+                        "budget_2026_27": 1931.64,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1931.64
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.78,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.78,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 1701.1,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1701.1,
+                        "budget_2025_26": 1848.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1848.33,
+                        "revised_2024_25": 1786.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1786.29,
+                        "budget_2026_27": 1931.64,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1931.64
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 1746.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1746.01,
+                        "budget_2025_26": 1895.98,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1895.98,
+                        "revised_2024_25": 1837.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1837.01,
+                        "budget_2026_27": 1984.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1984.2
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "3. Schemes of UT",
+            "items": [
+                {
+                    "code": "3.01",
+                    "name": "Welfare of Tribal and Other Backward Classes",
+                    "values": {
+                        "actual_2024_25": 1.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.0,
+                        "budget_2025_26": 1.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.1,
+                        "revised_2024_25": 1.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.1,
+                        "budget_2026_27": 1.14,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.14
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Disaster Management",
+                    "values": {
+                        "actual_2024_25": 12.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12.32,
+                        "budget_2025_26": 17.96,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17.96,
+                        "revised_2024_25": 30.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 19.08,
+                        "capital_2026_27": null,
+                        "total_2026_27": 19.08
+                    }
+                },
+                {
+                    "code": "3.03",
+                    "name": "Agriculture and Allied Schemes",
+                    "values": {
+                        "actual_2024_25": 9.73,
+                        "capital_2024_25": 2.9,
+                        "total_2024_25": 12.63,
+                        "budget_2025_26": 3.25,
+                        "capital_2025_26": 4.3,
+                        "total_2025_26": 7.55,
+                        "revised_2024_25": 7.19,
+                        "capital_revised_2024_25": 1.95,
+                        "total_revised_2024_25": 9.14,
+                        "budget_2026_27": 5.41,
+                        "capital_2026_27": 3.95,
+                        "total_2026_27": 9.36
+                    }
+                },
+                {
+                    "code": "3.04",
+                    "name": "Water Supply and Sanitation",
+                    "values": {
+                        "actual_2024_25": 14.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14.71,
+                        "budget_2025_26": 10.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.3,
+                        "revised_2024_25": 11.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11.3,
+                        "budget_2026_27": 9.8,
+                        "capital_2026_27": null,
+                        "total_2026_27": 9.8
+                    }
+                },
+                {
+                    "code": "3.05",
+                    "name": "Rural Development",
+                    "values": {
+                        "actual_2024_25": 0.12,
+                        "capital_2024_25": 48.69,
+                        "total_2024_25": 48.81,
+                        "budget_2025_26": 3.0,
+                        "capital_2025_26": 40.01,
+                        "total_2025_26": 43.01,
+                        "revised_2024_25": 3.0,
+                        "capital_revised_2024_25": 41.75,
+                        "total_revised_2024_25": 44.75,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": 40.01,
+                        "total_2026_27": 40.02
+                    }
+                },
+                {
+                    "code": "3.06",
+                    "name": "Power",
+                    "values": {
+                        "actual_2024_25": 164.9,
+                        "capital_2024_25": 26.13,
+                        "total_2024_25": 191.03,
+                        "budget_2025_26": 64.86,
+                        "capital_2025_26": 19.78,
+                        "total_2025_26": 84.64,
+                        "revised_2024_25": 175.95,
+                        "capital_revised_2024_25": 24.05,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": 106.4,
+                        "capital_2026_27": 28.78,
+                        "total_2026_27": 135.18
+                    }
+                },
+                {
+                    "code": "3.07",
+                    "name": "Forestry and Wildlife",
+                    "values": {
+                        "actual_2024_25": 0.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.71,
+                        "budget_2025_26": 1.09,
+                        "capital_2025_26": 0.1,
+                        "total_2025_26": 1.19,
+                        "revised_2024_25": 1.45,
+                        "capital_revised_2024_25": 0.07,
+                        "total_revised_2024_25": 1.52,
+                        "budget_2026_27": 0.99,
+                        "capital_2026_27": 0.1,
+                        "total_2026_27": 1.09
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.12,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.12,
+                        "budget_2025_26": -0.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": -0.25,
+                        "revised_2024_25": -0.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -0.25,
+                        "budget_2026_27": -0.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": -0.25
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 0.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.59,
+                        "budget_2025_26": 0.84,
+                        "capital_2025_26": 0.1,
+                        "total_2025_26": 0.94,
+                        "revised_2024_25": 1.2,
+                        "capital_revised_2024_25": 0.07,
+                        "total_revised_2024_25": 1.27,
+                        "budget_2026_27": 0.74,
+                        "capital_2026_27": 0.1,
+                        "total_2026_27": 0.84
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3.08",
+                    "name": "Civil Supplies",
+                    "values": {
+                        "actual_2024_25": 34.23,
+                        "capital_2024_25": 0.35,
+                        "total_2024_25": 34.58,
+                        "budget_2025_26": 32.04,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 33.04,
+                        "revised_2024_25": 35.04,
+                        "capital_revised_2024_25": 1.0,
+                        "total_revised_2024_25": 36.04,
+                        "budget_2026_27": 32.05,
+                        "capital_2026_27": 1.0,
+                        "total_2026_27": 33.05
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -28.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": -28.7,
+                        "budget_2025_26": -9.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -9.0,
+                        "revised_2024_25": -12.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -12.0,
+                        "budget_2026_27": -9.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -9.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 5.53,
+                        "capital_2024_25": 0.35,
+                        "total_2024_25": 5.88,
+                        "budget_2025_26": 23.04,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 24.04,
+                        "revised_2024_25": 23.04,
+                        "capital_revised_2024_25": 1.0,
+                        "total_revised_2024_25": 24.04,
+                        "budget_2026_27": 23.05,
+                        "capital_2026_27": 1.0,
+                        "total_2026_27": 24.05
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3.09",
+                    "name": "Medical and Public Health",
+                    "values": {
+                        "actual_2024_25": 51.65,
+                        "capital_2024_25": 0.3,
+                        "total_2024_25": 51.95,
+                        "budget_2025_26": 67.24,
+                        "capital_2025_26": 1.25,
+                        "total_2025_26": 68.49,
+                        "revised_2024_25": 68.19,
+                        "capital_revised_2024_25": 0.98,
+                        "total_revised_2024_25": 69.17,
+                        "budget_2026_27": 67.19,
+                        "capital_2026_27": 1.25,
+                        "total_2026_27": 68.44
+                    }
+                },
+                {
+                    "code": "3.10",
+                    "name": "Education, Sports, Arts and Culture",
+                    "values": {
+                        "actual_2024_25": 3.8,
+                        "capital_2024_25": 9.38,
+                        "total_2024_25": 13.18,
+                        "budget_2025_26": 3.41,
+                        "capital_2025_26": 5.15,
+                        "total_2025_26": 8.56,
+                        "revised_2024_25": 4.16,
+                        "capital_revised_2024_25": 3.82,
+                        "total_revised_2024_25": 7.98,
+                        "budget_2026_27": 3.55,
+                        "capital_2026_27": 5.14,
+                        "total_2026_27": 8.69
+                    }
+                },
+                {
+                    "code": "3.11",
+                    "name": "Social Welfare",
+                    "values": {
+                        "actual_2024_25": 21.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21.46,
+                        "budget_2025_26": 21.66,
+                        "capital_2025_26": null,
+                        "total_2025_26": 21.66,
+                        "revised_2024_25": 23.4,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23.4,
+                        "budget_2026_27": 23.05,
+                        "capital_2026_27": 0.05,
+                        "total_2026_27": 23.1
+                    }
+                },
+                {
+                    "code": "3.12",
+                    "name": "Village and Small Industries",
+                    "values": {
+                        "actual_2024_25": 0.89,
+                        "capital_2024_25": 1.26,
+                        "total_2024_25": 2.15,
+                        "budget_2025_26": 0.6,
+                        "capital_2025_26": 0.88,
+                        "total_2025_26": 1.48,
+                        "revised_2024_25": 0.76,
+                        "capital_revised_2024_25": 0.72,
+                        "total_revised_2024_25": 1.48,
+                        "budget_2026_27": 0.65,
+                        "capital_2026_27": 0.06,
+                        "total_2026_27": 0.71
+                    }
+                },
+                {
+                    "code": "3.13",
+                    "name": "Information and Publicity",
+                    "values": {
+                        "actual_2024_25": 0.43,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.43,
+                        "budget_2025_26": 0.45,
+                        "capital_2025_26": 0.02,
+                        "total_2025_26": 0.47,
+                        "revised_2024_25": 2.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.5,
+                        "budget_2026_27": 0.6,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.61
+                    }
+                },
+                {
+                    "code": "3.14",
+                    "name": "Roads and Bridges",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 48.42,
+                        "total_2024_25": 48.42,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 25.97,
+                        "total_2025_26": 25.97,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 29.25,
+                        "total_revised_2024_25": 29.25,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 23.61,
+                        "total_2026_27": 23.61
+                    }
+                },
+                {
+                    "code": "3.15",
+                    "name": "Civil Aviation",
+                    "values": {
+                        "actual_2024_25": 8.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.01,
+                        "budget_2025_26": 30.1,
+                        "capital_2025_26": 0.03,
+                        "total_2025_26": 30.13,
+                        "revised_2024_25": 22.1,
+                        "capital_revised_2024_25": 0.02,
+                        "total_revised_2024_25": 22.12,
+                        "budget_2026_27": 22.1,
+                        "capital_2026_27": 0.03,
+                        "total_2026_27": 22.13
+                    }
+                },
+                {
+                    "code": "3.16",
+                    "name": "Tourism",
+                    "values": {
+                        "actual_2024_25": 0.5,
+                        "capital_2024_25": 15.54,
+                        "total_2024_25": 16.04,
+                        "budget_2025_26": 0.11,
+                        "capital_2025_26": 13.65,
+                        "total_2025_26": 13.76,
+                        "revised_2024_25": 2.09,
+                        "capital_revised_2024_25": 10.0,
+                        "total_revised_2024_25": 12.09,
+                        "budget_2026_27": 0.71,
+                        "capital_2026_27": 13.65,
+                        "total_2026_27": 14.36
+                    }
+                },
+                {
+                    "code": "3.17",
+                    "name": "Public Works",
+                    "values": {
+                        "actual_2024_25": 6.95,
+                        "capital_2024_25": 7.25,
+                        "total_2024_25": 14.2,
+                        "budget_2025_26": 5.83,
+                        "capital_2025_26": 9.49,
+                        "total_2025_26": 15.32,
+                        "revised_2024_25": 8.36,
+                        "capital_revised_2024_25": 9.19,
+                        "total_revised_2024_25": 17.55,
+                        "budget_2026_27": 6.46,
+                        "capital_2026_27": 5.7,
+                        "total_2026_27": 12.16
+                    }
+                },
+                {
+                    "code": "3.18",
+                    "name": "Housing",
+                    "values": {
+                        "actual_2024_25": 2.42,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.42,
+                        "budget_2025_26": 2.78,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.78,
+                        "revised_2024_25": 2.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.21,
+                        "budget_2026_27": 2.39,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.39
+                    }
+                },
+                {
+                    "code": "3.19",
+                    "name": "Urban Development",
+                    "values": {
+                        "actual_2024_25": 26.43,
+                        "capital_2024_25": 2.2,
+                        "total_2024_25": 28.63,
+                        "budget_2025_26": 26.12,
+                        "capital_2025_26": 2.05,
+                        "total_2025_26": 28.17,
+                        "revised_2024_25": 28.12,
+                        "capital_revised_2024_25": 3.19,
+                        "total_revised_2024_25": 31.31,
+                        "budget_2026_27": 22.0,
+                        "capital_2026_27": 3.42,
+                        "total_2026_27": 25.42
+                    }
+                },
+                {
+                    "code": "3.20",
+                    "name": "Police and Fire Control",
+                    "values": {
+                        "actual_2024_25": 4.27,
+                        "capital_2024_25": 9.38,
+                        "total_2024_25": 13.65,
+                        "budget_2025_26": 4.5,
+                        "capital_2025_26": 6.65,
+                        "total_2025_26": 11.15,
+                        "revised_2024_25": 6.0,
+                        "capital_revised_2024_25": 5.33,
+                        "total_revised_2024_25": 11.33,
+                        "budget_2026_27": 5.5,
+                        "capital_2026_27": 3.01,
+                        "total_2026_27": 8.51
+                    }
+                },
+                {
+                    "code": "3.21",
+                    "name": "Communication",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.19,
+                        "total_2024_25": 0.19,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.21,
+                        "total_2025_26": 0.21,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.21,
+                        "total_revised_2024_25": 0.21,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.21,
+                        "total_2026_27": 0.21
+                    }
+                },
+                {
+                    "code": "3.22",
+                    "name": "Science, Technology and Enviornment",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "3.23",
+                    "name": "Transport",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.07,
+                        "total_2024_25": 0.07,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.06,
+                        "total_2025_26": 0.06,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.05,
+                        "total_revised_2024_25": 0.05,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.06,
+                        "total_2026_27": 0.06
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Schemes of UT",
+                    "values": {
+                        "actual_2024_25": 335.71,
+                        "capital_2024_25": 172.06,
+                        "total_2024_25": 507.77,
+                        "budget_2025_26": 287.15,
+                        "capital_2025_26": 130.61,
+                        "total_2025_26": 417.76,
+                        "revised_2024_25": 420.67,
+                        "capital_revised_2024_25": 131.59,
+                        "total_revised_2024_25": 552.26,
+                        "budget_2026_27": 319.83,
+                        "capital_2026_27": 130.05,
+                        "total_2026_27": 449.88
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "UT's Supplement to Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 0.42,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.42,
+                        "budget_2025_26": 0.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.36,
+                        "revised_2024_25": 0.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.56,
+                        "budget_2026_27": 0.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.36
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Tribal Area Component",
+                    "values": {
+                        "actual_2024_25": 175.2,
+                        "capital_2024_25": 2313.88,
+                        "total_2024_25": 2489.08,
+                        "budget_2025_26": 226.96,
+                        "capital_2025_26": 2111.54,
+                        "total_2025_26": 2338.5,
+                        "revised_2024_25": 224.52,
+                        "capital_revised_2024_25": 2216.14,
+                        "total_revised_2024_25": 2440.66,
+                        "budget_2026_27": 173.09,
+                        "capital_2026_27": 2197.0,
+                        "total_2026_27": 2370.09
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -1.21,
+                        "capital_2024_25": -3.81,
+                        "total_2024_25": -5.02,
+                        "budget_2025_26": -1.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1.0,
+                        "revised_2024_25": -1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1.0,
+                        "budget_2026_27": -1.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 173.99,
+                        "capital_2024_25": 2310.07,
+                        "total_2024_25": 2484.06,
+                        "budget_2025_26": 225.96,
+                        "capital_2025_26": 2111.54,
+                        "total_2025_26": 2337.5,
+                        "revised_2024_25": 223.52,
+                        "capital_revised_2024_25": 2216.14,
+                        "total_revised_2024_25": 2439.66,
+                        "budget_2026_27": 172.09,
+                        "capital_2026_27": 2197.0,
+                        "total_2026_27": 2369.09
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Grantee / Other Bodies",
+                    "values": {
+                        "actual_2024_25": 118.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": 118.79,
+                        "budget_2025_26": 40.55,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.55,
+                        "revised_2024_25": 43.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 43.48,
+                        "budget_2026_27": 65.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 65.78
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Other Expenditure of UT",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 2504.46,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2504.46,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 628.91,
+                        "capital_2024_25": 2482.13,
+                        "total_2024_25": 3111.04,
+                        "budget_2025_26": 554.02,
+                        "capital_2025_26": 2242.15,
+                        "total_2025_26": 2796.17,
+                        "revised_2024_25": 3192.69,
+                        "capital_revised_2024_25": 2347.73,
+                        "total_revised_2024_25": 5540.42,
+                        "budget_2026_27": 558.06,
+                        "capital_2026_27": 2327.05,
+                        "total_2026_27": 2885.11
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 628.91,
+                        "capital_2024_25": 2482.13,
+                        "total_2024_25": 3111.04,
+                        "budget_2025_26": 554.02,
+                        "capital_2025_26": 2242.15,
+                        "total_2025_26": 2796.17,
+                        "revised_2024_25": 3192.69,
+                        "capital_revised_2024_25": 2347.73,
+                        "total_revised_2024_25": 5540.42,
+                        "budget_2026_27": 558.06,
+                        "capital_2026_27": 2327.05,
+                        "total_2026_27": 2885.11
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2374.92,
+                        "capital_2024_25": 2482.13,
+                        "total_2024_25": 4857.05,
+                        "budget_2025_26": 2450.0,
+                        "capital_2025_26": 2242.15,
+                        "total_2025_26": 4692.15,
+                        "revised_2024_25": 5029.7,
+                        "capital_revised_2024_25": 2347.73,
+                        "total_revised_2024_25": 7377.43,
+                        "budget_2026_27": 2542.26,
+                        "capital_2026_27": 2327.05,
+                        "total_2026_27": 4869.31
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "Public Works, Urban Development, Minor Irrigation, Social Security and Welfare, Civil Aviation, Road Transport,",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 1.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "cretariat:..The provision is for establishment related expenditure of Secretariat of U.T.",
+            "items": []
+        },
+        {
+            "heading": "3.01. Welfare of Tribal and Other Backward Classes:..Includes provision for welfare of Scheduled",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Other Establishment:..Includes establishment provision of other Departments/Offices of UT",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Ladakh viz. Ladakh Autonomous Hill Development Council, Other Special Area Programme, Courts, Taxes, Treasury &",
+            "items": []
+        },
+        {
+            "heading": "Accounts Administrative Establishment, Police, Jails, Other Administrative Services, Tribal Welfare, Disaster",
+            "items": []
+        },
+        {
+            "heading": "3.03. Agriculture and Allied Schemes:..Includes provision for Crop Husbandry, Soil Conservation, 3.21. Communication:..Includes provision for purchase and development of software, websites and",
+            "items": [
+                {
+                    "code": "3.04",
+                    "name": "Water Supply and Sanitation:..Includes provision for administration of Water Supply and 3.22. Science, Technology and Enviornment:..Includes provision for purchase of Information",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.05",
+                    "name": "Rural Development:..Includes provision for Rural Development, and strengthening of 3.23. Transport:..Includes provision for construction of learner license Test Centre in Leh and Kargil",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "3.06. Power:..Includes provision for Power Generation, Transmission and Distribution. 4. UT's Supplement to Centrally Sponsored Schemes:..Includes provision for supplement",
+            "items": []
+        },
+        {
+            "heading": "under the UT Budget for the Centrally Sponsored Schemes namely Indira Gandhi National Old Age Pension, PM",
+            "items": [
+                {
+                    "code": "3.07",
+                    "name": "Forestry and Wildlife:..Includes provision for Forest and Wild Life Development, Conservation POSHAN, Saksham Anganwadies etc.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Tribal Area Component:..Includes Provision for Council Secretariat and Assistance from",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.08",
+                    "name": "Civil Supplies:..Includes provision for Food Storage and Warehousing and Civil Supplies, Centre to the UT Administration of Ladakh and Primary School Education Department.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grantee / Other Bodies:..Includes Provision for Assistance to the Universities and for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.09",
+                    "name": "Medical and Public Health:..Includes provision for Medical and Public Health for prevention of Promotion of Art and Culture.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Kargil etc. 7. Other Expenditure of UT:..Payment to Union Territory of Jammu and Kashmir for",
+            "items": [
+                {
+                    "code": "3.10",
+                    "name": "Education, Sports, Arts and Culture:..Includes provision for Education (Elementary/",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "3.11. Social Welfare:..Includes provision for welfare of Persons of Old Age, Widows, Destitute,",
+            "items": []
+        },
+        {
+            "heading": "Differently Abled, Women and Child Welfare, assistance to the voluntary organisations.",
+            "items": [
+                {
+                    "code": "3.12",
+                    "name": "Village and Small Industries:..Includes provision for the development of Village and Small",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.13",
+                    "name": "Information and Publicity:..Includes provision for Information and Publicity as well as for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.14",
+                    "name": "Roads and Bridges:..Includes provision for the construction and maintenance of Roads and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.15",
+                    "name": "Civil Aviation:..Includes provision for the chartering of Helicopters and Aircrafts.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.16",
+                    "name": "Tourism:..Includes provision for the development and promotion of Tourism and Training.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.17",
+                    "name": "Public Works:..Includes provision for construction and maintenance work of UT",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.18",
+                    "name": "Housing:..Includes provision for grants to the Real Estate Regulator Authority under urban",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.19",
+                    "name": "Urban Development:..Includes provision for grants towards municipalities of Leh and Kargil for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.20",
+                    "name": "Police and Fire Control:..Includes provision for construction and maintenance of office and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF HOME AFFAIRS",
+            "items": []
+        }
+    ]
+}

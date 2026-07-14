@@ -1,0 +1,2083 @@
+{
+    "demand_no": 3,
+    "ministry": "Ministry Of Ayush",
+    "department": "Department Of Atomic Energy",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 12692.24,
+                        "capital_2024_25": 12400.34,
+                        "total_2024_25": 25092.58,
+                        "budget_2025_26": 12071.46,
+                        "capital_2025_26": 11977.64,
+                        "total_2025_26": 24049.1,
+                        "revised_2024_25": 12349.65,
+                        "capital_revised_2024_25": 12061.82,
+                        "total_revised_2024_25": 24411.47,
+                        "budget_2026_27": 14157.51,
+                        "capital_2026_27": 9966.41,
+                        "total_2026_27": 24123.92
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 68.7,
+                        "capital_2024_25": 0.83,
+                        "total_2024_25": 69.53,
+                        "budget_2025_26": 83.33,
+                        "capital_2025_26": 1.81,
+                        "total_2025_26": 85.14,
+                        "revised_2024_25": 76.27,
+                        "capital_revised_2024_25": 2.46,
+                        "total_revised_2024_25": 78.73,
+                        "budget_2026_27": 120.6,
+                        "capital_2026_27": 4.39,
+                        "total_2026_27": 124.99
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Atomic Energy Regulatory Board",
+                    "values": {
+                        "actual_2024_25": 109.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 109.59,
+                        "budget_2025_26": 123.78,
+                        "capital_2025_26": null,
+                        "total_2025_26": 123.78,
+                        "revised_2024_25": 128.76,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 128.76,
+                        "budget_2026_27": 132.8,
+                        "capital_2026_27": null,
+                        "total_2026_27": 132.8
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Atomic Research Centres",
+                    "values": {
+                        "actual_2024_25": 2958.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2958.06,
+                        "budget_2025_26": 3206.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3206.02,
+                        "revised_2024_25": 3127.64,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3127.64,
+                        "budget_2026_27": 3157.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3157.6
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Bhabha Atomic Research Centre",
+                    "values": {
+                        "actual_2024_25": 2958.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2958.06,
+                        "budget_2025_26": 3206.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3206.02,
+                        "revised_2024_25": 3127.64,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3127.64,
+                        "budget_2026_27": 3157.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3157.6
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -76.88,
+                        "capital_2024_25": null,
+                        "total_2024_25": -76.88,
+                        "budget_2025_26": -70.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": -70.53,
+                        "revised_2024_25": -70.95,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -70.95,
+                        "budget_2026_27": -71.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -71.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2881.18,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2881.18,
+                        "budget_2025_26": 3135.49,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3135.49,
+                        "revised_2024_25": 3056.69,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3056.69,
+                        "budget_2026_27": 3086.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3086.6
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3.02",
+                    "name": "Indira Gandhi Centre for Atomic",
+                    "values": {
+                        "actual_2024_25": 585.41,
+                        "capital_2024_25": null,
+                        "total_2024_25": 585.41,
+                        "budget_2025_26": 575.39,
+                        "capital_2025_26": null,
+                        "total_2025_26": 575.39,
+                        "revised_2024_25": 676.77,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 676.77,
+                        "budget_2026_27": 676.98,
+                        "capital_2026_27": null,
+                        "total_2026_27": 676.98
+                    }
+                },
+                {
+                    "code": "3.03",
+                    "name": "Raja Ramana Centre for Advanced Technology,",
+                    "values": {
+                        "actual_2024_25": 427.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 427.86,
+                        "budget_2025_26": 447.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 447.1,
+                        "revised_2024_25": 467.4,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 467.4,
+                        "budget_2026_27": 485.89,
+                        "capital_2026_27": null,
+                        "total_2026_27": 485.89
+                    }
+                },
+                {
+                    "code": "3.04",
+                    "name": "Variable Energy Cyclotrone Centre, Kolkata",
+                    "values": {
+                        "actual_2024_25": 170.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 170.15,
+                        "budget_2025_26": 200.19,
+                        "capital_2025_26": null,
+                        "total_2025_26": 200.19,
+                        "revised_2024_25": 215.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 215.53,
+                        "budget_2026_27": 236.27,
+                        "capital_2026_27": null,
+                        "total_2026_27": 236.27
+                    }
+                },
+                {
+                    "code": "3.05",
+                    "name": "Atomic Minerals Directorate for Exploration and",
+                    "values": {
+                        "actual_2024_25": 335.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 335.61,
+                        "budget_2025_26": 387.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 387.5,
+                        "revised_2024_25": 385.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 385.45,
+                        "budget_2026_27": 405.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 405.97
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Atomic Research Centres",
+                    "values": {
+                        "actual_2024_25": 4400.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4400.21,
+                        "budget_2025_26": 4745.67,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4745.67,
+                        "revised_2024_25": 4801.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4801.84,
+                        "budget_2026_27": 4891.71,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4891.71
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "Fuel Cycle Facility (Nuclear Regulatory Board)",
+                    "values": {
+                        "actual_2024_25": 755.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 755.55,
+                        "budget_2025_26": 740.61,
+                        "capital_2025_26": null,
+                        "total_2025_26": 740.61,
+                        "revised_2024_25": 904.16,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 904.16,
+                        "budget_2026_27": 950.79,
+                        "capital_2026_27": null,
+                        "total_2026_27": 950.79
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Service Units",
+                    "values": {
+                        "actual_2024_25": 473.42,
+                        "capital_2024_25": 0.9,
+                        "total_2024_25": 474.32,
+                        "budget_2025_26": 511.27,
+                        "capital_2025_26": 2.87,
+                        "total_2025_26": 514.14,
+                        "revised_2024_25": 500.64,
+                        "capital_revised_2024_25": 1.35,
+                        "total_revised_2024_25": 501.99,
+                        "budget_2026_27": 539.28,
+                        "capital_2026_27": 2.87,
+                        "total_2026_27": 542.15
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -67.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": -67.37,
+                        "budget_2025_26": -37.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": -37.5,
+                        "revised_2024_25": -37.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -37.0,
+                        "budget_2026_27": -36.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -36.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 406.05,
+                        "capital_2024_25": 0.9,
+                        "total_2024_25": 406.95,
+                        "budget_2025_26": 473.77,
+                        "capital_2025_26": 2.87,
+                        "total_2025_26": 476.64,
+                        "revised_2024_25": 463.64,
+                        "capital_revised_2024_25": 1.35,
+                        "total_revised_2024_25": 464.99,
+                        "budget_2026_27": 503.28,
+                        "capital_2026_27": 2.87,
+                        "total_2026_27": 506.15
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Board of Radiation and Isotope Technology (BRIT)",
+                    "values": {
+                        "actual_2024_25": 125.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 125.85,
+                        "budget_2025_26": 152.56,
+                        "capital_2025_26": null,
+                        "total_2025_26": 152.56,
+                        "revised_2024_25": 128.39,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 128.39,
+                        "budget_2026_27": 129.89,
+                        "capital_2026_27": null,
+                        "total_2026_27": 129.89
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Management Services Group",
+                    "values": {
+                        "actual_2024_25": 0.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.83,
+                        "budget_2025_26": 1.24,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.24,
+                        "revised_2024_25": 1.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.11,
+                        "budget_2026_27": 1.38,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.38
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Nuclear Fuel Complex",
+                    "values": {
+                        "actual_2024_25": 3763.12,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3763.12,
+                        "budget_2025_26": 3243.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3243.25,
+                        "revised_2024_25": 3543.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3543.84,
+                        "budget_2026_27": 3678.08,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3678.08
+                    }
+                },
+                {
+                    "code": "8.01",
+                    "name": "Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": 3763.12,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3763.12,
+                        "budget_2025_26": 3243.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3243.25,
+                        "revised_2024_25": 3543.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3543.84,
+                        "budget_2026_27": 3678.08,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3678.08
+                    }
+                },
+                {
+                    "code": "8.02",
+                    "name": "Less Receipts",
+                    "values": {
+                        "actual_2024_25": -3032.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": -3032.85,
+                        "budget_2025_26": -2980.05,
+                        "capital_2025_26": null,
+                        "total_2025_26": -2980.05,
+                        "revised_2024_25": -3002.55,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -3002.55,
+                        "budget_2026_27": -3027.55,
+                        "capital_2026_27": null,
+                        "total_2026_27": -3027.55
+                    }
+                },
+                {
+                    "code": "8.03",
+                    "name": "Less Recoveries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 730.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 730.27,
+                        "budget_2025_26": 263.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 263.2,
+                        "revised_2024_25": 541.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 541.29,
+                        "budget_2026_27": 650.53,
+                        "capital_2026_27": null,
+                        "total_2026_27": 650.53
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "9",
+                    "name": "Heavy Water Production Facility",
+                    "values": {
+                        "actual_2024_25": 129.42,
+                        "capital_2024_25": 1492.23,
+                        "total_2024_25": 1621.65,
+                        "budget_2025_26": 155.76,
+                        "capital_2025_26": 1577.31,
+                        "total_2025_26": 1733.07,
+                        "revised_2024_25": 176.12,
+                        "capital_revised_2024_25": 1542.31,
+                        "total_revised_2024_25": 1718.43,
+                        "budget_2026_27": 180.56,
+                        "capital_2026_27": 1564.96,
+                        "total_2026_27": 1745.52
+                    }
+                },
+                {
+                    "code": "9.01",
+                    "name": "Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": 129.42,
+                        "capital_2024_25": 1492.23,
+                        "total_2024_25": 1621.65,
+                        "budget_2025_26": 155.76,
+                        "capital_2025_26": 1577.31,
+                        "total_2025_26": 1733.07,
+                        "revised_2024_25": 176.12,
+                        "capital_revised_2024_25": 1542.31,
+                        "total_revised_2024_25": 1718.43,
+                        "budget_2026_27": 180.56,
+                        "capital_2026_27": 1564.96,
+                        "total_2026_27": 1745.52
+                    }
+                },
+                {
+                    "code": "9.02",
+                    "name": "Less - Recovery",
+                    "values": {
+                        "actual_2024_25": -29.96,
+                        "capital_2024_25": -1600.03,
+                        "total_2024_25": -1629.99,
+                        "budget_2025_26": -45.37,
+                        "capital_2025_26": -1701.0,
+                        "total_2025_26": -1746.37,
+                        "revised_2024_25": -67.02,
+                        "capital_revised_2024_25": -1701.0,
+                        "total_revised_2024_25": -1768.02,
+                        "budget_2026_27": -54.23,
+                        "capital_2026_27": -1801.0,
+                        "total_2026_27": -1855.23
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 99.46,
+                        "capital_2024_25": -107.8,
+                        "total_2024_25": -8.34,
+                        "budget_2025_26": 110.39,
+                        "capital_2025_26": -123.69,
+                        "total_2025_26": -13.3,
+                        "revised_2024_25": 109.1,
+                        "capital_revised_2024_25": -158.69,
+                        "total_revised_2024_25": -49.59,
+                        "budget_2026_27": 126.33,
+                        "capital_2026_27": -236.04,
+                        "total_2026_27": -109.71
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 6696.51,
+                        "capital_2024_25": -106.07,
+                        "total_2024_25": 6590.44,
+                        "budget_2025_26": 6694.55,
+                        "capital_2025_26": -119.01,
+                        "total_2025_26": 6575.54,
+                        "revised_2024_25": 7154.56,
+                        "capital_revised_2024_25": -154.88,
+                        "total_revised_2024_25": 6999.68,
+                        "budget_2026_27": 7507.31,
+                        "capital_2026_27": -228.78,
+                        "total_2026_27": 7278.53
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "R&D projects of Bhabha Atomic Research Centre (BARC)",
+                    "values": {
+                        "actual_2024_25": 139.97,
+                        "capital_2024_25": 759.8,
+                        "total_2024_25": 899.77,
+                        "budget_2025_26": 219.46,
+                        "capital_2025_26": 880.54,
+                        "total_2025_26": 1100.0,
+                        "revised_2024_25": 140.54,
+                        "capital_revised_2024_25": 778.37,
+                        "total_revised_2024_25": 918.91,
+                        "budget_2026_27": 190.84,
+                        "capital_2026_27": 1609.16,
+                        "total_2026_27": 1800.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 139.97,
+                        "capital_2024_25": 759.8,
+                        "total_2024_25": 899.77,
+                        "budget_2025_26": 219.46,
+                        "capital_2025_26": 880.54,
+                        "total_2025_26": 1100.0,
+                        "revised_2024_25": 140.54,
+                        "capital_revised_2024_25": 778.37,
+                        "total_revised_2024_25": 918.91,
+                        "budget_2026_27": 190.84,
+                        "capital_2026_27": 1609.16,
+                        "total_2026_27": 1800.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "11",
+                    "name": "R&D projects of Indira Gandhi Centre of Atomic Research",
+                    "values": {
+                        "actual_2024_25": 8.55,
+                        "capital_2024_25": 73.03,
+                        "total_2024_25": 81.58,
+                        "budget_2025_26": 20.23,
+                        "capital_2025_26": 204.77,
+                        "total_2025_26": 225.0,
+                        "revised_2024_25": 17.07,
+                        "capital_revised_2024_25": 50.79,
+                        "total_revised_2024_25": 67.86,
+                        "budget_2026_27": 42.18,
+                        "capital_2026_27": 183.82,
+                        "total_2026_27": 226.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "R&D projects of Raja Ramanna Centre for Advanced",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 123.88,
+                        "total_2024_25": 123.88,
+                        "budget_2025_26": 8.77,
+                        "capital_2025_26": 169.83,
+                        "total_2025_26": 178.6,
+                        "revised_2024_25": 8.82,
+                        "capital_revised_2024_25": 54.18,
+                        "total_revised_2024_25": 63.0,
+                        "budget_2026_27": 10.01,
+                        "capital_2026_27": 114.99,
+                        "total_2026_27": 125.0
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "R&D projects of Atomic Minerals Directorate for",
+                    "values": {
+                        "actual_2024_25": 71.46,
+                        "capital_2024_25": 29.05,
+                        "total_2024_25": 100.51,
+                        "budget_2025_26": 126.25,
+                        "capital_2025_26": 95.51,
+                        "total_2025_26": 221.76,
+                        "revised_2024_25": 99.39,
+                        "capital_revised_2024_25": 45.61,
+                        "total_revised_2024_25": 145.0,
+                        "budget_2026_27": 100.35,
+                        "capital_2026_27": 69.23,
+                        "total_2026_27": 169.58
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Grants to other Institutions",
+                    "values": {
+                        "actual_2024_25": 84.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 84.98,
+                        "budget_2025_26": 90.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90.0,
+                        "revised_2024_25": 90.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 90.0,
+                        "budget_2026_27": 90.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 90.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Research and Development",
+                    "values": {
+                        "actual_2024_25": 304.96,
+                        "capital_2024_25": 985.76,
+                        "total_2024_25": 1290.72,
+                        "budget_2025_26": 464.71,
+                        "capital_2025_26": 1350.65,
+                        "total_2025_26": 1815.36,
+                        "revised_2024_25": 355.82,
+                        "capital_revised_2024_25": 928.95,
+                        "total_revised_2024_25": 1284.77,
+                        "budget_2026_27": 433.38,
+                        "capital_2026_27": 1977.2,
+                        "total_2026_27": 2410.58
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "15",
+                    "name": "Fuel Recycle Projects (NRB)",
+                    "values": {
+                        "actual_2024_25": 0.18,
+                        "capital_2024_25": 699.69,
+                        "total_2024_25": 699.87,
+                        "budget_2025_26": 0.3,
+                        "capital_2025_26": 499.7,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 0.25,
+                        "capital_revised_2024_25": 749.75,
+                        "total_revised_2024_25": 750.0,
+                        "budget_2026_27": 0.97,
+                        "capital_2026_27": 749.03,
+                        "total_2026_27": 750.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Housing and Neighbourhood Development Projects",
+            "items": [
+                {
+                    "code": "16",
+                    "name": "Housing Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 135.35,
+                        "total_2024_25": 135.35,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 160.0,
+                        "total_2025_26": 160.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 100.0,
+                        "total_revised_2024_25": 100.0,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": 149.98,
+                        "total_2026_27": 150.0
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Improvement/Modifications of Heavy water projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 34.61,
+                        "total_2024_25": 34.61,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 45.0,
+                        "total_2025_26": 45.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 35.0,
+                        "total_revised_2024_25": 35.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 40.0,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Feedstock",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1600.0,
+                        "total_2024_25": 1600.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1700.0,
+                        "total_2025_26": 1700.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1700.0,
+                        "total_revised_2024_25": 1700.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1700.0,
+                        "total_2026_27": 1700.0
+                    }
+                },
+                {
+                    "code": "18.01",
+                    "name": "Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1600.0,
+                        "total_2024_25": 1600.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1700.0,
+                        "total_2025_26": 1700.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1700.0,
+                        "total_revised_2024_25": 1700.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1700.0,
+                        "total_2026_27": 1700.0
+                    }
+                },
+                {
+                    "code": "18.02",
+                    "name": "Less Recoveries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -761.75,
+                        "total_2024_25": -761.75,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -1136.0,
+                        "total_2025_26": -1136.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -1000.0,
+                        "total_revised_2024_25": -1000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -1026.0,
+                        "total_2026_27": -1026.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 838.25,
+                        "total_2024_25": 838.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 564.0,
+                        "total_2025_26": 564.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 700.0,
+                        "total_revised_2024_25": 700.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 674.0,
+                        "total_2026_27": 674.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "19",
+                    "name": "Heavy Water Pool Management",
+                    "values": {
+                        "actual_2024_25": 2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2000.0,
+                        "budget_2025_26": 3000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3000.0,
+                        "revised_2024_25": 3000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3000.0,
+                        "budget_2026_27": 4000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4000.0
+                    }
+                },
+                {
+                    "code": "19.01",
+                    "name": "Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": 2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2000.0,
+                        "budget_2025_26": 3000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3000.0,
+                        "revised_2024_25": 3000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3000.0,
+                        "budget_2026_27": 4000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4000.0
+                    }
+                },
+                {
+                    "code": "19.02",
+                    "name": "Less Receipts",
+                    "values": {
+                        "actual_2024_25": -2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2000.0,
+                        "budget_2025_26": -3000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -3000.0,
+                        "revised_2024_25": -3000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -3000.0,
+                        "budget_2026_27": -4000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -4000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Heavy Water Facilities",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 872.86,
+                        "total_2024_25": 872.86,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 609.0,
+                        "total_2025_26": 609.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 735.0,
+                        "total_revised_2024_25": 735.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 714.0,
+                        "total_2026_27": 714.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "20",
+                    "name": "Radiation and Isotopes Project (BRIT)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 55.39,
+                        "total_2024_25": 55.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 88.22,
+                        "total_2025_26": 88.22,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 35.0,
+                        "total_revised_2024_25": 35.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 76.0,
+                        "total_2026_27": 76.0
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Nuclear Power Projects",
+                    "values": {
+                        "actual_2024_25": 2165.43,
+                        "capital_2024_25": 79.0,
+                        "total_2024_25": 2244.43,
+                        "budget_2025_26": 1820.17,
+                        "capital_2025_26": 265.83,
+                        "total_2025_26": 2086.0,
+                        "revised_2024_25": 1032.73,
+                        "capital_revised_2024_25": 300.1,
+                        "total_revised_2024_25": 1332.83,
+                        "budget_2026_27": 2454.79,
+                        "capital_2026_27": 45.21,
+                        "total_2026_27": 2500.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.09,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2165.34,
+                        "capital_2024_25": 79.0,
+                        "total_2024_25": 2244.34,
+                        "budget_2025_26": 1820.17,
+                        "capital_2025_26": 265.83,
+                        "total_2025_26": 2086.0,
+                        "revised_2024_25": 1032.73,
+                        "capital_revised_2024_25": 300.1,
+                        "total_revised_2024_25": 1332.83,
+                        "budget_2026_27": 2454.79,
+                        "capital_2026_27": 45.21,
+                        "total_2026_27": 2500.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "22",
+                    "name": "Nuclear Fuel Fabrication Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 707.85,
+                        "total_2024_25": 707.85,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 595.0,
+                        "total_2025_26": 595.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 531.33,
+                        "total_revised_2024_25": 531.33,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 175.65,
+                        "total_2026_27": 175.65
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "Atomic Energy Regulatory Board Expansion Project",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 9.19,
+                        "total_2024_25": 9.19,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 14.0,
+                        "total_2025_26": 14.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 14.0,
+                        "total_revised_2024_25": 14.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 14.0,
+                        "total_2026_27": 14.0
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "R&D projects of Variable Energy Cyclotron Centre",
+                    "values": {
+                        "actual_2024_25": 22.17,
+                        "capital_2024_25": 34.86,
+                        "total_2024_25": 57.03,
+                        "budget_2025_26": 7.34,
+                        "capital_2025_26": 32.66,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 8.3,
+                        "capital_revised_2024_25": 31.7,
+                        "total_revised_2024_25": 40.0,
+                        "budget_2026_27": 8.17,
+                        "capital_2026_27": 46.83,
+                        "total_2026_27": 55.0
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "Research and Development Projects",
+                    "values": {
+                        "actual_2024_25": 1000.55,
+                        "capital_2024_25": 64.87,
+                        "total_2024_25": 1065.42,
+                        "budget_2025_26": 1115.79,
+                        "capital_2025_26": 134.21,
+                        "total_2025_26": 1250.0,
+                        "revised_2024_25": 1089.84,
+                        "capital_revised_2024_25": 110.16,
+                        "total_revised_2024_25": 1200.0,
+                        "budget_2026_27": 1016.61,
+                        "capital_2026_27": 183.39,
+                        "total_2026_27": 1200.0
+                    }
+                },
+                {
+                    "code": "26",
+                    "name": "Industries and Minerals Projects",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": 54.0,
+                        "total_2024_25": 59.0,
+                        "budget_2025_26": 14.42,
+                        "capital_2025_26": 17.58,
+                        "total_2025_26": 32.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 23.62,
+                        "total_revised_2024_25": 23.62,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 9.5,
+                        "total_2026_27": 9.5
+                    }
+                },
+                {
+                    "code": "27",
+                    "name": "Fast Reactor Fuel Cycle Projects (FRFCF) Kalpakkam",
+                    "values": {
+                        "actual_2024_25": 30.3,
+                        "capital_2024_25": 446.58,
+                        "total_2024_25": 476.88,
+                        "budget_2025_26": 33.2,
+                        "capital_2025_26": 566.8,
+                        "total_2025_26": 600.0,
+                        "revised_2024_25": 34.91,
+                        "capital_revised_2024_25": 415.09,
+                        "total_revised_2024_25": 450.0,
+                        "budget_2026_27": 45.6,
+                        "capital_2026_27": 554.4,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": "28",
+                    "name": "Nuclear Fuel Inventory",
+                    "values": {
+                        "actual_2024_25": 2799.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2799.68,
+                        "budget_2025_26": 2800.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2800.0,
+                        "revised_2024_25": 2750.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2750.0,
+                        "budget_2026_27": 2750.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2750.0
+                    }
+                },
+                {
+                    "code": "28.01",
+                    "name": "Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": 2799.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2799.68,
+                        "budget_2025_26": 2800.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2800.0,
+                        "revised_2024_25": 2750.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2750.0,
+                        "budget_2026_27": 2750.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2750.0
+                    }
+                },
+                {
+                    "code": "28.02",
+                    "name": "Less Receipts",
+                    "values": {
+                        "actual_2024_25": -3696.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -3696.0,
+                        "budget_2025_26": -4463.38,
+                        "capital_2025_26": null,
+                        "total_2025_26": -4463.38,
+                        "revised_2024_25": -3891.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -3891.73,
+                        "budget_2026_27": -4283.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": -4283.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": -896.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": -896.32,
+                        "budget_2025_26": -1663.38,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1663.38,
+                        "revised_2024_25": -1141.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1141.73,
+                        "budget_2026_27": -1533.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1533.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 2632.18,
+                        "capital_2024_25": 4145.4,
+                        "total_2024_25": 6777.58,
+                        "budget_2025_26": 1792.55,
+                        "capital_2025_26": 4333.65,
+                        "total_2025_26": 6126.2,
+                        "revised_2024_25": 1380.12,
+                        "capital_revised_2024_25": 3974.7,
+                        "total_revised_2024_25": 5354.82,
+                        "budget_2026_27": 2426.53,
+                        "capital_2026_27": 4695.19,
+                        "total_2026_27": 7121.72
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "29",
+                    "name": "Other Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 3315.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3315.87,
+                        "budget_2025_26": 3529.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3529.36,
+                        "revised_2024_25": 3759.97,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3759.97,
+                        "budget_2026_27": 4168.67,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4168.67
+                    }
+                },
+                {
+                    "code": "30",
+                    "name": "Nuclear Power Corporation of India Limited (NPCIL)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7861.0,
+                        "total_2024_25": 7861.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7389.0,
+                        "total_2025_26": 7389.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 8092.0,
+                        "total_revised_2024_25": 8092.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5300.0,
+                        "total_2026_27": 5300.0
+                    }
+                },
+                {
+                    "code": "31",
+                    "name": "Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 500.0,
+                        "total_2024_25": 500.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 374.0,
+                        "total_2025_26": 374.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 150.0,
+                        "total_revised_2024_25": 150.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 200.0,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "32",
+                    "name": "Indian Rare Earth Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 259.1,
+                        "total_2024_25": 259.1,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -259.09,
+                        "total_2024_25": -259.09,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Public Sector Undertakings",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8361.01,
+                        "total_2024_25": 8361.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7763.0,
+                        "total_2025_26": 7763.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 8242.0,
+                        "total_revised_2024_25": 8242.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5500.0,
+                        "total_2026_27": 5500.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "33",
+                    "name": "Contribution to International Atomic Energy Agency",
+                    "values": {
+                        "actual_2024_25": 47.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 47.68,
+                        "budget_2025_26": 55.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.0,
+                        "revised_2024_25": 55.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 55.0,
+                        "budget_2026_27": 55.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 55.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 3363.55,
+                        "capital_2024_25": 8361.01,
+                        "total_2024_25": 11724.56,
+                        "budget_2025_26": 3584.36,
+                        "capital_2025_26": 7763.0,
+                        "total_2025_26": 11347.36,
+                        "revised_2024_25": 3814.97,
+                        "capital_revised_2024_25": 8242.0,
+                        "total_revised_2024_25": 12056.97,
+                        "budget_2026_27": 4223.67,
+                        "capital_2026_27": 5500.0,
+                        "total_2026_27": 9723.67
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 12692.24,
+                        "capital_2024_25": 12400.34,
+                        "total_2024_25": 25092.58,
+                        "budget_2025_26": 12071.46,
+                        "capital_2025_26": 11977.64,
+                        "total_2025_26": 24049.1,
+                        "revised_2024_25": 12349.65,
+                        "capital_revised_2024_25": 12061.82,
+                        "total_revised_2024_25": 24411.47,
+                        "budget_2026_27": 14157.51,
+                        "capital_2026_27": 9966.41,
+                        "total_2026_27": 24123.92
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Power",
+                    "values": {
+                        "actual_2024_25": 1277.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1277.27,
+                        "budget_2025_26": 168.34,
+                        "capital_2025_26": null,
+                        "total_2025_26": 168.34,
+                        "revised_2024_25": -97.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -97.6,
+                        "budget_2026_27": 934.41,
+                        "capital_2026_27": null,
+                        "total_2026_27": 934.41
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": 2370.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2370.73,
+                        "budget_2025_26": 2191.85,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2191.85,
+                        "revised_2024_25": 2395.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2395.2,
+                        "budget_2026_27": 2691.11,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2691.11
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Atomic Energy Research",
+                    "values": {
+                        "actual_2024_25": 8975.54,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8975.54,
+                        "budget_2025_26": 9627.94,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9627.94,
+                        "revised_2024_25": 9975.78,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9975.78,
+                        "budget_2026_27": 10411.39,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10411.39
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 68.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 68.7,
+                        "budget_2025_26": 83.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 83.33,
+                        "revised_2024_25": 76.27,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 76.27,
+                        "budget_2026_27": 120.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 120.6
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Power Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2910.0,
+                        "total_2024_25": 2910.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3658.84,
+                        "total_2025_26": 3658.84,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3342.11,
+                        "total_revised_2024_25": 3342.11,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 145.22,
+                        "total_2026_27": 145.22
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on Atomic Energy Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2764.67,
+                        "total_2024_25": 2764.67,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2456.18,
+                        "total_2025_26": 2456.18,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2415.86,
+                        "total_revised_2024_25": 2415.86,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2868.76,
+                        "total_2026_27": 2868.76
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Capital Outlay on Atomic Energy Research",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1194.84,
+                        "total_2024_25": 1194.84,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1490.81,
+                        "total_2025_26": 1490.81,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1101.39,
+                        "total_revised_2024_25": 1101.39,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1548.04,
+                        "total_2026_27": 1548.04
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.83,
+                        "total_2024_25": 0.83,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.81,
+                        "total_2025_26": 1.81,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.46,
+                        "total_revised_2024_25": 2.46,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4.39,
+                        "total_2026_27": 4.39
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Loans for Power Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5530.0,
+                        "total_2024_25": 5530.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4370.0,
+                        "total_2025_26": 4370.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 5200.0,
+                        "total_revised_2024_25": 5200.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5400.0,
+                        "total_2026_27": 5400.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 12692.24,
+                        "capital_2024_25": 12400.34,
+                        "total_2024_25": 25092.58,
+                        "budget_2025_26": 12071.46,
+                        "capital_2025_26": 11977.64,
+                        "total_2025_26": 24049.1,
+                        "revised_2024_25": 12349.65,
+                        "capital_revised_2024_25": 12061.82,
+                        "total_revised_2024_25": 24411.47,
+                        "budget_2026_27": 14157.51,
+                        "capital_2026_27": 9966.41,
+                        "total_2026_27": 24123.92
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 12692.24,
+                        "capital_2024_25": 12400.34,
+                        "total_2024_25": 25092.58,
+                        "budget_2025_26": 12071.46,
+                        "capital_2025_26": 11977.64,
+                        "total_2025_26": 24049.1,
+                        "revised_2024_25": 12349.65,
+                        "capital_revised_2024_25": 12061.82,
+                        "total_revised_2024_25": 24411.47,
+                        "budget_2026_27": 14157.51,
+                        "capital_2026_27": 9966.41,
+                        "total_2026_27": 24123.92
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Electronics Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 25.08,
+                        "total_2024_25": 25.08,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 50.0,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15.0,
+                        "total_revised_2024_25": 15.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20.0,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Indian Rare Earths Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 107.22,
+                        "total_2024_25": 107.22,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 135.0,
+                        "total_2025_26": 135.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 138.0,
+                        "total_revised_2024_25": 138.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 140.0,
+                        "total_2026_27": 140.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Uranium Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 6.19,
+                        "total_2024_25": 6.19,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.5,
+                        "total_2025_26": 3.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.0,
+                        "total_revised_2024_25": 3.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 13.0,
+                        "total_2026_27": 13.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Bharatiya Nabhikiya Vidyut Nigam",
+                    "values": {
+                        "actual_2024_25": 500.0,
+                        "capital_2024_25": 4.09,
+                        "total_2024_25": 504.09,
+                        "budget_2025_26": 374.0,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 375.0,
+                        "revised_2024_25": 150.0,
+                        "capital_revised_2024_25": 5.0,
+                        "total_revised_2024_25": 155.0,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": 5.0,
+                        "total_2026_27": 205.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Nuclear Power Corporation of India",
+                    "values": {
+                        "actual_2024_25": 7861.0,
+                        "capital_2024_25": 10899.0,
+                        "total_2024_25": 18760.0,
+                        "budget_2025_26": 7389.0,
+                        "capital_2025_26": 12941.0,
+                        "total_2025_26": 20330.0,
+                        "revised_2024_25": 8092.0,
+                        "capital_revised_2024_25": 12371.0,
+                        "total_revised_2024_25": 20463.0,
+                        "budget_2026_27": 5300.0,
+                        "capital_2026_27": 12987.0,
+                        "total_2026_27": 18287.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": 8361.0,
+                        "capital_2024_25": 11041.58,
+                        "total_2024_25": 19402.58,
+                        "budget_2025_26": 7763.0,
+                        "capital_2025_26": 13130.5,
+                        "total_2025_26": 20893.5,
+                        "revised_2024_25": 8242.0,
+                        "capital_revised_2024_25": 12532.0,
+                        "total_revised_2024_25": 20774.0,
+                        "budget_2026_27": 5500.0,
+                        "capital_2026_27": 13165.0,
+                        "total_2026_27": 18665.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "1",
+                    "name": "Secretariat:..Secretariat of Deptt. of Atomic Energy(DAE) has the responsibility of 3.02. Indira Gandhi Centre for Atomic Research(IGCAR), Kalpakkam:..The Centre has R&D",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "(GCNEP) Haryana, three industrial units, three service organizations and five PSUs apart from nine aided institutions in projects to develop mature fast breeder fuel cycle technologies with international standards.",
+            "items": [
+                {
+                    "code": "3.03",
+                    "name": "Raja Ramana Centre for Advanced Technology, Indore:..Raja Ramanna Centre for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Atomic Energy Regulatory Board:..Atomic Energy Regulatory Board (AERB) enforces Advanced Technology (RRCAT), Indore, is engaged in development of technology and applications of particle",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Bhabha Atomic Research Centre:..Bhabha Atomic Research Centre (BARC), a 20 and Argon",
+                    "values": {
+                        "actual_2024_25": 40.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Fuel Cycle Facility (Nuclear Regulatory Board):..NRB has been created to carry out 14. Grants to other Institutions:..DAE through Board of Research in Nuclear Sciences (BRNS),",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Service Units:..Comprises of three Service Organisations: (i) Directorate of Purchase & Stores",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "(DPS), Mumbai, with the objective to ensure availability of quality material at right time, at right place and at right price, 15. Fuel Recycle Projects (NRB):..Construction of Integrated Nuclear Recycle Project to improve",
+            "items": []
+        },
+        {
+            "heading": "and the security for the DAE Estate in Mumbai, (iii) General Services Organisation (GSO), Kalpakkam is one of the 16. Housing Projects:..Housing projects look after the construction activities of the Department",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Board of Radiation and Isotope Technology (BRIT):..Board of Radiation and Isotope construction works for constituent units.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "radiopharmaceutical and associated products, radioimmunoassay kits, radiochemicals, radiolabeled compounds and 17. Improvement/Modifications of Heavy water projects:..Works in the area of non nuclear",
+            "items": [
+                {
+                    "code": "18",
+                    "name": "Feedstock:..Value of Heavy Water aquisition/production during the financial year.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Management Services Group:..Responsible for coordination in implementation of various 19. Heavy Water Pool Management:..Interest of Government Capital deployed for Heavy Water",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Nuclear Fuel Complex:..Nuclear Fuel Complex (NFC) is responsible for manufacturing 20. Radiation and Isotopes Project (BRIT):..Construction of Fission moly project for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Calandria and Pressure Tubes for PHWRs and Square Channels for BWRs. In addition, NFC produces Seamless 21. Nuclear Power Projects:..Includes projects which are jointly executed by the constituent units",
+            "items": []
+        },
+        {
+            "heading": "22. Nuclear Fuel Fabrication Projects:..Setting up of Fuel Fabrication Facility along with Zircaloy",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Heavy Water Production Facility:..HWB operates two Heavy Water Plants (HWPs) located at Fabrication Facility for producing fuel bundles to meet the requirement of PHWR reactors.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "10. R&D projects of Bhabha Atomic Research Centre (BARC):..R&D efforts are concentrated in",
+            "items": []
+        },
+        {
+            "heading": "the fields of nuclear sciences, engineering & technology, basic sciences and allied fields and geared up for exploitation 24. R&D projects of Variable Energy Cyclotron Centre (VECC):..Installation of medical",
+            "items": []
+        },
+        {
+            "heading": "11. R&D projects of Indira Gandhi Centre of Atomic Research (IGCAR):..Indira Gandhi Centre 25. Research and Development Projects:..Includes projects like Mega Science , Public Outreach",
+            "items": []
+        },
+        {
+            "heading": "Plutonium carbide fuel. 26. Industries and Minerals Projects:..Includes projects which are jointly executed by the",
+            "items": []
+        },
+        {
+            "heading": "12. R&D projects of Raja Ramanna Centre for Advanced Technology (RRCAT):..The design",
+            "items": []
+        },
+        {
+            "heading": "C F",
+            "items": []
+        },
+        {
+            "heading": "Cycle Projects FRFCF of",
+            "items": []
+        },
+        {
+            "heading": "13. R&D projects of Atomic Minerals Directorate for Exploration and Research",
+            "items": [
+                {
+                    "code": "28",
+                    "name": "Nuclear Fuel Inventory:..It is inventory management of Heavy water Production from various",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "29. Other Autonomous Bodies:..Includes R and D Programmes executed by eleven",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies under the administrative control of the Department in addition to separate provision for Women &",
+            "items": []
+        },
+        {
+            "heading": "Child Welfare Programme, Cancer care, education and research programme executed by Tata Memorial Centre .",
+            "items": [
+                {
+                    "code": "30",
+                    "name": "Nuclear Power Corporation of India Limited (NPCIL):..NPCIL is the nodal agency to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "31",
+                    "name": "Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI):..The objective of BHAVINI is to plan",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "32",
+                    "name": "Indian Rare Earth Limited:..Issue of Bonus shares for 2020-21 and 2023-24.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "33",
+                    "name": "Contribution to International Atomic Energy Agency:..India has been a member of the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        }
+    ]
+}

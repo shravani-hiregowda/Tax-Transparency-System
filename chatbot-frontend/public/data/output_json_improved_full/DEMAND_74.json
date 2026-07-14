@@ -1,0 +1,1064 @@
+{
+    "demand_no": 74,
+    "ministry": "Ministry Of Personnel",
+    "department": "Department Of",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2249.33,
+                        "capital_2024_25": 251.99,
+                        "total_2024_25": 2501.32,
+                        "budget_2025_26": 2408.69,
+                        "capital_2025_26": 247.77,
+                        "total_2025_26": 2656.46,
+                        "revised_2024_25": 2373.84,
+                        "capital_revised_2024_25": 151.23,
+                        "total_revised_2024_25": 2525.07,
+                        "budget_2026_27": 2454.37,
+                        "capital_2026_27": 153.08,
+                        "total_2026_27": 2607.45
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 195.84,
+                        "capital_2024_25": 11.49,
+                        "total_2024_25": 207.33,
+                        "budget_2025_26": 240.61,
+                        "capital_2025_26": 12.07,
+                        "total_2025_26": 252.68,
+                        "revised_2024_25": 220.55,
+                        "capital_revised_2024_25": 10.75,
+                        "total_revised_2024_25": 231.3,
+                        "budget_2026_27": 230.16,
+                        "capital_2026_27": 12.67,
+                        "total_2026_27": 242.83
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -4.78,
+                        "capital_2024_25": null,
+                        "total_2024_25": -4.78,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 191.06,
+                        "capital_2024_25": 11.49,
+                        "total_2024_25": 202.55,
+                        "budget_2025_26": 240.61,
+                        "capital_2025_26": 12.07,
+                        "total_2025_26": 252.68,
+                        "revised_2024_25": 220.55,
+                        "capital_revised_2024_25": 10.75,
+                        "total_revised_2024_25": 231.3,
+                        "budget_2026_27": 230.16,
+                        "capital_2026_27": 12.67,
+                        "total_2026_27": 242.83
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Attached and Subordinate Offices",
+                    "values": {
+                        "actual_2024_25": 943.25,
+                        "capital_2024_25": 54.96,
+                        "total_2024_25": 998.21,
+                        "budget_2025_26": 1003.14,
+                        "capital_2025_26": 67.91,
+                        "total_2025_26": 1071.05,
+                        "revised_2024_25": 997.62,
+                        "capital_revised_2024_25": 60.77,
+                        "total_revised_2024_25": 1058.39,
+                        "budget_2026_27": 1043.48,
+                        "capital_2026_27": 61.5,
+                        "total_2026_27": 1104.98
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Central Bureau of Investigation",
+                    "values": {
+                        "actual_2024_25": 943.25,
+                        "capital_2024_25": 54.96,
+                        "total_2024_25": 998.21,
+                        "budget_2025_26": 1003.14,
+                        "capital_2025_26": 67.91,
+                        "total_2025_26": 1071.05,
+                        "revised_2024_25": 997.62,
+                        "capital_revised_2024_25": 60.77,
+                        "total_revised_2024_25": 1058.39,
+                        "budget_2026_27": 1043.48,
+                        "capital_2026_27": 61.5,
+                        "total_2026_27": 1104.98
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -1.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1.63,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 941.62,
+                        "capital_2024_25": 54.96,
+                        "total_2024_25": 996.58,
+                        "budget_2025_26": 1003.14,
+                        "capital_2025_26": 67.91,
+                        "total_2025_26": 1071.05,
+                        "revised_2024_25": 997.62,
+                        "capital_revised_2024_25": 60.77,
+                        "total_revised_2024_25": 1058.39,
+                        "budget_2026_27": 1043.48,
+                        "capital_2026_27": 61.5,
+                        "total_2026_27": 1104.98
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2.02",
+                    "name": "Staff Selection Commission",
+                    "values": {
+                        "actual_2024_25": 607.51,
+                        "capital_2024_25": 1.8,
+                        "total_2024_25": 609.31,
+                        "budget_2025_26": 513.15,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 515.15,
+                        "revised_2024_25": 546.48,
+                        "capital_revised_2024_25": 2.02,
+                        "total_revised_2024_25": 548.5,
+                        "budget_2026_27": 523.16,
+                        "capital_2026_27": 2.04,
+                        "total_2026_27": 525.2
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.07,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 607.44,
+                        "capital_2024_25": 1.8,
+                        "total_2024_25": 609.24,
+                        "budget_2025_26": 513.15,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 515.15,
+                        "revised_2024_25": 546.48,
+                        "capital_revised_2024_25": 2.02,
+                        "total_revised_2024_25": 548.5,
+                        "budget_2026_27": 523.16,
+                        "capital_2026_27": 2.04,
+                        "total_2026_27": 525.2
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2.03",
+                    "name": "Central Administrative Tribunal",
+                    "values": {
+                        "actual_2024_25": 140.08,
+                        "capital_2024_25": 20.1,
+                        "total_2024_25": 160.18,
+                        "budget_2025_26": 149.5,
+                        "capital_2025_26": 15.12,
+                        "total_2025_26": 164.62,
+                        "revised_2024_25": 150.96,
+                        "capital_revised_2024_25": 11.04,
+                        "total_revised_2024_25": 162.0,
+                        "budget_2026_27": 157.0,
+                        "capital_2026_27": 9.42,
+                        "total_2026_27": 166.42
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.35,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 139.73,
+                        "capital_2024_25": 20.1,
+                        "total_2024_25": 159.83,
+                        "budget_2025_26": 149.5,
+                        "capital_2025_26": 15.12,
+                        "total_2025_26": 164.62,
+                        "revised_2024_25": 150.96,
+                        "capital_revised_2024_25": 11.04,
+                        "total_revised_2024_25": 162.0,
+                        "budget_2026_27": 157.0,
+                        "capital_2026_27": 9.42,
+                        "total_2026_27": 166.42
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2.04",
+                    "name": "Training Division, Institute of Secretariat",
+                    "values": {
+                        "actual_2024_25": 98.09,
+                        "capital_2024_25": 5.22,
+                        "total_2024_25": 103.31,
+                        "budget_2025_26": 99.56,
+                        "capital_2025_26": 6.43,
+                        "total_2025_26": 105.99,
+                        "revised_2024_25": 99.34,
+                        "capital_revised_2024_25": 6.66,
+                        "total_revised_2024_25": 106.0,
+                        "budget_2026_27": 103.2,
+                        "capital_2026_27": 17.6,
+                        "total_2026_27": 120.8
+                    }
+                },
+                {
+                    "code": "2.05",
+                    "name": "Central Information Commission(CIC) and",
+                    "values": {
+                        "actual_2024_25": 30.96,
+                        "capital_2024_25": 3.93,
+                        "total_2024_25": 34.89,
+                        "budget_2025_26": 40.52,
+                        "capital_2025_26": 1.97,
+                        "total_2025_26": 42.49,
+                        "revised_2024_25": 35.25,
+                        "capital_revised_2024_25": 1.69,
+                        "total_revised_2024_25": 36.94,
+                        "budget_2026_27": 36.44,
+                        "capital_2026_27": 2.7,
+                        "total_2026_27": 39.14
+                    }
+                },
+                {
+                    "code": "2.06",
+                    "name": "Lokpal",
+                    "values": {
+                        "actual_2024_25": 22.61,
+                        "capital_2024_25": 34.8,
+                        "total_2024_25": 57.41,
+                        "budget_2025_26": 31.18,
+                        "capital_2025_26": 13.14,
+                        "total_2025_26": 44.32,
+                        "revised_2024_25": 24.35,
+                        "capital_revised_2024_25": 5.65,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 28.0,
+                        "capital_2026_27": 4.0,
+                        "total_2026_27": 32.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Attached and Subordinate Offices",
+                    "values": {
+                        "actual_2024_25": 1840.45,
+                        "capital_2024_25": 120.81,
+                        "total_2024_25": 1961.26,
+                        "budget_2025_26": 1837.05,
+                        "capital_2025_26": 106.57,
+                        "total_2025_26": 1943.62,
+                        "revised_2024_25": 1854.0,
+                        "capital_revised_2024_25": 87.83,
+                        "total_revised_2024_25": 1941.83,
+                        "budget_2026_27": 1891.28,
+                        "capital_2026_27": 97.26,
+                        "total_2026_27": 1988.54
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Loans to All India Service(AIS) Officers",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.0,
+                        "total_2024_25": 2.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.0,
+                        "total_revised_2024_25": 2.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Recovery",
+                    "values": {
+                        "actual_2024_25": -1.26,
+                        "capital_2024_25": -0.02,
+                        "total_2024_25": -1.28,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 2030.25,
+                        "capital_2024_25": 134.28,
+                        "total_2024_25": 2164.53,
+                        "budget_2025_26": 2077.66,
+                        "capital_2025_26": 120.64,
+                        "total_2025_26": 2198.3,
+                        "revised_2024_25": 2074.55,
+                        "capital_revised_2024_25": 100.58,
+                        "total_revised_2024_25": 2175.13,
+                        "budget_2026_27": 2121.44,
+                        "capital_2026_27": 111.93,
+                        "total_2026_27": 2233.37
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Training Schemes",
+                    "values": {
+                        "actual_2024_25": 31.27,
+                        "capital_2024_25": 100.56,
+                        "total_2024_25": 131.83,
+                        "budget_2025_26": 49.97,
+                        "capital_2025_26": 68.49,
+                        "total_2025_26": 118.46,
+                        "revised_2024_25": 49.42,
+                        "capital_revised_2024_25": 31.59,
+                        "total_revised_2024_25": 81.01,
+                        "budget_2026_27": 52.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 52.2
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "National Programme for Civil Services Capacity Building",
+                    "values": {
+                        "actual_2024_25": 87.87,
+                        "capital_2024_25": 5.0,
+                        "total_2024_25": 92.87,
+                        "budget_2025_26": 109.36,
+                        "capital_2025_26": 0.64,
+                        "total_2025_26": 110.0,
+                        "revised_2024_25": 123.94,
+                        "capital_revised_2024_25": 1.06,
+                        "total_revised_2024_25": 125.0,
+                        "budget_2026_27": 125.35,
+                        "capital_2026_27": 0.65,
+                        "total_2026_27": 126.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Scheme for Administrative Reforms",
+                    "values": {
+                        "actual_2024_25": 44.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 44.6,
+                        "budget_2025_26": 97.0,
+                        "capital_2025_26": 3.0,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": 57.0,
+                        "capital_revised_2024_25": 3.0,
+                        "total_revised_2024_25": 60.0,
+                        "budget_2026_27": 64.5,
+                        "capital_2026_27": 0.5,
+                        "total_2026_27": 65.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Pensioner's Portal",
+                    "values": {
+                        "actual_2024_25": 4.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4.67,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Integrated Building for Institute of Secretariat Training and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 12.15,
+                        "total_2024_25": 12.15,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 55.0,
+                        "total_2025_26": 55.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15.0,
+                        "total_revised_2024_25": 15.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 40.0,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Improving Pensioners' Welfare",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 15.31,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15.31
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 168.41,
+                        "capital_2024_25": 117.71,
+                        "total_2024_25": 286.12,
+                        "budget_2025_26": 256.33,
+                        "capital_2025_26": 127.13,
+                        "total_2025_26": 383.46,
+                        "revised_2024_25": 230.36,
+                        "capital_revised_2024_25": 50.65,
+                        "total_revised_2024_25": 281.01,
+                        "budget_2026_27": 257.36,
+                        "capital_2026_27": 41.15,
+                        "total_2026_27": 298.51
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Indian Institute of Public Administration (IIPA) and",
+                    "values": {
+                        "actual_2024_25": 40.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 40.0,
+                        "budget_2025_26": 51.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 51.5,
+                        "revised_2024_25": 48.13,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 48.13,
+                        "budget_2026_27": 52.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 52.07
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Autonomous Bodies of DoPT",
+                    "values": {
+                        "actual_2024_25": 8.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.65,
+                        "budget_2025_26": 20.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.2,
+                        "revised_2024_25": 17.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17.8,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 48.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 48.65,
+                        "budget_2025_26": 71.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 71.7,
+                        "revised_2024_25": 65.93,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 65.93,
+                        "budget_2026_27": 72.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 72.07
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "13",
+                    "name": "Right to Information( RTI)",
+                    "values": {
+                        "actual_2024_25": 2.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.02,
+                        "budget_2025_26": 3.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.0,
+                        "revised_2024_25": 3.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.0,
+                        "budget_2026_27": 3.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 50.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": 50.67,
+                        "budget_2025_26": 74.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 74.7,
+                        "revised_2024_25": 68.93,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 68.93,
+                        "budget_2026_27": 75.57,
+                        "capital_2026_27": null,
+                        "total_2026_27": 75.57
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2249.33,
+                        "capital_2024_25": 251.99,
+                        "total_2024_25": 2501.32,
+                        "budget_2025_26": 2408.69,
+                        "capital_2025_26": 247.77,
+                        "total_2025_26": 2656.46,
+                        "revised_2024_25": 2373.84,
+                        "capital_revised_2024_25": 151.23,
+                        "total_revised_2024_25": 2525.07,
+                        "budget_2026_27": 2454.37,
+                        "capital_2026_27": 153.08,
+                        "total_2026_27": 2607.45
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Administration of Justice",
+                    "values": {
+                        "actual_2024_25": 139.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 139.73,
+                        "budget_2025_26": 149.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 149.5,
+                        "revised_2024_25": 150.96,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 150.96,
+                        "budget_2026_27": 157.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 157.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Public Service Commission",
+                    "values": {
+                        "actual_2024_25": 607.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 607.44,
+                        "budget_2025_26": 513.15,
+                        "capital_2025_26": null,
+                        "total_2025_26": 513.15,
+                        "revised_2024_25": 546.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 546.48,
+                        "budget_2026_27": 523.16,
+                        "capital_2026_27": null,
+                        "total_2026_27": 523.16
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-General Services",
+                    "values": {
+                        "actual_2024_25": 199.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": 199.71,
+                        "budget_2025_26": 260.81,
+                        "capital_2025_26": null,
+                        "total_2025_26": 260.81,
+                        "revised_2024_25": 238.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 238.35,
+                        "budget_2026_27": 250.16,
+                        "capital_2026_27": null,
+                        "total_2026_27": 250.16
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Police",
+                    "values": {
+                        "actual_2024_25": 941.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 941.62,
+                        "budget_2025_26": 1003.14,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1003.14,
+                        "revised_2024_25": 997.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 997.62,
+                        "budget_2026_27": 1043.48,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1043.48
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Vigilance",
+                    "values": {
+                        "actual_2024_25": 22.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22.61,
+                        "budget_2025_26": 31.18,
+                        "capital_2025_26": null,
+                        "total_2025_26": 31.18,
+                        "revised_2024_25": 24.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 24.35,
+                        "budget_2026_27": 28.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 28.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": 338.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": 338.22,
+                        "budget_2025_26": 450.91,
+                        "capital_2025_26": null,
+                        "total_2025_26": 450.91,
+                        "revised_2024_25": 416.08,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 416.08,
+                        "budget_2026_27": 452.57,
+                        "capital_2026_27": null,
+                        "total_2026_27": 452.57
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Capital Outlay on Police",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 41.28,
+                        "total_2024_25": 41.28,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 42.91,
+                        "total_2025_26": 42.91,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 47.28,
+                        "total_revised_2024_25": 47.28,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 47.0,
+                        "total_2026_27": 47.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Capital Outlay on Public Works",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 166.85,
+                        "total_2024_25": 166.85,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 141.89,
+                        "total_2025_26": 141.89,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 58.64,
+                        "total_revised_2024_25": 58.64,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 47.92,
+                        "total_2026_27": 47.92
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Capital Outlay on Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 37.02,
+                        "total_2024_25": 37.02,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 56.47,
+                        "total_2025_26": 56.47,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 38.09,
+                        "total_revised_2024_25": 38.09,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 51.32,
+                        "total_2026_27": 51.32
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Capital Outlay on Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4.84,
+                        "total_2024_25": 4.84,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4.5,
+                        "total_2025_26": 4.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 5.22,
+                        "total_revised_2024_25": 5.22,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4.84,
+                        "total_2026_27": 4.84
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 2249.33,
+                        "capital_2024_25": 249.99,
+                        "total_2024_25": 2499.32,
+                        "budget_2025_26": 2408.69,
+                        "capital_2025_26": 245.77,
+                        "total_2025_26": 2654.46,
+                        "revised_2024_25": 2373.84,
+                        "capital_revised_2024_25": 149.23,
+                        "total_revised_2024_25": 2523.07,
+                        "budget_2026_27": 2454.37,
+                        "capital_2026_27": 151.08,
+                        "total_2026_27": 2605.45
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Loans and Advances to State Governments",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.0,
+                        "total_2024_25": 2.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.0,
+                        "total_revised_2024_25": 2.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.0,
+                        "total_2024_25": 2.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.0,
+                        "total_revised_2024_25": 2.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 2.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2249.33,
+                        "capital_2024_25": 251.99,
+                        "total_2024_25": 2501.32,
+                        "budget_2025_26": 2408.69,
+                        "capital_2025_26": 247.77,
+                        "total_2025_26": 2656.46,
+                        "revised_2024_25": 2373.84,
+                        "capital_revised_2024_25": 151.23,
+                        "total_revised_2024_25": 2525.07,
+                        "budget_2026_27": 2454.37,
+                        "capital_2026_27": 153.08,
+                        "total_2026_27": 2607.45
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for expenditure of the Ministry of Personnel, Public Grievances & 2.06. Lokpal:..The provision is for establishment and Capital expenditure in respect of Lokpal.",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Loans to All India Service(AIS) Officers:..The provision is meant for reimbursement to State",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "courses for all levels/grades of Civil Services posts; service conditions, career and manpower planning, vigilance, 5. Training Schemes:..This includes provision for Training for All.",
+            "items": []
+        },
+        {
+            "heading": "discipline and welfare activities of Central Government servants; investigation and prosecution in corruption cases and",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Scheme for Administrative Reforms:..This includes Scheme provision for Department of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "etc. Administrative Reforms & Public Grievances. The scheme is for Modernisation of Government Offices, Pilot projects on",
+            "items": []
+        },
+        {
+            "heading": "c) Department of Pension & Pensioners Welfare which administers all activities relating to",
+            "items": []
+        },
+        {
+            "heading": "8. Pensioner's Portal:..It includes allocation for Department of Pension and Pensioners' Welfare",
+            "items": []
+        },
+        {
+            "heading": "2.01. Central Bureau of Investigation:..The provision is for establishment-related expenditure of the scheme Pensioners Portal.",
+            "items": []
+        },
+        {
+            "heading": "servants, private persons, firms and other cases of serious crimes. This also includes provision for various projects 9. Integrated Building for Institute of Secretariat Training and Management (ISTM) and other",
+            "items": []
+        },
+        {
+            "heading": "2.02. Staff Selection Commission:..The provision is for establishment-related expenditure of the 10. Improving Pensioners' Welfare:..The scheme envisages improvement and integration of",
+            "items": []
+        },
+        {
+            "heading": "Staff Selection Commission including expenditure on the conduct of examinations for recruitment of staff in Central multiple pension-related digital platforms including Bhavishya, Anubhav, DLC, Anudaan and Sankalp, with the objective",
+            "items": []
+        },
+        {
+            "heading": "2.03. Central Administrative Tribunal:..The provision is for establishment-related expenditure of 11. Indian Institute of Public Administration (IIPA) and National Centre for Good",
+            "items": []
+        },
+        {
+            "heading": "the Central Administrative Tribunal which is entrusted with the redressal of grievances exclusively of public servants. Governance(NCGG):..This also includes Grants in Aid allocations to Indian Institute of Public Administration and",
+            "items": []
+        },
+        {
+            "heading": "2.04. Training Division, Institute of Secretariat Training & Management(ISTM) and Lal Bahadur 12. Autonomous Bodies of DoPT:..The provision includes Grants-in-aid assistance to Grih",
+            "items": []
+        },
+        {
+            "heading": "Shastri National Academy of Administration(LBSNAA):..The provision includes establishment related expenditure Kalyan Kendra, Central Civil Services Cultural & Sports Board and National Recruitment Agency.",
+            "items": []
+        },
+        {
+            "heading": "(LBSNAA) & Training Division, DOPT. These Organizations arrange several training programmes including foundation 13. Right to Information( RTI):..Fund allocations in respect of DOPTs Propagation of RTI Act.",
+            "items": []
+        },
+        {
+            "heading": "adequate exposure to the latest rules and regulations, aptitude etc., expenditure on domestic / overseas travel, course",
+            "items": []
+        },
+        {
+            "heading": "consideration for promotion to next higher grade have also been included centrally in the budget of this Ministry.",
+            "items": [
+                {
+                    "code": "2.05",
+                    "name": "Central Information Commission(CIC) and Public Enterprises Selection",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Board(PESB):..The provision is for establishment related expenditure of Central Information Commission and Public",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF PERSONNEL, PUBLIC GRIEVANCES AND PENSIONS",
+            "items": []
+        }
+    ]
+}

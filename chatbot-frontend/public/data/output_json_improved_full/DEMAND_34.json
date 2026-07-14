@@ -1,0 +1,206 @@
+{
+    "demand_no": 34,
+    "ministry": "Ministry Of Finance",
+    "department": "Department Of Investment And Public Asset Management",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 37.96,
+                        "capital_2024_25": 0.79,
+                        "total_2024_25": 38.75,
+                        "budget_2025_26": 55.43,
+                        "capital_2025_26": 1.7,
+                        "total_2025_26": 57.13,
+                        "revised_2024_25": 33.11,
+                        "capital_revised_2024_25": 0.6,
+                        "total_revised_2024_25": 33.71,
+                        "budget_2026_27": 54.25,
+                        "capital_2026_27": 1.67,
+                        "total_2026_27": 55.92
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 44.82,
+                        "capital_2024_25": 0.79,
+                        "total_2024_25": 45.61,
+                        "budget_2025_26": 55.43,
+                        "capital_2025_26": 1.7,
+                        "total_2025_26": 57.13,
+                        "revised_2024_25": 33.11,
+                        "capital_revised_2024_25": 0.6,
+                        "total_revised_2024_25": 33.71,
+                        "budget_2026_27": 54.25,
+                        "capital_2026_27": 1.67,
+                        "total_2026_27": 55.92
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -6.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": -6.86,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 37.96,
+                        "capital_2024_25": 0.79,
+                        "total_2024_25": 38.75,
+                        "budget_2025_26": 55.43,
+                        "capital_2025_26": 1.7,
+                        "total_2025_26": 57.13,
+                        "revised_2024_25": 33.11,
+                        "capital_revised_2024_25": 0.6,
+                        "total_revised_2024_25": 33.71,
+                        "budget_2026_27": 54.25,
+                        "capital_2026_27": 1.67,
+                        "total_2026_27": 55.92
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 37.96,
+                        "capital_2024_25": 0.79,
+                        "total_2024_25": 38.75,
+                        "budget_2025_26": 55.43,
+                        "capital_2025_26": 1.7,
+                        "total_2025_26": 57.13,
+                        "revised_2024_25": 33.11,
+                        "capital_revised_2024_25": 0.6,
+                        "total_revised_2024_25": 33.71,
+                        "budget_2026_27": 54.25,
+                        "capital_2026_27": 1.67,
+                        "total_2026_27": 55.92
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 37.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 37.96,
+                        "budget_2025_26": 55.43,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.43,
+                        "revised_2024_25": 33.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 33.11,
+                        "budget_2026_27": 54.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 54.25
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.79,
+                        "total_2024_25": 0.79,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.7,
+                        "total_2025_26": 1.7,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.6,
+                        "total_revised_2024_25": 0.6,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.67,
+                        "total_2026_27": 1.67
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 37.96,
+                        "capital_2024_25": 0.79,
+                        "total_2024_25": 38.75,
+                        "budget_2025_26": 55.43,
+                        "capital_2025_26": 1.7,
+                        "total_2025_26": 57.13,
+                        "revised_2024_25": 33.11,
+                        "capital_revised_2024_25": 0.6,
+                        "total_revised_2024_25": 33.71,
+                        "budget_2026_27": 54.25,
+                        "capital_2026_27": 1.67,
+                        "total_2026_27": 55.92
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 37.96,
+                        "capital_2024_25": 0.79,
+                        "total_2024_25": 38.75,
+                        "budget_2025_26": 55.43,
+                        "capital_2025_26": 1.7,
+                        "total_2025_26": 57.13,
+                        "revised_2024_25": 33.11,
+                        "capital_revised_2024_25": 0.6,
+                        "total_revised_2024_25": 33.71,
+                        "budget_2026_27": 54.25,
+                        "capital_2026_27": 1.67,
+                        "total_2026_27": 55.92
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..It provides for establishment related expenditure of Secretariat. DIPAM is",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF FINANCE",
+            "items": []
+        }
+    ]
+}

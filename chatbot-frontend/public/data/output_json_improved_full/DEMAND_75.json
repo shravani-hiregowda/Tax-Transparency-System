@@ -1,0 +1,168 @@
+{
+    "demand_no": 75,
+    "ministry": "Ministry Of Personnel",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 46.84,
+                        "capital_2024_25": 1.6,
+                        "total_2024_25": 48.44,
+                        "budget_2025_26": 50.45,
+                        "capital_2025_26": 1.62,
+                        "total_2025_26": 52.07,
+                        "revised_2024_25": 49.04,
+                        "capital_revised_2024_25": 1.62,
+                        "total_revised_2024_25": 50.66,
+                        "budget_2026_27": 52.85,
+                        "capital_2026_27": 1.71,
+                        "total_2026_27": 54.56
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocation, net of recoveries, is given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Central Vigilance Commission",
+                    "values": {
+                        "actual_2024_25": 46.84,
+                        "capital_2024_25": 1.6,
+                        "total_2024_25": 48.44,
+                        "budget_2025_26": 50.45,
+                        "capital_2025_26": 1.62,
+                        "total_2025_26": 52.07,
+                        "revised_2024_25": 49.04,
+                        "capital_revised_2024_25": 1.62,
+                        "total_revised_2024_25": 50.66,
+                        "budget_2026_27": 52.85,
+                        "capital_2026_27": 1.71,
+                        "total_2026_27": 54.56
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 46.84,
+                        "capital_2024_25": 1.6,
+                        "total_2024_25": 48.44,
+                        "budget_2025_26": 50.45,
+                        "capital_2025_26": 1.62,
+                        "total_2025_26": 52.07,
+                        "revised_2024_25": 49.04,
+                        "capital_revised_2024_25": 1.62,
+                        "total_revised_2024_25": 50.66,
+                        "budget_2026_27": 52.85,
+                        "capital_2026_27": 1.71,
+                        "total_2026_27": 54.56
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Vigilance",
+                    "values": {
+                        "actual_2024_25": 46.84,
+                        "capital_2024_25": null,
+                        "total_2024_25": 46.84,
+                        "budget_2025_26": 50.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.45,
+                        "revised_2024_25": 49.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 49.04,
+                        "budget_2026_27": 52.85,
+                        "capital_2026_27": null,
+                        "total_2026_27": 52.85
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay on Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.6,
+                        "total_2024_25": 1.6,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.62,
+                        "total_2025_26": 1.62,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.62,
+                        "total_revised_2024_25": 1.62,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.71,
+                        "total_2026_27": 1.71
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 46.84,
+                        "capital_2024_25": 1.6,
+                        "total_2024_25": 48.44,
+                        "budget_2025_26": 50.45,
+                        "capital_2025_26": 1.62,
+                        "total_2025_26": 52.07,
+                        "revised_2024_25": 49.04,
+                        "capital_revised_2024_25": 1.62,
+                        "total_revised_2024_25": 50.66,
+                        "budget_2026_27": 52.85,
+                        "capital_2026_27": 1.71,
+                        "total_2026_27": 54.56
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 46.84,
+                        "capital_2024_25": 1.6,
+                        "total_2024_25": 48.44,
+                        "budget_2025_26": 50.45,
+                        "capital_2025_26": 1.62,
+                        "total_2025_26": 52.07,
+                        "revised_2024_25": 49.04,
+                        "capital_revised_2024_25": 1.62,
+                        "total_revised_2024_25": 50.66,
+                        "budget_2026_27": 52.85,
+                        "capital_2026_27": 1.71,
+                        "total_2026_27": 54.56
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Central Vigilance Commission:..The provision is for Secretariat expenditure of the Central",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF PETROLEUM AND NATURAL GAS",
+            "items": []
+        }
+    ]
+}

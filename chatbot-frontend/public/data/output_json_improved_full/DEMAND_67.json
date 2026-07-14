@@ -1,0 +1,172 @@
+{
+    "demand_no": 67,
+    "ministry": "Ministry Of Law And Justice",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 507.96,
+                        "capital_2024_25": 90.59,
+                        "total_2024_25": 598.55,
+                        "budget_2025_26": 490.58,
+                        "capital_2025_26": 56.57,
+                        "total_2025_26": 547.15,
+                        "revised_2024_25": 565.63,
+                        "capital_revised_2024_25": 67.5,
+                        "total_revised_2024_25": 633.13,
+                        "budget_2026_27": 566.19,
+                        "capital_2026_27": 55.92,
+                        "total_2026_27": 622.11
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocation, net of recoveries, is given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Supreme Court of India",
+                    "values": {
+                        "actual_2024_25": 507.96,
+                        "capital_2024_25": 90.59,
+                        "total_2024_25": 598.55,
+                        "budget_2025_26": 490.58,
+                        "capital_2025_26": 56.57,
+                        "total_2025_26": 547.15,
+                        "revised_2024_25": 565.63,
+                        "capital_revised_2024_25": 67.5,
+                        "total_revised_2024_25": 633.13,
+                        "budget_2026_27": 566.19,
+                        "capital_2026_27": 55.92,
+                        "total_2026_27": 622.11
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 507.96,
+                        "capital_2024_25": 90.59,
+                        "total_2024_25": 598.55,
+                        "budget_2025_26": 490.58,
+                        "capital_2025_26": 56.57,
+                        "total_2025_26": 547.15,
+                        "revised_2024_25": 565.63,
+                        "capital_revised_2024_25": 67.5,
+                        "total_revised_2024_25": 633.13,
+                        "budget_2026_27": 566.19,
+                        "capital_2026_27": 55.92,
+                        "total_2026_27": 622.11
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Administration of Justice",
+                    "values": {
+                        "actual_2024_25": 507.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 507.96,
+                        "budget_2025_26": 490.58,
+                        "capital_2025_26": null,
+                        "total_2025_26": 490.58,
+                        "revised_2024_25": 565.63,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 565.63,
+                        "budget_2026_27": 566.19,
+                        "capital_2026_27": null,
+                        "total_2026_27": 566.19
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay on Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 90.59,
+                        "total_2024_25": 90.59,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 56.57,
+                        "total_2025_26": 56.57,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 67.5,
+                        "total_revised_2024_25": 67.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 55.92,
+                        "total_2026_27": 55.92
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 507.96,
+                        "capital_2024_25": 90.59,
+                        "total_2024_25": 598.55,
+                        "budget_2025_26": 490.58,
+                        "capital_2025_26": 56.57,
+                        "total_2025_26": 547.15,
+                        "revised_2024_25": 565.63,
+                        "capital_revised_2024_25": 67.5,
+                        "total_revised_2024_25": 633.13,
+                        "budget_2026_27": 566.19,
+                        "capital_2026_27": 55.92,
+                        "total_2026_27": 622.11
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 507.96,
+                        "capital_2024_25": 90.59,
+                        "total_2024_25": 598.55,
+                        "budget_2025_26": 490.58,
+                        "capital_2025_26": 56.57,
+                        "total_2025_26": 547.15,
+                        "revised_2024_25": 565.63,
+                        "capital_revised_2024_25": 67.5,
+                        "total_revised_2024_25": 633.13,
+                        "budget_2026_27": 566.19,
+                        "capital_2026_27": 55.92,
+                        "total_2026_27": 622.11
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Supreme Court of India:..This appropriation provides for administrative and other expenditure",
+            "items": []
+        },
+        {
+            "heading": "professional service towards personnel deployed for security and expenditure on establishment related needs including",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF MICRO, SMALL AND MEDIUM ENTERPRISES",
+            "items": []
+        }
+    ]
+}

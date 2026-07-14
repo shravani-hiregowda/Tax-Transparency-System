@@ -1,0 +1,2731 @@
+{
+    "demand_no": 46,
+    "ministry": "Ministry Of Health And Family Welfare",
+    "department": "Department Of Health And Family Welfare",
+    "sections": [
+        {
+            "heading": "Department of Health and Family Welfare",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 84974.51,
+                        "capital_2024_25": 2325.66,
+                        "total_2024_25": 87300.17,
+                        "budget_2025_26": 92333.43,
+                        "capital_2025_26": 3624.44,
+                        "total_2025_26": 95957.87,
+                        "revised_2024_25": 90488.04,
+                        "capital_revised_2024_25": 2437.82,
+                        "total_revised_2024_25": 92925.86,
+                        "budget_2026_27": 98780.91,
+                        "capital_2026_27": 2928.3,
+                        "total_2026_27": 101709.21
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 215.24,
+                        "capital_2024_25": 7.41,
+                        "total_2024_25": 222.65,
+                        "budget_2025_26": 248.06,
+                        "capital_2025_26": 13.46,
+                        "total_2025_26": 261.52,
+                        "revised_2024_25": 277.29,
+                        "capital_revised_2024_25": 21.96,
+                        "total_revised_2024_25": 299.25,
+                        "budget_2026_27": 286.06,
+                        "capital_2026_27": 12.98,
+                        "total_2026_27": 299.04
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Direction and Administration",
+                    "values": {
+                        "actual_2024_25": 68.48,
+                        "capital_2024_25": 1.12,
+                        "total_2024_25": 69.6,
+                        "budget_2025_26": 79.2,
+                        "capital_2025_26": 0.8,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": 82.2,
+                        "capital_revised_2024_25": 0.8,
+                        "total_revised_2024_25": 83.0,
+                        "budget_2026_27": 92.05,
+                        "capital_2026_27": 1.54,
+                        "total_2026_27": 93.59
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Central Government Health Scheme",
+                    "values": {
+                        "actual_2024_25": 2079.99,
+                        "capital_2024_25": 24.31,
+                        "total_2024_25": 2104.3,
+                        "budget_2025_26": 2294.69,
+                        "capital_2025_26": 75.31,
+                        "total_2025_26": 2370.0,
+                        "revised_2024_25": 2168.1,
+                        "capital_revised_2024_25": 38.86,
+                        "total_revised_2024_25": 2206.96,
+                        "budget_2026_27": 2316.32,
+                        "capital_2026_27": 41.54,
+                        "total_2026_27": 2357.86
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Safdarjung Hospital and Vardhman Mahavir Medical",
+                    "values": {
+                        "actual_2024_25": 1768.8,
+                        "capital_2024_25": 147.73,
+                        "total_2024_25": 1916.53,
+                        "budget_2025_26": 1941.08,
+                        "capital_2025_26": 238.5,
+                        "total_2025_26": 2179.58,
+                        "revised_2024_25": 1956.22,
+                        "capital_revised_2024_25": 88.79,
+                        "total_revised_2024_25": 2045.01,
+                        "budget_2026_27": 2037.75,
+                        "capital_2026_27": 133.0,
+                        "total_2026_27": 2170.75
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Dr. Ram Manohar Lohia Hospital and Atal Bihari",
+                    "values": {
+                        "actual_2024_25": 953.28,
+                        "capital_2024_25": 359.93,
+                        "total_2024_25": 1313.21,
+                        "budget_2025_26": 1120.16,
+                        "capital_2025_26": 338.1,
+                        "total_2025_26": 1458.26,
+                        "revised_2024_25": 1067.02,
+                        "capital_revised_2024_25": 147.72,
+                        "total_revised_2024_25": 1214.74,
+                        "budget_2026_27": 1210.47,
+                        "capital_2026_27": 240.32,
+                        "total_2026_27": 1450.79
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Lady Hardinge Medical College and Smt. Sucheta",
+                    "values": {
+                        "actual_2024_25": 599.7,
+                        "capital_2024_25": 31.02,
+                        "total_2024_25": 630.72,
+                        "budget_2025_26": 699.0,
+                        "capital_2025_26": 101.0,
+                        "total_2025_26": 800.0,
+                        "revised_2024_25": 685.0,
+                        "capital_revised_2024_25": 85.0,
+                        "total_revised_2024_25": 770.0,
+                        "budget_2026_27": 703.4,
+                        "capital_2026_27": 92.5,
+                        "total_2026_27": 795.9
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Kalawati Saran Children's Hospital, New Delhi",
+                    "values": {
+                        "actual_2024_25": 147.4,
+                        "capital_2024_25": 3.36,
+                        "total_2024_25": 150.76,
+                        "budget_2025_26": 174.66,
+                        "capital_2025_26": 8.5,
+                        "total_2025_26": 183.16,
+                        "revised_2024_25": 162.69,
+                        "capital_revised_2024_25": 14.4,
+                        "total_revised_2024_25": 177.09,
+                        "budget_2026_27": 156.62,
+                        "capital_2026_27": 25.6,
+                        "total_2026_27": 182.22
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Other Hospitals / Institutions",
+                    "values": {
+                        "actual_2024_25": 863.55,
+                        "capital_2024_25": 30.96,
+                        "total_2024_25": 894.51,
+                        "budget_2025_26": 1066.53,
+                        "capital_2025_26": 76.28,
+                        "total_2025_26": 1142.81,
+                        "revised_2024_25": 970.03,
+                        "capital_revised_2024_25": 51.57,
+                        "total_revised_2024_25": 1021.6,
+                        "budget_2026_27": 1073.19,
+                        "capital_2026_27": 62.47,
+                        "total_2026_27": 1135.66
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -126.66,
+                        "capital_2024_25": -72.7,
+                        "total_2024_25": -199.36,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 6569.78,
+                        "capital_2024_25": 533.14,
+                        "total_2024_25": 7102.92,
+                        "budget_2025_26": 7623.38,
+                        "capital_2025_26": 851.95,
+                        "total_2025_26": 8475.33,
+                        "revised_2024_25": 7368.55,
+                        "capital_revised_2024_25": 449.1,
+                        "total_revised_2024_25": 7817.65,
+                        "budget_2026_27": 7875.86,
+                        "capital_2026_27": 609.95,
+                        "total_2026_27": 8485.81
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "Pradhan Mantri Swasthya Suraksha Yojana",
+                    "values": {
+                        "actual_2024_25": 67.66,
+                        "capital_2024_25": 1612.87,
+                        "total_2024_25": 1680.53,
+                        "budget_2025_26": 60.0,
+                        "capital_2025_26": 2140.0,
+                        "total_2025_26": 2200.0,
+                        "revised_2024_25": 70.0,
+                        "capital_revised_2024_25": 1430.0,
+                        "total_revised_2024_25": 1500.0,
+                        "budget_2026_27": 60.0,
+                        "capital_2026_27": 1945.0,
+                        "total_2026_27": 2005.0
+                    }
+                },
+                {
+                    "code": "10.01",
+                    "name": "Pradhan Mantri Swasthya Suraksha Yojana",
+                    "values": {
+                        "actual_2024_25": 67.66,
+                        "capital_2024_25": 1612.87,
+                        "total_2024_25": 1680.53,
+                        "budget_2025_26": 60.0,
+                        "capital_2025_26": 2140.0,
+                        "total_2025_26": 2200.0,
+                        "revised_2024_25": 70.0,
+                        "capital_revised_2024_25": 1430.0,
+                        "total_revised_2024_25": 1500.0,
+                        "budget_2026_27": 60.0,
+                        "capital_2026_27": 1945.0,
+                        "total_2026_27": 2005.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "National AIDS and STD Control Programme",
+                    "values": {
+                        "actual_2024_25": 2444.51,
+                        "capital_2024_25": 6.91,
+                        "total_2024_25": 2451.42,
+                        "budget_2025_26": 3177.95,
+                        "capital_2025_26": 7.82,
+                        "total_2025_26": 3185.77,
+                        "revised_2024_25": 2452.18,
+                        "capital_revised_2024_25": 7.82,
+                        "total_revised_2024_25": 2460.0,
+                        "budget_2026_27": 3149.59,
+                        "capital_2026_27": 50.41,
+                        "total_2026_27": 3200.0
+                    }
+                },
+                {
+                    "code": "11.01",
+                    "name": "National AIDS Control Organisation (NACO)",
+                    "values": {
+                        "actual_2024_25": 2444.51,
+                        "capital_2024_25": 6.91,
+                        "total_2024_25": 2451.42,
+                        "budget_2025_26": 3177.95,
+                        "capital_2025_26": 7.82,
+                        "total_2025_26": 3185.77,
+                        "revised_2024_25": 2452.18,
+                        "capital_revised_2024_25": 7.82,
+                        "total_revised_2024_25": 2460.0,
+                        "budget_2026_27": 3149.59,
+                        "capital_2026_27": 50.41,
+                        "total_2026_27": 3200.0
+                    }
+                },
+                {
+                    "code": "11.02",
+                    "name": "Blood Transfusion Service",
+                    "values": {
+                        "actual_2024_25": 76.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": 76.38,
+                        "budget_2025_26": 250.0,
+                        "capital_2025_26": 5.0,
+                        "total_2025_26": 255.0,
+                        "revised_2024_25": 200.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": 270.0,
+                        "capital_2026_27": 5.0,
+                        "total_2026_27": 275.0
+                    }
+                },
+                {
+                    "code": "11.03",
+                    "name": "National/State Blood Transfusion Council",
+                    "values": {
+                        "actual_2024_25": 0.1,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.1,
+                        "budget_2025_26": 2.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": 1.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.5,
+                        "budget_2026_27": 2.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- National AIDS and STD Control Programme",
+                    "values": {
+                        "actual_2024_25": 2520.99,
+                        "capital_2024_25": 6.91,
+                        "total_2024_25": 2527.9,
+                        "budget_2025_26": 3429.95,
+                        "capital_2025_26": 12.82,
+                        "total_2025_26": 3442.77,
+                        "revised_2024_25": 2653.68,
+                        "capital_revised_2024_25": 7.82,
+                        "total_revised_2024_25": 2661.5,
+                        "budget_2026_27": 3421.59,
+                        "capital_2026_27": 55.41,
+                        "total_2026_27": 3477.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "12",
+                    "name": "Global Fund Grant under Covid 19 Response Mechanism",
+                    "values": {
+                        "actual_2024_25": 0.51,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.51,
+                        "budget_2025_26": 7.0,
+                        "capital_2025_26": 348.07,
+                        "total_2025_26": 355.07,
+                        "revised_2024_25": 7.0,
+                        "capital_revised_2024_25": 348.07,
+                        "total_revised_2024_25": 355.07,
+                        "budget_2026_27": 1.91,
+                        "capital_2026_27": 94.95,
+                        "total_2026_27": 96.86
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Family Welfare Schemes",
+                    "values": {
+                        "actual_2024_25": 619.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 619.0,
+                        "budget_2025_26": 620.48,
+                        "capital_2025_26": null,
+                        "total_2025_26": 620.48,
+                        "revised_2024_25": 645.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 645.48,
+                        "budget_2026_27": 643.46,
+                        "capital_2026_27": null,
+                        "total_2026_27": 643.46
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Establishment and strengthening of NCDC Branches and",
+                    "values": {
+                        "actual_2024_25": 24.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.23,
+                        "budget_2025_26": 54.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 54.01,
+                        "revised_2024_25": 35.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 35.0,
+                        "budget_2026_27": 60.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 60.0
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "National Pharmacovigilance Programme",
+                    "values": {
+                        "actual_2024_25": 8.1,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.1,
+                        "budget_2025_26": 8.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8.53,
+                        "revised_2024_25": 8.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8.1,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Development of Nursing Services",
+                    "values": {
+                        "actual_2024_25": 21.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21.93,
+                        "budget_2025_26": 28.74,
+                        "capital_2025_26": null,
+                        "total_2025_26": 28.74,
+                        "revised_2024_25": 28.74,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 28.74,
+                        "budget_2026_27": 27.24,
+                        "capital_2026_27": null,
+                        "total_2026_27": 27.24
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Health Sector Disaster Preparedness and Response and",
+                    "values": {
+                        "actual_2024_25": 10.42,
+                        "capital_2024_25": 4.5,
+                        "total_2024_25": 14.92,
+                        "budget_2025_26": 45.17,
+                        "capital_2025_26": 48.83,
+                        "total_2025_26": 94.0,
+                        "revised_2024_25": 34.1,
+                        "capital_revised_2024_25": 38.9,
+                        "total_revised_2024_25": 73.0,
+                        "budget_2026_27": 45.23,
+                        "capital_2026_27": 49.77,
+                        "total_2026_27": 95.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "National Organ Transplant Programme",
+                    "values": {
+                        "actual_2024_25": 6.44,
+                        "capital_2024_25": 0.61,
+                        "total_2024_25": 7.05,
+                        "budget_2025_26": 14.38,
+                        "capital_2025_26": 0.62,
+                        "total_2025_26": 15.0,
+                        "revised_2024_25": 14.38,
+                        "capital_revised_2024_25": 0.62,
+                        "total_revised_2024_25": 15.0,
+                        "budget_2026_27": 14.38,
+                        "capital_2026_27": 0.62,
+                        "total_2026_27": 15.0
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Pradhan Mantri Garib Kalyan Package - Insurance",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Pradhan Mantri Ayushman Bharat Health Infrastructure",
+                    "values": {
+                        "actual_2024_25": 174.57,
+                        "capital_2024_25": 104.63,
+                        "total_2024_25": 279.2,
+                        "budget_2025_26": 342.85,
+                        "capital_2025_26": 215.6,
+                        "total_2025_26": 558.45,
+                        "revised_2024_25": 254.91,
+                        "capital_revised_2024_25": 147.59,
+                        "total_revised_2024_25": 402.5,
+                        "budget_2026_27": 407.68,
+                        "capital_2026_27": 162.32,
+                        "total_2026_27": 570.0
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "National Tele Mental Health Programme",
+                    "values": {
+                        "actual_2024_25": 41.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 41.73,
+                        "budget_2025_26": 79.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 79.6,
+                        "revised_2024_25": 45.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 45.0,
+                        "budget_2026_27": 51.14,
+                        "capital_2026_27": null,
+                        "total_2026_27": 51.14
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "National Digital Health Mission - NHM",
+                    "values": {
+                        "actual_2024_25": 212.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 212.58,
+                        "budget_2025_26": 340.11,
+                        "capital_2025_26": null,
+                        "total_2025_26": 340.11,
+                        "revised_2024_25": 324.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 324.26,
+                        "budget_2026_27": 350.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 350.0
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "Scheme for Allied Health Care Professionals (AHPs)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 1000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1000.0
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -0.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.49,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 3707.67,
+                        "capital_2024_25": 1729.52,
+                        "total_2024_25": 5437.19,
+                        "budget_2025_26": 5030.83,
+                        "capital_2025_26": 2765.94,
+                        "total_2025_26": 7796.77,
+                        "revised_2024_25": 4120.65,
+                        "capital_revised_2024_25": 1973.0,
+                        "total_revised_2024_25": 6093.65,
+                        "budget_2026_27": 6092.63,
+                        "capital_2026_27": 2308.07,
+                        "total_2026_27": 8400.7
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "25",
+                    "name": "Regulatory and Statutory Bodies",
+                    "values": {
+                        "actual_2024_25": 518.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 518.07,
+                        "budget_2025_26": 584.65,
+                        "capital_2025_26": null,
+                        "total_2025_26": 584.65,
+                        "revised_2024_25": 493.15,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 493.15,
+                        "budget_2026_27": 494.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": 494.92
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "26",
+                    "name": "All India Institute of Medical Sciences, New Delhi",
+                    "values": {
+                        "actual_2024_25": 4909.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4909.33,
+                        "budget_2025_26": 5200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5200.0,
+                        "revised_2024_25": 5238.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5238.7,
+                        "budget_2026_27": 5500.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5500.92
+                    }
+                },
+                {
+                    "code": "27",
+                    "name": "Post Graduate Institute of Medical Education and",
+                    "values": {
+                        "actual_2024_25": 2225.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2225.0,
+                        "budget_2025_26": 2400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2400.0,
+                        "revised_2024_25": 2417.86,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2417.86,
+                        "budget_2026_27": 2504.65,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2504.65
+                    }
+                },
+                {
+                    "code": "28",
+                    "name": "Jawaharlal Institute of Post Graduate Medical Education",
+                    "values": {
+                        "actual_2024_25": 1351.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1351.96,
+                        "budget_2025_26": 1450.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1450.0,
+                        "revised_2024_25": 1460.79,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1460.79,
+                        "budget_2026_27": 1496.46,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1496.46
+                    }
+                },
+                {
+                    "code": "29",
+                    "name": "National Institute of Mental Health and Neuro-Sciences,",
+                    "values": {
+                        "actual_2024_25": 780.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 780.0,
+                        "budget_2025_26": 860.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 860.0,
+                        "revised_2024_25": 866.4,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 866.4,
+                        "budget_2026_27": 917.21,
+                        "capital_2026_27": null,
+                        "total_2026_27": 917.21
+                    }
+                },
+                {
+                    "code": "30",
+                    "name": "North Eastern Indira Gandhi Regional Institute of Health",
+                    "values": {
+                        "actual_2024_25": 473.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 473.61,
+                        "budget_2025_26": 530.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 530.0,
+                        "revised_2024_25": 533.94,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 533.94,
+                        "budget_2026_27": 565.26,
+                        "capital_2026_27": null,
+                        "total_2026_27": 565.26
+                    }
+                },
+                {
+                    "code": "31",
+                    "name": "Regional Institute of Medical Sciences, Imphal",
+                    "values": {
+                        "actual_2024_25": 632.3,
+                        "capital_2024_25": null,
+                        "total_2024_25": 632.3,
+                        "budget_2025_26": 650.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 650.0,
+                        "revised_2024_25": 654.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 654.84,
+                        "budget_2026_27": 693.24,
+                        "capital_2026_27": null,
+                        "total_2026_27": 693.24
+                    }
+                },
+                {
+                    "code": "32",
+                    "name": "Regional Institute of Paramedical and Nursing Sciences,",
+                    "values": {
+                        "actual_2024_25": 100.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 100.61,
+                        "budget_2025_26": 135.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 135.0,
+                        "revised_2024_25": 127.15,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 127.15,
+                        "budget_2026_27": 85.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 85.9
+                    }
+                },
+                {
+                    "code": "33",
+                    "name": "Lokpriya Gopinath Bordoloi Regional Institute of Mental",
+                    "values": {
+                        "actual_2024_25": 49.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 49.7,
+                        "budget_2025_26": 65.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 65.0,
+                        "revised_2024_25": 70.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 70.48,
+                        "budget_2026_27": 69.32,
+                        "capital_2026_27": null,
+                        "total_2026_27": 69.32
+                    }
+                },
+                {
+                    "code": "34",
+                    "name": "Establishment Expenditure of New AIIMS",
+                    "values": {
+                        "actual_2024_25": 7791.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7791.58,
+                        "budget_2025_26": 7639.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7639.0,
+                        "revised_2024_25": 9400.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9400.0,
+                        "budget_2026_27": 9302.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 9302.0
+                    }
+                },
+                {
+                    "code": "35",
+                    "name": "Other Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 840.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 840.39,
+                        "budget_2025_26": 1117.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1117.07,
+                        "revised_2024_25": 1131.82,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1131.82,
+                        "budget_2026_27": 1209.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1209.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 19154.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 19154.48,
+                        "budget_2025_26": 20046.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20046.07,
+                        "revised_2024_25": 21901.98,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 21901.98,
+                        "budget_2026_27": 22343.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22343.97
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "36",
+                    "name": "Medical Treatment of CGHS Pensioners (PORB)",
+                    "values": {
+                        "actual_2024_25": 5645.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5645.98,
+                        "budget_2025_26": 5540.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5540.0,
+                        "revised_2024_25": 5900.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5900.0,
+                        "budget_2026_27": 6340.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6340.0
+                    }
+                },
+                {
+                    "code": "37",
+                    "name": "Purchase of Material in India and Abroad",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "37.01",
+                    "name": "Purchase of Material in India and Abroad",
+                    "values": {
+                        "actual_2024_25": 352.88,
+                        "capital_2024_25": null,
+                        "total_2024_25": 352.88,
+                        "budget_2025_26": 380.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 380.0,
+                        "revised_2024_25": 380.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 380.0,
+                        "budget_2026_27": 383.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 383.0
+                    }
+                },
+                {
+                    "code": "37.02",
+                    "name": "Less Recoveries",
+                    "values": {
+                        "actual_2024_25": -238.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": -238.9,
+                        "budget_2025_26": -380.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -380.0,
+                        "revised_2024_25": -380.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -380.0,
+                        "budget_2026_27": -383.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -383.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 113.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 113.98,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "38",
+                    "name": "International Cooperation",
+                    "values": {
+                        "actual_2024_25": 93.62,
+                        "capital_2024_25": 62.62,
+                        "total_2024_25": 156.24,
+                        "budget_2025_26": 96.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 96.0,
+                        "revised_2024_25": 96.64,
+                        "capital_revised_2024_25": 15.45,
+                        "total_revised_2024_25": 112.09,
+                        "budget_2026_27": 101.55,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 101.56
+                    }
+                },
+                {
+                    "code": "39",
+                    "name": "Other Miscellaneous Expenditure",
+                    "values": {
+                        "actual_2024_25": 165.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 165.92,
+                        "budget_2025_26": 377.59,
+                        "capital_2025_26": null,
+                        "total_2025_26": 377.59,
+                        "revised_2024_25": 139.77,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 139.77,
+                        "budget_2026_27": 237.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 237.25
+                    }
+                },
+                {
+                    "code": "40",
+                    "name": "Actual Recoveries (Others)",
+                    "values": {
+                        "actual_2024_25": -273.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": -273.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 5746.25,
+                        "capital_2024_25": 62.62,
+                        "total_2024_25": 5808.87,
+                        "budget_2025_26": 6013.59,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6013.59,
+                        "revised_2024_25": 6136.41,
+                        "capital_revised_2024_25": 15.45,
+                        "total_revised_2024_25": 6151.86,
+                        "budget_2026_27": 6678.8,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 6678.81
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 25418.8,
+                        "capital_2024_25": 62.62,
+                        "total_2024_25": 25481.42,
+                        "budget_2025_26": 26644.31,
+                        "capital_2025_26": null,
+                        "total_2025_26": 26644.31,
+                        "revised_2024_25": 28531.54,
+                        "capital_revised_2024_25": 15.45,
+                        "total_revised_2024_25": 28546.99,
+                        "budget_2026_27": 29517.69,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 29517.7
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "41",
+                    "name": "Flexible Pool for RCH & Health System Strengthening, National Health",
+                    "values": {
+                        "actual_2024_25": 35755.38,
+                        "capital_2024_25": 0.38,
+                        "total_2024_25": 35755.76,
+                        "budget_2025_26": 38632.8,
+                        "capital_2025_26": 0.55,
+                        "total_2025_26": 38633.35,
+                        "revised_2024_25": 34388.54,
+                        "capital_revised_2024_25": 0.27,
+                        "total_revised_2024_25": 34388.81,
+                        "budget_2026_27": 39321.0,
+                        "capital_2026_27": 0.27,
+                        "total_2026_27": 39321.27
+                    }
+                },
+                {
+                    "code": "41.01",
+                    "name": "Flexible Pool for RCH & Health System",
+                    "values": {
+                        "actual_2024_25": 35755.38,
+                        "capital_2024_25": 0.38,
+                        "total_2024_25": 35755.76,
+                        "budget_2025_26": 38632.8,
+                        "capital_2025_26": 0.55,
+                        "total_2025_26": 38633.35,
+                        "revised_2024_25": 34388.54,
+                        "capital_revised_2024_25": 0.27,
+                        "total_revised_2024_25": 34388.81,
+                        "budget_2026_27": 39321.0,
+                        "capital_2026_27": 0.27,
+                        "total_2026_27": 39321.27
+                    }
+                },
+                {
+                    "code": "41.02",
+                    "name": "Less Recoveries",
+                    "values": {
+                        "actual_2024_25": -4214.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": -4214.25,
+                        "budget_2025_26": -9043.19,
+                        "capital_2025_26": null,
+                        "total_2025_26": -9043.19,
+                        "revised_2024_25": -4941.31,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -4941.31,
+                        "budget_2026_27": -7946.34,
+                        "capital_2026_27": null,
+                        "total_2026_27": -7946.34
+                    }
+                },
+                {
+                    "code": "41.03",
+                    "name": "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan",
+                    "values": {
+                        "actual_2024_25": 143.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": 143.52,
+                        "budget_2025_26": 419.76,
+                        "capital_2025_26": null,
+                        "total_2025_26": 419.76,
+                        "revised_2024_25": 419.76,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 419.76,
+                        "budget_2026_27": 445.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 445.07
+                    }
+                },
+                {
+                    "code": "41.04",
+                    "name": "Transfer to Pradhan Mantri Swasthya Suraksha",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 3373.12,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3373.12,
+                        "revised_2024_25": 15000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15000.0,
+                        "budget_2026_27": 20000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20000.0
+                    }
+                },
+                {
+                    "code": "41.05",
+                    "name": "Amount met from PMSSN",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -3373.12,
+                        "capital_2025_26": null,
+                        "total_2025_26": -3373.12,
+                        "revised_2024_25": -15000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -15000.0,
+                        "budget_2026_27": -20000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -20000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 31684.65,
+                        "capital_2024_25": 0.38,
+                        "total_2024_25": 31685.03,
+                        "budget_2025_26": 30009.37,
+                        "capital_2025_26": 0.55,
+                        "total_2025_26": 30009.92,
+                        "revised_2024_25": 29866.99,
+                        "capital_revised_2024_25": 0.27,
+                        "total_revised_2024_25": 29867.26,
+                        "budget_2026_27": 31819.73,
+                        "capital_2026_27": 0.27,
+                        "total_2026_27": 31820.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "42",
+                    "name": "Infrastructure Maintenance",
+                    "values": {
+                        "actual_2024_25": 6997.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6997.59,
+                        "budget_2025_26": 7000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7000.0,
+                        "revised_2024_25": 7000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7000.0,
+                        "budget_2026_27": 7350.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7350.0
+                    }
+                },
+                {
+                    "code": "42.01",
+                    "name": "Infrastructure Maintenance",
+                    "values": {
+                        "actual_2024_25": 6997.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6997.59,
+                        "budget_2025_26": 7000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7000.0,
+                        "revised_2024_25": 7000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7000.0,
+                        "budget_2026_27": 7350.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7350.0
+                    }
+                },
+                {
+                    "code": "42.02",
+                    "name": "Transfer to PMSSN",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 3430.62,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3430.62,
+                        "revised_2024_25": 3430.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3430.62,
+                        "budget_2026_27": 4000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4000.0
+                    }
+                },
+                {
+                    "code": "42.03",
+                    "name": "Amount met from PMSSN",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -3430.62,
+                        "capital_2025_26": null,
+                        "total_2025_26": -3430.62,
+                        "revised_2024_25": -3430.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -3430.62,
+                        "budget_2026_27": -4000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -4000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 6997.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6997.59,
+                        "budget_2025_26": 7000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7000.0,
+                        "revised_2024_25": 7000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7000.0,
+                        "budget_2026_27": 7350.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7350.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "43",
+                    "name": "Strengthening National Programme Management of the",
+                    "values": {
+                        "actual_2024_25": 206.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 206.72,
+                        "budget_2025_26": 217.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 217.0,
+                        "revised_2024_25": 232.81,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 232.81,
+                        "budget_2026_27": 220.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 220.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-National Health Mission",
+                    "values": {
+                        "actual_2024_25": 38888.96,
+                        "capital_2024_25": 0.38,
+                        "total_2024_25": 38889.34,
+                        "budget_2025_26": 37226.37,
+                        "capital_2025_26": 0.55,
+                        "total_2025_26": 37226.92,
+                        "revised_2024_25": 37099.8,
+                        "capital_revised_2024_25": 0.27,
+                        "total_revised_2024_25": 37100.07,
+                        "budget_2026_27": 39389.73,
+                        "capital_2026_27": 0.27,
+                        "total_2026_27": 39390.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "44",
+                    "name": "Strengthening of State Drug Regulatory System",
+                    "values": {
+                        "actual_2024_25": 48.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 48.32,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "45",
+                    "name": "Tertiary Care Programme",
+                    "values": {
+                        "actual_2024_25": 287.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 287.72,
+                        "budget_2025_26": 478.54,
+                        "capital_2025_26": 5.0,
+                        "total_2025_26": 483.54,
+                        "revised_2024_25": 295.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 295.0,
+                        "budget_2026_27": 481.0,
+                        "capital_2026_27": 9.0,
+                        "total_2026_27": 490.0
+                    }
+                },
+                {
+                    "code": "46",
+                    "name": "Human Resources for Health and Medical Education.",
+                    "values": {
+                        "actual_2024_25": 442.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 442.0,
+                        "budget_2025_26": 1675.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1675.0,
+                        "revised_2024_25": 1630.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1630.0,
+                        "budget_2026_27": 1725.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1725.0
+                    }
+                },
+                {
+                    "code": "46.01",
+                    "name": "Human Resources for Health and Medical",
+                    "values": {
+                        "actual_2024_25": 442.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 442.0,
+                        "budget_2025_26": 1675.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1675.0,
+                        "revised_2024_25": 1630.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1630.0,
+                        "budget_2026_27": 1725.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1725.0
+                    }
+                },
+                {
+                    "code": "46.02",
+                    "name": "Transfer to PMSSN",
+                    "values": {
+                        "actual_2024_25": 107.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": 107.33,
+                        "budget_2025_26": 1475.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1475.0,
+                        "revised_2024_25": 1475.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1475.0,
+                        "budget_2026_27": 1725.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1725.0
+                    }
+                },
+                {
+                    "code": "46.03",
+                    "name": "Amount met from PMSSN",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -1475.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1475.0,
+                        "revised_2024_25": -1475.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1475.0,
+                        "budget_2026_27": -1725.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1725.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 549.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": 549.33,
+                        "budget_2025_26": 1675.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1675.0,
+                        "revised_2024_25": 1630.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1630.0,
+                        "budget_2026_27": 1725.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1725.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "47",
+                    "name": "Pradhan Mantri Ayushman Bharat Health Infrastructure",
+                    "values": {
+                        "actual_2024_25": 2086.34,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2086.34,
+                        "budget_2025_26": 4200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4200.0,
+                        "revised_2024_25": 2442.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2442.5,
+                        "budget_2026_27": 4200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4200.0
+                    }
+                },
+                {
+                    "code": "48",
+                    "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY)",
+                    "values": {
+                        "actual_2024_25": 6982.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6982.8,
+                        "budget_2025_26": 9400.0,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 9401.0,
+                        "revised_2024_25": 8995.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8995.0,
+                        "budget_2026_27": 9499.0,
+                        "capital_2026_27": 1.0,
+                        "total_2026_27": 9500.0
+                    }
+                },
+                {
+                    "code": "48.01",
+                    "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya",
+                    "values": {
+                        "actual_2024_25": 6982.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6982.8,
+                        "budget_2025_26": 9400.0,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 9401.0,
+                        "revised_2024_25": 8995.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8995.0,
+                        "budget_2026_27": 9499.0,
+                        "capital_2026_27": 1.0,
+                        "total_2026_27": 9500.0
+                    }
+                },
+                {
+                    "code": "48.02",
+                    "name": "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 5.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "48.03",
+                    "name": "Transfer to PMSSN",
+                    "values": {
+                        "actual_2024_25": 7059.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7059.47,
+                        "budget_2025_26": 9400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9400.0,
+                        "revised_2024_25": 8495.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8495.0,
+                        "budget_2026_27": 5000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5000.0
+                    }
+                },
+                {
+                    "code": "48.04",
+                    "name": "Amount met from PMSSN",
+                    "values": {
+                        "actual_2024_25": -6863.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": -6863.63,
+                        "budget_2025_26": -9400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -9400.0,
+                        "revised_2024_25": -8495.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -8495.0,
+                        "budget_2026_27": -5000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -5000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 7178.64,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7178.64,
+                        "budget_2025_26": 9405.0,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 9406.0,
+                        "revised_2024_25": 9000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9000.0,
+                        "budget_2026_27": 9499.0,
+                        "capital_2026_27": 1.0,
+                        "total_2026_27": 9500.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "49",
+                    "name": "Pradhan Mantri Swasthya Suraksha Nidhi (PMSSN)",
+                    "values": {
+                        "actual_2024_25": 7271.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7271.74,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "49.01",
+                    "name": "Transfer to PMSSN",
+                    "values": {
+                        "actual_2024_25": 7271.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7271.74,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "49.02",
+                    "name": "Amount met from PMSSN",
+                    "values": {
+                        "actual_2024_25": -6757.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": -6757.62,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 514.12,
+                        "capital_2024_25": null,
+                        "total_2024_25": 514.12,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "50",
+                    "name": "Actual Recoveries (CSS)",
+                    "values": {
+                        "actual_2024_25": -275.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": -275.17,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 49278.26,
+                        "capital_2024_25": 0.38,
+                        "total_2024_25": 49278.64,
+                        "budget_2025_26": 53034.91,
+                        "capital_2025_26": 6.55,
+                        "total_2025_26": 53041.46,
+                        "revised_2024_25": 50467.3,
+                        "capital_revised_2024_25": 0.27,
+                        "total_revised_2024_25": 50467.57,
+                        "budget_2026_27": 55294.73,
+                        "capital_2026_27": 10.27,
+                        "total_2026_27": 55305.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 84974.51,
+                        "capital_2024_25": 2325.66,
+                        "total_2024_25": 87300.17,
+                        "budget_2025_26": 92333.43,
+                        "capital_2025_26": 3624.44,
+                        "total_2025_26": 95957.87,
+                        "revised_2024_25": 90488.04,
+                        "capital_revised_2024_25": 2437.82,
+                        "total_revised_2024_25": 92925.86,
+                        "budget_2026_27": 98780.91,
+                        "capital_2026_27": 2928.3,
+                        "total_2026_27": 101709.21
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Council of Ministers",
+                    "values": {
+                        "actual_2024_25": 0.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.69,
+                        "budget_2025_26": 2.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": 2.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.0,
+                        "budget_2026_27": 2.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.13
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Pensions and other Retirement Benefits",
+                    "values": {
+                        "actual_2024_25": 5643.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5643.35,
+                        "budget_2025_26": 5540.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5540.0,
+                        "revised_2024_25": 5900.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5900.0,
+                        "budget_2026_27": 6340.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6340.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 5644.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5644.04,
+                        "budget_2025_26": 5542.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5542.0,
+                        "revised_2024_25": 5902.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5902.0,
+                        "budget_2026_27": 6342.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6342.13
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Medical and Public Health",
+                    "values": {
+                        "actual_2024_25": 38133.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 38133.96,
+                        "budget_2025_26": 39690.82,
+                        "capital_2025_26": null,
+                        "total_2025_26": 39690.82,
+                        "revised_2024_25": 39826.37,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 39826.37,
+                        "budget_2026_27": 43324.49,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43324.49
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Family Welfare",
+                    "values": {
+                        "actual_2024_25": 2179.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2179.36,
+                        "budget_2025_26": 1536.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1536.97,
+                        "revised_2024_25": 1498.88,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1498.88,
+                        "budget_2026_27": 1524.74,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1524.74
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Social Security and Welfare",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 213.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 213.92,
+                        "budget_2025_26": 248.06,
+                        "capital_2025_26": null,
+                        "total_2025_26": 248.06,
+                        "revised_2024_25": 277.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 277.29,
+                        "budget_2026_27": 286.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 286.06
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Capital Outlay on Medical and Public Health",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2301.73,
+                        "total_2024_25": 2301.73,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3420.64,
+                        "total_2025_26": 3420.64,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2340.85,
+                        "total_revised_2024_25": 2340.85,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2815.05,
+                        "total_2026_27": 2815.05
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Capital Outlay on Family Welfare",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3.23,
+                        "total_2024_25": 3.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7.28,
+                        "total_2025_26": 7.28,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 6.95,
+                        "total_revised_2024_25": 6.95,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7.16,
+                        "total_2026_27": 7.16
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Capital Outlay on Housing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 13.29,
+                        "total_2024_25": 13.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 133.0,
+                        "total_2025_26": 133.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 33.0,
+                        "total_revised_2024_25": 33.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 43.05,
+                        "total_2026_27": 43.05
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7.41,
+                        "total_2024_25": 7.41,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 13.46,
+                        "total_2025_26": 13.46,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 21.96,
+                        "total_revised_2024_25": 21.96,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 12.98,
+                        "total_2026_27": 12.98
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 40527.24,
+                        "capital_2024_25": 2325.66,
+                        "total_2024_25": 42852.9,
+                        "budget_2025_26": 41475.86,
+                        "capital_2025_26": 3574.38,
+                        "total_2025_26": 45050.24,
+                        "revised_2024_25": 41602.54,
+                        "capital_revised_2024_25": 2402.76,
+                        "total_revised_2024_25": 44005.3,
+                        "budget_2026_27": 45135.3,
+                        "capital_2026_27": 2878.24,
+                        "total_2026_27": 48013.54
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "11",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 7250.64,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7250.64,
+                        "revised_2024_25": 7015.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7015.6,
+                        "budget_2026_27": 7321.11,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7321.11
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 37310.14,
+                        "capital_2024_25": null,
+                        "total_2024_25": 37310.14,
+                        "budget_2025_26": 36482.35,
+                        "capital_2025_26": null,
+                        "total_2025_26": 36482.35,
+                        "revised_2024_25": 34346.85,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 34346.85,
+                        "budget_2026_27": 38289.43,
+                        "capital_2026_27": null,
+                        "total_2026_27": 38289.43
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 1493.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1493.09,
+                        "budget_2025_26": 1582.58,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1582.58,
+                        "revised_2024_25": 1621.05,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1621.05,
+                        "budget_2026_27": 1692.94,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1692.94
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Aid Materials and Equipment",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 50.06,
+                        "total_2025_26": 50.06,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 35.06,
+                        "total_revised_2024_25": 35.06,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 50.06,
+                        "total_2026_27": 50.06
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 38803.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 38803.23,
+                        "budget_2025_26": 45315.57,
+                        "capital_2025_26": 50.06,
+                        "total_2025_26": 45365.63,
+                        "revised_2024_25": 42983.5,
+                        "capital_revised_2024_25": 35.06,
+                        "total_revised_2024_25": 43018.56,
+                        "budget_2026_27": 47303.48,
+                        "capital_2026_27": 50.06,
+                        "total_2026_27": 47353.54
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 84974.51,
+                        "capital_2024_25": 2325.66,
+                        "total_2024_25": 87300.17,
+                        "budget_2025_26": 92333.43,
+                        "capital_2025_26": 3624.44,
+                        "total_2025_26": 95957.87,
+                        "revised_2024_25": 90488.04,
+                        "capital_revised_2024_25": 2437.82,
+                        "total_revised_2024_25": 92925.86,
+                        "budget_2026_27": 98780.91,
+                        "capital_2026_27": 2928.3,
+                        "total_2026_27": 101709.21
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "HLL Lifecare Ltd",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 35.27,
+                        "total_2024_25": 35.27,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 35.0,
+                        "total_2025_26": 35.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 35.0,
+                        "total_revised_2024_25": 35.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 45.0,
+                        "total_2026_27": 45.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "HLL InfraTech Services Ltd",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.54,
+                        "total_2024_25": 2.54,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 54.83,
+                        "total_2025_26": 54.83,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.67,
+                        "total_revised_2024_25": 2.67,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.8,
+                        "total_2026_27": 2.8
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Goa Antibiotics and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.9,
+                        "total_2024_25": 1.9,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.0,
+                        "total_2025_26": 3.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "HLL Biotech Limited HBL",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 14.52,
+                        "total_2024_25": 14.52,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 21.13,
+                        "total_revised_2024_25": 21.13,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 22.18,
+                        "total_2026_27": 22.18
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 54.23,
+                        "total_2024_25": 54.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 92.83,
+                        "total_2025_26": 92.83,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 58.8,
+                        "total_revised_2024_25": 58.8,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 69.98,
+                        "total_2026_27": 69.98
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "1",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 1.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": ". Secretariat:..The provision is for establishment related expenditure on the Secretariat of the",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Lady Hardinge Medical College and Smt. Sucheta Kriplani Hospital:..It is run by the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Direction and Administration:..It provides technical expertise in medical & public health and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "family welfare matters and is responsible for implementation and monitoring of various health and family welfare",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Central Government Health Scheme:..It provides comprehensive medical facilities to Central",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Kalawati Saran Children's Hospital, New Delhi:..The hospital specialises children's diseases",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "8. Other Hospitals / Institutions:..It provide for establishment expenditure of various",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Safdarjung Hospital and Vardhman Mahavir Medical College, New Delhi:..It is a Central",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Dr. Ram Manohar Lohia Hospital and Atal Bihari Vajpayee Institute of Medical Sciences,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "17",
+                    "name": "Health Sector Disaster Preparedness and Response and Human Resources",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "National AIDS and STD Control Programme:..National AIDS and STD Control Programme is 18. National Organ Transplant Programme:..The objective of the scheme is to organize a",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PMABHIM)",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "National Tele Mental Health Programme:..To provide universal access to equitable,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "544",
+                    "name": "District Level Blood Banks (DLBB). NBTC is the policy formulating apex body for all matters pertaining to the",
+                    "values": {
+                        "actual_2024_25": 544.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Global Fund Grant under Covid",
+                    "values": {
+                        "actual_2024_25": 19.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "Regulatory and Statutory Bodies:..It includes various Regulatory Bodies in the Department",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "13. Family Welfare Schemes:..The scheme provides for Swastha Nagrik Abhiyan (SNA),",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 2.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "0",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 0.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 6.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Establishment and strengthening of NCDC Branches and Health Initiatives Inter Sectoral",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "35. Other Autonomous Bodies:..It provides for various Autonomous bodies viz. National Institute",
+            "items": []
+        },
+        {
+            "heading": "Biologicals, Noida, Pasteur Institute of India, Conoor, National Institute of Health and Family Welfare, New Delhi,",
+            "items": []
+        },
+        {
+            "heading": "Registration Act XXI of 1860. 36. Medical Treatment of CGHS Pensioners (PORB):..It provide for expenditure on",
+            "items": []
+        },
+        {
+            "heading": "(vii) National Board of Examination (NBE) - It is an independent autonomous body of its kind in Court and High Courts.",
+            "items": [
+                {
+                    "code": "26",
+                    "name": "All India Institute of Medical Sciences, New Delhi:..It has been set up by an Act of",
+                    "values": {
+                        "actual_2024_25": 1956.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Committee on Red Cross Society and other expenditure on International Health Conferences.",
+            "items": [
+                {
+                    "code": "27",
+                    "name": "Post Graduate Institute of Medical Education and Research, Chandigarh:..It was set up by",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "an Act of Parliament as an Institute of National Importance having the same functions as AIIMS, New Delhi, but in the 39. Other Miscellaneous Expenditure:..It provides for miscellaneous non-scheme expenditure",
+            "items": [
+                {
+                    "code": "28",
+                    "name": "Jawaharlal Institute of Post Graduate Medical Education and Research,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "29",
+                    "name": "National Institute of Mental Health and Neuro-Sciences, Bengaluru:..Providing Services, TB, and Leprosy etc., It also includes transfer to state to address healthcare needs of the urban population with focus",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "30",
+                    "name": "North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences, in BE 2026-27 for Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM - JANMAN)...",
+                    "values": {
+                        "actual_2024_25": 1987.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Scheme, viz. Direction and Administration (Family Welfare Bureaux at State & District level), Sub-centres, Urban",
+            "items": []
+        },
+        {
+            "heading": "31. Regional Institute of Medical Sciences, Imphal:..It is a Medical Institute established at Family Welfare Centres, Urban Revamping Scheme (Health Posts), Auxiliary & Nursing Midwife (ANM) & Lady Health",
+            "items": [
+                {
+                    "code": "32",
+                    "name": "Regional Institute of Paramedical and Nursing Sciences, Aizawl:..The institute has been",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "43",
+                    "name": "Strengthening National Programme Management of the NRHM:..This provides for National",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "45",
+                    "name": "Tertiary Care Programme:..It provides for transfer to states for implementation of Tertiary",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Care Programme/Schemes viz Tobacco Control and Drug De-addiction Control Programme, National Mental Health",
+            "items": [
+                {
+                    "code": "46",
+                    "name": "Human Resources for Health and Medical Education.:..It provides for transfer to States/UTs",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "47",
+                    "name": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PMABHIM):..This is a",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "48",
+                    "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY):..Being the world's largest",
+                    "values": {
+                        "actual_2024_25": 12.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF HEALTH AND FAMILY WELFARE",
+            "items": []
+        }
+    ]
+}

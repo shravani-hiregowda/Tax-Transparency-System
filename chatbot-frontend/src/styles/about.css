@@ -1,0 +1,121 @@
+/* =====================================================
+   ABOUT PAGE — TAX TRANSPARENCY SYSTEM
+   ===================================================== */
+
+.about-page {
+  width: 100%;
+  max-width: 980px;
+  margin: 80px auto;
+  padding: 0 28px 120px 28px;
+  box-sizing: border-box;
+}
+/* =========================
+   MAIN TITLE
+   ========================= */
+
+.about-page h1 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 32px;
+  color: #0f172a;
+  letter-spacing: -0.5px;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 16px;
+}
+
+/* =========================
+   SECTION HEADINGS
+   ========================= */
+
+.about-page h2 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 48px;
+  margin-bottom: 16px;
+  color: #0b5ed7;
+  letter-spacing: 0.2px;
+}
+
+/* =========================
+   PARAGRAPHS
+   ========================= */
+
+.about-page p {
+  font-size: 16px;
+  margin-bottom: 18px;
+  color: #334155;
+  max-width: 860px;
+}
+
+/* Strong emphasis */
+.about-page strong {
+  color: #0f172a;
+  font-weight: 600;
+}
+
+/* =========================
+   LIST STYLING
+   ========================= */
+
+.about-page ul {
+  margin-top: 10px;
+  padding-left: 22px;
+}
+
+.about-page li {
+  margin-bottom: 10px;
+  font-size: 15px;
+  color: #334155;
+  position: relative;
+}
+
+/* Subtle bullet enhancement */
+.about-page li::marker {
+  color: #0b5ed7;
+}
+
+/* =========================
+   SECTION DIVIDERS
+   ========================= */
+
+.about-page h2:not(:first-of-type) {
+  border-left: 4px solid #0b5ed7;
+  padding-left: 12px;
+}
+
+/* =========================
+   FOOTER
+   ========================= */
+
+.about-footer {
+  margin-top: 80px;
+  padding-top: 28px;
+  border-top: 1px solid #e2e8f0;
+  font-size: 14px;
+  color: #64748b;
+  text-align: center;
+}
+
+/* =========================
+   RESPONSIVE
+   ========================= */
+
+@media (max-width: 768px) {
+  .about-page {
+    margin: 60px auto;
+    padding: 0 20px 60px 20px;
+  }
+
+  .about-page h1 {
+    font-size: 30px;
+  }
+
+  .about-page h2 {
+    font-size: 18px;
+  }
+
+  .about-page p,
+  .about-page li {
+    font-size: 14px;
+  }
+}

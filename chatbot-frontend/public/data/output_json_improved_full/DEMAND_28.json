@@ -1,0 +1,1622 @@
+{
+    "demand_no": 28,
+    "ministry": "Ministry Of Environment",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2130.61,
+                        "capital_2024_25": 89.09,
+                        "total_2024_25": 2219.7,
+                        "budget_2025_26": 3276.82,
+                        "capital_2025_26": 136.0,
+                        "total_2025_26": 3412.82,
+                        "revised_2024_25": 3307.22,
+                        "capital_revised_2024_25": 174.39,
+                        "total_revised_2024_25": 3481.61,
+                        "budget_2026_27": 3536.66,
+                        "capital_2026_27": 222.8,
+                        "total_2026_27": 3759.46
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 266.53,
+                        "capital_2024_25": 11.39,
+                        "total_2024_25": 277.92,
+                        "budget_2025_26": 286.01,
+                        "capital_2025_26": 18.94,
+                        "total_2025_26": 304.95,
+                        "revised_2024_25": 368.9,
+                        "capital_revised_2024_25": 18.94,
+                        "total_revised_2024_25": 387.84,
+                        "budget_2026_27": 283.01,
+                        "capital_2026_27": 19.02,
+                        "total_2026_27": 302.03
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Attached/Subordinate Offices",
+                    "values": {
+                        "actual_2024_25": 49.45,
+                        "capital_2024_25": 4.49,
+                        "total_2024_25": 53.94,
+                        "budget_2025_26": 57.29,
+                        "capital_2025_26": 8.55,
+                        "total_2025_26": 65.84,
+                        "revised_2024_25": 55.45,
+                        "capital_revised_2024_25": 8.2,
+                        "total_revised_2024_25": 63.65,
+                        "budget_2026_27": 60.63,
+                        "capital_2026_27": 29.2,
+                        "total_2026_27": 89.83
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Regional Offices",
+                    "values": {
+                        "actual_2024_25": 49.45,
+                        "capital_2024_25": 4.49,
+                        "total_2024_25": 53.94,
+                        "budget_2025_26": 57.29,
+                        "capital_2025_26": 8.55,
+                        "total_2025_26": 65.84,
+                        "revised_2024_25": 55.45,
+                        "capital_revised_2024_25": 8.2,
+                        "total_revised_2024_25": 63.65,
+                        "budget_2026_27": 60.63,
+                        "capital_2026_27": 29.2,
+                        "total_2026_27": 89.83
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "National Afforestation and Eco-Development",
+                    "values": {
+                        "actual_2024_25": 2.6,
+                        "capital_2024_25": 0.06,
+                        "total_2024_25": 2.66,
+                        "budget_2025_26": 6.49,
+                        "capital_2025_26": 0.18,
+                        "total_2025_26": 6.67,
+                        "revised_2024_25": 3.02,
+                        "capital_revised_2024_25": 0.18,
+                        "total_revised_2024_25": 3.2,
+                        "budget_2026_27": 4.69,
+                        "capital_2026_27": 0.3,
+                        "total_2026_27": 4.99
+                    }
+                },
+                {
+                    "code": "2.03",
+                    "name": "Forest Survey of India",
+                    "values": {
+                        "actual_2024_25": 45.44,
+                        "capital_2024_25": 5.19,
+                        "total_2024_25": 50.63,
+                        "budget_2025_26": 47.0,
+                        "capital_2025_26": 7.13,
+                        "total_2025_26": 54.13,
+                        "revised_2024_25": 48.13,
+                        "capital_revised_2024_25": 7.11,
+                        "total_revised_2024_25": 55.24,
+                        "budget_2026_27": 49.57,
+                        "capital_2026_27": 6.77,
+                        "total_2026_27": 56.34
+                    }
+                },
+                {
+                    "code": "2.04",
+                    "name": "Indira Gandhi National Forest Academy",
+                    "values": {
+                        "actual_2024_25": 59.89,
+                        "capital_2024_25": 13.0,
+                        "total_2024_25": 72.89,
+                        "budget_2025_26": 66.35,
+                        "capital_2025_26": 17.45,
+                        "total_2025_26": 83.8,
+                        "revised_2024_25": 58.25,
+                        "capital_revised_2024_25": 17.45,
+                        "total_revised_2024_25": 75.7,
+                        "budget_2026_27": 66.62,
+                        "capital_2026_27": 17.05,
+                        "total_2026_27": 83.67
+                    }
+                },
+                {
+                    "code": "2.05",
+                    "name": "State Forest Service and Rangers College",
+                    "values": {
+                        "actual_2024_25": 16.7,
+                        "capital_2024_25": 12.0,
+                        "total_2024_25": 28.7,
+                        "budget_2025_26": 18.29,
+                        "capital_2025_26": 12.14,
+                        "total_2025_26": 30.43,
+                        "revised_2024_25": 17.5,
+                        "capital_revised_2024_25": 11.49,
+                        "total_revised_2024_25": 28.99,
+                        "budget_2026_27": 19.61,
+                        "capital_2026_27": 11.8,
+                        "total_2026_27": 31.41
+                    }
+                },
+                {
+                    "code": "2.06",
+                    "name": "Wildlife Crime Control Bureau",
+                    "values": {
+                        "actual_2024_25": 12.2,
+                        "capital_2024_25": 0.46,
+                        "total_2024_25": 12.66,
+                        "budget_2025_26": 13.5,
+                        "capital_2025_26": 0.36,
+                        "total_2025_26": 13.86,
+                        "revised_2024_25": 13.62,
+                        "capital_revised_2024_25": 0.36,
+                        "total_revised_2024_25": 13.98,
+                        "budget_2026_27": 14.66,
+                        "capital_2026_27": 0.48,
+                        "total_2026_27": 15.14
+                    }
+                },
+                {
+                    "code": "2.07",
+                    "name": "Botanical Survey of India",
+                    "values": {
+                        "actual_2024_25": 99.74,
+                        "capital_2024_25": 12.92,
+                        "total_2024_25": 112.66,
+                        "budget_2025_26": 112.36,
+                        "capital_2025_26": 23.7,
+                        "total_2025_26": 136.06,
+                        "revised_2024_25": 107.74,
+                        "capital_revised_2024_25": 73.7,
+                        "total_revised_2024_25": 181.44,
+                        "budget_2026_27": 118.23,
+                        "capital_2026_27": 73.85,
+                        "total_2026_27": 192.08
+                    }
+                },
+                {
+                    "code": "2.08",
+                    "name": "Zoological Survey of India",
+                    "values": {
+                        "actual_2024_25": 110.63,
+                        "capital_2024_25": 9.96,
+                        "total_2024_25": 120.59,
+                        "budget_2025_26": 112.85,
+                        "capital_2025_26": 16.5,
+                        "total_2025_26": 129.35,
+                        "revised_2024_25": 115.49,
+                        "capital_revised_2024_25": 17.68,
+                        "total_revised_2024_25": 133.17,
+                        "budget_2026_27": 114.61,
+                        "capital_2026_27": 29.55,
+                        "total_2026_27": 144.16
+                    }
+                },
+                {
+                    "code": "2.09",
+                    "name": "National Museum of Natural History",
+                    "values": {
+                        "actual_2024_25": 15.39,
+                        "capital_2024_25": 5.83,
+                        "total_2024_25": 21.22,
+                        "budget_2025_26": 16.97,
+                        "capital_2025_26": 6.7,
+                        "total_2025_26": 23.67,
+                        "revised_2024_25": 16.74,
+                        "capital_revised_2024_25": 6.6,
+                        "total_revised_2024_25": 23.34,
+                        "budget_2026_27": 17.31,
+                        "capital_2026_27": 5.45,
+                        "total_2026_27": 22.76
+                    }
+                },
+                {
+                    "code": "2.10",
+                    "name": "National Green Tribunal",
+                    "values": {
+                        "actual_2024_25": 34.27,
+                        "capital_2024_25": 5.12,
+                        "total_2024_25": 39.39,
+                        "budget_2025_26": 43.58,
+                        "capital_2025_26": 9.1,
+                        "total_2025_26": 52.68,
+                        "revised_2024_25": 41.21,
+                        "capital_revised_2024_25": 9.1,
+                        "total_revised_2024_25": 50.31,
+                        "budget_2026_27": 162.72,
+                        "capital_2026_27": 11.03,
+                        "total_2026_27": 173.75
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Attached/Subordinate Offices",
+                    "values": {
+                        "actual_2024_25": 446.31,
+                        "capital_2024_25": 69.03,
+                        "total_2024_25": 515.34,
+                        "budget_2025_26": 494.68,
+                        "capital_2025_26": 101.81,
+                        "total_2025_26": 596.49,
+                        "revised_2024_25": 477.15,
+                        "capital_revised_2024_25": 151.87,
+                        "total_revised_2024_25": 629.02,
+                        "budget_2026_27": 628.65,
+                        "capital_2026_27": 185.48,
+                        "total_2026_27": 814.13
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "National Zoological Park",
+                    "values": {
+                        "actual_2024_25": 33.28,
+                        "capital_2024_25": 8.67,
+                        "total_2024_25": 41.95,
+                        "budget_2025_26": 39.07,
+                        "capital_2025_26": 15.25,
+                        "total_2025_26": 54.32,
+                        "revised_2024_25": 41.07,
+                        "capital_revised_2024_25": 3.58,
+                        "total_revised_2024_25": 44.65,
+                        "budget_2026_27": 39.46,
+                        "capital_2026_27": 18.3,
+                        "total_2026_27": 57.76
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": 33.28,
+                        "capital_2024_25": 8.67,
+                        "total_2024_25": 41.95,
+                        "budget_2025_26": 39.07,
+                        "capital_2025_26": 15.25,
+                        "total_2025_26": 54.32,
+                        "revised_2024_25": 41.07,
+                        "capital_revised_2024_25": 3.58,
+                        "total_revised_2024_25": 44.65,
+                        "budget_2026_27": 39.46,
+                        "capital_2026_27": 18.3,
+                        "total_2026_27": 57.76
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Less Gate Receipts",
+                    "values": {
+                        "actual_2024_25": -3.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": -3.48,
+                        "budget_2025_26": -10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -10.0,
+                        "revised_2024_25": -10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -10.0,
+                        "budget_2026_27": -10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -10.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 29.8,
+                        "capital_2024_25": 8.67,
+                        "total_2024_25": 38.47,
+                        "budget_2025_26": 29.07,
+                        "capital_2025_26": 15.25,
+                        "total_2025_26": 44.32,
+                        "revised_2024_25": 31.07,
+                        "capital_revised_2024_25": 3.58,
+                        "total_revised_2024_25": 34.65,
+                        "budget_2026_27": 29.46,
+                        "capital_2026_27": 18.3,
+                        "total_2026_27": 47.76
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "National Authority",
+                    "values": {
+                        "actual_2024_25": 315.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 315.47,
+                        "budget_2025_26": 463.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 463.25,
+                        "revised_2024_25": 463.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 463.25,
+                        "budget_2026_27": 471.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 471.4
+                    }
+                },
+                {
+                    "code": "4.01",
+                    "name": "Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": 315.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 315.47,
+                        "budget_2025_26": 463.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 463.25,
+                        "revised_2024_25": 463.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 463.25,
+                        "budget_2026_27": 471.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 471.4
+                    }
+                },
+                {
+                    "code": "4.02",
+                    "name": "Less Amount met from National Compensatory",
+                    "values": {
+                        "actual_2024_25": -315.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": -315.47,
+                        "budget_2025_26": -463.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": -463.25,
+                        "revised_2024_25": -463.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -463.25,
+                        "budget_2026_27": -471.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": -471.4
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 742.64,
+                        "capital_2024_25": 89.09,
+                        "total_2024_25": 831.73,
+                        "budget_2025_26": 809.76,
+                        "capital_2025_26": 136.0,
+                        "total_2025_26": 945.76,
+                        "revised_2024_25": 877.12,
+                        "capital_revised_2024_25": 174.39,
+                        "total_revised_2024_25": 1051.51,
+                        "budget_2026_27": 941.12,
+                        "capital_2026_27": 222.8,
+                        "total_2026_27": 1163.92
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Environmental Knowledge and Capacity Building",
+                    "values": {
+                        "actual_2024_25": 99.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": 99.79,
+                        "budget_2025_26": 102.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 102.7,
+                        "revised_2024_25": 68.96,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 68.96,
+                        "budget_2026_27": 102.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 102.7
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "National Coastal Mission (NCM)",
+                    "values": {
+                        "actual_2024_25": 7.91,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.91,
+                        "budget_2025_26": 2.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": 7.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7.56,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 7.91,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.91,
+                        "budget_2025_26": 2.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": 7.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7.56,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Environment Education, Awareness, Research and Skill",
+                    "values": {
+                        "actual_2024_25": 67.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 67.47,
+                        "budget_2025_26": 101.96,
+                        "capital_2025_26": null,
+                        "total_2025_26": 101.96,
+                        "revised_2024_25": 75.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 75.0,
+                        "budget_2026_27": 104.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 104.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Control of Pollution",
+                    "values": {
+                        "actual_2024_25": 16.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16.2,
+                        "budget_2025_26": 853.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 853.9,
+                        "revised_2024_25": 1300.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1300.0,
+                        "budget_2026_27": 1091.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1091.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 191.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": 191.37,
+                        "budget_2025_26": 1060.56,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1060.56,
+                        "revised_2024_25": 1451.52,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1451.52,
+                        "budget_2026_27": 1307.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1307.7
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Central Pollution Control Board",
+                    "values": {
+                        "actual_2024_25": 113.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 113.83,
+                        "budget_2025_26": 126.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 126.0,
+                        "revised_2024_25": 116.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 116.2,
+                        "budget_2026_27": 123.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 123.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Central Zoo Authority",
+                    "values": {
+                        "actual_2024_25": 12.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12.0,
+                        "budget_2025_26": 13.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 13.2,
+                        "revised_2024_25": 8.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8.7,
+                        "budget_2026_27": 12.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12.3
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "National Biodiversity Authority",
+                    "values": {
+                        "actual_2024_25": 17.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 17.0,
+                        "budget_2025_26": 16.95,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16.95,
+                        "revised_2024_25": 14.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14.0,
+                        "budget_2026_27": 17.95,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17.95
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "National Tiger Conservation Authority",
+                    "values": {
+                        "actual_2024_25": 29.41,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.41,
+                        "budget_2025_26": 36.75,
+                        "capital_2025_26": null,
+                        "total_2025_26": 36.75,
+                        "revised_2024_25": 25.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25.26,
+                        "budget_2026_27": 32.18,
+                        "capital_2026_27": null,
+                        "total_2026_27": 32.18
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Commission for Air Quality Management",
+                    "values": {
+                        "actual_2024_25": 21.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21.35,
+                        "budget_2025_26": 38.98,
+                        "capital_2025_26": null,
+                        "total_2025_26": 38.98,
+                        "revised_2024_25": 31.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 31.26,
+                        "budget_2026_27": 35.26,
+                        "capital_2026_27": null,
+                        "total_2026_27": 35.26
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Statutory and Regulatory Bodies",
+                    "values": {
+                        "actual_2024_25": 193.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 193.59,
+                        "budget_2025_26": 231.88,
+                        "capital_2025_26": null,
+                        "total_2025_26": 231.88,
+                        "revised_2024_25": 195.42,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 195.42,
+                        "budget_2026_27": 220.69,
+                        "capital_2026_27": null,
+                        "total_2026_27": 220.69
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "GB Pant Himalayan Institue of Environment and",
+                    "values": {
+                        "actual_2024_25": 39.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 39.5,
+                        "budget_2025_26": 38.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 38.0,
+                        "revised_2024_25": 29.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 29.6,
+                        "budget_2026_27": 38.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 38.9
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Indian Council of Forestry Research and Education",
+                    "values": {
+                        "actual_2024_25": 339.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 339.0,
+                        "budget_2025_26": 354.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 354.0,
+                        "revised_2024_25": 320.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 320.8,
+                        "budget_2026_27": 331.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 331.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Indian Institute of Forest Management",
+                    "values": {
+                        "actual_2024_25": 13.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 13.0,
+                        "budget_2025_26": 10.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.3,
+                        "revised_2024_25": 1.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.02,
+                        "budget_2026_27": 0.03,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.03
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Wildlife Institute of India",
+                    "values": {
+                        "actual_2024_25": 47.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 47.95,
+                        "budget_2025_26": 52.32,
+                        "capital_2025_26": null,
+                        "total_2025_26": 52.32,
+                        "revised_2024_25": 39.99,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 39.99,
+                        "budget_2026_27": 45.88,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.88
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 439.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 439.45,
+                        "budget_2025_26": 454.62,
+                        "capital_2025_26": null,
+                        "total_2025_26": 454.62,
+                        "revised_2024_25": 391.41,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 391.41,
+                        "budget_2026_27": 415.81,
+                        "capital_2026_27": null,
+                        "total_2026_27": 415.81
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "18",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -41.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": -41.97,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 591.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 591.07,
+                        "budget_2025_26": 686.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 686.5,
+                        "revised_2024_25": 586.83,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 586.83,
+                        "budget_2026_27": 636.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 636.5
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "National Mission for a Green India",
+                    "values": {
+                        "actual_2024_25": 104.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 104.29,
+                        "budget_2025_26": 170.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 170.0,
+                        "revised_2024_25": 62.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 62.45,
+                        "budget_2026_27": 170.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 170.0
+                    }
+                },
+                {
+                    "code": "19.01",
+                    "name": "Green India Mission-National Afforestation",
+                    "values": {
+                        "actual_2024_25": 104.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 104.29,
+                        "budget_2025_26": 170.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 170.0,
+                        "revised_2024_25": 62.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 62.45,
+                        "budget_2026_27": 170.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 170.0
+                    }
+                },
+                {
+                    "code": "19.02",
+                    "name": "Green India Mission- National Afforestation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 2.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.5
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "19.03",
+                    "name": "Transfer to Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": 104.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 104.29,
+                        "budget_2025_26": 170.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 170.0,
+                        "revised_2024_25": 62.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 62.45,
+                        "budget_2026_27": 172.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 172.5
+                    }
+                },
+                {
+                    "code": "19.04",
+                    "name": "Amount met from Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": -104.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": -104.29,
+                        "budget_2025_26": -170.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -170.0,
+                        "revised_2024_25": -62.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -62.45,
+                        "budget_2026_27": -172.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": -172.5
+                    }
+                },
+                {
+                    "code": "19.05",
+                    "name": "Forest Fire Prevention and Management",
+                    "values": {
+                        "actual_2024_25": 31.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": 31.8,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 33.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 33.25,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- National Mission for a Green India",
+                    "values": {
+                        "actual_2024_25": 136.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 136.09,
+                        "budget_2025_26": 220.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 220.0,
+                        "revised_2024_25": 95.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 95.7,
+                        "budget_2026_27": 212.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 212.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "20",
+                    "name": "Conservation of Natural Resources and Ecosystems",
+                    "values": {
+                        "actual_2024_25": 2.14,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.14,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 4.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4.0,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "20.01",
+                    "name": "Biodiversity Conservation",
+                    "values": {
+                        "actual_2024_25": 2.14,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.14,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 4.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4.0,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "20.02",
+                    "name": "Conservation of Aquatic Ecosystems",
+                    "values": {
+                        "actual_2024_25": 19.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 19.65,
+                        "budget_2025_26": 35.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35.0,
+                        "revised_2024_25": 24.03,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 24.03,
+                        "budget_2026_27": 21.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 21.06
+                    }
+                },
+                {
+                    "code": "20.03",
+                    "name": "Conservation of Aquatic Ecosystems (EAP",
+                    "values": {
+                        "actual_2024_25": 2.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.9,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 2.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.45,
+                        "budget_2026_27": 3.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Conservation of Natural Resources and Ecosystems",
+                    "values": {
+                        "actual_2024_25": 24.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.69,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 30.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.48,
+                        "budget_2026_27": 34.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 34.06
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "21",
+                    "name": "Integrated Development of Wildlife Habitats",
+                    "values": {
+                        "actual_2024_25": 139.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": 139.8,
+                        "budget_2025_26": 148.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 148.0,
+                        "revised_2024_25": 102.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 102.53,
+                        "budget_2026_27": 106.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 106.78
+                    }
+                },
+                {
+                    "code": "21.01",
+                    "name": "Development of Wildlife Habitats",
+                    "values": {
+                        "actual_2024_25": 139.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": 139.8,
+                        "budget_2025_26": 148.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 148.0,
+                        "revised_2024_25": 102.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 102.53,
+                        "budget_2026_27": 106.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 106.78
+                    }
+                },
+                {
+                    "code": "21.02",
+                    "name": "Development of Wildlife Habitats (EAP",
+                    "values": {
+                        "actual_2024_25": 14.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14.95,
+                        "budget_2025_26": 12.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 8.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8.0
+                    }
+                },
+                {
+                    "code": "21.03",
+                    "name": "Project Tiger & Elephant",
+                    "values": {
+                        "actual_2024_25": 290.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 290.0,
+                        "budget_2025_26": 290.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 290.0,
+                        "revised_2024_25": 153.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 153.04,
+                        "budget_2026_27": 290.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 290.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Integrated Development of Wildlife Habitats",
+                    "values": {
+                        "actual_2024_25": 444.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 444.75,
+                        "budget_2025_26": 450.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 450.0,
+                        "revised_2024_25": 265.57,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 265.57,
+                        "budget_2026_27": 404.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 404.78
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Environment, Forestry and Wildlife",
+                    "values": {
+                        "actual_2024_25": 605.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 605.53,
+                        "budget_2025_26": 720.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 720.0,
+                        "revised_2024_25": 391.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 391.75,
+                        "budget_2026_27": 651.34,
+                        "capital_2026_27": null,
+                        "total_2026_27": 651.34
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 605.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 605.53,
+                        "budget_2025_26": 720.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 720.0,
+                        "revised_2024_25": 391.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 391.75,
+                        "budget_2026_27": 651.34,
+                        "capital_2026_27": null,
+                        "total_2026_27": 651.34
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2130.61,
+                        "capital_2024_25": 89.09,
+                        "total_2024_25": 2219.7,
+                        "budget_2025_26": 3276.82,
+                        "capital_2025_26": 136.0,
+                        "total_2025_26": 3412.82,
+                        "revised_2024_25": 3307.22,
+                        "capital_revised_2024_25": 174.39,
+                        "total_revised_2024_25": 3481.61,
+                        "budget_2026_27": 3536.66,
+                        "capital_2026_27": 222.8,
+                        "total_2026_27": 3759.46
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Forestry and Wild Life",
+                    "values": {
+                        "actual_2024_25": 785.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 785.53,
+                        "budget_2025_26": 829.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 829.97,
+                        "revised_2024_25": 709.67,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 709.67,
+                        "budget_2026_27": 791.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 791.36
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Ecology and Environment",
+                    "values": {
+                        "actual_2024_25": 520.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": 520.22,
+                        "budget_2025_26": 1388.47,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1388.47,
+                        "revised_2024_25": 1728.48,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1728.48,
+                        "budget_2026_27": 1726.96,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1726.96
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 266.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 266.53,
+                        "budget_2025_26": 286.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 286.01,
+                        "revised_2024_25": 368.9,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 368.9,
+                        "budget_2026_27": 283.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 283.01
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Forestry and Wild Life",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 43.87,
+                        "total_2024_25": 43.87,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 61.06,
+                        "total_2025_26": 61.06,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 48.37,
+                        "total_revised_2024_25": 48.37,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 83.9,
+                        "total_2026_27": 83.9
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Other Scientific and Environmental",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 33.83,
+                        "total_2024_25": 33.83,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 56.0,
+                        "total_2025_26": 56.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 107.08,
+                        "total_revised_2024_25": 107.08,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 119.88,
+                        "total_2026_27": 119.88
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 11.39,
+                        "total_2024_25": 11.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 18.94,
+                        "total_2025_26": 18.94,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 18.94,
+                        "total_revised_2024_25": 18.94,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 19.02,
+                        "total_2026_27": 19.02
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 1572.28,
+                        "capital_2024_25": 89.09,
+                        "total_2024_25": 1661.37,
+                        "budget_2025_26": 2504.45,
+                        "capital_2025_26": 136.0,
+                        "total_2025_26": 2640.45,
+                        "revised_2024_25": 2807.05,
+                        "capital_revised_2024_25": 174.39,
+                        "total_revised_2024_25": 2981.44,
+                        "budget_2026_27": 2801.33,
+                        "capital_2026_27": 222.8,
+                        "total_2026_27": 3024.13
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 180.84,
+                        "capital_2025_26": null,
+                        "total_2025_26": 180.84,
+                        "revised_2024_25": 211.33,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 211.33,
+                        "budget_2026_27": 188.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 188.7
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 553.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 553.09,
+                        "budget_2025_26": 577.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 577.53,
+                        "revised_2024_25": 286.74,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 286.74,
+                        "budget_2026_27": 534.63,
+                        "capital_2026_27": null,
+                        "total_2026_27": 534.63
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 5.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.24,
+                        "budget_2025_26": 14.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 14.0,
+                        "revised_2024_25": 2.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.1,
+                        "budget_2026_27": 12.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 558.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": 558.33,
+                        "budget_2025_26": 772.37,
+                        "capital_2025_26": null,
+                        "total_2025_26": 772.37,
+                        "revised_2024_25": 500.17,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.17,
+                        "budget_2026_27": 735.33,
+                        "capital_2026_27": null,
+                        "total_2026_27": 735.33
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2130.61,
+                        "capital_2024_25": 89.09,
+                        "total_2024_25": 2219.7,
+                        "budget_2025_26": 3276.82,
+                        "capital_2025_26": 136.0,
+                        "total_2025_26": 3412.82,
+                        "revised_2024_25": 3307.22,
+                        "capital_revised_2024_25": 174.39,
+                        "total_revised_2024_25": 3481.61,
+                        "budget_2026_27": 3536.66,
+                        "capital_2026_27": 222.8,
+                        "total_2026_27": 3759.46
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "21. Integrated Development of Wildlife Habitats:..The Ministry has two main schemes to protect",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "- 4. Establishment Expenditure of the Centre: The provision is for secretariat expenditure and the wildlife of the country, namely, Project Tiger & Elephant and Development of Wildlife Habitats. Earlier Project Tiger",
+                    "values": {
+                        "actual_2024_25": 1.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "attached/subordinate offices including the National Zoological Park and National Authority. In Other establishment and Project Elephant were two separate schemes which are merged as Project Tiger & Elephant.",
+            "items": []
+        },
+        {
+            "heading": "related expenditure provisions of International Cooperation, Information Technology and Environment Impact",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Environmental Knowledge and Capacity Building:..The Umbrella Central Sector Scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "has two sub-schemes (i) Forestry Training and Capacity Building and (ii) Eco Task Force. The scheme Forestry",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "National Coastal Mission (NCM):..Ministry is responsible to ensure livelihood security of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Environment Education, Awareness, Research and Skill Development:..The Umbrella",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Control of Pollution:..Control of Pollution has been conceptualized to provide financial",
+                    "values": {
+                        "actual_2024_25": 9.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "- 12. Statutory and Regulatory Bodies: The expenditure caters for Central Pollution Control Board",
+                    "values": {
+                        "actual_2024_25": 9.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Commission for Air Quality Management:..A newly formed Statutory and Regulatory Body.",
+                    "values": {
+                        "actual_2024_25": 14.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "- 17. Autonomous Bodies: The expenditure caters for various autonomous bodies/institutions which are",
+                    "values": {
+                        "actual_2024_25": 14.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "National Mission for a Green India:..In order to increase the forest cover and to protect the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "existing forest land, the Ministry has two plan schemes namely, Green India Mission -National Afforestation",
+            "items": [
+                {
+                    "code": "20",
+                    "name": "Conservation of Natural Resources and Ecosystems:..To conserve the natural resources",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF EXTERNAL AFFAIRS",
+            "items": []
+        }
+    ]
+}

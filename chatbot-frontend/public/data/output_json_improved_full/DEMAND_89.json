@@ -1,0 +1,931 @@
+{
+    "demand_no": 89,
+    "ministry": "Ministry Of Science And Technology",
+    "department": "Department Of Science And Technology",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 4957.19,
+                        "capital_2024_25": 64.22,
+                        "total_2024_25": 5021.41,
+                        "budget_2025_26": 8413.05,
+                        "capital_2025_26": 20095.85,
+                        "total_2025_26": 28508.9,
+                        "revised_2024_25": 8838.52,
+                        "capital_revised_2024_25": 3083.06,
+                        "total_revised_2024_25": 11921.58,
+                        "budget_2026_27": 7963.94,
+                        "capital_2026_27": 20085.38,
+                        "total_2026_27": 28049.32
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 104.85,
+                        "capital_2024_25": 1.4,
+                        "total_2024_25": 106.25,
+                        "budget_2025_26": 115.5,
+                        "capital_2025_26": 10.95,
+                        "total_2025_26": 126.45,
+                        "revised_2024_25": 114.88,
+                        "capital_revised_2024_25": 4.76,
+                        "total_revised_2024_25": 119.64,
+                        "budget_2026_27": 119.0,
+                        "capital_2026_27": 2.5,
+                        "total_2026_27": 121.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.15,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 104.7,
+                        "capital_2024_25": 1.4,
+                        "total_2024_25": 106.1,
+                        "budget_2025_26": 115.5,
+                        "capital_2025_26": 10.95,
+                        "total_2025_26": 126.45,
+                        "revised_2024_25": 114.88,
+                        "capital_revised_2024_25": 4.76,
+                        "total_revised_2024_25": 119.64,
+                        "budget_2026_27": 119.0,
+                        "capital_2026_27": 2.5,
+                        "total_2026_27": 121.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Survey of India",
+                    "values": {
+                        "actual_2024_25": 420.73,
+                        "capital_2024_25": 62.27,
+                        "total_2024_25": 483.0,
+                        "budget_2025_26": 515.74,
+                        "capital_2025_26": 81.75,
+                        "total_2025_26": 597.49,
+                        "revised_2024_25": 472.34,
+                        "capital_revised_2024_25": 75.9,
+                        "total_revised_2024_25": 548.24,
+                        "budget_2026_27": 479.92,
+                        "capital_2026_27": 81.38,
+                        "total_2026_27": 561.3
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -100.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": -100.79,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 319.94,
+                        "capital_2024_25": 62.27,
+                        "total_2024_25": 382.21,
+                        "budget_2025_26": 515.74,
+                        "capital_2025_26": 81.75,
+                        "total_2025_26": 597.49,
+                        "revised_2024_25": 472.34,
+                        "capital_revised_2024_25": 75.9,
+                        "total_revised_2024_25": 548.24,
+                        "budget_2026_27": 479.92,
+                        "capital_2026_27": 81.38,
+                        "total_2026_27": 561.3
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "National Atlas and Thematic Mapping Organization",
+                    "values": {
+                        "actual_2024_25": 31.16,
+                        "capital_2024_25": 0.55,
+                        "total_2024_25": 31.71,
+                        "budget_2025_26": 31.06,
+                        "capital_2025_26": 3.15,
+                        "total_2025_26": 34.21,
+                        "revised_2024_25": 31.62,
+                        "capital_revised_2024_25": 2.4,
+                        "total_revised_2024_25": 34.02,
+                        "budget_2026_27": 30.88,
+                        "capital_2026_27": 1.5,
+                        "total_2026_27": 32.38
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Science Counsellor Abroad",
+                    "values": {
+                        "actual_2024_25": 12.1,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12.1,
+                        "budget_2025_26": 13.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 13.7,
+                        "revised_2024_25": 16.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 16.73,
+                        "budget_2026_27": 15.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 467.9,
+                        "capital_2024_25": 64.22,
+                        "total_2024_25": 532.12,
+                        "budget_2025_26": 676.0,
+                        "capital_2025_26": 95.85,
+                        "total_2025_26": 771.85,
+                        "revised_2024_25": 635.57,
+                        "capital_revised_2024_25": 83.06,
+                        "total_revised_2024_25": 718.63,
+                        "budget_2026_27": 644.81,
+                        "capital_2026_27": 85.38,
+                        "total_2026_27": 730.19
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Science and Technology Institutional and Human",
+                    "values": {
+                        "actual_2024_25": 542.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": 542.38,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Research and Development",
+                    "values": {
+                        "actual_2024_25": 48.41,
+                        "capital_2024_25": null,
+                        "total_2024_25": 48.41,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Innovation, Technology Development and Deployment",
+                    "values": {
+                        "actual_2024_25": 325.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 325.56,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "National Mission on Interdisciplinary Cyber Physical",
+                    "values": {
+                        "actual_2024_25": 715.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": 715.97,
+                        "budget_2025_26": 900.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 900.0,
+                        "revised_2024_25": 750.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 750.6,
+                        "budget_2026_27": 700.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 700.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "National Quantum Mission (NQM)",
+                    "values": {
+                        "actual_2024_25": 62.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 62.36,
+                        "budget_2025_26": 600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 600.0,
+                        "revised_2024_25": 755.15,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 755.15,
+                        "budget_2026_27": 900.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 900.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Vigyan Dhara",
+                    "values": {
+                        "actual_2024_25": 271.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 271.98,
+                        "budget_2025_26": 1425.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1425.0,
+                        "revised_2024_25": 2009.14,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2009.14,
+                        "budget_2026_27": 1425.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1425.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "National Supercomputing MIssion",
+                    "values": {
+                        "actual_2024_25": 221.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 221.0,
+                        "budget_2025_26": 265.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 265.0,
+                        "revised_2024_25": 530.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 530.0,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Research, Development and Innovation (RDI) scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 20000.0,
+                        "total_2025_26": 20000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3000.0,
+                        "total_revised_2024_25": 3000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20000.0,
+                        "total_2026_27": 20000.0
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "National Geospatial Mission",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": 35.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 35.0,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 2187.66,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2187.66,
+                        "budget_2025_26": 3290.0,
+                        "capital_2025_26": 20000.0,
+                        "total_2025_26": 23290.0,
+                        "revised_2024_25": 4079.89,
+                        "capital_revised_2024_25": 3000.0,
+                        "total_revised_2024_25": 7079.89,
+                        "budget_2026_27": 3125.01,
+                        "capital_2026_27": 20000.0,
+                        "total_2026_27": 23125.01
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Science and Engineering Research Board",
+                    "values": {
+                        "actual_2024_25": 721.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 721.0,
+                        "budget_2025_26": 693.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 693.25,
+                        "revised_2024_25": 543.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 543.25,
+                        "budget_2026_27": 543.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 543.25
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Technology Development Board",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.0,
+                        "budget_2025_26": 7.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7.0,
+                        "revised_2024_25": 7.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7.0,
+                        "budget_2026_27": 7.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Statutory and Regulatory Bodies",
+                    "values": {
+                        "actual_2024_25": 726.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 726.0,
+                        "budget_2025_26": 700.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 700.25,
+                        "revised_2024_25": 550.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 550.25,
+                        "budget_2026_27": 550.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 550.25
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "16",
+                    "name": "Assistance to Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 1575.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1575.63,
+                        "budget_2025_26": 1746.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1746.8,
+                        "revised_2024_25": 1624.81,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1624.81,
+                        "budget_2026_27": 1643.87,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1643.87
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "National Research Foundation (NRF)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2000.0,
+                        "revised_2024_25": 1948.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1948.0,
+                        "budget_2026_27": 2000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 2301.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2301.63,
+                        "budget_2025_26": 4447.05,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4447.05,
+                        "revised_2024_25": 4123.06,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4123.06,
+                        "budget_2026_27": 4194.12,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4194.12
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 4957.19,
+                        "capital_2024_25": 64.22,
+                        "total_2024_25": 5021.41,
+                        "budget_2025_26": 8413.05,
+                        "capital_2025_26": 20095.85,
+                        "total_2025_26": 28508.9,
+                        "revised_2024_25": 8838.52,
+                        "capital_revised_2024_25": 3083.06,
+                        "total_revised_2024_25": 11921.58,
+                        "budget_2026_27": 7963.94,
+                        "capital_2026_27": 20085.38,
+                        "total_2026_27": 28049.32
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Other Scientific Research",
+                    "values": {
+                        "actual_2024_25": 4852.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4852.49,
+                        "budget_2025_26": 8297.55,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8297.55,
+                        "revised_2024_25": 8723.64,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8723.64,
+                        "budget_2026_27": 7844.94,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7844.94
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 104.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 104.7,
+                        "budget_2025_26": 115.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 115.5,
+                        "revised_2024_25": 114.88,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 114.88,
+                        "budget_2026_27": 119.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 119.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Other Scientific and Environmental",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 64.22,
+                        "total_2024_25": 64.22,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 95.85,
+                        "total_2025_26": 95.85,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 83.06,
+                        "total_revised_2024_25": 83.06,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 85.38,
+                        "total_2026_27": 85.38
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Loans for Other Scientific Research",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 20000.0,
+                        "total_2025_26": 20000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3000.0,
+                        "total_revised_2024_25": 3000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20000.0,
+                        "total_2026_27": 20000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 4957.19,
+                        "capital_2024_25": 64.22,
+                        "total_2024_25": 5021.41,
+                        "budget_2025_26": 8413.05,
+                        "capital_2025_26": 20095.85,
+                        "total_2025_26": 28508.9,
+                        "revised_2024_25": 8838.52,
+                        "capital_revised_2024_25": 3083.06,
+                        "total_revised_2024_25": 11921.58,
+                        "budget_2026_27": 7963.94,
+                        "capital_2026_27": 20085.38,
+                        "total_2026_27": 28049.32
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 4957.19,
+                        "capital_2024_25": 64.22,
+                        "total_2024_25": 5021.41,
+                        "budget_2025_26": 8413.05,
+                        "capital_2025_26": 20095.85,
+                        "total_2025_26": 28508.9,
+                        "revised_2024_25": 8838.52,
+                        "capital_revised_2024_25": 3083.06,
+                        "total_revised_2024_25": 11921.58,
+                        "budget_2026_27": 7963.94,
+                        "capital_2026_27": 20085.38,
+                        "total_2026_27": 28049.32
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..Provision is for establishment related expenditure of the Department. 6. Research and Development:..This includes allocation for International Co-operation, National",
+            "items": []
+        },
+        {
+            "heading": "2. Survey of India:..Provision is for expenditure on Direction and Administration (Surveyor",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Innovation, Technology Development and Deployment:..This includes allocation for the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "National Atlas and Thematic Mapping Organization:..Provision is for the compilation of the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "National Mission on Interdisciplinary Cyber Physical Systems:..Cyber Physical Systems",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Science Counsellor Abroad:..Provision is for the Counsellors deployed at various Indian",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "autonomous and efficient and are expected to drive innovation in sectors as diverse as agriculture, water, energy,",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Science and Technology Institutional and Human Capacity Building:..This includes transportation, infrastructure, security, health and manufacturing. Thus, it is heralded as the next paradigm shift in",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "National Quantum Mission (NQM):..The Mission aims to seed, nurture and scale up scientific across all types of institutions. The overarching goal of the NRF will be to seed, grow and promote Research and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Vigyan Dhara:..The scheme has three broad components, (i) Science and Technology",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Science, Technology and Innovation ecosystem in the country. The merger of the schemes into a single scheme would",
+            "items": []
+        },
+        {
+            "heading": "enhance efficiency in fund utilization and establish synchronization among the sub-schemes/programs.",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "National Supercomputing MIssion:..National Supercomputing mission is jointly implemented",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Research, Development and Innovation (RDI) scheme:..A corpus to facilitate setting up of a",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "sunrise transformative projects and support acquisition of technologies which are critical or of high strategic",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "National Geospatial Mission:..This includes provision for National Geospatial Mission to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Science and Engineering Research Board:..This includes the provision for the ongoing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Technology Development Board:..This includes the provision for Technology Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "16. Assistance to Autonomous Bodies:..This includes the provision for the following",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Institutes and Professional Bodies under the Department of Science & Technology:",
+            "items": [
+                {
+                    "code": "17",
+                    "name": "National Research Foundation (NRF):..This includes provision for Anusandhan National",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+            "items": []
+        }
+    ]
+}

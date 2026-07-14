@@ -1,0 +1,1605 @@
+{
+    "demand_no": 76,
+    "ministry": "Ministry Of Petroleum And Natural Gas",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 16621.78,
+                        "capital_2024_25": 340.55,
+                        "total_2024_25": 16962.33,
+                        "budget_2025_26": 12700.77,
+                        "capital_2025_26": 6626.13,
+                        "total_2025_26": 19326.9,
+                        "revised_2024_25": 28393.21,
+                        "capital_revised_2024_25": 1407.13,
+                        "total_revised_2024_25": 29800.34,
+                        "budget_2026_27": 30204.77,
+                        "capital_2026_27": 238.45,
+                        "total_2026_27": 30443.22
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 47.35,
+                        "capital_2024_25": 160.55,
+                        "total_2024_25": 207.9,
+                        "budget_2025_26": 63.49,
+                        "capital_2025_26": 2.13,
+                        "total_2025_26": 65.62,
+                        "revised_2024_25": 55.1,
+                        "capital_revised_2024_25": 2.13,
+                        "total_revised_2024_25": 57.23,
+                        "budget_2026_27": 75.71,
+                        "capital_2026_27": 8.44,
+                        "total_2026_27": 84.15
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Payment of differential royalty to State Governments",
+                    "values": {
+                        "actual_2024_25": 20.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 20.99,
+                        "budget_2025_26": 16.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16.36,
+                        "revised_2024_25": 11.22,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11.22,
+                        "budget_2026_27": 14.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 14.6
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Indian Strategic Petroleum Reserve Limited (ISPRL)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 17.25,
+                        "total_2024_25": 17.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 100.0,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 20.0,
+                        "total_revised_2024_25": 20.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20.0,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Payment to Indian Strategic Petroleum Reserve Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5597.0,
+                        "total_2025_26": 5597.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 850.0,
+                        "total_revised_2024_25": 850.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Payment to ISPRL for Strategic Crude Oil Reserve (O",
+                    "values": {
+                        "actual_2024_25": 100.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 100.0,
+                        "budget_2025_26": 179.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 179.0,
+                        "revised_2024_25": 169.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 169.0,
+                        "budget_2026_27": 180.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 180.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Transfer to Oil Industry Development Fund (OIDF)",
+                    "values": {
+                        "actual_2024_25": 100.0,
+                        "capital_2024_25": 30.0,
+                        "total_2024_25": 130.0,
+                        "budget_2025_26": 179.0,
+                        "capital_2025_26": 5697.0,
+                        "total_2025_26": 5876.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 870.0,
+                        "total_revised_2024_25": 870.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Amount met from Oil Industry Development Fund (OIDF)",
+                    "values": {
+                        "actual_2024_25": -100.0,
+                        "capital_2024_25": -17.25,
+                        "total_2024_25": -117.25,
+                        "budget_2025_26": -179.0,
+                        "capital_2025_26": -5697.0,
+                        "total_2025_26": -5876.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -870.0,
+                        "total_revised_2024_25": -870.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Strategic Oil Reserves",
+                    "values": {
+                        "actual_2024_25": 100.0,
+                        "capital_2024_25": 30.0,
+                        "total_2024_25": 130.0,
+                        "budget_2025_26": 179.0,
+                        "capital_2025_26": 5697.0,
+                        "total_2025_26": 5876.0,
+                        "revised_2024_25": 169.0,
+                        "capital_revised_2024_25": 870.0,
+                        "total_revised_2024_25": 1039.0,
+                        "budget_2026_27": 180.0,
+                        "capital_2026_27": 20.01,
+                        "total_2026_27": 200.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "Pradhan Mantri JI-VAN Yojana",
+                    "values": {
+                        "actual_2024_25": 7.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.58,
+                        "budget_2025_26": 117.41,
+                        "capital_2025_26": null,
+                        "total_2025_26": 117.41,
+                        "revised_2024_25": 37.88,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 37.88,
+                        "budget_2026_27": 196.94,
+                        "capital_2026_27": null,
+                        "total_2026_27": 196.94
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Direct Benefit Transfer - LPG",
+                    "values": {
+                        "actual_2024_25": 375.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 375.27,
+                        "budget_2025_26": 1500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1500.0,
+                        "revised_2024_25": 1000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1000.0,
+                        "budget_2026_27": 1500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1500.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "LPG Connection to Poor Households",
+                    "values": {
+                        "actual_2024_25": 12700.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12700.0,
+                        "budget_2025_26": 9100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9100.0,
+                        "revised_2024_25": 12736.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12736.0,
+                        "budget_2026_27": 9200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 9200.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Other subsidy payable including for North Eastern",
+                    "values": {
+                        "actual_2024_25": 1103.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1103.73,
+                        "budget_2025_26": 1200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1200.0,
+                        "revised_2024_25": 1103.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1103.0,
+                        "budget_2026_27": 1103.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1103.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Feedstock Subsidy to BCPL/Assam Gas Cracker",
+                    "values": {
+                        "actual_2024_25": 300.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 300.0,
+                        "budget_2025_26": 300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 300.0,
+                        "revised_2024_25": 281.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 281.5,
+                        "budget_2026_27": 281.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 281.5
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Project Management Expenditure",
+                    "values": {
+                        "actual_2024_25": 0.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.01,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Transfers to Oil Industry Development Fund (OIDF)",
+                    "values": {
+                        "actual_2024_25": 2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2000.0,
+                        "budget_2025_26": 500.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.03,
+                        "revised_2024_25": 1940.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1940.0,
+                        "budget_2026_27": 6210.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6210.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "15",
+                    "name": "Amount met from Oil Industry Development Fund(OIDF)",
+                    "values": {
+                        "actual_2024_25": -2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2000.0,
+                        "budget_2025_26": -500.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": -500.03,
+                        "revised_2024_25": -1940.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1940.0,
+                        "budget_2026_27": -6210.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -6210.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Additional Transfer to Reserve Fund",
+                    "values": {
+                        "actual_2024_25": 1000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "16.01",
+                    "name": "Oil Industry Development Fund",
+                    "values": {
+                        "actual_2024_25": 1000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Additional Amount met from Reserve fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -1000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1000.0
+                    }
+                },
+                {
+                    "code": "17.01",
+                    "name": "Oil Industry Development Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -1000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-LPG Subsidy",
+                    "values": {
+                        "actual_2024_25": 15479.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 15479.01,
+                        "budget_2025_26": 11100.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11100.01,
+                        "revised_2024_25": 15120.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15120.51,
+                        "budget_2026_27": 11084.51,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11084.51
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "18",
+                    "name": "One-time Grant to PSU OMCs for under recoveries in",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 12500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12500.0,
+                        "budget_2026_27": 17500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17500.0
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Indradhanush Gas Grid Limited(IGGL)-part of the North East Natural Gas",
+                    "values": {
+                        "actual_2024_25": 611.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 611.92,
+                        "budget_2025_26": 700.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 700.0,
+                        "revised_2024_25": 300.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 300.0,
+                        "budget_2026_27": 700.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 700.0
+                    }
+                },
+                {
+                    "code": "19.01",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 611.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 611.92,
+                        "budget_2025_26": 700.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 700.0,
+                        "revised_2024_25": 300.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 300.0,
+                        "budget_2026_27": 700.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 700.0
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Numaligarh Refinery Expansion Project",
+                    "values": {
+                        "actual_2024_25": 275.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 275.0,
+                        "budget_2025_26": 24.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 24.5,
+                        "revised_2024_25": 24.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 24.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Scheme for promotion of flagging of merchant ships in",
+                    "values": {
+                        "actual_2024_25": 78.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 78.21,
+                        "budget_2025_26": 100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": 105.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 105.0,
+                        "budget_2026_27": 31.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 31.0
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Global Biofuels Alliance",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "Scheme for providing financial support for collection of",
+                    "values": {
+                        "actual_2024_25": 1.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.72,
+                        "budget_2025_26": 150.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Payment to ISPRL for purchase of land",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 50.0,
+                        "total_2024_25": 50.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 235.0,
+                        "total_2025_26": 235.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 135.0,
+                        "total_revised_2024_25": 135.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 10.0,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "Scheme for Development of Pipeline infrastructure for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 250.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "26",
+                    "name": "Mission Anveshan",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 50.0,
+                        "total_2024_25": 50.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 592.0,
+                        "total_2025_26": 592.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 200.0,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 200.0,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "27",
+                    "name": "Appraisal of areas in India's Extended Continental Shelf",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 50.0,
+                        "total_2024_25": 50.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 100.0,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 200.0,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 16574.43,
+                        "capital_2024_25": 180.0,
+                        "total_2024_25": 16754.43,
+                        "budget_2025_26": 12637.28,
+                        "capital_2025_26": 6624.0,
+                        "total_2025_26": 19261.28,
+                        "revised_2024_25": 28288.11,
+                        "capital_revised_2024_25": 1405.0,
+                        "total_revised_2024_25": 29693.11,
+                        "budget_2026_27": 29827.06,
+                        "capital_2026_27": 230.01,
+                        "total_2026_27": 30057.07
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "28",
+                    "name": "Indian Institute of Petroleum Energy",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 50.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": 302.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 302.0
+                    }
+                },
+                {
+                    "code": "29",
+                    "name": "Issue of Bonus Shares",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 807.91,
+                        "total_2024_25": 807.91,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "29.01",
+                    "name": "Bharat Petroleum Corporation Limited (BPCL)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 807.91,
+                        "total_2024_25": 807.91,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "29.02",
+                    "name": "Oil India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 324.13,
+                        "total_revised_2024_25": 324.13,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "29.03",
+                    "name": "Less Receipts",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -807.91,
+                        "total_2024_25": -807.91,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -324.13,
+                        "total_revised_2024_25": -324.13,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 50.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": 302.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 302.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 16621.78,
+                        "capital_2024_25": 340.55,
+                        "total_2024_25": 16962.33,
+                        "budget_2025_26": 12700.77,
+                        "capital_2025_26": 6626.13,
+                        "total_2025_26": 19326.9,
+                        "revised_2024_25": 28393.21,
+                        "capital_revised_2024_25": 1407.13,
+                        "total_revised_2024_25": 29800.34,
+                        "budget_2026_27": 30204.77,
+                        "capital_2026_27": 238.45,
+                        "total_2026_27": 30443.22
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Petroleum",
+                    "values": {
+                        "actual_2024_25": 16475.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16475.23,
+                        "budget_2025_26": 12520.92,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12520.92,
+                        "revised_2024_25": 28221.89,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 28221.89,
+                        "budget_2026_27": 30083.46,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30083.46
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": 78.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 78.21,
+                        "budget_2025_26": 100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": 105.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 105.0,
+                        "budget_2026_27": 31.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 31.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 47.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 47.35,
+                        "budget_2025_26": 63.49,
+                        "capital_2025_26": null,
+                        "total_2025_26": 63.49,
+                        "revised_2024_25": 55.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 55.1,
+                        "budget_2026_27": 75.71,
+                        "capital_2026_27": null,
+                        "total_2026_27": 75.71
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Petroleum",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 180.0,
+                        "total_2024_25": 180.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 6624.0,
+                        "total_2025_26": 6624.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1405.0,
+                        "total_revised_2024_25": 1405.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 230.01,
+                        "total_2026_27": 230.01
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 160.55,
+                        "total_2024_25": 160.55,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.13,
+                        "total_2025_26": 2.13,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.13,
+                        "total_revised_2024_25": 2.13,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 8.44,
+                        "total_2026_27": 8.44
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 16600.79,
+                        "capital_2024_25": 340.55,
+                        "total_2024_25": 16941.34,
+                        "budget_2025_26": 12684.41,
+                        "capital_2025_26": 6626.13,
+                        "total_2025_26": 19310.54,
+                        "revised_2024_25": 28381.99,
+                        "capital_revised_2024_25": 1407.13,
+                        "total_revised_2024_25": 29789.12,
+                        "budget_2026_27": 30190.17,
+                        "capital_2026_27": 238.45,
+                        "total_2026_27": 30428.62
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 20.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 20.99,
+                        "budget_2025_26": 16.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16.36,
+                        "revised_2024_25": 11.22,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11.22,
+                        "budget_2026_27": 14.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 14.6
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 20.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 20.99,
+                        "budget_2025_26": 16.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16.36,
+                        "revised_2024_25": 11.22,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11.22,
+                        "budget_2026_27": 14.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 14.6
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 16621.78,
+                        "capital_2024_25": 340.55,
+                        "total_2024_25": 16962.33,
+                        "budget_2025_26": 12700.77,
+                        "capital_2025_26": 6626.13,
+                        "total_2025_26": 19326.9,
+                        "revised_2024_25": 28393.21,
+                        "capital_revised_2024_25": 1407.13,
+                        "total_revised_2024_25": 29800.34,
+                        "budget_2026_27": 30204.77,
+                        "capital_2026_27": 238.45,
+                        "total_2026_27": 30443.22
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Oil and Natural Gas Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 62057.32,
+                        "total_2024_25": 62057.32,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 34900.0,
+                        "total_2025_26": 34900.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 32000.0,
+                        "total_revised_2024_25": 32000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 30000.0,
+                        "total_2026_27": 30000.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Gas Authority of India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7404.0,
+                        "total_2024_25": 7404.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5706.0,
+                        "total_2025_26": 5706.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 6196.0,
+                        "total_revised_2024_25": 6196.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 9262.0,
+                        "total_2026_27": 9262.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Bharat Petroleum Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2250.0,
+                        "total_2024_25": 2250.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2000.0,
+                        "total_2025_26": 2000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2000.0,
+                        "total_revised_2024_25": 2000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2250.0,
+                        "total_2026_27": 2250.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Indian Oil Corporation Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 143.68,
+                        "total_2024_25": 143.68,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 270.81,
+                        "total_2025_26": 270.81,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 263.03,
+                        "total_revised_2024_25": 263.03,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 183.31,
+                        "total_2026_27": 183.31
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Oil India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8467.33,
+                        "total_2024_25": 8467.33,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7860.0,
+                        "total_2025_26": 7860.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 8805.0,
+                        "total_revised_2024_25": 8805.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 8653.0,
+                        "total_2026_27": 8653.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Oil Natural Gas Corporation Videsh",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5237.33,
+                        "total_2024_25": 5237.33,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5590.0,
+                        "total_2025_26": 5590.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 6086.54,
+                        "total_revised_2024_25": 6086.54,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7264.55,
+                        "total_2026_27": 7264.55
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Exploration and Production",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 85559.66,
+                        "total_2024_25": 85559.66,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 56326.81,
+                        "total_2025_26": 56326.81,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 55350.57,
+                        "total_revised_2024_25": 55350.57,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 57612.86,
+                        "total_2026_27": 57612.86
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Indian Oil Corporation Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 36108.93,
+                        "total_2024_25": 36108.93,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 32054.6,
+                        "total_2025_26": 32054.6,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 31935.66,
+                        "total_revised_2024_25": 31935.66,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 28641.28,
+                        "total_2026_27": 28641.28
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Hindustan Petroleum Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 12522.0,
+                        "total_2024_25": 12522.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 10005.0,
+                        "total_2025_26": 10005.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10005.0,
+                        "total_revised_2024_25": 10005.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 9521.0,
+                        "total_2026_27": 9521.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Bharat Petroleum Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 13037.42,
+                        "total_2024_25": 13037.42,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 13000.0,
+                        "total_2025_26": 13000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 13000.0,
+                        "total_revised_2024_25": 13000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 13000.0,
+                        "total_2026_27": 13000.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Chennai Petroleum Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 680.82,
+                        "total_2024_25": 680.82,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 303.0,
+                        "total_2025_26": 303.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 425.07,
+                        "total_revised_2024_25": 425.07,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 610.07,
+                        "total_2026_27": 610.07
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Numaligarh Refinery Limited",
+                    "values": {
+                        "actual_2024_25": 275.0,
+                        "capital_2024_25": 8833.82,
+                        "total_2024_25": 9108.82,
+                        "budget_2025_26": 24.5,
+                        "capital_2025_26": 9109.85,
+                        "total_2025_26": 9134.35,
+                        "revised_2024_25": 24.5,
+                        "capital_revised_2024_25": 8075.51,
+                        "total_revised_2024_25": 8100.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7500.38,
+                        "total_2026_27": 7500.38
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Mangalore Refineries and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1156.18,
+                        "total_2024_25": 1156.18,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 827.0,
+                        "total_2025_26": 827.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 827.0,
+                        "total_revised_2024_25": 827.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 836.0,
+                        "total_2026_27": 836.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Refinary and Marketing Sector",
+                    "values": {
+                        "actual_2024_25": 275.0,
+                        "capital_2024_25": 72339.17,
+                        "total_2024_25": 72614.17,
+                        "budget_2025_26": 24.5,
+                        "capital_2025_26": 65299.45,
+                        "total_2025_26": 65323.95,
+                        "revised_2024_25": 24.5,
+                        "capital_revised_2024_25": 64268.24,
+                        "total_revised_2024_25": 64292.74,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 60108.73,
+                        "total_2026_27": 60108.73
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "Indian Oil Corporation Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4121.14,
+                        "total_2024_25": 4121.14,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2968.44,
+                        "total_2025_26": 2968.44,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2502.27,
+                        "total_revised_2024_25": 2502.27,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3875.41,
+                        "total_2026_27": 3875.41
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Gas Authority of India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3108.0,
+                        "total_2024_25": 3108.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2671.0,
+                        "total_2025_26": 2671.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2736.0,
+                        "total_revised_2024_25": 2736.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2256.0,
+                        "total_2026_27": 2256.0
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Bharat Petroleum Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1679.41,
+                        "total_2024_25": 1679.41,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3500.0,
+                        "total_2025_26": 3500.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3500.0,
+                        "total_revised_2024_25": 3500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 9750.0,
+                        "total_2026_27": 9750.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Hindustan Petroleum Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1986.0,
+                        "total_2024_25": 1986.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1495.0,
+                        "total_2025_26": 1495.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1495.0,
+                        "total_revised_2024_25": 1495.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 120.0,
+                        "total_2026_27": 120.0
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Numaligarh Refinery Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Petrochemical Sector",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 10894.55,
+                        "total_2024_25": 10894.55,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 10634.44,
+                        "total_2025_26": 10634.44,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10233.27,
+                        "total_revised_2024_25": 10233.27,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 16001.41,
+                        "total_2026_27": 16001.41
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "18",
+                    "name": "Balmer Lawrie and Company",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 61.18,
+                        "total_2024_25": 61.18,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 40.0,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 40.0,
+                        "total_revised_2024_25": 40.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 40.0,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Engineers India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 83.23,
+                        "total_2024_25": 83.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 50.0,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 60.0,
+                        "total_revised_2024_25": 60.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 60.0,
+                        "total_2026_27": 60.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Engineering Sector",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 144.41,
+                        "total_2024_25": 144.41,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 90.0,
+                        "total_2025_26": 90.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 100.0,
+                        "total_revised_2024_25": 100.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "20",
+                    "name": "Indian Strategic Petroleum Reserve",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 5932.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5932.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Capital Infusion",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 5932.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5932.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": 275.0,
+                        "capital_2024_25": 168937.79,
+                        "total_2024_25": 169212.79,
+                        "budget_2025_26": 5956.5,
+                        "capital_2025_26": 132350.7,
+                        "total_2025_26": 138307.2,
+                        "revised_2024_25": 24.5,
+                        "capital_revised_2024_25": 129952.08,
+                        "total_revised_2024_25": 129976.58,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 133823.0,
+                        "total_2026_27": 133823.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "subsidy on account of arrears of previous years/schemes(freight subsidy and subsidy on LPG and Kerosene for PDS),",
+            "items": []
+        },
+        {
+            "heading": "1. Secretariat:..Provision is for Secretariat expenditure of the Ministry. payment to oil companies on account of subsidies for supply of natural gas to North Eastern region, etc.",
+            "items": []
+        },
+        {
+            "heading": "2. Payment of differential Royalty to State Governments:..The provision is for the payment of 13. Project Management Expenditure:..Payment to OMCs for Project Management Expenditure",
+            "items": [
+                {
+                    "code": "18",
+                    "name": "One-time Grant to PSU OMCs for under recoveries in Domestic LPG:..Total provision",
+                    "values": {
+                        "actual_2024_25": 12.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Indian Strategic Petroleum Reserve Limited (ISPRL) Phase II (Construction of of..`.30,000 crore in RE 2025-26 and BE 2026-27 for compensation, to PSU Oil Marketing Companies (OMCs) for",
+                    "values": {
+                        "actual_2024_25": 12.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "meeting expenditure related to under-recoveries on the sale of domestic Liquified Petroleum Gas (LPG)...",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Payment to ISPRL for Strategic Crude Oil Reserve (O and M):..Provision is for the 19. Indradhanush Gas Grid Limited(IGGL)-part of the North East Natural Gas Pipeline",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "operation and maintenance cost of caverns at Visakhapatnam, Mangalore and Padur. Grid:..The scheme was initiated in the financial year 2020-2021 to meet the expenditure as viability gap funding for",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Pradhan Mantri JI-VAN Yojana:..Pradhan Mantri JI-VAN Yojana is for providing financial",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "r setting up of Integrated Bioethanol projects based on lignocellulosic biomass and other renewable 26. Mission Anveshan:..Scheme is for conducting 2D Seismic Acquisition, Processing &",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Direct Benefit Transfer - LPG:..Payment to Oil Marketing Companies (OMCs) for direct allocated in BE 2026-27..",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "LPG Connection to Poor Households:..A scheme to provide support to BPL households to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF PLANNING",
+            "items": []
+        }
+    ]
+}

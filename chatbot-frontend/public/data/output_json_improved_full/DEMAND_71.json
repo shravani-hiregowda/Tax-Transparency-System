@@ -1,0 +1,1504 @@
+{
+    "demand_no": 71,
+    "ministry": "Ministry Of New And Renewable Energy",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 18620.26,
+                        "capital_2024_25": 6.39,
+                        "total_2024_25": 18626.65,
+                        "budget_2025_26": 26542.18,
+                        "capital_2025_26": 7.2,
+                        "total_2025_26": 26549.38,
+                        "revised_2024_25": 25299.02,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 25301.22,
+                        "budget_2026_27": 32911.14,
+                        "capital_2026_27": 3.53,
+                        "total_2026_27": 32914.67
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 61.68,
+                        "capital_2024_25": 1.9,
+                        "total_2024_25": 63.58,
+                        "budget_2025_26": 69.41,
+                        "capital_2025_26": 2.2,
+                        "total_2025_26": 71.61,
+                        "revised_2024_25": 65.16,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 67.36,
+                        "budget_2026_27": 70.78,
+                        "capital_2026_27": 3.53,
+                        "total_2026_27": 74.31
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -24.64,
+                        "capital_2024_25": null,
+                        "total_2024_25": -24.64,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Office Buildings",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4.49,
+                        "total_2024_25": 4.49,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5.0,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 37.04,
+                        "capital_2024_25": 6.39,
+                        "total_2024_25": 43.43,
+                        "budget_2025_26": 69.41,
+                        "capital_2025_26": 7.2,
+                        "total_2025_26": 76.61,
+                        "revised_2024_25": 65.16,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 67.36,
+                        "budget_2026_27": 70.78,
+                        "capital_2026_27": 3.53,
+                        "total_2026_27": 74.31
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Solar Power (Grid)",
+                    "values": {
+                        "actual_2024_25": 1583.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1583.83,
+                        "budget_2025_26": 1500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1500.0,
+                        "revised_2024_25": 1000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1000.0,
+                        "budget_2026_27": 1775.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1775.0
+                    }
+                },
+                {
+                    "code": "4.01",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 1583.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1583.83,
+                        "budget_2025_26": 1500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1500.0,
+                        "revised_2024_25": 1000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1000.0,
+                        "budget_2026_27": 1775.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1775.0
+                    }
+                },
+                {
+                    "code": "4.02",
+                    "name": "Transfers to Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": 7007.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7007.46,
+                        "budget_2025_26": 1500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1500.0,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": 700.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 700.0
+                    }
+                },
+                {
+                    "code": "4.03",
+                    "name": "Amount met from Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": -2007.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2007.47,
+                        "budget_2025_26": -1500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1500.0,
+                        "revised_2024_25": -500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -500.0,
+                        "budget_2026_27": -700.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -700.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 6583.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6583.82,
+                        "budget_2025_26": 1500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1500.0,
+                        "revised_2024_25": 1000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1000.0,
+                        "budget_2026_27": 1775.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1775.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "Solar Power (Off-Grid)",
+                    "values": {
+                        "actual_2024_25": 21.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21.15,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Kisan Urja Suraksha evam Utthaan Mahabhiyan (KUSUM )",
+                    "values": {
+                        "actual_2024_25": 1496.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1496.0,
+                        "budget_2025_26": 1600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1600.0,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Transfers to Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": 1496.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1496.0,
+                        "budget_2025_26": 1600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1600.0,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "6.02",
+                    "name": "Amount met from Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": -1500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1500.0,
+                        "budget_2025_26": -1600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1600.0,
+                        "revised_2024_25": -500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -500.0,
+                        "budget_2026_27": -500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -500.0
+                    }
+                },
+                {
+                    "code": "6.03",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 2564.14,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2564.14,
+                        "budget_2025_26": 2600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2600.0,
+                        "revised_2024_25": 5000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5000.0,
+                        "budget_2026_27": 5000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Kisan Urja Suraksha evam Utthaan Mahabhiyan (KUSUM )",
+                    "values": {
+                        "actual_2024_25": 2560.14,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2560.14,
+                        "budget_2025_26": 2600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2600.0,
+                        "revised_2024_25": 5000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5000.0,
+                        "budget_2026_27": 5000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5000.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "PM Surya Ghar Muft Bijli Yojana",
+                    "values": {
+                        "actual_2024_25": 7817.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7817.61,
+                        "budget_2025_26": 20000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20000.0,
+                        "revised_2024_25": 17000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17000.0,
+                        "budget_2026_27": 22000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22000.0
+                    }
+                },
+                {
+                    "code": "7.01",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 7817.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7817.61,
+                        "budget_2025_26": 20000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20000.0,
+                        "revised_2024_25": 17000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17000.0,
+                        "budget_2026_27": 22000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22000.0
+                    }
+                },
+                {
+                    "code": "7.02",
+                    "name": "Transfers to Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1000.0,
+                        "revised_2024_25": 1000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1000.0,
+                        "budget_2026_27": 10000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10000.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "7.03",
+                    "name": "Amount met from Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1000.0,
+                        "revised_2024_25": -1000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1000.0,
+                        "budget_2026_27": -10000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -10000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 7817.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7817.61,
+                        "budget_2025_26": 20000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20000.0,
+                        "revised_2024_25": 17000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17000.0,
+                        "budget_2026_27": 22000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22000.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "Interest Payment and Issuing Expenses on the Bonds",
+                    "values": {
+                        "actual_2024_25": 124.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 124.35,
+                        "budget_2025_26": 124.35,
+                        "capital_2025_26": null,
+                        "total_2025_26": 124.35,
+                        "revised_2024_25": 124.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 124.35,
+                        "budget_2026_27": 1764.35,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1764.35
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Solar Energy",
+                    "values": {
+                        "actual_2024_25": 17107.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 17107.07,
+                        "budget_2025_26": 24224.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 24224.36,
+                        "revised_2024_25": 23124.36,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23124.36,
+                        "budget_2026_27": 30539.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30539.36
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "9",
+                    "name": "Wind Power (Grid)",
+                    "values": {
+                        "actual_2024_25": 700.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 700.11,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "9.01",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 700.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 700.11,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "9.02",
+                    "name": "Transfers to Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": 800.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 800.0,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 300.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 300.0,
+                        "budget_2026_27": 300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 300.0
+                    }
+                },
+                {
+                    "code": "9.03",
+                    "name": "Amount met from Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": -700.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": -700.11,
+                        "budget_2025_26": -500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -500.0,
+                        "revised_2024_25": -300.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -300.0,
+                        "budget_2026_27": -300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -300.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 800.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 800.0,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "10",
+                    "name": "Hydro Power (Grid)",
+                    "values": {
+                        "actual_2024_25": 30.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 30.21,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 50.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Hydro Power (Off-Grid)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.0,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 1.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Programme for Wind and other Renewable Energy",
+                    "values": {
+                        "actual_2024_25": 830.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 830.21,
+                        "budget_2025_26": 551.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 551.0,
+                        "revised_2024_25": 551.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 551.0,
+                        "budget_2026_27": 551.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 551.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "12",
+                    "name": "Green Energy Corridor",
+                    "values": {
+                        "actual_2024_25": 346.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 346.07,
+                        "budget_2025_26": 600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 600.0,
+                        "revised_2024_25": 800.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 800.0,
+                        "budget_2026_27": 599.99,
+                        "capital_2026_27": null,
+                        "total_2026_27": 599.99
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "National Green Hydrogen Mission",
+                    "values": {
+                        "actual_2024_25": 46.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": 46.26,
+                        "budget_2025_26": 600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 600.0,
+                        "revised_2024_25": 300.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 300.0,
+                        "budget_2026_27": 600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": "13.01",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 46.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": 46.26,
+                        "budget_2025_26": 600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 600.0,
+                        "revised_2024_25": 300.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 300.0,
+                        "budget_2026_27": 600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": "13.02",
+                    "name": "Transfer to Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": 304.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 304.0,
+                        "budget_2025_26": 600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 600.0,
+                        "revised_2024_25": 200.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "13.03",
+                    "name": "Amount met from Sovereign Green Fund",
+                    "values": {
+                        "actual_2024_25": -49.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": -49.29,
+                        "budget_2025_26": -600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -600.0,
+                        "revised_2024_25": -200.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -200.0,
+                        "budget_2026_27": -200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -200.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 300.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": 300.97,
+                        "budget_2025_26": 600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 600.0,
+                        "revised_2024_25": 300.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 300.0,
+                        "budget_2026_27": 600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 600.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "Bio Power (Grid)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 30.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 30.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30.0
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Bio Power (Off-Grid)",
+                    "values": {
+                        "actual_2024_25": 102.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": 102.26,
+                        "budget_2025_26": 200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": 125.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 125.0,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Biogas Programme (Off-Grid)",
+                    "values": {
+                        "actual_2024_25": 57.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 57.86,
+                        "budget_2025_26": 95.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 95.0,
+                        "revised_2024_25": 50.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": 45.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Bio Energy Programme",
+                    "values": {
+                        "actual_2024_25": 160.12,
+                        "capital_2024_25": null,
+                        "total_2024_25": 160.12,
+                        "budget_2025_26": 325.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 325.0,
+                        "revised_2024_25": 175.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 175.0,
+                        "budget_2026_27": 275.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 275.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "17",
+                    "name": "Research and Development",
+                    "values": {
+                        "actual_2024_25": 29.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.57,
+                        "budget_2025_26": 46.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 46.0,
+                        "revised_2024_25": 35.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 35.0,
+                        "budget_2026_27": 46.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 46.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Human Resources Development and Training",
+                    "values": {
+                        "actual_2024_25": 29.54,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.54,
+                        "budget_2025_26": 40.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 40.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.0,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Information and Public Advertising (I&PA)",
+                    "values": {
+                        "actual_2024_25": 6.31,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6.31,
+                        "budget_2025_26": 9.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9.5,
+                        "revised_2024_25": 8.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8.0,
+                        "budget_2026_27": 8.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8.5
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "International Relations",
+                    "values": {
+                        "actual_2024_25": 1.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.89,
+                        "budget_2025_26": 3.51,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.51,
+                        "revised_2024_25": 2.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.5,
+                        "budget_2026_27": 3.51,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3.51
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Support Programme",
+                    "values": {
+                        "actual_2024_25": 67.31,
+                        "capital_2024_25": null,
+                        "total_2024_25": 67.31,
+                        "budget_2025_26": 99.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 99.01,
+                        "revised_2024_25": 85.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 85.5,
+                        "budget_2026_27": 98.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 98.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "21",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -391.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": -391.03,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 18420.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18420.72,
+                        "budget_2025_26": 26399.37,
+                        "capital_2025_26": null,
+                        "total_2025_26": 26399.37,
+                        "revised_2024_25": 25035.86,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25035.86,
+                        "budget_2026_27": 32663.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 32663.36
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "22",
+                    "name": "National Institute of Wind Energy",
+                    "values": {
+                        "actual_2024_25": 25.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 25.95,
+                        "budget_2025_26": 31.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 31.0,
+                        "revised_2024_25": 31.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 31.0,
+                        "budget_2026_27": 26.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 26.0
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "National Institute of Bio Energy",
+                    "values": {
+                        "actual_2024_25": 11.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11.0,
+                        "budget_2025_26": 14.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 14.0,
+                        "revised_2024_25": 14.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14.0,
+                        "budget_2026_27": 18.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 18.0
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "National Institute of Solar Energy",
+                    "values": {
+                        "actual_2024_25": 25.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 25.55,
+                        "budget_2025_26": 28.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 28.4,
+                        "revised_2024_25": 28.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 28.0,
+                        "budget_2026_27": 33.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 33.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 62.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 62.5,
+                        "budget_2025_26": 73.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 73.4,
+                        "revised_2024_25": 73.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 73.0,
+                        "budget_2026_27": 77.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 77.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "25",
+                    "name": "Assistance to International Solar Alliance",
+                    "values": {
+                        "actual_2024_25": 100.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 100.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 125.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 125.0,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 162.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 162.5,
+                        "budget_2025_26": 73.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 73.4,
+                        "revised_2024_25": 198.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 198.0,
+                        "budget_2026_27": 177.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 177.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 18620.26,
+                        "capital_2024_25": 6.39,
+                        "total_2024_25": 18626.65,
+                        "budget_2025_26": 26542.18,
+                        "capital_2025_26": 7.2,
+                        "total_2025_26": 26549.38,
+                        "revised_2024_25": 25299.02,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 25301.22,
+                        "budget_2026_27": 32911.14,
+                        "capital_2026_27": 3.53,
+                        "total_2026_27": 32914.67
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "New and Renewable Energy",
+                    "values": {
+                        "actual_2024_25": 18583.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18583.22,
+                        "budget_2025_26": 23846.77,
+                        "capital_2025_26": null,
+                        "total_2025_26": 23846.77,
+                        "revised_2024_25": 22730.19,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22730.19,
+                        "budget_2026_27": 29740.44,
+                        "capital_2026_27": null,
+                        "total_2026_27": 29740.44
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 37.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": 37.04,
+                        "budget_2025_26": 69.41,
+                        "capital_2025_26": null,
+                        "total_2025_26": 69.41,
+                        "revised_2024_25": 65.16,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 65.16,
+                        "budget_2026_27": 70.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 70.78
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on New and Renewable Energy",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4.49,
+                        "total_2024_25": 4.49,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5.0,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.9,
+                        "total_2024_25": 1.9,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.2,
+                        "total_2025_26": 2.2,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 2.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3.53,
+                        "total_2026_27": 3.53
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 18620.26,
+                        "capital_2024_25": 6.39,
+                        "total_2024_25": 18626.65,
+                        "budget_2025_26": 23916.18,
+                        "capital_2025_26": 7.2,
+                        "total_2025_26": 23923.38,
+                        "revised_2024_25": 22795.35,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 22797.55,
+                        "budget_2026_27": 29811.22,
+                        "capital_2026_27": 3.53,
+                        "total_2026_27": 29814.75
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2626.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2626.0,
+                        "revised_2024_25": 2503.67,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2503.67,
+                        "budget_2026_27": 3099.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3099.92
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2626.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2626.0,
+                        "revised_2024_25": 2503.67,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2503.67,
+                        "budget_2026_27": 3099.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3099.92
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 18620.26,
+                        "capital_2024_25": 6.39,
+                        "total_2024_25": 18626.65,
+                        "budget_2025_26": 26542.18,
+                        "capital_2025_26": 7.2,
+                        "total_2025_26": 26549.38,
+                        "revised_2024_25": 25299.02,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 25301.22,
+                        "budget_2026_27": 32911.14,
+                        "capital_2026_27": 3.53,
+                        "total_2026_27": 32914.67
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Indian Renewable Energy",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 30968.87,
+                        "total_2024_25": 30968.87,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 34974.99,
+                        "total_2025_26": 34974.99,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 34730.23,
+                        "total_revised_2024_25": 34730.23,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 40064.74,
+                        "total_2026_27": 40064.74
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Solar Energy Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 521.03,
+                        "total_2024_25": 521.03,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 485.0,
+                        "total_2025_26": 485.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1328.91,
+                        "total_revised_2024_25": 1328.91,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2824.86,
+                        "total_2026_27": 2824.86
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 31489.9,
+                        "total_2024_25": 31489.9,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 35459.99,
+                        "total_2025_26": 35459.99,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 36059.14,
+                        "total_revised_2024_25": 36059.14,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 42889.6,
+                        "total_2026_27": 42889.6
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "23",
+                    "name": "National Institute of Bio Energy:..Provision is for National Institute of Bio Energy for research",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for secretariat expenditure of the Ministry. and development in the field of Bio Energy.",
+            "items": []
+        },
+        {
+            "heading": "4.02. Transfers to Sovereign Green Fund:..Actuals include amount transferred to Sovereign Green 24. National Institute of Solar Energy:..Provision is for National Institute of Solar Energy towards",
+            "items": [
+                {
+                    "code": "4.03",
+                    "name": "Amount met from Sovereign Green Fund:..Actuals include amount met from Sovereign",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Kisan Urja Suraksha evam Utthaan Mahabhiyan (KUSUM ):..The scheme is launched by",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Interest Payment and Issuing Expenses on the Bonds:..The provision includes repayment",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Hydro Power (Grid):..Central Financial Assistance for Small Hydro Power project activities",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Green Energy Corridor:..Provision of Central Financial Assistance will be utilised for capacity",
+                    "values": {
+                        "actual_2024_25": 6000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "National Green Hydrogen Mission:..The provision is to make India the Global Hub for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13.03",
+                    "name": "Amount met from Sovereign Green Fund:..Actuals include..`.3.03 crore unspent balance of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Bio Power (Off-Grid):..Central Financial Assistance for off-Grid/Distributed Bio Power.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Biogas Programme (Off-Grid):..To install bio gas plants for providing alternate cooking fuel",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "17. Research and Development:..Provision is for research and development of projects, which",
+            "items": []
+        },
+        {
+            "heading": "are continuous in nature. Projects pertaining to renewal energy sector have been undertaken as focus area.",
+            "items": [
+                {
+                    "code": "20",
+                    "name": "International Relations:..Allocation envisages for International cooperation including",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "National Institute of Wind Energy:..Provision is for National Institute of Wind Energy, which",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF PANCHAYATI RAJ",
+            "items": []
+        }
+    ]
+}

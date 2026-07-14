@@ -1,0 +1,1964 @@
+{
+    "demand_no": 1,
+    "ministry": "Ministry Of Agriculture And Farmers Welfare",
+    "department": "Department Of Agriculture And Farmers Welfare",
+    "sections": [
+        {
+            "heading": "Department of Agriculture and Farmers Welfare",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 129858.28,
+                        "capital_2024_25": 75.19,
+                        "total_2024_25": 129933.47,
+                        "budget_2025_26": 127202.29,
+                        "capital_2025_26": 87.87,
+                        "total_2025_26": 127290.16,
+                        "revised_2024_25": 123003.13,
+                        "capital_revised_2024_25": 86.17,
+                        "total_revised_2024_25": 123089.3,
+                        "budget_2026_27": 130451.62,
+                        "capital_2026_27": 109.76,
+                        "total_2026_27": 130561.38
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 196.12,
+                        "capital_2024_25": 14.68,
+                        "total_2024_25": 210.8,
+                        "budget_2025_26": 263.49,
+                        "capital_2025_26": 14.73,
+                        "total_2025_26": 278.22,
+                        "revised_2024_25": 208.18,
+                        "capital_revised_2024_25": 15.44,
+                        "total_revised_2024_25": 223.62,
+                        "budget_2026_27": 223.63,
+                        "capital_2026_27": 12.74,
+                        "total_2026_27": 236.37
+                    }
+                },
+                {
+                    "code": "1.01",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 196.12,
+                        "capital_2024_25": 14.68,
+                        "total_2024_25": 210.8,
+                        "budget_2025_26": 263.49,
+                        "capital_2025_26": 14.73,
+                        "total_2025_26": 278.22,
+                        "revised_2024_25": 208.18,
+                        "capital_revised_2024_25": 15.44,
+                        "total_revised_2024_25": 223.62,
+                        "budget_2026_27": 223.63,
+                        "capital_2026_27": 12.74,
+                        "total_2026_27": 236.37
+                    }
+                },
+                {
+                    "code": "1.02",
+                    "name": "Other Attached and Subordinate Offices",
+                    "values": {
+                        "actual_2024_25": 397.88,
+                        "capital_2024_25": 60.51,
+                        "total_2024_25": 458.39,
+                        "budget_2025_26": 443.81,
+                        "capital_2025_26": 73.14,
+                        "total_2025_26": 516.95,
+                        "revised_2024_25": 460.51,
+                        "capital_revised_2024_25": 70.73,
+                        "total_revised_2024_25": 531.24,
+                        "budget_2026_27": 447.67,
+                        "capital_2026_27": 97.02,
+                        "total_2026_27": 544.69
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Secretariat",
+                    "values": {
+                        "actual_2024_25": 594.0,
+                        "capital_2024_25": 75.19,
+                        "total_2024_25": 669.19,
+                        "budget_2025_26": 707.3,
+                        "capital_2025_26": 87.87,
+                        "total_2025_26": 795.17,
+                        "revised_2024_25": 668.69,
+                        "capital_revised_2024_25": 86.17,
+                        "total_revised_2024_25": 754.86,
+                        "budget_2026_27": 671.3,
+                        "capital_2026_27": 109.76,
+                        "total_2026_27": 781.06
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.68,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 593.32,
+                        "capital_2024_25": 75.19,
+                        "total_2024_25": 668.51,
+                        "budget_2025_26": 707.3,
+                        "capital_2025_26": 87.87,
+                        "total_2025_26": 795.17,
+                        "revised_2024_25": 668.69,
+                        "capital_revised_2024_25": 86.17,
+                        "total_revised_2024_25": 754.86,
+                        "budget_2026_27": 671.3,
+                        "capital_2026_27": 109.76,
+                        "total_2026_27": 781.06
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Crop Insurance Scheme",
+                    "values": {
+                        "actual_2024_25": 14600.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14600.0,
+                        "budget_2025_26": 12242.27,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12242.27,
+                        "revised_2024_25": 12267.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12267.0,
+                        "budget_2026_27": 12200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12200.0
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Transfer to Agriculture Intrastructure and",
+                    "values": {
+                        "actual_2024_25": 14600.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14600.0,
+                        "budget_2025_26": 12242.27,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12242.27,
+                        "revised_2024_25": 12267.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12267.0,
+                        "budget_2026_27": 12200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12200.0
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Pradhan Mantri Fasal Bima Yojna",
+                    "values": {
+                        "actual_2024_25": 14473.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14473.46,
+                        "budget_2025_26": 12242.27,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12242.27,
+                        "revised_2024_25": 12267.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12267.0,
+                        "budget_2026_27": 12200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12200.0
+                    }
+                },
+                {
+                    "code": "3.03",
+                    "name": "Less-Amount met from Agriculture Infrastructure",
+                    "values": {
+                        "actual_2024_25": -14600.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -14600.0,
+                        "budget_2025_26": -12242.27,
+                        "capital_2025_26": null,
+                        "total_2025_26": -12242.27,
+                        "revised_2024_25": -12267.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -12267.0,
+                        "budget_2026_27": -12200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -12200.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 14473.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14473.46,
+                        "budget_2025_26": 12242.27,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12242.27,
+                        "revised_2024_25": 12267.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12267.0,
+                        "budget_2026_27": 12200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12200.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "Fund for Innovation and Adoption of Technology (FIAT)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 133.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 133.0,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "4.01",
+                    "name": "Transfer to Fund for Innovation and Adoption of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 133.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 133.0,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "4.02",
+                    "name": "Fund for Innovation and Adoption of Technology",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 133.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 133.0,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "4.03",
+                    "name": "Less - Amount met from Fund for Innovation and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": -133.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -133.0,
+                        "budget_2026_27": -200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -200.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 133.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 133.0,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "Modified Interest Subvention Scheme (MISS)",
+                    "values": {
+                        "actual_2024_25": 22600.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22600.0,
+                        "budget_2025_26": 22600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22600.0,
+                        "revised_2024_25": 22600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22600.0,
+                        "budget_2026_27": 22600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22600.0
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "Transfer to Agriculture Infrastructure and",
+                    "values": {
+                        "actual_2024_25": 22600.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22600.0,
+                        "budget_2025_26": 22600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22600.0,
+                        "revised_2024_25": 22600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22600.0,
+                        "budget_2026_27": 22600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22600.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "5.02",
+                    "name": "Modified Interest Subvention Scheme (MISS)",
+                    "values": {
+                        "actual_2024_25": 17811.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 17811.72,
+                        "budget_2025_26": 22600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22600.0,
+                        "revised_2024_25": 22600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22600.0,
+                        "budget_2026_27": 22600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22600.0
+                    }
+                },
+                {
+                    "code": "5.03",
+                    "name": "Less - Amount met from Agriculture",
+                    "values": {
+                        "actual_2024_25": -17811.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": -17811.72,
+                        "budget_2025_26": -22600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -22600.0,
+                        "revised_2024_25": -22600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -22600.0,
+                        "budget_2026_27": -22600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -22600.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 22600.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22600.0,
+                        "budget_2025_26": 22600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22600.0,
+                        "revised_2024_25": 22600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22600.0,
+                        "budget_2026_27": 22600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22600.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Market Intervention Scheme and Price Support Scheme",
+                    "values": {
+                        "actual_2024_25": 22.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22.59,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Pradhan Mantri Annadata Aay Sanrakshan Yojna (PM-",
+                    "values": {
+                        "actual_2024_25": 5437.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5437.99,
+                        "budget_2025_26": 6941.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6941.36,
+                        "revised_2024_25": 6941.36,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6941.36,
+                        "budget_2026_27": 7200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7200.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Distribution of Pulses to State / Union Territories for",
+                    "values": {
+                        "actual_2024_25": 246.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 246.62,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Welfare Schemes",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-Kisan)",
+                    "values": {
+                        "actual_2024_25": 63500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 63500.0,
+                        "budget_2025_26": 63500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 63500.0,
+                        "revised_2024_25": 55000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 55000.0,
+                        "budget_2026_27": 60000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 60000.0
+                    }
+                },
+                {
+                    "code": "9.01",
+                    "name": "Transfer to Agriculture Infrastructure and",
+                    "values": {
+                        "actual_2024_25": 63500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 63500.0,
+                        "budget_2025_26": 63500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 63500.0,
+                        "revised_2024_25": 55000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 55000.0,
+                        "budget_2026_27": 60000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 60000.0
+                    }
+                },
+                {
+                    "code": "9.02",
+                    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-",
+                    "values": {
+                        "actual_2024_25": 66121.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 66121.2,
+                        "budget_2025_26": 63500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 63500.0,
+                        "revised_2024_25": 63500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 63500.0,
+                        "budget_2026_27": 63500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 63500.0
+                    }
+                },
+                {
+                    "code": "9.03",
+                    "name": "Less - Amount met from Agriculture",
+                    "values": {
+                        "actual_2024_25": -63500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -63500.0,
+                        "budget_2025_26": -63500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -63500.0,
+                        "revised_2024_25": -55000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -55000.0,
+                        "budget_2026_27": -60000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -60000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 66121.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 66121.2,
+                        "budget_2025_26": 63500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 63500.0,
+                        "revised_2024_25": 63500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 63500.0,
+                        "budget_2026_27": 63500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 63500.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "10",
+                    "name": "Pradhan Mantri Kisan Man Dhan Yojna",
+                    "values": {
+                        "actual_2024_25": 100.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 100.0,
+                        "budget_2025_26": 120.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 120.0,
+                        "revised_2024_25": 50.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": 120.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 120.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Formation and Promotion of 10,000 Farmer Producer",
+                    "values": {
+                        "actual_2024_25": 474.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 474.24,
+                        "budget_2025_26": 584.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 584.0,
+                        "revised_2024_25": 584.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 584.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Agriculture Infrastructure Fund (AIF)",
+                    "values": {
+                        "actual_2024_25": 725.34,
+                        "capital_2024_25": null,
+                        "total_2024_25": 725.34,
+                        "budget_2025_26": 900.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 900.0,
+                        "revised_2024_25": 900.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 900.0,
+                        "budget_2026_27": 910.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 910.0
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "National Beekeeping Honey Mission (NBHM)",
+                    "values": {
+                        "actual_2024_25": 66.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 66.5,
+                        "budget_2025_26": 75.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 75.0,
+                        "revised_2024_25": 100.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 100.0,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Blended Capital Support to Finance Startups for",
+                    "values": {
+                        "actual_2024_25": 62.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 62.5,
+                        "budget_2025_26": 71.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 71.5,
+                        "revised_2024_25": 7.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7.51,
+                        "budget_2026_27": 63.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 63.97
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "NAMO DRONE DIDI",
+                    "values": {
+                        "actual_2024_25": 1.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.48,
+                        "budget_2025_26": 676.85,
+                        "capital_2025_26": null,
+                        "total_2025_26": 676.85,
+                        "revised_2024_25": 100.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 100.0,
+                        "budget_2026_27": 676.85,
+                        "capital_2026_27": null,
+                        "total_2026_27": 676.85
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Cotton Technology Mission",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Mission for Pulses",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Mission for Vegetables and Fruits",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "National Mission on Hybrid Seeds",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Support for Makhana Board",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Central Sector Scheme for Development of Makhana",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 30.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 90.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 90.0
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Additional transfer to Agriculture Infrastructure and",
+                    "values": {
+                        "actual_2024_25": 6000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "Additional amount met from Reserve Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "23.01",
+                    "name": "Agriculture Infrastructure and Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Bharat-VISTAAR",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 150.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 150.0
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "Support for High Value Agriculture",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 350.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 350.0
+                    }
+                },
+                {
+                    "code": "26",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -320.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": -320.27,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 116011.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 116011.65,
+                        "budget_2025_26": 108910.98,
+                        "capital_2025_26": null,
+                        "total_2025_26": 108910.98,
+                        "revised_2024_25": 107212.87,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 107212.87,
+                        "budget_2026_27": 108660.82,
+                        "capital_2026_27": null,
+                        "total_2026_27": 108660.82
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "27",
+                    "name": "Protection of Plant Varieties and Farmers Rights Authority",
+                    "values": {
+                        "actual_2024_25": 37.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 37.13,
+                        "budget_2025_26": 40.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 37.13,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 37.13,
+                        "budget_2026_27": 37.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 37.13
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "28",
+                    "name": "National Institute of Plant Health Management",
+                    "values": {
+                        "actual_2024_25": 19.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 19.9,
+                        "budget_2025_26": 22.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22.0,
+                        "revised_2024_25": 19.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 19.5,
+                        "budget_2026_27": 20.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.5
+                    }
+                },
+                {
+                    "code": "29",
+                    "name": "National Institute of Agricultural Extension Management",
+                    "values": {
+                        "actual_2024_25": 7.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.0,
+                        "budget_2025_26": 7.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7.0,
+                        "revised_2024_25": 7.49,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7.49,
+                        "budget_2026_27": 8.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8.01
+                    }
+                },
+                {
+                    "code": "30",
+                    "name": "Chaudhary Charan Singh National Institute of Agricultural",
+                    "values": {
+                        "actual_2024_25": 2.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.5,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 4.41,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4.41,
+                        "budget_2026_27": 4.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4.72
+                    }
+                },
+                {
+                    "code": "31",
+                    "name": "Coconut Development Board",
+                    "values": {
+                        "actual_2024_25": 35.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 35.0,
+                        "budget_2025_26": 35.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35.0,
+                        "revised_2024_25": 37.16,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 37.16,
+                        "budget_2026_27": 37.16,
+                        "capital_2026_27": null,
+                        "total_2026_27": 37.16
+                    }
+                },
+                {
+                    "code": "32",
+                    "name": "National Horticulture Board",
+                    "values": {
+                        "actual_2024_25": 24.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.0,
+                        "budget_2025_26": 22.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22.0,
+                        "revised_2024_25": 26.69,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 26.69,
+                        "budget_2026_27": 28.46,
+                        "capital_2026_27": null,
+                        "total_2026_27": 28.46
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 88.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 88.4,
+                        "budget_2025_26": 91.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 91.0,
+                        "revised_2024_25": 95.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 95.25,
+                        "budget_2026_27": 98.85,
+                        "capital_2026_27": null,
+                        "total_2026_27": 98.85
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "33",
+                    "name": "Agriculture Census",
+                    "values": {
+                        "actual_2024_25": 41.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 41.01,
+                        "budget_2025_26": 40.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 100.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 100.0,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "34",
+                    "name": "Agriculture Economics and Statistics",
+                    "values": {
+                        "actual_2024_25": 258.12,
+                        "capital_2024_25": null,
+                        "total_2024_25": 258.12,
+                        "budget_2025_26": 200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": 276.19,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 276.19,
+                        "budget_2026_27": 295.52,
+                        "capital_2026_27": null,
+                        "total_2026_27": 295.52
+                    }
+                },
+                {
+                    "code": "35",
+                    "name": "IRRI South Asia Regional Centre",
+                    "values": {
+                        "actual_2024_25": 21.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21.75,
+                        "budget_2025_26": 25.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.0,
+                        "revised_2024_25": 21.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 21.0,
+                        "budget_2026_27": 21.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 21.0
+                    }
+                },
+                {
+                    "code": "36",
+                    "name": "International Cooperation",
+                    "values": {
+                        "actual_2024_25": 55.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 55.0,
+                        "budget_2025_26": 62.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 62.0,
+                        "revised_2024_25": 62.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 62.0,
+                        "budget_2026_27": 62.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 62.0
+                    }
+                },
+                {
+                    "code": "37",
+                    "name": "National Farmers Welfare Program Implementation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 5.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.0,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 375.88,
+                        "capital_2024_25": null,
+                        "total_2024_25": 375.88,
+                        "budget_2025_26": 337.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 337.0,
+                        "revised_2024_25": 464.19,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 464.19,
+                        "budget_2026_27": 483.52,
+                        "capital_2026_27": null,
+                        "total_2026_27": 483.52
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 501.41,
+                        "capital_2024_25": null,
+                        "total_2024_25": 501.41,
+                        "budget_2025_26": 468.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 468.0,
+                        "revised_2024_25": 596.57,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 596.57,
+                        "budget_2026_27": 619.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 619.5
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "38",
+                    "name": "Rashtriya Krishi Vikas Yojna",
+                    "values": {
+                        "actual_2024_25": 7517.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7517.32,
+                        "budget_2025_26": 8500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8500.0,
+                        "revised_2024_25": 7000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7000.0,
+                        "budget_2026_27": 7000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7000.0
+                    }
+                },
+                {
+                    "code": "38.01",
+                    "name": "Transfer to Agriculture Infrastructure and",
+                    "values": {
+                        "actual_2024_25": 7517.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7517.32,
+                        "budget_2025_26": 8500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8500.0,
+                        "revised_2024_25": 7000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7000.0,
+                        "budget_2026_27": 7000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7000.0
+                    }
+                },
+                {
+                    "code": "38.02",
+                    "name": "Rashtriya Krishi Vikas Yojna",
+                    "values": {
+                        "actual_2024_25": 5611.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5611.6,
+                        "budget_2025_26": 8500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8500.0,
+                        "revised_2024_25": 7000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7000.0,
+                        "budget_2026_27": 8550.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8550.0
+                    }
+                },
+                {
+                    "code": "38.03",
+                    "name": "Less - Amount met from Agriculture",
+                    "values": {
+                        "actual_2024_25": -5742.78,
+                        "capital_2024_25": null,
+                        "total_2024_25": -5742.78,
+                        "budget_2025_26": -8500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -8500.0,
+                        "revised_2024_25": -7000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -7000.0,
+                        "budget_2026_27": -7000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -7000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 7386.14,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7386.14,
+                        "budget_2025_26": 8500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8500.0,
+                        "revised_2024_25": 7000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7000.0,
+                        "budget_2026_27": 8550.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8550.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "39",
+                    "name": "National Mission on Natural Farming",
+                    "values": {
+                        "actual_2024_25": 10.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10.35,
+                        "budget_2025_26": 616.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 616.01,
+                        "revised_2024_25": 725.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 725.0,
+                        "budget_2026_27": 750.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 750.0
+                    }
+                },
+                {
+                    "code": "40",
+                    "name": "Krishionnati Yojna",
+                    "values": {
+                        "actual_2024_25": 5599.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5599.7,
+                        "budget_2025_26": 8000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8000.0,
+                        "revised_2024_25": 6800.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6800.0,
+                        "budget_2026_27": 11200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11200.0
+                    }
+                },
+                {
+                    "code": "41",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -244.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": -244.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 12751.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12751.9,
+                        "budget_2025_26": 17116.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17116.01,
+                        "revised_2024_25": 14525.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14525.0,
+                        "budget_2026_27": 20500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20500.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 129858.28,
+                        "capital_2024_25": 75.19,
+                        "total_2024_25": 129933.47,
+                        "budget_2025_26": 127202.29,
+                        "capital_2025_26": 87.87,
+                        "total_2025_26": 127290.16,
+                        "revised_2024_25": 123003.13,
+                        "capital_revised_2024_25": 86.17,
+                        "total_revised_2024_25": 123089.3,
+                        "budget_2026_27": 130451.62,
+                        "capital_2026_27": 109.76,
+                        "total_2026_27": 130561.38
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Crop Husbandry",
+                    "values": {
+                        "actual_2024_25": 91739.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 91739.87,
+                        "budget_2025_26": 76941.08,
+                        "capital_2025_26": null,
+                        "total_2025_26": 76941.08,
+                        "revised_2024_25": 75387.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 75387.29,
+                        "budget_2026_27": 76387.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 76387.13
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Soil and Water Conservation",
+                    "values": {
+                        "actual_2024_25": 33.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 33.99,
+                        "budget_2025_26": 38.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 38.25,
+                        "revised_2024_25": 35.92,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 35.92,
+                        "budget_2026_27": 37.38,
+                        "capital_2026_27": null,
+                        "total_2026_27": 37.38
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Agricultural Financial Institutions",
+                    "values": {
+                        "actual_2024_25": 24600.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24600.0,
+                        "budget_2025_26": 21313.68,
+                        "capital_2025_26": null,
+                        "total_2025_26": 21313.68,
+                        "revised_2024_25": 21313.68,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 21313.68,
+                        "budget_2026_27": 21313.68,
+                        "capital_2026_27": null,
+                        "total_2026_27": 21313.68
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Other Agricultural Programmes",
+                    "values": {
+                        "actual_2024_25": 2631.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2631.39,
+                        "budget_2025_26": 3323.66,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3323.66,
+                        "revised_2024_25": 2522.95,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2522.95,
+                        "budget_2026_27": 4923.79,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4923.79
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 195.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 195.48,
+                        "budget_2025_26": 263.49,
+                        "capital_2025_26": null,
+                        "total_2025_26": 263.49,
+                        "revised_2024_25": 208.18,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 208.18,
+                        "budget_2026_27": 223.63,
+                        "capital_2026_27": null,
+                        "total_2026_27": 223.63
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on Crop Husbandry",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 49.17,
+                        "total_2024_25": 49.17,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 66.83,
+                        "total_2025_26": 66.83,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 65.45,
+                        "total_revised_2024_25": 65.45,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 91.67,
+                        "total_2026_27": 91.67
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Capital Outlay on Soil and Water Conservation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.94,
+                        "total_2024_25": 1.94,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.75,
+                        "total_2025_26": 1.75,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 1.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.15,
+                        "total_2026_27": 1.15
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Capital Outlay on Other Agricultural Programmes",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 9.4,
+                        "total_2024_25": 9.4,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4.56,
+                        "total_2025_26": 4.56,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4.08,
+                        "total_revised_2024_25": 4.08,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4.2,
+                        "total_2026_27": 4.2
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 14.68,
+                        "total_2024_25": 14.68,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 14.73,
+                        "total_2025_26": 14.73,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15.44,
+                        "total_revised_2024_25": 15.44,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 12.74,
+                        "total_2026_27": 12.74
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 119200.73,
+                        "capital_2024_25": 75.19,
+                        "total_2024_25": 119275.92,
+                        "budget_2025_26": 101880.16,
+                        "capital_2025_26": 87.87,
+                        "total_2025_26": 101968.03,
+                        "revised_2024_25": 99468.02,
+                        "capital_revised_2024_25": 86.17,
+                        "total_revised_2024_25": 99554.19,
+                        "budget_2026_27": 102885.61,
+                        "capital_2026_27": 109.76,
+                        "total_2026_27": 102995.37
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "10",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 13394.46,
+                        "capital_2025_26": null,
+                        "total_2025_26": 13394.46,
+                        "revised_2024_25": 13119.81,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 13119.81,
+                        "budget_2026_27": 13685.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 13685.2
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 10472.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10472.89,
+                        "budget_2025_26": 11804.24,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11804.24,
+                        "revised_2024_25": 10234.15,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10234.15,
+                        "budget_2026_27": 13632.45,
+                        "capital_2026_27": null,
+                        "total_2026_27": 13632.45
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 184.66,
+                        "capital_2024_25": null,
+                        "total_2024_25": 184.66,
+                        "budget_2025_26": 123.43,
+                        "capital_2025_26": null,
+                        "total_2025_26": 123.43,
+                        "revised_2024_25": 181.15,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 181.15,
+                        "budget_2026_27": 248.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 248.36
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 10657.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10657.55,
+                        "budget_2025_26": 25322.13,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25322.13,
+                        "revised_2024_25": 23535.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23535.11,
+                        "budget_2026_27": 27566.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 27566.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 129858.28,
+                        "capital_2024_25": 75.19,
+                        "total_2024_25": 129933.47,
+                        "budget_2025_26": 127202.29,
+                        "capital_2025_26": 87.87,
+                        "total_2025_26": 127290.16,
+                        "revised_2024_25": 123003.13,
+                        "capital_revised_2024_25": 86.17,
+                        "total_revised_2024_25": 123089.3,
+                        "budget_2026_27": 130451.62,
+                        "capital_2026_27": 109.76,
+                        "total_2026_27": 130561.38
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure of the Ministries/ benefit of..`6000 per year is transferred in three equal installments into the bank accounts of farmers' families across",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Crop Insurance Scheme:..Pradhan Mantri Fasal Bima Yojna aims provides a simple and 10. Pradhan Mantri Kisan Man Dhan Yojna:..Pradhan Mantri Kisan Man Dhan Yojana (PMKMY)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Fund for Innovation and Adoption of Technology (FIAT):..Fund for Innovation and Adoption 11. Formation and Promotion of",
+                    "values": {
+                        "actual_2024_25": 10000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Modified Interest Subvention Scheme (MISS):..MISS provides concessional short term agri- 12. Agriculture Infrastructure Fund (AIF):..The Central Sector scheme provides a medium to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "loans to the farmers practicing crop husbandry and other allied activities like animal husbandry, dairying and fisheries. long term debt financing facility for investment in viable projects for post-harvest management Infrastructure and",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Pradhan Mantri Annadata Aay Sanrakshan Yojna (PM-AASHA):..Pradhan Mantri Annadata",
+                    "values": {
+                        "actual_2024_25": 7.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-Kisan):..Pradhan Mantri Kisan Samman Nidhi",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "National Beekeeping Honey Mission (NBHM):..National Beekeeping & Honey Mission 29. National Institute of Agricultural Extension Management (MANAGE):..The Institute",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Mini Mission (MMs). 30. Chaudhary Charan Singh National Institute of Agricultural Marketing:..It is an autonomous",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Blended Capital Support to Finance Startups for Agriculture and Rural Enterprise to decision makers in government, cooperative and private sector for bringing efficiency in the agricultural marketing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "NAMO DRONE DIDI:..The scheme aims to promote advanced technology in agriculture & focus on productivity increase and product diversification.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "32. National Horticulture Board:..The National Horticulture Board (NHB) is an Autonomous",
+            "items": [
+                {
+                    "code": "16",
+                    "name": "Cotton Technology Mission:..The Cotton Technology Mission aims to improve the quality organization under the administrative control of the Ministry. The objectives of the Board are to develop production",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Mission for Pulses:..The mission aims at Atmanirbharta in Pulses for all pulses with special",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Mission for Vegetables and Fruits:..The objective of the Mission is to promote production,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Centrally Sponsored Scheme of Krishionnati Yojana from current financial year. compile, and maintain a database of different facets of the agriculture sector, study and analyze the socio-economic",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "National Mission on Hybrid Seeds:..The Mission aims to strengthen research ecosystem,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Support for Makhana Board:..The scheme has been renamed, and the revised scheme is from India and other South Asian and African nations.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "40",
+                    "name": "Krishionnati Yojna:..Krishionnati Yojna is being implemented with a view to develop the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF AGRICULTURE AND FARMERS WELFARE",
+            "items": []
+        }
+    ]
+}

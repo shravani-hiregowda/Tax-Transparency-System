@@ -1,0 +1,1119 @@
+{
+    "demand_no": 15,
+    "ministry": "Ministry Of Consumer Affairs",
+    "department": "Department Of Food And Public Distribution",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 207602.24,
+                        "capital_2024_25": 104.26,
+                        "total_2024_25": 207706.5,
+                        "budget_2025_26": 211386.14,
+                        "capital_2025_26": 20.23,
+                        "total_2025_26": 211406.37,
+                        "revised_2024_25": 235024.93,
+                        "capital_revised_2024_25": 22.72,
+                        "total_revised_2024_25": 235047.65,
+                        "budget_2026_27": 235024.58,
+                        "capital_2026_27": 22.62,
+                        "total_2026_27": 235047.2
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 82.9,
+                        "capital_2024_25": 7.07,
+                        "total_2024_25": 89.97,
+                        "budget_2025_26": 92.97,
+                        "capital_2025_26": 5.22,
+                        "total_2025_26": 98.19,
+                        "revised_2024_25": 118.25,
+                        "capital_revised_2024_25": 5.22,
+                        "total_revised_2024_25": 123.47,
+                        "budget_2026_27": 120.8,
+                        "capital_2026_27": 5.28,
+                        "total_2026_27": 126.08
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "National Sugar Institute, Kanpur",
+                    "values": {
+                        "actual_2024_25": 25.69,
+                        "capital_2024_25": 2.5,
+                        "total_2024_25": 28.19,
+                        "budget_2025_26": 28.96,
+                        "capital_2025_26": 5.0,
+                        "total_2025_26": 33.96,
+                        "revised_2024_25": 27.75,
+                        "capital_revised_2024_25": 6.28,
+                        "total_revised_2024_25": 34.03,
+                        "budget_2026_27": 30.78,
+                        "capital_2026_27": 5.77,
+                        "total_2026_27": 36.55
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Other Establishment Expenditure of Food, Storage and",
+                    "values": {
+                        "actual_2024_25": 31.04,
+                        "capital_2024_25": 1.22,
+                        "total_2024_25": 32.26,
+                        "budget_2025_26": 21.36,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 22.36,
+                        "revised_2024_25": 28.25,
+                        "capital_revised_2024_25": 2.22,
+                        "total_revised_2024_25": 30.47,
+                        "budget_2026_27": 28.48,
+                        "capital_2026_27": 2.57,
+                        "total_2026_27": 31.05
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.04,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 139.59,
+                        "capital_2024_25": 10.79,
+                        "total_2024_25": 150.38,
+                        "budget_2025_26": 143.29,
+                        "capital_2025_26": 11.22,
+                        "total_2025_26": 154.51,
+                        "revised_2024_25": 174.25,
+                        "capital_revised_2024_25": 13.72,
+                        "total_revised_2024_25": 187.97,
+                        "budget_2026_27": 180.06,
+                        "capital_2026_27": 13.62,
+                        "total_2026_27": 193.68
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)",
+                    "values": {
+                        "actual_2024_25": 199500.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 199500.01,
+                        "budget_2025_26": 203000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 203000.0,
+                        "revised_2024_25": 227753.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 227753.65,
+                        "budget_2026_27": 227429.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 227429.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Sugar Subsidy payable under Public Distribution System",
+                    "values": {
+                        "actual_2024_25": 367.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": 367.08,
+                        "budget_2025_26": 420.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 420.0,
+                        "revised_2024_25": 400.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 400.0,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Food Subsidy",
+                    "values": {
+                        "actual_2024_25": 199867.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 199867.09,
+                        "budget_2025_26": 203420.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 203420.0,
+                        "revised_2024_25": 228153.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 228153.65,
+                        "budget_2026_27": 227629.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 227629.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Ways and Means Advance to FCI",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 24445.33,
+                        "total_2024_25": 24445.33,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 50000.0,
+                        "total_2025_26": 50000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 50000.0,
+                        "total_revised_2024_25": 50000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 50000.0,
+                        "total_2026_27": 50000.0
+                    }
+                },
+                {
+                    "code": "7.01",
+                    "name": "Ways and Means Advance to FCI",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 24445.33,
+                        "total_2024_25": 24445.33,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 50000.0,
+                        "total_2025_26": 50000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 50000.0,
+                        "total_revised_2024_25": 50000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 50000.0,
+                        "total_2026_27": 50000.0
+                    }
+                },
+                {
+                    "code": "7.02",
+                    "name": "Repayments of Ways and Means Advance by",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -24445.33,
+                        "total_2024_25": -24445.33,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -50000.0,
+                        "total_2025_26": -50000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -50000.0,
+                        "total_revised_2024_25": -50000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -50000.0,
+                        "total_2026_27": -50000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "Scheme for Creation and Maintenance of Buffer Stock of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.68,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.68,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Scheme for extending financial assistance to sugar mills",
+                    "values": {
+                        "actual_2024_25": 599.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 599.95,
+                        "budget_2025_26": 600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 600.0,
+                        "revised_2024_25": 600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 600.0,
+                        "budget_2026_27": 600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Strengthening of PDS Operations",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.5,
+                        "revised_2024_25": 0.4,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.4,
+                        "budget_2026_27": 0.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.5
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Storage and Godowns",
+                    "values": {
+                        "actual_2024_25": 0.2,
+                        "capital_2024_25": 66.97,
+                        "total_2024_25": 67.17,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Credit Guarantee Scheme for electronic Negotiable",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 12.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12.5,
+                        "budget_2026_27": 15.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "13. Schemes for Development of Sugar Industries",
+            "items": [
+                {
+                    "code": "13.01",
+                    "name": "Financial Assistance to Sugar",
+                    "values": {
+                        "actual_2024_25": 10.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10.0,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Undertakings/Other Expenditure",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -0.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.05,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 200477.19,
+                        "capital_2024_25": 66.97,
+                        "total_2024_25": 200544.16,
+                        "budget_2025_26": 204080.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 204080.5,
+                        "revised_2024_25": 228777.23,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 228777.23,
+                        "budget_2026_27": 228254.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 228254.5
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "15",
+                    "name": "Warehousing Development and Regulatory Authority",
+                    "values": {
+                        "actual_2024_25": 24.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.69,
+                        "budget_2025_26": 20.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.25,
+                        "revised_2024_25": 22.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22.25,
+                        "budget_2026_27": 21.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": 21.92
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Investment in Equity Capital of Food Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "PDS-Evaluation, Monitoring & Research",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.1,
+                        "revised_2024_25": 0.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.2,
+                        "budget_2026_27": 0.1,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.1
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Production Subsidy to Sugar Mills to offset cost of cane",
+                    "values": {
+                        "actual_2024_25": 1.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.17,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 1.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.17,
+                        "budget_2025_26": 0.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.1,
+                        "revised_2024_25": 0.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.2,
+                        "budget_2026_27": 0.1,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.1
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 25.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 25.86,
+                        "budget_2025_26": 20.35,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 20.36,
+                        "revised_2024_25": 22.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22.45,
+                        "budget_2026_27": 22.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22.02
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "Assistance to States Agencies for Intra-State Movement",
+                    "values": {
+                        "actual_2024_25": 6945.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6945.24,
+                        "budget_2025_26": 7075.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7075.0,
+                        "revised_2024_25": 6000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6000.0,
+                        "budget_2026_27": 6500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6500.0
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Scheme for Modernization and Reforms through",
+                    "values": {
+                        "actual_2024_25": 14.36,
+                        "capital_2024_25": 26.5,
+                        "total_2024_25": 40.86,
+                        "budget_2025_26": 67.0,
+                        "capital_2025_26": 9.0,
+                        "total_2025_26": 76.0,
+                        "revised_2024_25": 51.0,
+                        "capital_revised_2024_25": 9.0,
+                        "total_revised_2024_25": 60.0,
+                        "budget_2026_27": 68.0,
+                        "capital_2026_27": 9.0,
+                        "total_2026_27": 77.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 6959.6,
+                        "capital_2024_25": 26.5,
+                        "total_2024_25": 6986.1,
+                        "budget_2025_26": 7142.0,
+                        "capital_2025_26": 9.0,
+                        "total_2025_26": 7151.0,
+                        "revised_2024_25": 6051.0,
+                        "capital_revised_2024_25": 9.0,
+                        "total_revised_2024_25": 6060.0,
+                        "budget_2026_27": 6568.0,
+                        "capital_2026_27": 9.0,
+                        "total_2026_27": 6577.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 207602.24,
+                        "capital_2024_25": 104.26,
+                        "total_2024_25": 207706.5,
+                        "budget_2025_26": 211386.14,
+                        "capital_2025_26": 20.23,
+                        "total_2025_26": 211406.37,
+                        "revised_2024_25": 235024.93,
+                        "capital_revised_2024_25": 22.72,
+                        "total_revised_2024_25": 235047.65,
+                        "budget_2026_27": 235024.58,
+                        "capital_2026_27": 22.62,
+                        "total_2026_27": 235047.2
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Food Storage and Warehousing",
+                    "values": {
+                        "actual_2024_25": 200572.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 200572.11,
+                        "budget_2025_26": 204207.17,
+                        "capital_2025_26": null,
+                        "total_2025_26": 204207.17,
+                        "revised_2024_25": 228903.38,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 228903.38,
+                        "budget_2026_27": 228383.81,
+                        "capital_2026_27": null,
+                        "total_2026_27": 228383.81
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 82.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 82.86,
+                        "budget_2025_26": 92.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 92.97,
+                        "revised_2024_25": 118.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 118.25,
+                        "budget_2026_27": 120.8,
+                        "capital_2026_27": null,
+                        "total_2026_27": 120.8
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Food Storage and Warehousing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 104.26,
+                        "total_2024_25": 104.26,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 20.23,
+                        "total_2025_26": 20.23,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 22.72,
+                        "total_revised_2024_25": 22.72,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 22.62,
+                        "total_2026_27": 22.62
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Loans for Food, Storage and Warehousing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 200654.97,
+                        "capital_2024_25": 104.26,
+                        "total_2024_25": 200759.23,
+                        "budget_2025_26": 204300.14,
+                        "capital_2025_26": 20.23,
+                        "total_2025_26": 204320.37,
+                        "revised_2024_25": 229021.63,
+                        "capital_revised_2024_25": 22.72,
+                        "total_revised_2024_25": 229044.35,
+                        "budget_2026_27": 228504.61,
+                        "capital_2026_27": 22.62,
+                        "total_2026_27": 228527.23
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 721.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 721.0,
+                        "revised_2024_25": 714.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 714.0,
+                        "budget_2026_27": 589.66,
+                        "capital_2026_27": null,
+                        "total_2026_27": 589.66
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 6682.14,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6682.14,
+                        "budget_2025_26": 6132.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6132.0,
+                        "revised_2024_25": 5120.88,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5120.88,
+                        "budget_2026_27": 5794.14,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5794.14
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 265.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 265.13,
+                        "budget_2025_26": 233.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 233.0,
+                        "revised_2024_25": 168.42,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 168.42,
+                        "budget_2026_27": 136.17,
+                        "capital_2026_27": null,
+                        "total_2026_27": 136.17
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 6947.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6947.27,
+                        "budget_2025_26": 7086.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7086.0,
+                        "revised_2024_25": 6003.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6003.3,
+                        "budget_2026_27": 6519.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6519.97
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 207602.24,
+                        "capital_2024_25": 104.26,
+                        "total_2024_25": 207706.5,
+                        "budget_2025_26": 211386.14,
+                        "capital_2025_26": 20.23,
+                        "total_2025_26": 211406.37,
+                        "revised_2024_25": 235024.93,
+                        "capital_revised_2024_25": 22.72,
+                        "total_revised_2024_25": 235047.65,
+                        "budget_2026_27": 235024.58,
+                        "capital_2026_27": 22.62,
+                        "total_2026_27": 235047.2
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Food Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 75495.0,
+                        "total_2024_25": 75495.0,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": 28000.0,
+                        "total_2025_26": 28000.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15000.0,
+                        "total_revised_2024_25": 15000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20600.0,
+                        "total_2026_27": 20600.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Food Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 75495.0,
+                        "total_2024_25": 75495.0,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": 28000.0,
+                        "total_2025_26": 28000.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15000.0,
+                        "total_revised_2024_25": 15000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20600.0,
+                        "total_2026_27": 20600.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Central Warehousing Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 654.0,
+                        "total_2024_25": 654.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 723.0,
+                        "total_2025_26": 723.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 700.0,
+                        "total_revised_2024_25": 700.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 750.0,
+                        "total_2026_27": 750.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Loans to Credit Cooperatives",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 654.0,
+                        "total_2024_25": 654.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 723.0,
+                        "total_2025_26": 723.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 700.0,
+                        "total_revised_2024_25": 700.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 750.0,
+                        "total_2026_27": 750.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 76149.0,
+                        "total_2024_25": 76149.0,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": 28723.0,
+                        "total_2025_26": 28723.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15700.0,
+                        "total_revised_2024_25": 15700.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 21350.0,
+                        "total_2026_27": 21350.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "9",
+                    "name": "Scheme for extending financial assistance to sugar mills for enhancement and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..This provision is for establishment related expenditure of Secretariat of the",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 2.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "N ational Sugar Institute, Kanpur:..This provision is for establishment expenditure of National",
+            "items": []
+        },
+        {
+            "heading": "10. Strengthening of PDS Operations:..This provision is for the schemes relating to",
+            "items": []
+        },
+        {
+            "heading": "3. Other Establishment Expenditure of Food, Storage and Warehousing:..This provision is",
+            "items": []
+        },
+        {
+            "heading": "for establishment expenditure of Directorate of Sugar and Vegetable Oils, Indian Grain Storage Management and",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Credit Guarantee Scheme for electronic Negotiable Warehouse Receipts (e-NWR) based",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "13.01. Financial Assistance to Sugar Undertakings/Other Expenditure:..This provision is for",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Sugar Subsidy payable under Public Distribution System:..Subsidy under Public",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Ways and Means Advance to FCI:..This provision is for Ways and Means Advances to the 15. Warehousing Development and Regulatory Authority:..This provision is to provide Grants-",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure and expenses towards IT enabled system for Management Information System (MIS) and online",
+            "items": [
+                {
+                    "code": "17",
+                    "name": "PDS-Evaluation, Monitoring & Research:..The provision under this Project (erstwhile",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Assistance to States Agencies for Intra-State Movement of Foodgrains and FPS Dealers",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Margin under NFSA:..This provision is for providing assistance to States/UTs for meeting expenditure on intra-state",
+            "items": [
+                {
+                    "code": "20",
+                    "name": "Scheme for Modernization and Reforms through Technology in Public Distribution",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF COOPERATION",
+            "items": []
+        }
+    ]
+}

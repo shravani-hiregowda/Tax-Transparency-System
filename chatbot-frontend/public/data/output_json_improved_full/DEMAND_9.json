@@ -1,0 +1,653 @@
+{
+    "demand_no": 9,
+    "ministry": "Ministry Of Coal",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 133.51,
+                        "capital_2024_25": 2.16,
+                        "total_2024_25": 135.67,
+                        "budget_2025_26": 499.0,
+                        "capital_2025_26": 2.2,
+                        "total_2025_26": 501.2,
+                        "revised_2024_25": 488.76,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 490.96,
+                        "budget_2026_27": 3633.12,
+                        "capital_2026_27": 2.2,
+                        "total_2026_27": 3635.32
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 43.27,
+                        "capital_2024_25": 1.98,
+                        "total_2024_25": 45.25,
+                        "budget_2025_26": 44.28,
+                        "capital_2025_26": 1.49,
+                        "total_2025_26": 45.77,
+                        "revised_2024_25": 58.25,
+                        "capital_revised_2024_25": 1.79,
+                        "total_revised_2024_25": 60.04,
+                        "budget_2026_27": 56.78,
+                        "capital_2026_27": 1.49,
+                        "total_2026_27": 58.27
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Statutory Bodies, Attached and Sub-ordinate Offices",
+                    "values": {
+                        "actual_2024_25": 14.04,
+                        "capital_2024_25": 0.18,
+                        "total_2024_25": 14.22,
+                        "budget_2025_26": 21.79,
+                        "capital_2025_26": 0.71,
+                        "total_2025_26": 22.5,
+                        "revised_2024_25": 22.26,
+                        "capital_revised_2024_25": 0.41,
+                        "total_revised_2024_25": 22.67,
+                        "budget_2026_27": 19.98,
+                        "capital_2026_27": 0.71,
+                        "total_2026_27": 20.69
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.03,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 57.28,
+                        "capital_2024_25": 2.16,
+                        "total_2024_25": 59.44,
+                        "budget_2025_26": 66.07,
+                        "capital_2025_26": 2.2,
+                        "total_2025_26": 68.27,
+                        "revised_2024_25": 80.51,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 82.71,
+                        "budget_2026_27": 76.76,
+                        "capital_2026_27": 2.2,
+                        "total_2026_27": 78.96
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Research and Development",
+                    "values": {
+                        "actual_2024_25": 20.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 20.0,
+                        "budget_2025_26": 30.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": 20.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 20.0,
+                        "budget_2026_27": 21.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 21.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Conservation, Safety and Infrastructure Development in",
+                    "values": {
+                        "actual_2024_25": 45.41,
+                        "capital_2024_25": null,
+                        "total_2024_25": 45.41,
+                        "budget_2025_26": 92.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 92.5,
+                        "revised_2024_25": 92.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 92.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Exploration of Coal and Lignite",
+                    "values": {
+                        "actual_2024_25": 715.18,
+                        "capital_2024_25": null,
+                        "total_2024_25": 715.18,
+                        "budget_2025_26": 750.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 750.0,
+                        "revised_2024_25": 750.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 750.0,
+                        "budget_2026_27": 755.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 755.0
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 715.18,
+                        "capital_2024_25": null,
+                        "total_2024_25": 715.18,
+                        "budget_2025_26": 750.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 750.0,
+                        "revised_2024_25": 750.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 750.0,
+                        "budget_2026_27": 755.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 755.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Amount met from National Mineral Exploration Trust",
+                    "values": {
+                        "actual_2024_25": -715.18,
+                        "capital_2024_25": null,
+                        "total_2024_25": -715.18,
+                        "budget_2025_26": -750.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -750.0,
+                        "revised_2024_25": -750.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -750.0,
+                        "budget_2026_27": -755.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -755.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Scheme for Promotion of Coal/ Lignite Gasification",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 300.0,
+                        "revised_2024_25": 285.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 285.0,
+                        "budget_2026_27": 3525.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3525.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Coal and Lignite",
+                    "values": {
+                        "actual_2024_25": 65.41,
+                        "capital_2024_25": null,
+                        "total_2024_25": 65.41,
+                        "budget_2025_26": 422.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 422.5,
+                        "revised_2024_25": 397.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 397.5,
+                        "budget_2026_27": 3546.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3546.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 65.41,
+                        "capital_2024_25": null,
+                        "total_2024_25": 65.41,
+                        "budget_2025_26": 422.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 422.5,
+                        "revised_2024_25": 397.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 397.5,
+                        "budget_2026_27": 3546.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3546.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Coal Mines Pension Scheme",
+                    "values": {
+                        "actual_2024_25": 10.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10.82,
+                        "budget_2025_26": 10.43,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.43,
+                        "revised_2024_25": 10.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.75,
+                        "budget_2026_27": 10.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.36
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 133.51,
+                        "capital_2024_25": 2.16,
+                        "total_2024_25": 135.67,
+                        "budget_2025_26": 499.0,
+                        "capital_2025_26": 2.2,
+                        "total_2025_26": 501.2,
+                        "revised_2024_25": 488.76,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 490.96,
+                        "budget_2026_27": 3633.12,
+                        "capital_2026_27": 2.2,
+                        "total_2026_27": 3635.32
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Labour, Employment and Skill Development",
+                    "values": {
+                        "actual_2024_25": 10.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10.82,
+                        "budget_2025_26": 10.43,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.43,
+                        "revised_2024_25": 10.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.75,
+                        "budget_2026_27": 10.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.36
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 10.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10.82,
+                        "budget_2025_26": 10.43,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.43,
+                        "revised_2024_25": 10.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.75,
+                        "budget_2026_27": 10.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.36
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Coal and Lignite",
+                    "values": {
+                        "actual_2024_25": 79.42,
+                        "capital_2024_25": null,
+                        "total_2024_25": 79.42,
+                        "budget_2025_26": 432.04,
+                        "capital_2025_26": null,
+                        "total_2025_26": 432.04,
+                        "revised_2024_25": 408.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 408.51,
+                        "budget_2026_27": 3563.88,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3563.88
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 43.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 43.27,
+                        "budget_2025_26": 44.28,
+                        "capital_2025_26": null,
+                        "total_2025_26": 44.28,
+                        "revised_2024_25": 58.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 58.25,
+                        "budget_2026_27": 56.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 56.78
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.16,
+                        "total_2024_25": 2.16,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.2,
+                        "total_2025_26": 2.2,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 2.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.2,
+                        "total_2026_27": 2.2
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 122.69,
+                        "capital_2024_25": 2.16,
+                        "total_2024_25": 124.85,
+                        "budget_2025_26": 476.32,
+                        "capital_2025_26": 2.2,
+                        "total_2025_26": 478.52,
+                        "revised_2024_25": 466.76,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 468.96,
+                        "budget_2026_27": 3620.66,
+                        "capital_2026_27": 2.2,
+                        "total_2026_27": 3622.86
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 12.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12.25,
+                        "revised_2024_25": 11.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11.25,
+                        "budget_2026_27": 2.1,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.1
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 12.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12.25,
+                        "revised_2024_25": 11.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11.25,
+                        "budget_2026_27": 2.1,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.1
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 133.51,
+                        "capital_2024_25": 2.16,
+                        "total_2024_25": 135.67,
+                        "budget_2025_26": 499.0,
+                        "capital_2025_26": 2.2,
+                        "total_2025_26": 501.2,
+                        "revised_2024_25": 488.76,
+                        "capital_revised_2024_25": 2.2,
+                        "total_revised_2024_25": 490.96,
+                        "budget_2026_27": 3633.12,
+                        "capital_2026_27": 2.2,
+                        "total_2026_27": 3635.32
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "NLC India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7736.1,
+                        "total_2024_25": 7736.1,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5078.31,
+                        "total_2025_26": 5078.31,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 5078.31,
+                        "total_revised_2024_25": 5078.31,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5737.96,
+                        "total_2026_27": 5737.96
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Coal India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 21775.99,
+                        "total_2024_25": 21775.99,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 16000.0,
+                        "total_2025_26": 16000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 16000.0,
+                        "total_revised_2024_25": 16000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 16500.0,
+                        "total_2026_27": 16500.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "SCCL",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2150.28,
+                        "total_2024_25": 2150.28,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1700.0,
+                        "total_2025_26": 1700.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1700.0,
+                        "total_revised_2024_25": 1700.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2500.0,
+                        "total_2026_27": 2500.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 31662.37,
+                        "total_2024_25": 31662.37,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 22778.31,
+                        "total_2025_26": 22778.31,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 22778.31,
+                        "total_revised_2024_25": 22778.31,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 24737.96,
+                        "total_2026_27": 24737.96
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "establishment expenditure for the Nominated Authority and Coal Controller's Organisation.",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Research and Development:..Provision is for Research and Development programmes in the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Exploration of Coal and Lignite:..Provision is to undertake preliminary drilling to assess the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..Provision is for meeting establishment expenditure for the Secretariat of Ministry",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Scheme for Promotion of Coal/ Lignite Gasification:..Provision is for Coal Gasification",
+                    "values": {
+                        "actual_2024_25": 2030.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Coal Mines Pension Scheme:..Allocation is for Central Government contribution for",
+                    "values": {
+                        "actual_2024_25": 1998.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF COMMERCE AND INDUSTRY",
+            "items": []
+        }
+    ]
+}

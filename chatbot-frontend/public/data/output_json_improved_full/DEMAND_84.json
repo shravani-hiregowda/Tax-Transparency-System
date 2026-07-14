@@ -1,0 +1,205 @@
+{
+    "demand_no": 84,
+    "ministry": "Ministry Of Railways",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 405.51,
+                        "capital_2024_25": 21.5,
+                        "total_2024_25": 427.01,
+                        "budget_2025_26": 414.12,
+                        "capital_2025_26": 21.64,
+                        "total_2025_26": 435.76,
+                        "revised_2024_25": 411.25,
+                        "capital_revised_2024_25": 21.64,
+                        "total_revised_2024_25": 432.89,
+                        "budget_2026_27": 421.09,
+                        "capital_2026_27": 21.85,
+                        "total_2026_27": 442.94
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Administrative Expenditure",
+                    "values": {
+                        "actual_2024_25": 192.89,
+                        "capital_2024_25": 21.5,
+                        "total_2024_25": 214.39,
+                        "budget_2025_26": 202.62,
+                        "capital_2025_26": 21.64,
+                        "total_2025_26": 224.26,
+                        "revised_2024_25": 212.57,
+                        "capital_revised_2024_25": 21.64,
+                        "total_revised_2024_25": 234.21,
+                        "budget_2026_27": 234.29,
+                        "capital_2026_27": 21.85,
+                        "total_2026_27": 256.14
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Examinations and Selections",
+                    "values": {
+                        "actual_2024_25": 212.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 212.62,
+                        "budget_2025_26": 211.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 211.5,
+                        "revised_2024_25": 198.68,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 198.68,
+                        "budget_2026_27": 186.8,
+                        "capital_2026_27": null,
+                        "total_2026_27": 186.8
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 405.51,
+                        "capital_2024_25": 21.5,
+                        "total_2024_25": 427.01,
+                        "budget_2025_26": 414.12,
+                        "capital_2025_26": 21.64,
+                        "total_2025_26": 435.76,
+                        "revised_2024_25": 411.25,
+                        "capital_revised_2024_25": 21.64,
+                        "total_revised_2024_25": 432.89,
+                        "budget_2026_27": 421.09,
+                        "capital_2026_27": 21.85,
+                        "total_2026_27": 442.94
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 405.51,
+                        "capital_2024_25": 21.5,
+                        "total_2024_25": 427.01,
+                        "budget_2025_26": 414.12,
+                        "capital_2025_26": 21.64,
+                        "total_2025_26": 435.76,
+                        "revised_2024_25": 411.25,
+                        "capital_revised_2024_25": 21.64,
+                        "total_revised_2024_25": 432.89,
+                        "budget_2026_27": 421.09,
+                        "capital_2026_27": 21.85,
+                        "total_2026_27": 442.94
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Public Service Commission",
+                    "values": {
+                        "actual_2024_25": 405.51,
+                        "capital_2024_25": null,
+                        "total_2024_25": 405.51,
+                        "budget_2025_26": 414.12,
+                        "capital_2025_26": null,
+                        "total_2025_26": 414.12,
+                        "revised_2024_25": 411.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 411.25,
+                        "budget_2026_27": 421.09,
+                        "capital_2026_27": null,
+                        "total_2026_27": 421.09
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay on Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 21.5,
+                        "total_2024_25": 21.5,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 21.64,
+                        "total_2025_26": 21.64,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 21.64,
+                        "total_revised_2024_25": 21.64,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 21.85,
+                        "total_2026_27": 21.85
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 405.51,
+                        "capital_2024_25": 21.5,
+                        "total_2024_25": 427.01,
+                        "budget_2025_26": 414.12,
+                        "capital_2025_26": 21.64,
+                        "total_2025_26": 435.76,
+                        "revised_2024_25": 411.25,
+                        "capital_revised_2024_25": 21.64,
+                        "total_revised_2024_25": 432.89,
+                        "budget_2026_27": 421.09,
+                        "capital_2026_27": 21.85,
+                        "total_2026_27": 442.94
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 405.51,
+                        "capital_2024_25": 21.5,
+                        "total_2024_25": 427.01,
+                        "budget_2025_26": 414.12,
+                        "capital_2025_26": 21.64,
+                        "total_2025_26": 435.76,
+                        "revised_2024_25": 411.25,
+                        "capital_revised_2024_25": 21.64,
+                        "total_revised_2024_25": 432.89,
+                        "budget_2026_27": 421.09,
+                        "capital_2026_27": 21.85,
+                        "total_2026_27": 442.94
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Administrative Expenditure:..The provision is for expenditure on Salaries and Allowances of",
+            "items": []
+        },
+        {
+            "heading": "2. Examinations and Selections:..The provision is for the expenditure in connection with the",
+            "items": []
+        }
+    ]
+}

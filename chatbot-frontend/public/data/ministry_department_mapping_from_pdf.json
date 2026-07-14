@@ -1,0 +1,201 @@
+{
+    "Ministry/Demand Revenue Capital Total Page No MINISTRY OF AGRICULTURE AND FARMERS WELFARE": {
+        "ministry": "Ministry/Demand Revenue Capital Total Page No MINISTRY OF AGRICULTURE AND FARMERS WELFARE",
+        "revenue": 137664.35,
+        "capital": 92.2,
+        "total": 137756.55,
+        "departments": [
+            {
+                "demand_no": 1,
+                "department": "Department of Agriculture and Farmers Welfare",
+                "revenue": 127202.29,
+                "capital": 87.87,
+                "total": 127290.16,
+                "page_range": "1-6"
+            },
+            {
+                "demand_no": 2,
+                "department": "Department of Agricultural Research and Education",
+                "revenue": 10462.06,
+                "capital": 4.33,
+                "total": 10466.39,
+                "page_range": "7-9"
+            }
+        ]
+    },
+    "DEPARTMENT OF ATOMIC ENERGY": {
+        "ministry": "DEPARTMENT OF ATOMIC ENERGY",
+        "revenue": 12071.46,
+        "capital": 11977.64,
+        "total": 24049.1,
+        "departments": [
+            {
+                "demand_no": 3,
+                "department": "Atomic Energy",
+                "revenue": 12071.46,
+                "capital": 11977.64,
+                "total": 24049.1,
+                "page_range": "10-15"
+            }
+        ]
+    },
+    "MINISTRY OF AYUSH": {
+        "ministry": "MINISTRY OF AYUSH",
+        "revenue": 3937.45,
+        "capital": 55.45,
+        "total": 3992.9,
+        "departments": [
+            {
+                "demand_no": 4,
+                "department": "Ministry of Ayush",
+                "revenue": 3937.45,
+                "capital": 55.45,
+                "total": 3992.9,
+                "page_range": "16-19"
+            }
+        ]
+    },
+    "MINISTRY OF CHEMICALS AND FERTILISERS": {
+        "ministry": "MINISTRY OF CHEMICALS AND FERTILISERS",
+        "revenue": 161946.49,
+        "capital": 18.72,
+        "total": 161965.21,
+        "departments": [
+            {
+                "demand_no": 5,
+                "department": "Department of Chemicals and Petrochemicals",
+                "revenue": 192.07,
+                "capital": 1.98,
+                "total": 194.05,
+                "page_range": "20-22"
+            },
+            {
+                "demand_no": 6,
+                "department": "Department of Fertilisers",
+                "revenue": 156487.26,
+                "capital": 15.18,
+                "total": 156502.44,
+                "page_range": "23-26"
+            },
+            {
+                "demand_no": 7,
+                "department": "Department of Pharmaceuticals",
+                "revenue": 5267.16,
+                "capital": 1.56,
+                "total": 5268.72,
+                "page_range": "27-30"
+            }
+        ]
+    },
+    "MINISTRY OF CIVIL AVIATION": {
+        "ministry": "MINISTRY OF CIVIL AVIATION",
+        "revenue": 2330.31,
+        "capital": 70.0,
+        "total": 2400.31,
+        "departments": [
+            {
+                "demand_no": 8,
+                "department": "Ministry of Civil Aviation",
+                "revenue": 2330.31,
+                "capital": 70.0,
+                "total": 2400.31,
+                "page_range": "31-33"
+            }
+        ]
+    },
+    "MINISTRY OF COAL": {
+        "ministry": "MINISTRY OF COAL",
+        "revenue": 499.0,
+        "capital": 2.2,
+        "total": 501.2,
+        "departments": [
+            {
+                "demand_no": 9,
+                "department": "Ministry of Coal",
+                "revenue": 499.0,
+                "capital": 2.2,
+                "total": 501.2,
+                "page_range": "34-36"
+            }
+        ]
+    },
+    "MINISTRY OF COMMERCE AND INDUSTRY": {
+        "ministry": "MINISTRY OF COMMERCE AND INDUSTRY",
+        "revenue": 12699.92,
+        "capital": 5746.13,
+        "total": 18446.05,
+        "departments": [
+            {
+                "demand_no": 10,
+                "department": "Department of Commerce",
+                "revenue": 5246.99,
+                "capital": 54.0,
+                "total": 5300.99,
+                "page_range": "37-40"
+            },
+            {
+                "demand_no": 11,
+                "department": "Department for Promotion of Industry and Internal Trade",
+                "revenue": 7452.93,
+                "capital": 5692.13,
+                "total": 13145.06,
+                "page_range": "41-46"
+            }
+        ]
+    },
+    "MINISTRY OF COMMUNICATIONS": {
+        "ministry": "MINISTRY OF COMMUNICATIONS",
+        "revenue": 55362.0,
+        "capital": 52743.1,
+        "total": 108105.1,
+        "departments": [
+            {
+                "demand_no": 12,
+                "department": "Department of Posts",
+                "revenue": 26141.51,
+                "capital": 958.35,
+                "total": 27099.86,
+                "page_range": "47-48"
+            },
+            {
+                "demand_no": 13,
+                "department": "Department of Telecommunications",
+                "revenue": 29220.49,
+                "capital": 51784.75,
+                "total": 81005.24,
+                "page_range": "49-53"
+            }
+        ]
+    },
+    "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION": {
+        "ministry": "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+        "revenue": 215662.44,
+        "capital": 104.65,
+        "total": 215767.09,
+        "departments": [
+            {
+                "demand_no": 14,
+                "department": "Department of Consumer Affairs",
+                "revenue": 4276.3,
+                "capital": 84.42,
+                "total": 4360.72,
+                "page_range": "54-56"
+            },
+            {
+                "demand_no": 15,
+                "department": "Department of Food and Public Distribution",
+                "revenue": 211386.14,
+                "capital": 20.23,
+                "total": 211406.37,
+                "page_range": "57-60"
+            }
+        ]
+    },
+    "MINISTRY OF COOPERATION": {
+        "ministry": "MINISTRY OF COOPERATION",
+        "revenue": 1184.68,
+        "capital": 1.61,
+        "total": 1186.29,
+        "departments": []
+    }
+}

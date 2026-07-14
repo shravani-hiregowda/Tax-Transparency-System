@@ -1,0 +1,388 @@
+{
+    "demand_no": 72,
+    "ministry": "Ministry Of Panchayati Raj",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 838.57,
+                        "capital_2024_25": 11.66,
+                        "total_2024_25": 850.23,
+                        "budget_2025_26": 1170.9,
+                        "capital_2025_26": 14.1,
+                        "total_2025_26": 1185.0,
+                        "revised_2024_25": 951.15,
+                        "capital_revised_2024_25": 14.81,
+                        "total_revised_2024_25": 965.96,
+                        "budget_2026_27": 1186.88,
+                        "capital_2026_27": 3.28,
+                        "total_2026_27": 1190.16
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 42.13,
+                        "capital_2024_25": 1.39,
+                        "total_2024_25": 43.52,
+                        "budget_2025_26": 49.63,
+                        "capital_2025_26": 1.7,
+                        "total_2025_26": 51.33,
+                        "revised_2024_25": 43.55,
+                        "capital_revised_2024_25": 2.41,
+                        "total_revised_2024_25": 45.96,
+                        "budget_2026_27": 45.45,
+                        "capital_2026_27": 2.4,
+                        "total_2026_27": 47.85
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Svamitva",
+                    "values": {
+                        "actual_2024_25": 33.82,
+                        "capital_2024_25": 8.77,
+                        "total_2024_25": 42.59,
+                        "budget_2025_26": 59.1,
+                        "capital_2025_26": 10.9,
+                        "total_2025_26": 70.0,
+                        "revised_2024_25": 59.1,
+                        "capital_revised_2024_25": 10.9,
+                        "total_revised_2024_25": 70.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Rashtriya Gram Swaraj Abhiyan (RGSA)",
+                    "values": {
+                        "actual_2024_25": 762.69,
+                        "capital_2024_25": 1.5,
+                        "total_2024_25": 764.19,
+                        "budget_2025_26": 1062.17,
+                        "capital_2025_26": 1.5,
+                        "total_2025_26": 1063.67,
+                        "revised_2024_25": 848.5,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 850.0,
+                        "budget_2026_27": 1141.43,
+                        "capital_2026_27": 0.88,
+                        "total_2026_27": 1142.31
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Actual Recoveries (CSS)",
+                    "values": {
+                        "actual_2024_25": -0.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.07,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 762.62,
+                        "capital_2024_25": 1.5,
+                        "total_2024_25": 764.12,
+                        "budget_2025_26": 1062.17,
+                        "capital_2025_26": 1.5,
+                        "total_2025_26": 1063.67,
+                        "revised_2024_25": 848.5,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 850.0,
+                        "budget_2026_27": 1141.43,
+                        "capital_2026_27": 0.88,
+                        "total_2026_27": 1142.31
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 838.57,
+                        "capital_2024_25": 11.66,
+                        "total_2024_25": 850.23,
+                        "budget_2025_26": 1170.9,
+                        "capital_2025_26": 14.1,
+                        "total_2025_26": 1185.0,
+                        "revised_2024_25": 951.15,
+                        "capital_revised_2024_25": 14.81,
+                        "total_revised_2024_25": 965.96,
+                        "budget_2026_27": 1186.88,
+                        "capital_2026_27": 3.28,
+                        "total_2026_27": 1190.16
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Other Rural Development Programmes",
+                    "values": {
+                        "actual_2024_25": 129.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 129.16,
+                        "budget_2025_26": 161.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 161.8,
+                        "revised_2024_25": 162.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 162.3,
+                        "budget_2026_27": 161.33,
+                        "capital_2026_27": null,
+                        "total_2026_27": 161.33
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 42.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 42.13,
+                        "budget_2025_26": 49.63,
+                        "capital_2025_26": null,
+                        "total_2025_26": 49.63,
+                        "revised_2024_25": 43.55,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 43.55,
+                        "budget_2026_27": 45.45,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.45
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Other Rural Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 10.27,
+                        "total_2024_25": 10.27,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 12.4,
+                        "total_2025_26": 12.4,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 12.4,
+                        "total_revised_2024_25": 12.4,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.88,
+                        "total_2026_27": 0.88
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.39,
+                        "total_2024_25": 1.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.7,
+                        "total_2025_26": 1.7,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.41,
+                        "total_revised_2024_25": 2.41,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.4,
+                        "total_2026_27": 2.4
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 171.29,
+                        "capital_2024_25": 11.66,
+                        "total_2024_25": 182.95,
+                        "budget_2025_26": 211.43,
+                        "capital_2025_26": 14.1,
+                        "total_2025_26": 225.53,
+                        "revised_2024_25": 205.85,
+                        "capital_revised_2024_25": 14.81,
+                        "total_revised_2024_25": 220.66,
+                        "budget_2026_27": 206.78,
+                        "capital_2026_27": 3.28,
+                        "total_2026_27": 210.06
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 113.37,
+                        "capital_2025_26": null,
+                        "total_2025_26": 113.37,
+                        "revised_2024_25": 113.37,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 113.37,
+                        "budget_2026_27": 114.23,
+                        "capital_2026_27": null,
+                        "total_2026_27": 114.23
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 602.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": 602.28,
+                        "budget_2025_26": 796.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 796.1,
+                        "revised_2024_25": 581.93,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 581.93,
+                        "budget_2026_27": 815.87,
+                        "capital_2026_27": null,
+                        "total_2026_27": 815.87
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 65.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 65.0,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 50.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 667.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": 667.28,
+                        "budget_2025_26": 959.47,
+                        "capital_2025_26": null,
+                        "total_2025_26": 959.47,
+                        "revised_2024_25": 745.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 745.3,
+                        "budget_2026_27": 980.1,
+                        "capital_2026_27": null,
+                        "total_2026_27": 980.1
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 838.57,
+                        "capital_2024_25": 11.66,
+                        "total_2024_25": 850.23,
+                        "budget_2025_26": 1170.9,
+                        "capital_2025_26": 14.1,
+                        "total_2025_26": 1185.0,
+                        "revised_2024_25": 951.15,
+                        "capital_revised_2024_25": 14.81,
+                        "total_revised_2024_25": 965.96,
+                        "budget_2026_27": 1186.88,
+                        "capital_2026_27": 3.28,
+                        "total_2026_27": 1190.16
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for Secretariat expenditure of the Ministry of Panchayati Raj.",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Rashtriya Gram Swaraj Abhiyan (RGSA):..(i) The focus of the scheme is on re-imagining",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF PARLIAMENTARY AFFAIRS",
+            "items": []
+        }
+    ]
+}

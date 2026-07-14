@@ -1,0 +1,888 @@
+{
+    "demand_no": 94,
+    "ministry": "Ministry Of Social Justice And Empowerment",
+    "department": "Department Of Empowerment Of Persons With Disabilities",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 1083.89,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 1083.9,
+                        "budget_2025_26": 1273.8,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 1275.0,
+                        "revised_2024_25": 1290.4,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 1291.6,
+                        "budget_2026_27": 1668.35,
+                        "capital_2026_27": 1.37,
+                        "total_2026_27": 1669.72
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 32.92,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 32.93,
+                        "budget_2025_26": 36.8,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 37.8,
+                        "revised_2024_25": 36.8,
+                        "capital_revised_2024_25": 1.0,
+                        "total_revised_2024_25": 37.8,
+                        "budget_2026_27": 39.63,
+                        "capital_2026_27": 1.17,
+                        "total_2026_27": 40.8
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Attached Office Chief Commissioner of Persons with",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.2,
+                        "total_2025_26": 0.2,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.2,
+                        "total_revised_2024_25": 0.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.2,
+                        "total_2026_27": 0.2
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 32.91,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 32.92,
+                        "budget_2025_26": 36.8,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 38.0,
+                        "revised_2024_25": 36.8,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 38.0,
+                        "budget_2026_27": 39.63,
+                        "capital_2026_27": 1.37,
+                        "total_2026_27": 41.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": []
+        },
+        {
+            "heading": "National Program for the Welfare of Persons with Disabilities",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Assistance to Disabled Persons for Purchase/Fitting of",
+                    "values": {
+                        "actual_2024_25": 348.81,
+                        "capital_2024_25": null,
+                        "total_2024_25": 348.81,
+                        "budget_2025_26": 316.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 316.7,
+                        "revised_2024_25": 330.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 330.6,
+                        "budget_2026_27": 375.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 375.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Deendayal Disabled Rehabilitation Scheme",
+                    "values": {
+                        "actual_2024_25": 139.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 139.39,
+                        "budget_2025_26": 165.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 165.0,
+                        "revised_2024_25": 145.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 145.0,
+                        "budget_2026_27": 167.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 167.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Scheme for implementation of Persons with Disability Act",
+                    "values": {
+                        "actual_2024_25": 44.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 44.16,
+                        "budget_2025_26": 115.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 115.1,
+                        "revised_2024_25": 200.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": 125.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 125.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-National Program for the Welfare of Persons with Disabilities",
+                    "values": {
+                        "actual_2024_25": 532.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 532.36,
+                        "budget_2025_26": 596.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 596.8,
+                        "revised_2024_25": 675.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 675.6,
+                        "budget_2026_27": 667.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 667.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Scholarship for Students with Disabilities",
+                    "values": {
+                        "actual_2024_25": 89.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 89.72,
+                        "budget_2025_26": 145.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 145.0,
+                        "revised_2024_25": 135.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 135.0,
+                        "budget_2026_27": 150.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 150.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Divyangjan Kaushal Yojana",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Divyangjan Sahara Yojana",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -28.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": -28.7,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 593.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": 593.38,
+                        "budget_2025_26": 741.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 741.8,
+                        "revised_2024_25": 810.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 810.6,
+                        "budget_2026_27": 1117.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1117.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "National University of Rehabilitation Science and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Rehabilitation Council of India",
+                    "values": {
+                        "actual_2024_25": 4.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4.5,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 5.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.0,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "Centre for Disability Sports",
+                    "values": {
+                        "actual_2024_25": 12.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12.89,
+                        "budget_2025_26": 25.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.0,
+                        "revised_2024_25": 25.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25.0,
+                        "budget_2026_27": 32.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 32.5
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Support to National Institutes",
+                    "values": {
+                        "actual_2024_25": 409.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 409.21,
+                        "budget_2025_26": 430.19,
+                        "capital_2025_26": null,
+                        "total_2025_26": 430.19,
+                        "revised_2024_25": 381.44,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 381.44,
+                        "budget_2026_27": 439.21,
+                        "capital_2026_27": null,
+                        "total_2026_27": 439.21
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Budgetary Support to National Trust",
+                    "values": {
+                        "actual_2024_25": 31.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 31.0,
+                        "budget_2025_26": 35.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35.0,
+                        "revised_2024_25": 31.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 31.56,
+                        "budget_2026_27": 35.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 35.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 457.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 457.6,
+                        "budget_2025_26": 495.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 495.2,
+                        "revised_2024_25": 443.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 443.0,
+                        "budget_2026_27": 511.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 511.72
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 457.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 457.6,
+                        "budget_2025_26": 495.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 495.2,
+                        "revised_2024_25": 443.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 443.0,
+                        "budget_2026_27": 511.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 511.72
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 1083.89,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 1083.9,
+                        "budget_2025_26": 1273.8,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 1275.0,
+                        "revised_2024_25": 1290.4,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 1291.6,
+                        "budget_2026_27": 1668.35,
+                        "capital_2026_27": 1.37,
+                        "total_2026_27": 1669.72
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Social Security and Welfare",
+                    "values": {
+                        "actual_2024_25": 1059.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1059.76,
+                        "budget_2025_26": 1172.62,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1172.62,
+                        "revised_2024_25": 1178.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1178.04,
+                        "budget_2026_27": 1553.32,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1553.32
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 26.81,
+                        "capital_2024_25": null,
+                        "total_2024_25": 26.81,
+                        "budget_2025_26": 31.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 31.5,
+                        "revised_2024_25": 31.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 31.3,
+                        "budget_2026_27": 33.33,
+                        "capital_2026_27": null,
+                        "total_2026_27": 33.33
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 1.2,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 1.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.37,
+                        "total_2026_27": 1.37
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 1086.57,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 1086.58,
+                        "budget_2025_26": 1204.12,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 1205.32,
+                        "revised_2024_25": 1209.34,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 1210.54,
+                        "budget_2026_27": 1586.65,
+                        "capital_2026_27": 1.37,
+                        "total_2026_27": 1588.02
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 69.68,
+                        "capital_2025_26": null,
+                        "total_2025_26": 69.68,
+                        "revised_2024_25": 81.06,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 81.06,
+                        "budget_2026_27": 81.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 81.7
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": -2.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2.68,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": -2.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2.68,
+                        "budget_2025_26": 69.68,
+                        "capital_2025_26": null,
+                        "total_2025_26": 69.68,
+                        "revised_2024_25": 81.06,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 81.06,
+                        "budget_2026_27": 81.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 81.7
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 1083.89,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 1083.9,
+                        "budget_2025_26": 1273.8,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 1275.0,
+                        "revised_2024_25": 1290.4,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 1291.6,
+                        "budget_2026_27": 1668.35,
+                        "capital_2026_27": 1.37,
+                        "total_2026_27": 1669.72
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "National Handicapped Finance and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 107.16,
+                        "total_2024_25": 107.16,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 128.0,
+                        "total_2025_26": 128.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 112.0,
+                        "total_revised_2024_25": 112.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 120.0,
+                        "total_2026_27": 120.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Artificial Limbs Manufacturing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 116.0,
+                        "total_2024_25": 116.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 112.0,
+                        "total_2025_26": 112.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 124.0,
+                        "total_revised_2024_25": 124.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 143.0,
+                        "total_2026_27": 143.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 223.16,
+                        "total_2024_25": 223.16,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 240.0,
+                        "total_2025_26": 240.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 236.0,
+                        "total_revised_2024_25": 236.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 263.0,
+                        "total_2026_27": 263.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure on the Secretariat of the 2. Attached Office Chief Commissioner of Persons with Disabilities (CCPD):..The provision",
+            "items": []
+        },
+        {
+            "heading": "Department. is for Establishment expenditure of the Chief Commissioner of Persons with Disabilities (CCPD), an attached office of",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Assistance to Disabled Persons for Purchase/Fitting of Aids and Appliances:..The",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Deendayal Disabled Rehabilitation Scheme:..The scheme is implemented through Voluntary",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Scheme for implementation of Persons with Disability Act:..Financial assistance is",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "autonomous bodies and Universities, to support activities relating to accessible India campaign and implementation of",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Scholarship for Students with Disabilities:..The main objective of the umbrella scholarship",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Divyangjan Kaushal Yojana:..To ensure dignified livelihood opportunities for",
+                    "values": {
+                        "actual_2024_25": 20000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Divyangjan Sahara Yojana:..To support Artificial Limbs Manufacturing Corporations of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "National University of Rehabilitation Science and Disabiltiy Studies:..This provision is",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Rehabilitation Council of India:..Rehabilitation Council of India is an apex statutory body to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Centre for Disability Sports:..The Centre encourages Persons with disabilities to pursue",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Support to National Institutes:..To provide professional training courses with a view to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Budgetary Support to National Trust:..National Trust is a Statutory body of the Department",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "under which budgetary support is provided to National Trust for implementing their schemes for the benefits of PwDs.",
+            "items": []
+        },
+        {
+            "heading": "DEPARTMENT OF SPACE",
+            "items": []
+        }
+    ]
+}

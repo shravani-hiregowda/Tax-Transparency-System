@@ -1,0 +1,997 @@
+{
+    "demand_no": 101,
+    "ministry": "Ministry Of Women And Child Development",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 24835.97,
+                        "capital_2024_25": 6.52,
+                        "total_2024_25": 24842.49,
+                        "budget_2025_26": 26884.99,
+                        "capital_2025_26": 4.7,
+                        "total_2025_26": 26889.69,
+                        "revised_2024_25": 24368.65,
+                        "capital_revised_2024_25": 5.26,
+                        "total_revised_2024_25": 24373.91,
+                        "budget_2026_27": 28177.42,
+                        "capital_2026_27": 5.64,
+                        "total_2026_27": 28183.06
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 71.05,
+                        "capital_2024_25": 6.52,
+                        "total_2024_25": 77.57,
+                        "budget_2025_26": 80.3,
+                        "capital_2025_26": 4.7,
+                        "total_2025_26": 85.0,
+                        "revised_2024_25": 79.54,
+                        "capital_revised_2024_25": 5.26,
+                        "total_revised_2024_25": 84.8,
+                        "budget_2026_27": 84.44,
+                        "capital_2026_27": 5.64,
+                        "total_2026_27": 90.08
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.12,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.12,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 70.93,
+                        "capital_2024_25": 6.52,
+                        "total_2024_25": 77.45,
+                        "budget_2025_26": 80.3,
+                        "capital_2025_26": 4.7,
+                        "total_2025_26": 85.0,
+                        "revised_2024_25": 79.54,
+                        "capital_revised_2024_25": 5.26,
+                        "total_revised_2024_25": 84.8,
+                        "budget_2026_27": 84.44,
+                        "capital_2026_27": 5.64,
+                        "total_2026_27": 90.08
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Savitribai Phule National Institute of Women and Child",
+                    "values": {
+                        "actual_2024_25": 81.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": 81.17,
+                        "budget_2025_26": 90.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90.0,
+                        "revised_2024_25": 103.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 103.0,
+                        "budget_2026_27": 110.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 110.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Central Adoption Resource Agency (CARA)",
+                    "values": {
+                        "actual_2024_25": 30.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 30.02,
+                        "budget_2025_26": 14.49,
+                        "capital_2025_26": null,
+                        "total_2025_26": 14.49,
+                        "revised_2024_25": 28.23,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 28.23,
+                        "budget_2026_27": 15.34,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15.34
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "National Commission for Protection of Child Rights",
+                    "values": {
+                        "actual_2024_25": 28.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 28.15,
+                        "budget_2025_26": 25.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.0,
+                        "revised_2024_25": 26.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 26.8,
+                        "budget_2026_27": 28.44,
+                        "capital_2026_27": null,
+                        "total_2026_27": 28.44
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "National Commission for Women",
+                    "values": {
+                        "actual_2024_25": 29.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.77,
+                        "budget_2025_26": 28.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 28.0,
+                        "revised_2024_25": 38.41,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 38.41,
+                        "budget_2026_27": 36.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 36.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 169.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 169.11,
+                        "budget_2025_26": 157.49,
+                        "capital_2025_26": null,
+                        "total_2025_26": 157.49,
+                        "revised_2024_25": 196.44,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 196.44,
+                        "budget_2026_27": 189.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 189.78
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "National Awards",
+                    "values": {
+                        "actual_2024_25": 1.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.38,
+                        "budget_2025_26": 1.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.6,
+                        "revised_2024_25": 1.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.6,
+                        "budget_2026_27": 1.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.6
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Contribution to UNICEF",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 5.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.6,
+                        "revised_2024_25": 5.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.6,
+                        "budget_2026_27": 5.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.6
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Contribution to UN Women",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 6.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.0,
+                        "budget_2026_27": 6.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 1.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.38,
+                        "budget_2025_26": 7.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7.2,
+                        "revised_2024_25": 13.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 13.2,
+                        "budget_2026_27": 13.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 13.2
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 170.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 170.49,
+                        "budget_2025_26": 164.69,
+                        "capital_2025_26": null,
+                        "total_2025_26": 164.69,
+                        "revised_2024_25": 209.64,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 209.64,
+                        "budget_2026_27": 202.98,
+                        "capital_2026_27": null,
+                        "total_2026_27": 202.98
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "Saksham Anganwadi and POSHAN 2.0 (Umbrella ICDS -",
+                    "values": {
+                        "actual_2024_25": 21014.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21014.02,
+                        "budget_2025_26": 21960.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 21960.0,
+                        "revised_2024_25": 20949.47,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 20949.47,
+                        "budget_2026_27": 23100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 23100.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "11. Mission VATSALYA (Child Protection Services and Child Welfare Services)",
+            "items": [
+                {
+                    "code": "11.01",
+                    "name": "Mission VATSALYA",
+                    "values": {
+                        "actual_2024_25": 1405.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1405.53,
+                        "budget_2025_26": 1500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1500.0,
+                        "revised_2024_25": 1100.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1100.0,
+                        "budget_2026_27": 1550.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1550.0
+                    }
+                },
+                {
+                    "code": "11.02",
+                    "name": "Transfer to Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "11.03",
+                    "name": "Amount met from Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -10.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 1405.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1405.53,
+                        "budget_2025_26": 1500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1500.0,
+                        "revised_2024_25": 1100.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1100.0,
+                        "budget_2026_27": 1550.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1550.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "12",
+                    "name": "Mission Shakti (Mission for Protection and Empowerment for Women)",
+                    "values": {
+                        "actual_2024_25": 202.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 202.4,
+                        "budget_2025_26": 629.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 629.0,
+                        "revised_2024_25": 322.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 322.35,
+                        "budget_2026_27": 627.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 627.0
+                    }
+                },
+                {
+                    "code": "12.01",
+                    "name": "SAMBAL (Beti Bacaho Beti Padhao, One Stop",
+                    "values": {
+                        "actual_2024_25": 202.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 202.4,
+                        "budget_2025_26": 629.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 629.0,
+                        "revised_2024_25": 322.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 322.35,
+                        "budget_2026_27": 627.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 627.0
+                    }
+                },
+                {
+                    "code": "12.02",
+                    "name": "SAMARTHYA(Shakti Sadan (Swadhar,",
+                    "values": {
+                        "actual_2024_25": 1632.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1632.35,
+                        "budget_2025_26": 2521.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2521.0,
+                        "revised_2024_25": 1677.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1677.65,
+                        "budget_2026_27": 2573.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2573.0
+                    }
+                },
+                {
+                    "code": "12.03",
+                    "name": "Transfer to Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 405.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 405.0
+                    }
+                },
+                {
+                    "code": "12.04",
+                    "name": "Amount met from Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -405.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -405.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 1834.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1834.75,
+                        "budget_2025_26": 3150.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3150.0,
+                        "revised_2024_25": 2000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2000.0,
+                        "budget_2026_27": 3200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3200.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "13. Other schemes funded from Nirbhaya Fund",
+            "items": [
+                {
+                    "code": "13.01",
+                    "name": "Support from Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": 27.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 27.13,
+                        "budget_2025_26": 30.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": 30.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "13.02",
+                    "name": "Transfer to Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "13.03",
+                    "name": "Amount met from Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -40.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 27.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 27.13,
+                        "budget_2025_26": 30.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": 30.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "Transfer to Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": 500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 500.0,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 278.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 278.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Amount met from Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": -27.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": -27.13,
+                        "budget_2025_26": -500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -500.0,
+                        "revised_2024_25": -278.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -278.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Actual Recoveries (CSS)",
+                    "values": {
+                        "actual_2024_25": -159.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": -159.75,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 24594.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24594.55,
+                        "budget_2025_26": 26640.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 26640.0,
+                        "revised_2024_25": 24079.47,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 24079.47,
+                        "budget_2026_27": 27890.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 27890.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 24835.97,
+                        "capital_2024_25": 6.52,
+                        "total_2024_25": 24842.49,
+                        "budget_2025_26": 26884.99,
+                        "capital_2025_26": 4.7,
+                        "total_2025_26": 26889.69,
+                        "revised_2024_25": 24368.65,
+                        "capital_revised_2024_25": 5.26,
+                        "total_revised_2024_25": 24373.91,
+                        "budget_2026_27": 28177.42,
+                        "capital_2026_27": 5.64,
+                        "total_2026_27": 28183.06
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Social Security and Welfare",
+                    "values": {
+                        "actual_2024_25": 891.51,
+                        "capital_2024_25": null,
+                        "total_2024_25": 891.51,
+                        "budget_2025_26": 1095.96,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1095.96,
+                        "revised_2024_25": 853.77,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 853.77,
+                        "budget_2026_27": 1130.54,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1130.54
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 70.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 70.93,
+                        "budget_2025_26": 80.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 80.3,
+                        "revised_2024_25": 79.54,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 79.54,
+                        "budget_2026_27": 84.44,
+                        "capital_2026_27": null,
+                        "total_2026_27": 84.44
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 6.52,
+                        "total_2024_25": 6.52,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4.7,
+                        "total_2025_26": 4.7,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 5.26,
+                        "total_revised_2024_25": 5.26,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5.64,
+                        "total_2026_27": 5.64
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 962.44,
+                        "capital_2024_25": 6.52,
+                        "total_2024_25": 968.96,
+                        "budget_2025_26": 1176.26,
+                        "capital_2025_26": 4.7,
+                        "total_2025_26": 1180.96,
+                        "revised_2024_25": 933.31,
+                        "capital_revised_2024_25": 5.26,
+                        "total_revised_2024_25": 938.57,
+                        "budget_2026_27": 1214.98,
+                        "capital_2026_27": 5.64,
+                        "total_2026_27": 1220.62
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2615.38,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2615.38,
+                        "revised_2024_25": 2413.98,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2413.98,
+                        "budget_2026_27": 2797.21,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2797.21
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 22903.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22903.09,
+                        "budget_2025_26": 22195.95,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22195.95,
+                        "revised_2024_25": 20207.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 20207.35,
+                        "budget_2026_27": 23225.42,
+                        "capital_2026_27": null,
+                        "total_2026_27": 23225.42
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 970.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 970.44,
+                        "budget_2025_26": 897.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 897.4,
+                        "revised_2024_25": 814.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 814.01,
+                        "budget_2026_27": 939.81,
+                        "capital_2026_27": null,
+                        "total_2026_27": 939.81
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 23873.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 23873.53,
+                        "budget_2025_26": 25708.73,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25708.73,
+                        "revised_2024_25": 23435.34,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23435.34,
+                        "budget_2026_27": 26962.44,
+                        "capital_2026_27": null,
+                        "total_2026_27": 26962.44
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 24835.97,
+                        "capital_2024_25": 6.52,
+                        "total_2024_25": 24842.49,
+                        "budget_2025_26": 26884.99,
+                        "capital_2025_26": 4.7,
+                        "total_2025_26": 26889.69,
+                        "revised_2024_25": 24368.65,
+                        "capital_revised_2024_25": 5.26,
+                        "total_revised_2024_25": 24373.91,
+                        "budget_2026_27": 28177.42,
+                        "capital_2026_27": 5.64,
+                        "total_2026_27": 28183.06
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "10",
+                    "name": "Saksham Anganwadi and POSHAN",
+                    "values": {
+                        "actual_2024_25": 2.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure on the Secretariat of the",
+            "items": []
+        },
+        {
+            "heading": "training etc. for strengthening of e-governance activities in the Ministry. develop practices that nurture health, wellness and immunity among malnourished. The schemes of Anganwadi",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Savitribai Phule National Institute of Women and Child Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "4. Central Adoption Resource Agency (CARA):..Central Adoption Resource Authority is a 11. Mission VATSALYA (Child Protection Services and Child Welfare Services):..Mission",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "National Commission for Protection of Child Rights (NCPCR):..The NCPCR was set up",
+                    "values": {
+                        "actual_2024_25": 2005.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12.01",
+                    "name": "SAMBAL (Beti Bacaho Beti Padhao, One Stop Centre, Nari Adalat, Mahila Police",
+                    "values": {
+                        "actual_2024_25": 2005.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "welfare and development of children.",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "National Commission for Women:..National Commission for Women is a statutory body of..`240.00 crore in RE 2025-26 and..`405.00 crore in BE 2026-27 have been kept for OSC and WHL component",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12.02",
+                    "name": "SAMARTHYA(Shakti Sadan (Swadhar, Ujjawala, Widow Home), Shakhi Niwas (Working",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "7. National Awards:..This includes provision for the National Awards for Child Welfare.",
+            "items": []
+        },
+        {
+            "heading": "8. Contribution to UNICEF:..This is meant for meeting expenditure on India contribution to the",
+            "items": []
+        },
+        {
+            "heading": "9. Contribution to UN Women:..This is meant for meeting expenditure for Contribution to UN Hub for Women Empowerment, Gender Budgeting and Research/ Skilling/ Training/Media Advocacy.",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF YOUTH AFFAIRS AND SPORTS",
+            "items": []
+        }
+    ]
+}

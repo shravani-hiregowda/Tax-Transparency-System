@@ -1,0 +1,1030 @@
+{
+    "demand_no": 6,
+    "ministry": "Ministry Of Chemicals And Fertilisers",
+    "department": "Department Of Fertilisers",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 181785.32,
+                        "capital_2024_25": 8.06,
+                        "total_2024_25": 181793.38,
+                        "budget_2025_26": 156487.26,
+                        "capital_2025_26": 15.18,
+                        "total_2025_26": 156502.44,
+                        "revised_2024_25": 186612.35,
+                        "capital_revised_2024_25": 18.28,
+                        "total_revised_2024_25": 186630.63,
+                        "budget_2026_27": 170935.64,
+                        "capital_2026_27": 8.89,
+                        "total_2026_27": 170944.53
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 40.9,
+                        "capital_2024_25": 2.07,
+                        "total_2024_25": 42.97,
+                        "budget_2025_26": 48.56,
+                        "capital_2025_26": 2.88,
+                        "total_2025_26": 51.44,
+                        "revised_2024_25": 43.65,
+                        "capital_revised_2024_25": 2.88,
+                        "total_revised_2024_25": 46.53,
+                        "budget_2026_27": 45.64,
+                        "capital_2026_27": 2.89,
+                        "total_2026_27": 48.53
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.02,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 40.88,
+                        "capital_2024_25": 2.07,
+                        "total_2024_25": 42.95,
+                        "budget_2025_26": 48.56,
+                        "capital_2025_26": 2.88,
+                        "total_2025_26": 51.44,
+                        "revised_2024_25": 43.65,
+                        "capital_revised_2024_25": 2.88,
+                        "total_revised_2024_25": 46.53,
+                        "budget_2026_27": 45.64,
+                        "capital_2026_27": 2.89,
+                        "total_2026_27": 48.53
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Urea Subsidy",
+                    "values": {
+                        "actual_2024_25": 103319.51,
+                        "capital_2024_25": null,
+                        "total_2024_25": 103319.51,
+                        "budget_2025_26": 100839.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100839.5,
+                        "revised_2024_25": 89989.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 89989.5,
+                        "budget_2026_27": 91000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 91000.0
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Payment for Indigenous Urea",
+                    "values": {
+                        "actual_2024_25": 103319.51,
+                        "capital_2024_25": null,
+                        "total_2024_25": 103319.51,
+                        "budget_2025_26": 100839.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100839.5,
+                        "revised_2024_25": 89989.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 89989.5,
+                        "budget_2026_27": 91000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 91000.0
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Amount transfer to Oil Industry Development",
+                    "values": {
+                        "actual_2024_25": 2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2000.0,
+                        "budget_2025_26": 10000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10000.0,
+                        "revised_2024_25": 10000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10000.0,
+                        "budget_2026_27": 7000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7000.0
+                    }
+                },
+                {
+                    "code": "2.03",
+                    "name": "Amount met from Oil Industry Development",
+                    "values": {
+                        "actual_2024_25": -2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2000.0,
+                        "budget_2025_26": -10000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -10000.0,
+                        "revised_2024_25": -10000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -10000.0,
+                        "budget_2026_27": -7000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -7000.0
+                    }
+                },
+                {
+                    "code": "2.04",
+                    "name": "Payment for Import of Urea",
+                    "values": {
+                        "actual_2024_25": 21000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21000.0,
+                        "budget_2025_26": 21000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 21000.0,
+                        "revised_2024_25": 51972.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 51972.0,
+                        "budget_2026_27": 31999.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 31999.0
+                    }
+                },
+                {
+                    "code": "2.05",
+                    "name": "Direct Benefit Transfer(DBT) in Fertiliser",
+                    "values": {
+                        "actual_2024_25": 13.15,
+                        "capital_2024_25": 5.99,
+                        "total_2024_25": 19.14,
+                        "budget_2025_26": 27.7,
+                        "capital_2025_26": 12.3,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 16.5,
+                        "capital_revised_2024_25": 15.4,
+                        "total_revised_2024_25": 31.9,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.06",
+                    "name": "Fertilizer Subsidy Management System",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 18.0,
+                        "capital_2026_27": 6.0,
+                        "total_2026_27": 24.0
+                    }
+                },
+                {
+                    "code": "2.07",
+                    "name": "Recovery",
+                    "values": {
+                        "actual_2024_25": -6459.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": -6459.7,
+                        "budget_2025_26": -2980.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -2980.0,
+                        "revised_2024_25": -15518.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -15518.0,
+                        "budget_2026_27": -6218.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -6218.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 117872.96,
+                        "capital_2024_25": 5.99,
+                        "total_2024_25": 117878.95,
+                        "budget_2025_26": 118887.2,
+                        "capital_2025_26": 12.3,
+                        "total_2025_26": 118899.5,
+                        "revised_2024_25": 126460.0,
+                        "capital_revised_2024_25": 15.4,
+                        "total_revised_2024_25": 126475.4,
+                        "budget_2026_27": 116799.0,
+                        "capital_2026_27": 6.0,
+                        "total_2026_27": 116805.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Nutrient Based Subsidy",
+                    "values": {
+                        "actual_2024_25": 34010.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 34010.0,
+                        "budget_2025_26": 30000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30000.0,
+                        "revised_2024_25": 35000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 35000.0,
+                        "budget_2026_27": 34000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 34000.0
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Payment for Indigenous P and K Fertilizers",
+                    "values": {
+                        "actual_2024_25": 34010.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 34010.0,
+                        "budget_2025_26": 30000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30000.0,
+                        "revised_2024_25": 35000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 35000.0,
+                        "budget_2026_27": 34000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 34000.0
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Amount transfer to Oil Industry Development",
+                    "values": {
+                        "actual_2024_25": 1000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1000.0,
+                        "budget_2025_26": 3000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3000.0,
+                        "revised_2024_25": 3000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3000.0,
+                        "budget_2026_27": 3000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3000.0
+                    }
+                },
+                {
+                    "code": "3.03",
+                    "name": "Amount met from Oil Industry Development",
+                    "values": {
+                        "actual_2024_25": -1000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1000.0,
+                        "budget_2025_26": -3000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -3000.0,
+                        "revised_2024_25": -3000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -3000.0,
+                        "budget_2026_27": -3000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -3000.0
+                    }
+                },
+                {
+                    "code": "3.04",
+                    "name": "Payment for Imported P and K Fertilizers",
+                    "values": {
+                        "actual_2024_25": 18800.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18800.0,
+                        "budget_2025_26": 19000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 19000.0,
+                        "revised_2024_25": 25000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25000.0,
+                        "budget_2026_27": 20000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20000.0
+                    }
+                },
+                {
+                    "code": "3.05",
+                    "name": "Recovery",
+                    "values": {
+                        "actual_2024_25": -571.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": -571.08,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 52238.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 52238.92,
+                        "budget_2025_26": 49000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 49000.0,
+                        "revised_2024_25": 60000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 60000.0,
+                        "budget_2026_27": 54000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 54000.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "Scheme for promotion of flagging of merchant ships in",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.5,
+                        "revised_2024_25": 0.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.7,
+                        "budget_2026_27": 1.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Policy on Promotion of Organic Fertilizers",
+                    "values": {
+                        "actual_2024_25": 32.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 32.56,
+                        "budget_2025_26": 150.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": 108.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 108.0,
+                        "budget_2026_27": 90.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 90.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Additional Transfer to Reserve fund",
+                    "values": {
+                        "actual_2024_25": 10000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Transfer to Oil Industry Development Fund",
+                    "values": {
+                        "actual_2024_25": 10000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.02",
+                    "name": "Transfer to Oil Industry Development Fund",
+                    "values": {
+                        "actual_2024_25": 1600.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1600.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Additional Transfer to Reserve fund",
+                    "values": {
+                        "actual_2024_25": 11600.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11600.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Additional amount met from Reserve Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -10000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -10000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7.01",
+                    "name": "Amount met from Oil Industry Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -10000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -10000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7.02",
+                    "name": "Amount met from Oil Industry Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -1600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1600.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -11600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -11600.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 181744.44,
+                        "capital_2024_25": 5.99,
+                        "total_2024_25": 181750.43,
+                        "budget_2025_26": 156438.7,
+                        "capital_2025_26": 12.3,
+                        "total_2025_26": 156451.0,
+                        "revised_2024_25": 186568.7,
+                        "capital_revised_2024_25": 15.4,
+                        "total_revised_2024_25": 186584.1,
+                        "budget_2026_27": 170890.0,
+                        "capital_2026_27": 6.0,
+                        "total_2026_27": 170896.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 181785.32,
+                        "capital_2024_25": 8.06,
+                        "total_2024_25": 181793.38,
+                        "budget_2025_26": 156487.26,
+                        "capital_2025_26": 15.18,
+                        "total_2025_26": 156502.44,
+                        "revised_2024_25": 186612.35,
+                        "capital_revised_2024_25": 18.28,
+                        "total_revised_2024_25": 186630.63,
+                        "budget_2026_27": 170935.64,
+                        "capital_2026_27": 8.89,
+                        "total_2026_27": 170944.53
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Crop Husbandry",
+                    "values": {
+                        "actual_2024_25": 53838.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 53838.92,
+                        "budget_2025_26": 47400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 47400.0,
+                        "revised_2024_25": 60000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 60000.0,
+                        "budget_2026_27": 54000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 54000.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": 127905.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": 127905.52,
+                        "budget_2025_26": 109038.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 109038.7,
+                        "revised_2024_25": 126568.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 126568.7,
+                        "budget_2026_27": 116890.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 116890.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 40.88,
+                        "capital_2024_25": null,
+                        "total_2024_25": 40.88,
+                        "budget_2025_26": 48.56,
+                        "capital_2025_26": null,
+                        "total_2025_26": 48.56,
+                        "revised_2024_25": 43.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 43.65,
+                        "budget_2026_27": 45.64,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.64
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8.06,
+                        "total_2024_25": 8.06,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 15.18,
+                        "total_2025_26": 15.18,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 18.28,
+                        "total_revised_2024_25": 18.28,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 8.89,
+                        "total_2026_27": 8.89
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 181785.32,
+                        "capital_2024_25": 8.06,
+                        "total_2024_25": 181793.38,
+                        "budget_2025_26": 156487.26,
+                        "capital_2025_26": 15.18,
+                        "total_2025_26": 156502.44,
+                        "revised_2024_25": 186612.35,
+                        "capital_revised_2024_25": 18.28,
+                        "total_revised_2024_25": 186630.63,
+                        "budget_2026_27": 170935.64,
+                        "capital_2026_27": 8.89,
+                        "total_2026_27": 170944.53
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 181785.32,
+                        "capital_2024_25": 8.06,
+                        "total_2024_25": 181793.38,
+                        "budget_2025_26": 156487.26,
+                        "capital_2025_26": 15.18,
+                        "total_2025_26": 156502.44,
+                        "revised_2024_25": 186612.35,
+                        "capital_revised_2024_25": 18.28,
+                        "total_revised_2024_25": 186630.63,
+                        "budget_2026_27": 170935.64,
+                        "capital_2026_27": 8.89,
+                        "total_2026_27": 170944.53
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Fertiliser Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 16.15,
+                        "total_2024_25": 16.15,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 35.0,
+                        "total_2025_26": 35.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 35.0,
+                        "total_revised_2024_25": 35.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Rashtriya Chemicals and Fertilisers",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 857.67,
+                        "total_2024_25": 857.67,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1576.97,
+                        "total_2025_26": 1576.97,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1412.22,
+                        "total_revised_2024_25": 1412.22,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1492.23,
+                        "total_2026_27": 1492.23
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Brahmaputra Valley Fertiliser",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -164.81,
+                        "total_2024_25": -164.81,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -66.23,
+                        "total_2025_26": -66.23,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "National Fertilizer Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 161.89,
+                        "total_2024_25": 161.89,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1266.13,
+                        "total_2025_26": 1266.13,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 350.0,
+                        "total_revised_2024_25": 350.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 400.0,
+                        "total_2026_27": 400.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Fertilisers and Chemicals",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 147.19,
+                        "total_2024_25": 147.19,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 102.75,
+                        "total_2025_26": 102.75,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 103.0,
+                        "total_revised_2024_25": 103.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "FCI Aravali Gypsum and Minerals",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.41,
+                        "total_2024_25": 1.41,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 25.67,
+                        "total_2025_26": 25.67,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 11.9,
+                        "total_revised_2024_25": 11.9,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 30.67,
+                        "total_2026_27": 30.67
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Madras Fertilisers Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 14.99,
+                        "total_2024_25": 14.99,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 45.94,
+                        "total_2025_26": 45.94,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 72.35,
+                        "total_revised_2024_25": 72.35,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 72.35,
+                        "total_2026_27": 72.35
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Projects and Development India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.1,
+                        "total_2024_25": 0.1,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7.79,
+                        "total_2025_26": 7.79,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1034.59,
+                        "total_2024_25": 1034.59,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2994.02,
+                        "total_2025_26": 2994.02,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1984.47,
+                        "total_revised_2024_25": 1984.47,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2095.25,
+                        "total_2026_27": 2095.25
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for the Salary and Establishment Expenditure of Department of 4. Scheme for promotion of flagging of merchant ships in India:..In order to achieve the",
+            "items": [
+                {
+                    "code": "2.01",
+                    "name": "Payment for Indigenous Urea:..The provision is for subsidy under Fertilizer New Pricing Shipping companies in global tenders floated by Ministries and CPSEs for import of government cargo...",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.04",
+                    "name": "Payment for Import of Urea:..As indigenous production is not adequate to meet the demand",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.05",
+                    "name": "Direct Benefit Transfer(DBT) in Fertiliser Subsidy:..Provision for Direct Benefit",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2.06",
+                    "name": "Fertilizer Subsidy Management System:..The provision is for Establishment related",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Expenditure (viz. Office Expenses, Professional Services, ICT, and etc. ) under Fertilizer Subsidy Management System",
+            "items": [
+                {
+                    "code": "3.01",
+                    "name": "Payment for Indigenous P and K Fertilizers:..Provision is for payment to the manufacturers",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.04",
+                    "name": "Payment for Imported P and K Fertilizers:..Provision is for payment to the importers of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF CHEMICALS AND FERTILISERS",
+            "items": []
+        }
+    ]
+}

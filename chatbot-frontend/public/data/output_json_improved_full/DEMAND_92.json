@@ -1,0 +1,900 @@
+{
+    "demand_no": 92,
+    "ministry": "Ministry Of Skill Development And Entrepreneurship",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2688.69,
+                        "capital_2024_25": 86.01,
+                        "total_2024_25": 2774.7,
+                        "budget_2025_26": 6017.04,
+                        "capital_2025_26": 83.06,
+                        "total_2025_26": 6100.1,
+                        "revised_2024_25": 2637.54,
+                        "capital_revised_2024_25": 66.0,
+                        "total_revised_2024_25": 2703.54,
+                        "budget_2026_27": 9759.51,
+                        "capital_2026_27": 126.29,
+                        "total_2026_27": 9885.8
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 230.57,
+                        "capital_2024_25": 86.05,
+                        "total_2024_25": 316.62,
+                        "budget_2025_26": 248.01,
+                        "capital_2025_26": 83.06,
+                        "total_2025_26": 331.07,
+                        "revised_2024_25": 257.74,
+                        "capital_revised_2024_25": 66.0,
+                        "total_revised_2024_25": 323.74,
+                        "budget_2026_27": 260.0,
+                        "capital_2026_27": 67.59,
+                        "total_2026_27": 327.59
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -3.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": -3.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 227.32,
+                        "capital_2024_25": 86.05,
+                        "total_2024_25": 313.37,
+                        "budget_2025_26": 248.01,
+                        "capital_2025_26": 83.06,
+                        "total_2025_26": 331.07,
+                        "revised_2024_25": 257.74,
+                        "capital_revised_2024_25": 66.0,
+                        "total_revised_2024_25": 323.74,
+                        "budget_2026_27": 260.0,
+                        "capital_2026_27": 67.59,
+                        "total_2026_27": 327.59
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Skill India Programme.",
+                    "values": {
+                        "actual_2024_25": 2318.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2318.0,
+                        "budget_2025_26": 2200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2200.0,
+                        "revised_2024_25": 2000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2000.0,
+                        "budget_2026_27": 2800.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2800.0
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Transfer to Madhyamik and Uchchtar Shiksha",
+                    "values": {
+                        "actual_2024_25": 2318.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2318.0,
+                        "budget_2025_26": 2200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2200.0,
+                        "revised_2024_25": 2000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2000.0,
+                        "budget_2026_27": 2800.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2800.0
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Skill India Programme",
+                    "values": {
+                        "actual_2024_25": 2252.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2252.2,
+                        "budget_2025_26": 2700.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2700.0,
+                        "revised_2024_25": 2000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2000.0,
+                        "budget_2026_27": 2800.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2800.0
+                    }
+                },
+                {
+                    "code": "2.03",
+                    "name": "Amount met from Madhyamik and Uchchtar",
+                    "values": {
+                        "actual_2024_25": -2252.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2252.2,
+                        "budget_2025_26": -2200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -2200.0,
+                        "revised_2024_25": -2000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -2000.0,
+                        "budget_2026_27": -2800.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -2800.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2318.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2318.0,
+                        "budget_2025_26": 2700.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2700.0,
+                        "revised_2024_25": 2000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2000.0,
+                        "budget_2026_27": 2800.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2800.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Integrated Scheme in Skilling Architecture",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 2318.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2318.0,
+                        "budget_2025_26": 2700.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2700.0,
+                        "revised_2024_25": 2000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2000.0,
+                        "budget_2026_27": 3400.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3400.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "National Council for Vocational Education and Training",
+                    "values": {
+                        "actual_2024_25": 14.19,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14.19,
+                        "budget_2025_26": 13.87,
+                        "capital_2025_26": null,
+                        "total_2025_26": 13.87,
+                        "revised_2024_25": 12.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12.8,
+                        "budget_2026_27": 16.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 16.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Indian Institute of Entrepreneurship (IIE)",
+                    "values": {
+                        "actual_2024_25": 3.88,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.88,
+                        "budget_2025_26": 4.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.85,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.85
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "National Institute of Entrepreneurship and Small Business",
+                    "values": {
+                        "actual_2024_25": 0.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.7,
+                        "budget_2025_26": 1.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.25,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.85,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.85
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "National Instructional Media Institute (NIMI)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 4.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4.58,
+                        "budget_2025_26": 5.26,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.26,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 1.71,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.71
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 18.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18.77,
+                        "budget_2025_26": 19.13,
+                        "capital_2025_26": null,
+                        "total_2025_26": 19.13,
+                        "revised_2024_25": 12.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12.8,
+                        "budget_2026_27": 17.71,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17.71
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Skill Acquisition and Knowledge Awareness for Livelihood",
+                    "values": {
+                        "actual_2024_25": 325.42,
+                        "capital_2024_25": null,
+                        "total_2024_25": 325.42,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Skill Strengthening for Industrial Value Enhancements",
+                    "values": {
+                        "actual_2024_25": 5.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.07,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "(STRIVE) - EAP",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "Strengthening of Infrastructure for Institutional Training",
+                    "values": {
+                        "actual_2024_25": 17.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 17.89,
+                        "budget_2025_26": 49.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 49.9,
+                        "revised_2024_25": 11.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "New ITI Upgradation Scheme",
+                    "values": {
+                        "actual_2024_25": 0.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.01,
+                        "budget_2025_26": 3000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3000.0,
+                        "revised_2024_25": 356.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 356.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Pradhan Mantri Skilling and Employability Transformation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 6081.8,
+                        "capital_2026_27": 58.7,
+                        "total_2026_27": 6140.5
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Actual Recoveries.",
+                    "values": {
+                        "actual_2024_25": -223.79,
+                        "capital_2024_25": -0.04,
+                        "total_2024_25": -223.83,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 124.6,
+                        "capital_2024_25": -0.04,
+                        "total_2024_25": 124.56,
+                        "budget_2025_26": 3049.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3049.9,
+                        "revised_2024_25": 367.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 367.0,
+                        "budget_2026_27": 6081.8,
+                        "capital_2026_27": 58.7,
+                        "total_2026_27": 6140.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2688.69,
+                        "capital_2024_25": 86.01,
+                        "total_2024_25": 2774.7,
+                        "budget_2025_26": 6017.04,
+                        "capital_2025_26": 83.06,
+                        "total_2025_26": 6100.1,
+                        "revised_2024_25": 2637.54,
+                        "capital_revised_2024_25": 66.0,
+                        "total_revised_2024_25": 2703.54,
+                        "budget_2026_27": 9759.51,
+                        "capital_2026_27": 126.29,
+                        "total_2026_27": 9885.8
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Labour, Employment and Skill Development",
+                    "values": {
+                        "actual_2024_25": 2446.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2446.95,
+                        "budget_2025_26": 3767.39,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3767.39,
+                        "revised_2024_25": 1973.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1973.2,
+                        "budget_2026_27": 4490.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4490.01
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 227.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 227.32,
+                        "budget_2025_26": 248.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 248.01,
+                        "revised_2024_25": 257.74,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 257.74,
+                        "budget_2026_27": 260.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 260.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 86.01,
+                        "total_2024_25": 86.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 79.71,
+                        "total_2025_26": 79.71,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 62.65,
+                        "total_revised_2024_25": 62.65,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 126.29,
+                        "total_2026_27": 126.29
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 2674.27,
+                        "capital_2024_25": 86.01,
+                        "total_2024_25": 2760.28,
+                        "budget_2025_26": 4015.4,
+                        "capital_2025_26": 79.71,
+                        "total_2025_26": 4095.11,
+                        "revised_2024_25": 2230.94,
+                        "capital_revised_2024_25": 62.65,
+                        "total_revised_2024_25": 2293.59,
+                        "budget_2026_27": 4750.01,
+                        "capital_2026_27": 126.29,
+                        "total_2026_27": 4876.3
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 506.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 506.5,
+                        "revised_2024_25": 236.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 236.7,
+                        "budget_2026_27": 894.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 894.5
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 19.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": 19.26,
+                        "budget_2025_26": 1286.14,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1286.14,
+                        "revised_2024_25": 151.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 151.7,
+                        "budget_2026_27": 3900.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3900.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": -4.84,
+                        "capital_2024_25": null,
+                        "total_2024_25": -4.84,
+                        "budget_2025_26": 209.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 209.0,
+                        "revised_2024_25": 18.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 18.2,
+                        "budget_2026_27": 215.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 215.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.35,
+                        "total_2025_26": 3.35,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.35,
+                        "total_revised_2024_25": 3.35,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 14.42,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14.42,
+                        "budget_2025_26": 2001.64,
+                        "capital_2025_26": 3.35,
+                        "total_2025_26": 2004.99,
+                        "revised_2024_25": 406.6,
+                        "capital_revised_2024_25": 3.35,
+                        "total_revised_2024_25": 409.95,
+                        "budget_2026_27": 5009.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5009.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2688.69,
+                        "capital_2024_25": 86.01,
+                        "total_2024_25": 2774.7,
+                        "budget_2025_26": 6017.04,
+                        "capital_2025_26": 83.06,
+                        "total_2025_26": 6100.1,
+                        "revised_2024_25": 2637.54,
+                        "capital_revised_2024_25": 66.0,
+                        "total_revised_2024_25": 2703.54,
+                        "budget_2026_27": 9759.51,
+                        "capital_2026_27": 126.29,
+                        "total_2026_27": 9885.8
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..It provides establishment related expenditure for Secretariat of the Ministry, The allocation includes provision for Dharti Aaba Janjatiya Gram Utkarsh Abhiyan (DAJGUA).",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Skill India Programme.:..A composite Central Sector Scheme consisting of three components Pradesh, Odisha , Uttar Pradesh and Assam.",
+                    "values": {
+                        "actual_2024_25": 4.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Indian Institute of Entrepreneurship (IIE):..A National level apex body, with its headquarter at",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "National Institute of Entrepreneurship and Small Business Development (NIESBUD):..An",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "National Instructional Media Institute (NIMI):..An institute with objective to prepare",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Skill Acquisition and Knowledge Awareness for Livelihood Promotion (SANKALP) -",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "31.03.2025",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Skill Strengthening for Industrial Value Enhancements (STRIVE) - EAP:..The World Bank",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Strengthening of Infrastructure for Institutional Training:..This scheme consists of",
+                    "values": {
+                        "actual_2024_25": 47.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "New ITI Upgradation Scheme:..New ITI Upgradation Scheme for upgradation of",
+                    "values": {
+                        "actual_2024_25": 1000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Pradhan Mantri Skilling and Employability Transformation through Upgraded ITIs (PM",
+                    "values": {
+                        "actual_2024_25": 1000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+            "items": []
+        }
+    ]
+}

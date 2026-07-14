@@ -1,0 +1,589 @@
+{
+    "demand_no": 38,
+    "ministry": "Ministry Of Finance",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 6045.06,
+                        "capital_2024_25": 152.35,
+                        "total_2024_25": 6197.41,
+                        "budget_2025_26": 6238.41,
+                        "capital_2025_26": 172.61,
+                        "total_2025_26": 6411.02,
+                        "revised_2024_25": 6146.0,
+                        "capital_revised_2024_25": 539.09,
+                        "total_revised_2024_25": 6685.09,
+                        "budget_2026_27": 6270.19,
+                        "capital_2026_27": 166.65,
+                        "total_2026_27": 6436.84
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Comptroller and Auditor General of India",
+                    "values": {
+                        "actual_2024_25": 268.16,
+                        "capital_2024_25": 5.57,
+                        "total_2024_25": 273.73,
+                        "budget_2025_26": 298.36,
+                        "capital_2025_26": 3.24,
+                        "total_2025_26": 301.6,
+                        "revised_2024_25": 302.13,
+                        "capital_revised_2024_25": 17.71,
+                        "total_revised_2024_25": 319.84,
+                        "budget_2026_27": 325.0,
+                        "capital_2026_27": 5.36,
+                        "total_2026_27": 330.36
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -5.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": -5.22,
+                        "budget_2025_26": -10.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": -10.53,
+                        "revised_2024_25": -10.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -10.53,
+                        "budget_2026_27": -11.48,
+                        "capital_2026_27": null,
+                        "total_2026_27": -11.48
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 262.94,
+                        "capital_2024_25": 5.57,
+                        "total_2024_25": 268.51,
+                        "budget_2025_26": 287.83,
+                        "capital_2025_26": 3.24,
+                        "total_2025_26": 291.07,
+                        "revised_2024_25": 291.6,
+                        "capital_revised_2024_25": 17.71,
+                        "total_revised_2024_25": 309.31,
+                        "budget_2026_27": 313.52,
+                        "capital_2026_27": 5.36,
+                        "total_2026_27": 318.88
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Civil Audit and Accounts Offices",
+                    "values": {
+                        "actual_2024_25": 3442.93,
+                        "capital_2024_25": 27.3,
+                        "total_2024_25": 3470.23,
+                        "budget_2025_26": 3537.59,
+                        "capital_2025_26": 31.01,
+                        "total_2025_26": 3568.6,
+                        "revised_2024_25": 3534.0,
+                        "capital_revised_2024_25": 27.46,
+                        "total_revised_2024_25": 3561.46,
+                        "budget_2026_27": 3621.31,
+                        "capital_2026_27": 28.41,
+                        "total_2026_27": 3649.72
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Civil Audit Offices",
+                    "values": {
+                        "actual_2024_25": 3442.93,
+                        "capital_2024_25": 27.3,
+                        "total_2024_25": 3470.23,
+                        "budget_2025_26": 3537.59,
+                        "capital_2025_26": 31.01,
+                        "total_2025_26": 3568.6,
+                        "revised_2024_25": 3534.0,
+                        "capital_revised_2024_25": 27.46,
+                        "total_revised_2024_25": 3561.46,
+                        "budget_2026_27": 3621.31,
+                        "capital_2026_27": 28.41,
+                        "total_2026_27": 3649.72
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Civil Accounts Offices",
+                    "values": {
+                        "actual_2024_25": 1539.85,
+                        "capital_2024_25": 17.29,
+                        "total_2024_25": 1557.14,
+                        "budget_2025_26": 1580.82,
+                        "capital_2025_26": 25.4,
+                        "total_2025_26": 1606.22,
+                        "revised_2024_25": 1475.71,
+                        "capital_revised_2024_25": 18.28,
+                        "total_revised_2024_25": 1493.99,
+                        "budget_2026_27": 1464.76,
+                        "capital_2026_27": 16.29,
+                        "total_2026_27": 1481.05
+                    }
+                },
+                {
+                    "code": "2.03",
+                    "name": "Centralised Procurement",
+                    "values": {
+                        "actual_2024_25": 23.32,
+                        "capital_2024_25": 79.92,
+                        "total_2024_25": 103.24,
+                        "budget_2025_26": 24.57,
+                        "capital_2025_26": 86.55,
+                        "total_2025_26": 111.12,
+                        "revised_2024_25": 24.49,
+                        "capital_revised_2024_25": 118.91,
+                        "total_revised_2024_25": 143.4,
+                        "budget_2026_27": 24.3,
+                        "capital_2026_27": 83.5,
+                        "total_2026_27": 107.8
+                    }
+                },
+                {
+                    "code": "2.04",
+                    "name": "Training",
+                    "values": {
+                        "actual_2024_25": 88.34,
+                        "capital_2024_25": 4.06,
+                        "total_2024_25": 92.4,
+                        "budget_2025_26": 94.77,
+                        "capital_2025_26": 2.24,
+                        "total_2025_26": 97.01,
+                        "revised_2024_25": 96.66,
+                        "capital_revised_2024_25": 2.59,
+                        "total_revised_2024_25": 99.25,
+                        "budget_2026_27": 93.93,
+                        "capital_2026_27": 3.91,
+                        "total_2026_27": 97.84
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Civil Audit and Accounts Offices",
+                    "values": {
+                        "actual_2024_25": 5094.44,
+                        "capital_2024_25": 128.57,
+                        "total_2024_25": 5223.01,
+                        "budget_2025_26": 5237.75,
+                        "capital_2025_26": 145.2,
+                        "total_2025_26": 5382.95,
+                        "revised_2024_25": 5130.86,
+                        "capital_revised_2024_25": 167.24,
+                        "total_revised_2024_25": 5298.1,
+                        "budget_2026_27": 5204.3,
+                        "capital_2026_27": 132.11,
+                        "total_2026_27": 5336.41
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "P and T Audit Offices",
+                    "values": {
+                        "actual_2024_25": 207.41,
+                        "capital_2024_25": 1.04,
+                        "total_2024_25": 208.45,
+                        "budget_2025_26": 219.81,
+                        "capital_2025_26": 0.82,
+                        "total_2025_26": 220.63,
+                        "revised_2024_25": 207.42,
+                        "capital_revised_2024_25": 0.82,
+                        "total_revised_2024_25": 208.24,
+                        "budget_2026_27": 212.6,
+                        "capital_2026_27": 1.19,
+                        "total_2026_27": 213.79
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Railway Audit Offices",
+                    "values": {
+                        "actual_2024_25": 320.61,
+                        "capital_2024_25": 1.78,
+                        "total_2024_25": 322.39,
+                        "budget_2025_26": 323.93,
+                        "capital_2025_26": 1.26,
+                        "total_2025_26": 325.19,
+                        "revised_2024_25": 319.65,
+                        "capital_revised_2024_25": 1.58,
+                        "total_revised_2024_25": 321.23,
+                        "budget_2026_27": 326.23,
+                        "capital_2026_27": 1.87,
+                        "total_2026_27": 328.1
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Defence Audit Offices",
+                    "values": {
+                        "actual_2024_25": 187.05,
+                        "capital_2024_25": 1.81,
+                        "total_2024_25": 188.86,
+                        "budget_2025_26": 187.33,
+                        "capital_2025_26": 1.1,
+                        "total_2025_26": 188.43,
+                        "revised_2024_25": 190.62,
+                        "capital_revised_2024_25": 1.57,
+                        "total_revised_2024_25": 192.19,
+                        "budget_2026_27": 193.28,
+                        "capital_2026_27": 1.31,
+                        "total_2026_27": 194.59
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Commercial Audit Offices",
+                    "values": {
+                        "actual_2024_25": 311.54,
+                        "capital_2024_25": 2.63,
+                        "total_2024_25": 314.17,
+                        "budget_2025_26": 316.82,
+                        "capital_2025_26": 2.22,
+                        "total_2025_26": 319.04,
+                        "revised_2024_25": 327.59,
+                        "capital_revised_2024_25": 2.35,
+                        "total_revised_2024_25": 329.94,
+                        "budget_2026_27": 346.01,
+                        "capital_2026_27": 1.79,
+                        "total_2026_27": 347.8
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Overseas Audit Offices",
+                    "values": {
+                        "actual_2024_25": 44.05,
+                        "capital_2024_25": 0.08,
+                        "total_2024_25": 44.13,
+                        "budget_2025_26": 47.14,
+                        "capital_2025_26": 0.25,
+                        "total_2025_26": 47.39,
+                        "revised_2024_25": 53.83,
+                        "capital_revised_2024_25": 0.35,
+                        "total_revised_2024_25": 54.18,
+                        "budget_2026_27": 57.89,
+                        "capital_2026_27": 0.34,
+                        "total_2026_27": 58.23
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -382.98,
+                        "capital_2024_25": -1.78,
+                        "total_2024_25": -384.76,
+                        "budget_2025_26": -382.2,
+                        "capital_2025_26": -1.48,
+                        "total_2025_26": -383.68,
+                        "revised_2024_25": -375.57,
+                        "capital_revised_2024_25": -2.53,
+                        "total_revised_2024_25": -378.1,
+                        "budget_2026_27": -383.64,
+                        "capital_2026_27": -2.32,
+                        "total_2026_27": -385.96
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Purchase of ready-built office building",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8.57,
+                        "total_2024_25": 8.57,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 13.0,
+                        "total_2025_26": 13.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 343.0,
+                        "total_revised_2024_25": 343.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 16.0,
+                        "total_2026_27": 16.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -0.01,
+                        "total_2024_25": -0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8.56,
+                        "total_2024_25": 8.56,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 13.0,
+                        "total_2025_26": 13.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 343.0,
+                        "total_revised_2024_25": 343.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 16.0,
+                        "total_2026_27": 16.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "10",
+                    "name": "Purchase of ready-built Residential Accommodation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4.09,
+                        "total_2024_25": 4.09,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7.0,
+                        "total_2025_26": 7.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7.0,
+                        "total_revised_2024_25": 7.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 9.0,
+                        "total_2026_27": 9.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 6045.06,
+                        "capital_2024_25": 152.35,
+                        "total_2024_25": 6197.41,
+                        "budget_2025_26": 6238.41,
+                        "capital_2025_26": 172.61,
+                        "total_2025_26": 6411.02,
+                        "revised_2024_25": 6146.0,
+                        "capital_revised_2024_25": 539.09,
+                        "total_revised_2024_25": 6685.09,
+                        "budget_2026_27": 6270.19,
+                        "capital_2026_27": 166.65,
+                        "total_2026_27": 6436.84
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 6045.06,
+                        "capital_2024_25": 152.35,
+                        "total_2024_25": 6197.41,
+                        "budget_2025_26": 6238.41,
+                        "capital_2025_26": 172.61,
+                        "total_2025_26": 6411.02,
+                        "revised_2024_25": 6146.0,
+                        "capital_revised_2024_25": 539.09,
+                        "total_revised_2024_25": 6685.09,
+                        "budget_2026_27": 6270.19,
+                        "capital_2026_27": 166.65,
+                        "total_2026_27": 6436.84
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Audit",
+                    "values": {
+                        "actual_2024_25": 6045.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6045.06,
+                        "budget_2025_26": 6238.41,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6238.41,
+                        "revised_2024_25": 6146.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6146.0,
+                        "budget_2026_27": 6270.19,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6270.19
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay On Audit",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 139.7,
+                        "total_2024_25": 139.7,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 152.61,
+                        "total_2025_26": 152.61,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 189.09,
+                        "total_revised_2024_25": 189.09,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 141.65,
+                        "total_2026_27": 141.65
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Public Works",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8.57,
+                        "total_2024_25": 8.57,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 13.0,
+                        "total_2025_26": 13.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 343.0,
+                        "total_revised_2024_25": 343.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 16.0,
+                        "total_2026_27": 16.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -0.01,
+                        "total_2024_25": -0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 6045.06,
+                        "capital_2024_25": 148.26,
+                        "total_2024_25": 6193.32,
+                        "budget_2025_26": 6238.41,
+                        "capital_2025_26": 165.61,
+                        "total_2025_26": 6404.02,
+                        "revised_2024_25": 6146.0,
+                        "capital_revised_2024_25": 532.09,
+                        "total_revised_2024_25": 6678.09,
+                        "budget_2026_27": 6270.19,
+                        "capital_2026_27": 157.65,
+                        "total_2026_27": 6427.84
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Housing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4.09,
+                        "total_2024_25": 4.09,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7.0,
+                        "total_2025_26": 7.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7.0,
+                        "total_revised_2024_25": 7.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 9.0,
+                        "total_2026_27": 9.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4.09,
+                        "total_2024_25": 4.09,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7.0,
+                        "total_2025_26": 7.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7.0,
+                        "total_revised_2024_25": 7.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 9.0,
+                        "total_2026_27": 9.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 6045.06,
+                        "capital_2024_25": 152.35,
+                        "total_2024_25": 6197.41,
+                        "budget_2025_26": 6238.41,
+                        "capital_2025_26": 172.61,
+                        "total_2025_26": 6411.02,
+                        "revised_2024_25": 6146.0,
+                        "capital_revised_2024_25": 539.09,
+                        "total_revised_2024_25": 6685.09,
+                        "budget_2026_27": 6270.19,
+                        "capital_2026_27": 166.65,
+                        "total_2026_27": 6436.84
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Comptroller and Auditor General of India:..The provisions are for expenditure relating to the",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF FINANCE",
+            "items": []
+        }
+    ]
+}

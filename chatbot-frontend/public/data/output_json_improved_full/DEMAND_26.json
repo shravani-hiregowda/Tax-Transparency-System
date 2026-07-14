@@ -1,0 +1,3222 @@
+{
+    "demand_no": 26,
+    "ministry": "Ministry Of Education",
+    "department": "Department Of Higher Education",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 45571.68,
+                        "capital_2024_25": 4.84,
+                        "total_2024_25": 45576.52,
+                        "budget_2025_26": 50067.68,
+                        "capital_2025_26": 10.27,
+                        "total_2025_26": 50077.95,
+                        "revised_2024_25": 51371.4,
+                        "capital_revised_2024_25": 10.27,
+                        "total_revised_2024_25": 51381.67,
+                        "budget_2026_27": 55724.54,
+                        "capital_2026_27": 2.68,
+                        "total_2026_27": 55727.22
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 130.32,
+                        "capital_2024_25": 2.96,
+                        "total_2024_25": 133.28,
+                        "budget_2025_26": 167.23,
+                        "capital_2025_26": 5.05,
+                        "total_2025_26": 172.28,
+                        "revised_2024_25": 159.63,
+                        "capital_revised_2024_25": 5.05,
+                        "total_revised_2024_25": 164.68,
+                        "budget_2026_27": 170.43,
+                        "capital_2026_27": 1.85,
+                        "total_2026_27": 172.28
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Directorate of Hindi",
+                    "values": {
+                        "actual_2024_25": 19.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 19.36,
+                        "budget_2025_26": 25.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.25,
+                        "revised_2024_25": 25.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25.0,
+                        "budget_2026_27": 26.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 26.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Commission for Scientific and Technical Terminology",
+                    "values": {
+                        "actual_2024_25": 14.08,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 14.09,
+                        "budget_2025_26": 17.74,
+                        "capital_2025_26": 0.03,
+                        "total_2025_26": 17.77,
+                        "revised_2024_25": 13.97,
+                        "capital_revised_2024_25": 0.03,
+                        "total_revised_2024_25": 14.0,
+                        "budget_2026_27": 13.97,
+                        "capital_2026_27": 0.03,
+                        "total_2026_27": 14.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Central Institute of Indian Languages (CIIL), Mysore and",
+                    "values": {
+                        "actual_2024_25": 35.23,
+                        "capital_2024_25": 1.87,
+                        "total_2024_25": 37.1,
+                        "budget_2025_26": 43.5,
+                        "capital_2025_26": 5.1,
+                        "total_2025_26": 48.6,
+                        "revised_2024_25": 28.9,
+                        "capital_revised_2024_25": 5.1,
+                        "total_revised_2024_25": 34.0,
+                        "budget_2026_27": 38.56,
+                        "capital_2026_27": 0.7,
+                        "total_2026_27": 39.26
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Educational Institutions Abroad",
+                    "values": {
+                        "actual_2024_25": 8.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.53,
+                        "budget_2025_26": 11.08,
+                        "capital_2025_26": 0.09,
+                        "total_2025_26": 11.17,
+                        "revised_2024_25": 9.41,
+                        "capital_revised_2024_25": 0.09,
+                        "total_revised_2024_25": 9.5,
+                        "budget_2026_27": 10.4,
+                        "capital_2026_27": 0.1,
+                        "total_2026_27": 10.5
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -3.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": -3.49,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 204.03,
+                        "capital_2024_25": 4.84,
+                        "total_2024_25": 208.87,
+                        "budget_2025_26": 264.8,
+                        "capital_2025_26": 10.27,
+                        "total_2025_26": 275.07,
+                        "revised_2024_25": 236.91,
+                        "capital_revised_2024_25": 10.27,
+                        "total_revised_2024_25": 247.18,
+                        "budget_2026_27": 259.36,
+                        "capital_2026_27": 2.68,
+                        "total_2026_27": 262.04
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "National Research Professors",
+                    "values": {
+                        "actual_2024_25": 0.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.27,
+                        "budget_2025_26": 0.24,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.24,
+                        "revised_2024_25": 0.22,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.22,
+                        "budget_2026_27": 0.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.22
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "World Class Institutions",
+                    "values": {
+                        "actual_2024_25": 1000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1000.0,
+                        "budget_2025_26": 475.12,
+                        "capital_2025_26": null,
+                        "total_2025_26": 475.12,
+                        "revised_2024_25": 900.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 900.0,
+                        "budget_2026_27": 900.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 900.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Prime Minister's Girls' Hostel",
+                    "values": {
+                        "actual_2024_25": 2.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.0,
+                        "budget_2025_26": 2.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Indian Knowledge Systems",
+                    "values": {
+                        "actual_2024_25": 8.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.35,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 12.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12.45,
+                        "budget_2026_27": 35.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 35.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Glue Grant for Higher Education Institutes",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.0,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 1.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Higher Education",
+                    "values": {
+                        "actual_2024_25": 1010.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1010.62,
+                        "budget_2025_26": 528.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 528.36,
+                        "revised_2024_25": 923.67,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 923.67,
+                        "budget_2026_27": 936.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 936.22
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "12",
+                    "name": "PM Uchchatar Shiksha Protsahan (PM-USP) Yojna",
+                    "values": {
+                        "actual_2024_25": 998.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 998.95,
+                        "budget_2025_26": 1560.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1560.0,
+                        "revised_2024_25": 1450.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1450.0,
+                        "budget_2026_27": 1560.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1560.0
+                    }
+                },
+                {
+                    "code": "12.01",
+                    "name": "PM Uchchatar Shiksha Protsahan (PM-USP)",
+                    "values": {
+                        "actual_2024_25": 998.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 998.95,
+                        "budget_2025_26": 1560.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1560.0,
+                        "revised_2024_25": 1450.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1450.0,
+                        "budget_2026_27": 1560.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1560.0
+                    }
+                },
+                {
+                    "code": "12.02",
+                    "name": "Transfer to Madhyamik evam Uchchatar",
+                    "values": {
+                        "actual_2024_25": 1000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1000.0,
+                        "budget_2025_26": 1550.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1550.0,
+                        "revised_2024_25": 1450.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1450.0,
+                        "budget_2026_27": 1560.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1560.0
+                    }
+                },
+                {
+                    "code": "12.03",
+                    "name": "Amount met from MUSK",
+                    "values": {
+                        "actual_2024_25": -998.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": -998.95,
+                        "budget_2025_26": -1550.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1550.0,
+                        "revised_2024_25": -1450.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1450.0,
+                        "budget_2026_27": -1560.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1560.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 1000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1000.0,
+                        "budget_2025_26": 1560.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1560.0,
+                        "revised_2024_25": 1450.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1450.0,
+                        "budget_2026_27": 1560.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1560.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "13",
+                    "name": "PM Research Fellowship",
+                    "values": {
+                        "actual_2024_25": 204.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 204.69,
+                        "budget_2025_26": 600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 600.0,
+                        "revised_2024_25": 290.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 290.0,
+                        "budget_2026_27": 600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Student Financial Aid",
+                    "values": {
+                        "actual_2024_25": 1204.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1204.69,
+                        "budget_2025_26": 2160.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2160.0,
+                        "revised_2024_25": 1740.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1740.0,
+                        "budget_2026_27": 2160.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2160.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "National Mission in Education Through ICT",
+                    "values": {
+                        "actual_2024_25": 1563.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1563.2,
+                        "budget_2025_26": 655.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 655.0,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": 650.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 650.0
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Higher Education Statistics and Public Information",
+                    "values": {
+                        "actual_2024_25": 2.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.86,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Academic Bank of Credits (ABC)",
+                    "values": {
+                        "actual_2024_25": 9.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9.0,
+                        "budget_2025_26": 16.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Digital India-e-learning",
+                    "values": {
+                        "actual_2024_25": 1575.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1575.06,
+                        "budget_2025_26": 681.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 681.0,
+                        "revised_2024_25": 520.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 520.0,
+                        "budget_2026_27": 670.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 670.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "17",
+                    "name": "National Initiative for Design Innovation",
+                    "values": {
+                        "actual_2024_25": 4.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4.95,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 8.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8.0,
+                        "budget_2026_27": 8.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Unnat Bharat Abhiyan",
+                    "values": {
+                        "actual_2024_25": 4.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4.85,
+                        "budget_2025_26": 7.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7.0,
+                        "revised_2024_25": 15.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15.0,
+                        "budget_2026_27": 15.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15.0
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Implementation of the IMPRINT Research Initiative",
+                    "values": {
+                        "actual_2024_25": 2.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.5,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Scheme for Promotion of Academic and Research",
+                    "values": {
+                        "actual_2024_25": 25.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 25.0,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 40.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.0,
+                        "budget_2026_27": 55.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 55.0
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Scheme for Transformational and Advanced Research in",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 40.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 25.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25.0,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Multidisciplinary Education and Research Improvement in",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 220.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 220.0,
+                        "revised_2024_25": 47.55,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 47.55,
+                        "budget_2026_27": 300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 300.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Research and Innovation",
+                    "values": {
+                        "actual_2024_25": 37.3,
+                        "capital_2024_25": null,
+                        "total_2024_25": 37.3,
+                        "budget_2025_26": 327.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 327.0,
+                        "revised_2024_25": 135.55,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 135.55,
+                        "budget_2026_27": 418.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 418.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "23",
+                    "name": "Malaviya Mission Teacher Training Programme (MMTTP)",
+                    "values": {
+                        "actual_2024_25": 22.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22.97,
+                        "budget_2025_26": 70.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 70.0,
+                        "revised_2024_25": 70.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 70.0,
+                        "budget_2026_27": 70.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 70.0
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Global Initiative for Academic Network (GIAN)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 15.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15.0,
+                        "revised_2024_25": 15.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15.0,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "National Apprenticeship Training Scheme (NATS)",
+                    "values": {
+                        "actual_2024_25": 758.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 758.0,
+                        "budget_2025_26": 1178.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1178.0,
+                        "revised_2024_25": 1178.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1178.0,
+                        "budget_2026_27": 1250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1250.0
+                    }
+                },
+                {
+                    "code": "26",
+                    "name": "Study in India",
+                    "values": {
+                        "actual_2024_25": 13.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 13.0,
+                        "budget_2025_26": 14.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 14.0,
+                        "revised_2024_25": 13.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 13.0,
+                        "budget_2026_27": 16.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 16.0
+                    }
+                },
+                {
+                    "code": "27",
+                    "name": "ASEAN Fellowship",
+                    "values": {
+                        "actual_2024_25": 2.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.21,
+                        "budget_2025_26": 2.52,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.52,
+                        "revised_2024_25": 2.52,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.52,
+                        "budget_2026_27": 2.18,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.18
+                    }
+                },
+                {
+                    "code": "28",
+                    "name": "Centres of Excellence (CoE) in Artificial Intelligence (AI)",
+                    "values": {
+                        "actual_2024_25": 11.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11.0,
+                        "budget_2025_26": 200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": 120.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 120.0,
+                        "budget_2026_27": 250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 250.0
+                    }
+                },
+                {
+                    "code": "29",
+                    "name": "Education Services-Internationalization of Higher",
+                    "values": {
+                        "actual_2024_25": 77.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 77.4,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "30",
+                    "name": "Establishment of Centre of Excellence (CoEs) in Artificial",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 17.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17.0,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "31",
+                    "name": "Prime Minister Research Chair (PMRC)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "32",
+                    "name": "PM One Nation One Subscription (PM-ONOS)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 2023.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2023.25,
+                        "budget_2026_27": 2200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2200.0
+                    }
+                },
+                {
+                    "code": "33",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -409.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": -409.89,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 4302.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4302.36,
+                        "budget_2025_26": 5175.88,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5175.88,
+                        "revised_2024_25": 6757.99,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6757.99,
+                        "budget_2026_27": 8292.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8292.4
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "34",
+                    "name": "University Grants Commission (UGC)",
+                    "values": {
+                        "actual_2024_25": 3678.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3678.47,
+                        "budget_2025_26": 3335.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3335.97,
+                        "revised_2024_25": 3470.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3470.0,
+                        "budget_2026_27": 3709.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3709.0
+                    }
+                },
+                {
+                    "code": "34.01",
+                    "name": "University Grants Commission (UGC)",
+                    "values": {
+                        "actual_2024_25": 3678.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3678.47,
+                        "budget_2025_26": 3335.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3335.97,
+                        "revised_2024_25": 3470.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3470.0,
+                        "budget_2026_27": 3709.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3709.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "34.02",
+                    "name": "Transfer to MUSK",
+                    "values": {
+                        "actual_2024_25": 2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2000.0,
+                        "budget_2025_26": 2447.26,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2447.26,
+                        "revised_2024_25": 2447.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2447.26,
+                        "budget_2026_27": 3709.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3709.0
+                    }
+                },
+                {
+                    "code": "34.03",
+                    "name": "Amount met from MUSK",
+                    "values": {
+                        "actual_2024_25": -2000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2000.0,
+                        "budget_2025_26": -2447.26,
+                        "capital_2025_26": null,
+                        "total_2025_26": -2447.26,
+                        "revised_2024_25": -2447.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -2447.26,
+                        "budget_2026_27": -3709.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -3709.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 3678.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3678.47,
+                        "budget_2025_26": 3335.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3335.97,
+                        "revised_2024_25": 3470.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3470.0,
+                        "budget_2026_27": 3709.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3709.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "35",
+                    "name": "All India Council for Technical Education (AICTE)",
+                    "values": {
+                        "actual_2024_25": 137.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 137.5,
+                        "budget_2025_26": 200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": 220.86,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 220.86,
+                        "budget_2026_27": 230.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 230.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Statutory and Regulatory Bodies",
+                    "values": {
+                        "actual_2024_25": 3815.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3815.97,
+                        "budget_2025_26": 3535.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3535.97,
+                        "revised_2024_25": 3690.86,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3690.86,
+                        "budget_2026_27": 3939.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3939.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "36",
+                    "name": "Support to Central Universities (CUs)",
+                    "values": {
+                        "actual_2024_25": 15564.84,
+                        "capital_2024_25": null,
+                        "total_2024_25": 15564.84,
+                        "budget_2025_26": 16146.11,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16146.11,
+                        "revised_2024_25": 16456.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 16456.11,
+                        "budget_2026_27": 16696.58,
+                        "capital_2026_27": null,
+                        "total_2026_27": 16696.58
+                    }
+                },
+                {
+                    "code": "36.01",
+                    "name": "Grants to Central Universities (CUs)",
+                    "values": {
+                        "actual_2024_25": 15564.84,
+                        "capital_2024_25": null,
+                        "total_2024_25": 15564.84,
+                        "budget_2025_26": 16146.11,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16146.11,
+                        "revised_2024_25": 16456.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 16456.11,
+                        "budget_2026_27": 16696.58,
+                        "capital_2026_27": null,
+                        "total_2026_27": 16696.58
+                    }
+                },
+                {
+                    "code": "36.02",
+                    "name": "Interest under Higher Education Financing",
+                    "values": {
+                        "actual_2024_25": 87.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": 87.17,
+                        "budget_2025_26": 83.06,
+                        "capital_2025_26": null,
+                        "total_2025_26": 83.06,
+                        "revised_2024_25": 95.89,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 95.89,
+                        "budget_2026_27": 97.28,
+                        "capital_2026_27": null,
+                        "total_2026_27": 97.28
+                    }
+                },
+                {
+                    "code": "36.03",
+                    "name": "Repayment of Principal of HEFA Loan",
+                    "values": {
+                        "actual_2024_25": 390.43,
+                        "capital_2024_25": null,
+                        "total_2024_25": 390.43,
+                        "budget_2025_26": 462.14,
+                        "capital_2025_26": null,
+                        "total_2025_26": 462.14,
+                        "revised_2024_25": 533.14,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 533.14,
+                        "budget_2026_27": 646.14,
+                        "capital_2026_27": null,
+                        "total_2026_27": 646.14
+                    }
+                },
+                {
+                    "code": "36.04",
+                    "name": "Transfer to MUSK",
+                    "values": {
+                        "actual_2024_25": 4500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4500.0,
+                        "budget_2025_26": 5500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5500.0,
+                        "revised_2024_25": 5500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5500.0,
+                        "budget_2026_27": 5150.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5150.0
+                    }
+                },
+                {
+                    "code": "36.05",
+                    "name": "Amount met from MUSK",
+                    "values": {
+                        "actual_2024_25": -4500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -4500.0,
+                        "budget_2025_26": -5500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -5500.0,
+                        "revised_2024_25": -5500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -5500.0,
+                        "budget_2026_27": -5150.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -5150.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 16042.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16042.44,
+                        "budget_2025_26": 16691.31,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16691.31,
+                        "revised_2024_25": 17085.14,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17085.14,
+                        "budget_2026_27": 17440.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17440.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "37",
+                    "name": "Deemed Universities promoted by Central Government",
+                    "values": {
+                        "actual_2024_25": 514.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 514.36,
+                        "budget_2025_26": 604.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 604.0,
+                        "revised_2024_25": 578.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 578.0,
+                        "budget_2026_27": 650.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 650.0
+                    }
+                },
+                {
+                    "code": "38",
+                    "name": "Support to Indian Institutes of Technology",
+                    "values": {
+                        "actual_2024_25": 9569.43,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9569.43,
+                        "budget_2025_26": 10659.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10659.0,
+                        "revised_2024_25": 10775.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10775.0,
+                        "budget_2026_27": 11288.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11288.0
+                    }
+                },
+                {
+                    "code": "38.01",
+                    "name": "Grants to Indian Institutes of Technology",
+                    "values": {
+                        "actual_2024_25": 9569.43,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9569.43,
+                        "budget_2025_26": 10659.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10659.0,
+                        "revised_2024_25": 10775.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10775.0,
+                        "budget_2026_27": 11288.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11288.0
+                    }
+                },
+                {
+                    "code": "38.02",
+                    "name": "Interest under HEFA Loan",
+                    "values": {
+                        "actual_2024_25": 196.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 196.21,
+                        "budget_2025_26": 240.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 240.0,
+                        "revised_2024_25": 200.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": 230.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 230.0
+                    }
+                },
+                {
+                    "code": "38.03",
+                    "name": "Repayment of Principal of HEFA Loan",
+                    "values": {
+                        "actual_2024_25": 421.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 421.82,
+                        "budget_2025_26": 450.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 450.0,
+                        "revised_2024_25": 550.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 550.0,
+                        "budget_2026_27": 605.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 605.0
+                    }
+                },
+                {
+                    "code": "38.04",
+                    "name": "Transfer to MUSK",
+                    "values": {
+                        "actual_2024_25": 2900.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2900.49,
+                        "budget_2025_26": 4000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4000.0,
+                        "revised_2024_25": 4000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4000.0,
+                        "budget_2026_27": 5000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5000.0
+                    }
+                },
+                {
+                    "code": "38.05",
+                    "name": "Amount met from MUSK",
+                    "values": {
+                        "actual_2024_25": -2900.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2900.49,
+                        "budget_2025_26": -4000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -4000.0,
+                        "revised_2024_25": -4000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -4000.0,
+                        "budget_2026_27": -5000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -5000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 10187.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10187.46,
+                        "budget_2025_26": 11349.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11349.0,
+                        "revised_2024_25": 11525.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11525.0,
+                        "budget_2026_27": 12123.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12123.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "39",
+                    "name": "IIT, Hyderabad (EAP)",
+                    "values": {
+                        "actual_2024_25": 121.84,
+                        "capital_2024_25": null,
+                        "total_2024_25": 121.84,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Indian Institutes of Technology",
+                    "values": {
+                        "actual_2024_25": 10309.3,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10309.3,
+                        "budget_2025_26": 11349.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11349.0,
+                        "revised_2024_25": 11525.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11525.0,
+                        "budget_2026_27": 12123.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12123.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "40",
+                    "name": "Support to Indian Institutes of Management (IIMs)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 30.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": 70.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 70.11,
+                        "budget_2026_27": 82.11,
+                        "capital_2026_27": null,
+                        "total_2026_27": 82.11
+                    }
+                },
+                {
+                    "code": "40.01",
+                    "name": "Grants to Indian Institutes of Management (IIMs)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 30.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": 70.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 70.11,
+                        "budget_2026_27": 82.11,
+                        "capital_2026_27": null,
+                        "total_2026_27": 82.11
+                    }
+                },
+                {
+                    "code": "40.02",
+                    "name": "Interest under HEFA Loan",
+                    "values": {
+                        "actual_2024_25": 69.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 69.53,
+                        "budget_2025_26": 72.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 72.0,
+                        "revised_2024_25": 60.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 60.0,
+                        "budget_2026_27": 60.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 60.0
+                    }
+                },
+                {
+                    "code": "40.03",
+                    "name": "Repayment of Principal of HEFA Loan",
+                    "values": {
+                        "actual_2024_25": 149.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 149.87,
+                        "budget_2025_26": 149.89,
+                        "capital_2025_26": null,
+                        "total_2025_26": 149.89,
+                        "revised_2024_25": 149.89,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 149.89,
+                        "budget_2026_27": 149.89,
+                        "capital_2026_27": null,
+                        "total_2026_27": 149.89
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Support to Indian Institutes of Management (IIMs)",
+                    "values": {
+                        "actual_2024_25": 219.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 219.4,
+                        "budget_2025_26": 251.89,
+                        "capital_2025_26": null,
+                        "total_2025_26": 251.89,
+                        "revised_2024_25": 280.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 280.0,
+                        "budget_2026_27": 292.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 292.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "41",
+                    "name": "Support to Indian Institute of Science (IISc)",
+                    "values": {
+                        "actual_2024_25": 857.51,
+                        "capital_2024_25": null,
+                        "total_2024_25": 857.51,
+                        "budget_2025_26": 894.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 894.0,
+                        "revised_2024_25": 892.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 892.0,
+                        "budget_2026_27": 838.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 838.76
+                    }
+                },
+                {
+                    "code": "41.01",
+                    "name": "Grants to Indian Institute of Science (IISc)",
+                    "values": {
+                        "actual_2024_25": 857.51,
+                        "capital_2024_25": null,
+                        "total_2024_25": 857.51,
+                        "budget_2025_26": 894.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 894.0,
+                        "revised_2024_25": 892.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 892.0,
+                        "budget_2026_27": 838.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 838.76
+                    }
+                },
+                {
+                    "code": "41.02",
+                    "name": "Interest under HEFA Loan",
+                    "values": {
+                        "actual_2024_25": 2.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.06,
+                        "budget_2025_26": 6.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6.0,
+                        "revised_2024_25": 6.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.0,
+                        "budget_2026_27": 6.24,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.24
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Support to Indian Institute of Science (IISc)",
+                    "values": {
+                        "actual_2024_25": 859.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 859.57,
+                        "budget_2025_26": 900.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 900.0,
+                        "revised_2024_25": 898.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 898.0,
+                        "budget_2026_27": 845.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 845.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "42",
+                    "name": "Support to Indian Institute(s) of Information Technology (Allahabad,",
+                    "values": {
+                        "actual_2024_25": 362.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": 362.46,
+                        "budget_2025_26": 397.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 397.0,
+                        "revised_2024_25": 343.78,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 343.78,
+                        "budget_2026_27": 353.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 353.72
+                    }
+                },
+                {
+                    "code": "42.01",
+                    "name": "Grants to Indian Institute(s) of Information",
+                    "values": {
+                        "actual_2024_25": 362.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": 362.46,
+                        "budget_2025_26": 397.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 397.0,
+                        "revised_2024_25": 343.78,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 343.78,
+                        "budget_2026_27": 353.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 353.72
+                    }
+                },
+                {
+                    "code": "42.02",
+                    "name": "Interest under HEFA Loan",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 5.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.0,
+                        "budget_2026_27": 10.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.4
+                    }
+                },
+                {
+                    "code": "42.03",
+                    "name": "Repayment of Principal of HEFA Loan",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 5.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Support to Indian Institute(s) of Information Technology (Allahabad,",
+                    "values": {
+                        "actual_2024_25": 362.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": 362.46,
+                        "budget_2025_26": 407.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 407.0,
+                        "revised_2024_25": 353.78,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 353.78,
+                        "budget_2026_27": 364.12,
+                        "capital_2026_27": null,
+                        "total_2026_27": 364.12
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "43",
+                    "name": "Setting up Indian Institutes of Information Technology in",
+                    "values": {
+                        "actual_2024_25": 51.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 51.06,
+                        "budget_2025_26": 115.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 115.2,
+                        "revised_2024_25": 92.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 92.0,
+                        "budget_2026_27": 76.88,
+                        "capital_2026_27": null,
+                        "total_2026_27": 76.88
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Indian Institutes of Information Technology(IIITs)",
+                    "values": {
+                        "actual_2024_25": 413.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": 413.52,
+                        "budget_2025_26": 522.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 522.2,
+                        "revised_2024_25": 445.78,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 445.78,
+                        "budget_2026_27": 441.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 441.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "44",
+                    "name": "Support to National Institutes of Technology (NITs) and IIEST",
+                    "values": {
+                        "actual_2024_25": 5203.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5203.2,
+                        "budget_2025_26": 5473.87,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5473.87,
+                        "revised_2024_25": 5657.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5657.65,
+                        "budget_2026_27": 6055.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6055.0
+                    }
+                },
+                {
+                    "code": "44.01",
+                    "name": "Grants to National Institutes of Technology",
+                    "values": {
+                        "actual_2024_25": 5203.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5203.2,
+                        "budget_2025_26": 5473.87,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5473.87,
+                        "revised_2024_25": 5657.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5657.65,
+                        "budget_2026_27": 6055.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6055.0
+                    }
+                },
+                {
+                    "code": "44.02",
+                    "name": "Interest under HEFA Loan",
+                    "values": {
+                        "actual_2024_25": 57.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": 57.67,
+                        "budget_2025_26": 80.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 80.6,
+                        "revised_2024_25": 70.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 70.0,
+                        "budget_2026_27": 77.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 77.0
+                    }
+                },
+                {
+                    "code": "44.03",
+                    "name": "Repayment of Principal of HEFA Loan",
+                    "values": {
+                        "actual_2024_25": 132.34,
+                        "capital_2024_25": null,
+                        "total_2024_25": 132.34,
+                        "budget_2025_26": 133.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 133.0,
+                        "revised_2024_25": 126.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 126.35,
+                        "budget_2026_27": 128.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 128.0
+                    }
+                },
+                {
+                    "code": "44.04",
+                    "name": "Transfer to MUSK",
+                    "values": {
+                        "actual_2024_25": 5300.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5300.0,
+                        "budget_2025_26": 5500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5500.0,
+                        "revised_2024_25": 5500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5500.0,
+                        "budget_2026_27": 5500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5500.0
+                    }
+                },
+                {
+                    "code": "44.05",
+                    "name": "Amount met from MUSK",
+                    "values": {
+                        "actual_2024_25": -5300.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -5300.0,
+                        "budget_2025_26": -5500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -5500.0,
+                        "revised_2024_25": -5500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -5500.0,
+                        "budget_2026_27": -5500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -5500.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 5393.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5393.21,
+                        "budget_2025_26": 5687.47,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5687.47,
+                        "revised_2024_25": 5854.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5854.0,
+                        "budget_2026_27": 6260.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6260.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "45",
+                    "name": "Support to Indian Institute(s) of Science, Education and Research (IISER)",
+                    "values": {
+                        "actual_2024_25": 1457.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1457.67,
+                        "budget_2025_26": 1331.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1331.33,
+                        "revised_2024_25": 1335.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1335.0,
+                        "budget_2026_27": 1296.12,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1296.12
+                    }
+                },
+                {
+                    "code": "45.01",
+                    "name": "Grants to Indian Institute(s) of Science,",
+                    "values": {
+                        "actual_2024_25": 1457.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1457.67,
+                        "budget_2025_26": 1331.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1331.33,
+                        "revised_2024_25": 1335.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1335.0,
+                        "budget_2026_27": 1296.12,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1296.12
+                    }
+                },
+                {
+                    "code": "45.02",
+                    "name": "Interest under HEFA Loan",
+                    "values": {
+                        "actual_2024_25": 1.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.63,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 10.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.4
+                    }
+                },
+                {
+                    "code": "45.03",
+                    "name": "Repayment of Principal of HEFA Loan",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 12.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12.0,
+                        "revised_2024_25": 12.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12.0,
+                        "budget_2026_27": 12.48,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12.48
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Support to Indian Institute(s) of Science, Education and Research",
+                    "values": {
+                        "actual_2024_25": 1459.3,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1459.3,
+                        "budget_2025_26": 1353.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1353.33,
+                        "revised_2024_25": 1357.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1357.0,
+                        "budget_2026_27": 1319.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1319.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "46",
+                    "name": "Grants to Councils/Institutes for Excellence in Humanities",
+                    "values": {
+                        "actual_2024_25": 309.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": 309.25,
+                        "budget_2025_26": 332.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 332.8,
+                        "revised_2024_25": 324.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 324.0,
+                        "budget_2026_27": 366.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 366.0
+                    }
+                },
+                {
+                    "code": "47",
+                    "name": "Grants to Institutes for Promotion of Indian Languages",
+                    "values": {
+                        "actual_2024_25": 289.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 289.4,
+                        "budget_2025_26": 347.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 347.03,
+                        "revised_2024_25": 312.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 312.0,
+                        "budget_2026_27": 352.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 352.0
+                    }
+                },
+                {
+                    "code": "48",
+                    "name": "National Institute of Industrial Engineering, Mumbai",
+                    "values": {
+                        "actual_2024_25": 38.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 38.85,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "49",
+                    "name": "Board of Apprenticeship Training, Bombay, Calcutta,",
+                    "values": {
+                        "actual_2024_25": 43.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 43.02,
+                        "budget_2025_26": 43.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 43.0,
+                        "revised_2024_25": 42.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 42.0,
+                        "budget_2026_27": 45.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.0
+                    }
+                },
+                {
+                    "code": "50",
+                    "name": "National Institutes of Technical Teachers Training and",
+                    "values": {
+                        "actual_2024_25": 186.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 186.45,
+                        "budget_2025_26": 159.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 159.0,
+                        "revised_2024_25": 194.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 194.5,
+                        "budget_2026_27": 198.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 198.0
+                    }
+                },
+                {
+                    "code": "51",
+                    "name": "Assistance to Other Institutions",
+                    "values": {
+                        "actual_2024_25": 529.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 529.15,
+                        "budget_2025_26": 613.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 613.0,
+                        "revised_2024_25": 602.86,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 602.86,
+                        "budget_2026_27": 641.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 641.72
+                    }
+                },
+                {
+                    "code": "51.01",
+                    "name": "Assistance to Other Institutions",
+                    "values": {
+                        "actual_2024_25": 529.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 529.15,
+                        "budget_2025_26": 613.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 613.0,
+                        "revised_2024_25": 602.86,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 602.86,
+                        "budget_2026_27": 641.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 641.72
+                    }
+                },
+                {
+                    "code": "51.02",
+                    "name": "Interest under HEFA Loan",
+                    "values": {
+                        "actual_2024_25": 0.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.33,
+                        "budget_2025_26": 1.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.0,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 1.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Assistance to Other Institutions",
+                    "values": {
+                        "actual_2024_25": 529.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 529.48,
+                        "budget_2025_26": 614.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 614.0,
+                        "revised_2024_25": 603.86,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 603.86,
+                        "budget_2026_27": 642.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 642.72
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "52",
+                    "name": "Schools of Planning and Architecture (SPAs)",
+                    "values": {
+                        "actual_2024_25": 143.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": 143.77,
+                        "budget_2025_26": 169.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 169.0,
+                        "revised_2024_25": 159.36,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 159.36,
+                        "budget_2026_27": 169.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 169.06
+                    }
+                },
+                {
+                    "code": "53",
+                    "name": "Indira Gandhi National Open University (IGNOU)",
+                    "values": {
+                        "actual_2024_25": 131.14,
+                        "capital_2024_25": null,
+                        "total_2024_25": 131.14,
+                        "budget_2025_26": 147.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 147.0,
+                        "revised_2024_25": 150.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 150.5,
+                        "budget_2026_27": 160.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 160.0
+                    }
+                },
+                {
+                    "code": "54",
+                    "name": "National Digital University",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 25.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "55",
+                    "name": "Actual Recoveries (ABs)",
+                    "values": {
+                        "actual_2024_25": -9.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": -9.6,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 36872.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 36872.86,
+                        "budget_2025_26": 39196.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 39196.03,
+                        "revised_2024_25": 39809.14,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 39809.14,
+                        "budget_2026_27": 41302.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 41302.78
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "56",
+                    "name": "National Institutional Ranking Framework (NIRF)",
+                    "values": {
+                        "actual_2024_25": 2.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.5,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 3.14,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.14,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": "57",
+                    "name": "Planning, Administration and Global Engagement",
+                    "values": {
+                        "actual_2024_25": 73.12,
+                        "capital_2024_25": null,
+                        "total_2024_25": 73.12,
+                        "budget_2025_26": 75.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 75.0,
+                        "revised_2024_25": 73.36,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 73.36,
+                        "budget_2026_27": 76.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 76.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 75.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 75.62,
+                        "budget_2025_26": 80.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": 76.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 76.5,
+                        "budget_2026_27": 81.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 81.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 40764.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 40764.45,
+                        "budget_2025_26": 42812.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 42812.0,
+                        "revised_2024_25": 43576.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 43576.5,
+                        "budget_2026_27": 45322.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45322.78
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "58",
+                    "name": "Pradhan Mantri Uchchatar Shiksha Abhiyan (PM-USHA)",
+                    "values": {
+                        "actual_2024_25": 357.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 357.83,
+                        "budget_2025_26": 1815.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1815.0,
+                        "revised_2024_25": 800.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 800.0,
+                        "budget_2026_27": 1850.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1850.0
+                    }
+                },
+                {
+                    "code": "58.01",
+                    "name": "Pradhan Mantri Uchchatar Shiksha Abhiyan",
+                    "values": {
+                        "actual_2024_25": 357.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 357.83,
+                        "budget_2025_26": 1815.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1815.0,
+                        "revised_2024_25": 800.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 800.0,
+                        "budget_2026_27": 1850.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1850.0
+                    }
+                },
+                {
+                    "code": "58.02",
+                    "name": "Transfer to MUSK",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 1850.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1850.0
+                    }
+                },
+                {
+                    "code": "58.03",
+                    "name": "Amount met from MUSK",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -1850.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1850.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 357.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 357.83,
+                        "budget_2025_26": 1815.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1815.0,
+                        "revised_2024_25": 800.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 800.0,
+                        "budget_2026_27": 1850.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1850.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "59",
+                    "name": "Actual Recoveries (CSS)",
+                    "values": {
+                        "actual_2024_25": -56.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": -56.99,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 300.84,
+                        "capital_2024_25": null,
+                        "total_2024_25": 300.84,
+                        "budget_2025_26": 1815.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1815.0,
+                        "revised_2024_25": 800.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 800.0,
+                        "budget_2026_27": 1850.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1850.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 45571.68,
+                        "capital_2024_25": 4.84,
+                        "total_2024_25": 45576.52,
+                        "budget_2025_26": 50067.68,
+                        "capital_2025_26": 10.27,
+                        "total_2025_26": 50077.95,
+                        "revised_2024_25": 51371.4,
+                        "capital_revised_2024_25": 10.27,
+                        "total_revised_2024_25": 51381.67,
+                        "budget_2026_27": 55724.54,
+                        "capital_2026_27": 2.68,
+                        "total_2026_27": 55727.22
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "General Education",
+                    "values": {
+                        "actual_2024_25": 24599.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24599.75,
+                        "budget_2025_26": 22710.92,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22710.92,
+                        "revised_2024_25": 25126.54,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25126.54,
+                        "budget_2026_27": 26319.57,
+                        "capital_2026_27": null,
+                        "total_2026_27": 26319.57
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Technical Education",
+                    "values": {
+                        "actual_2024_25": 20574.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": 20574.63,
+                        "budget_2025_26": 21663.68,
+                        "capital_2025_26": null,
+                        "total_2025_26": 21663.68,
+                        "revised_2024_25": 21438.54,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 21438.54,
+                        "budget_2026_27": 23230.38,
+                        "capital_2026_27": null,
+                        "total_2026_27": 23230.38
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 129.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 129.69,
+                        "budget_2025_26": 167.23,
+                        "capital_2025_26": null,
+                        "total_2025_26": 167.23,
+                        "revised_2024_25": 159.63,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 159.63,
+                        "budget_2026_27": 170.43,
+                        "capital_2026_27": null,
+                        "total_2026_27": 170.43
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Education, Sports, Art and Culture",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.88,
+                        "total_2024_25": 1.88,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5.22,
+                        "total_2025_26": 5.22,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 5.22,
+                        "total_revised_2024_25": 5.22,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.83,
+                        "total_2026_27": 0.83
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.96,
+                        "total_2024_25": 2.96,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5.05,
+                        "total_2025_26": 5.05,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 5.05,
+                        "total_revised_2024_25": 5.05,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.85,
+                        "total_2026_27": 1.85
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 45304.07,
+                        "capital_2024_25": 4.84,
+                        "total_2024_25": 45308.91,
+                        "budget_2025_26": 44541.83,
+                        "capital_2025_26": 10.27,
+                        "total_2025_26": 44552.1,
+                        "revised_2024_25": 46724.71,
+                        "capital_revised_2024_25": 10.27,
+                        "total_revised_2024_25": 46734.98,
+                        "budget_2026_27": 49720.38,
+                        "capital_2026_27": 2.68,
+                        "total_2026_27": 49723.06
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 4020.85,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4020.85,
+                        "revised_2024_25": 4020.85,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4020.85,
+                        "budget_2026_27": 4424.16,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4424.16
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 222.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 222.55,
+                        "budget_2025_26": 1355.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1355.0,
+                        "revised_2024_25": 575.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 575.84,
+                        "budget_2026_27": 1505.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1505.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 45.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 45.06,
+                        "budget_2025_26": 150.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": 50.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": 75.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 75.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 267.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 267.61,
+                        "budget_2025_26": 5525.85,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5525.85,
+                        "revised_2024_25": 4646.69,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4646.69,
+                        "budget_2026_27": 6004.16,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6004.16
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 45571.68,
+                        "capital_2024_25": 4.84,
+                        "total_2024_25": 45576.52,
+                        "budget_2025_26": 50067.68,
+                        "capital_2025_26": 10.27,
+                        "total_2025_26": 50077.95,
+                        "revised_2024_25": 51371.4,
+                        "capital_revised_2024_25": 10.27,
+                        "total_revised_2024_25": 51381.67,
+                        "budget_2026_27": 55724.54,
+                        "capital_2026_27": 2.68,
+                        "total_2026_27": 55727.22
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "EdCIL India Ltd",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 291.43,
+                        "total_2024_25": 291.43,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 203.0,
+                        "total_2025_26": 203.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 335.0,
+                        "total_revised_2024_25": 335.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 389.0,
+                        "total_2026_27": 389.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 291.43,
+                        "total_2024_25": 291.43,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 203.0,
+                        "total_2025_26": 203.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 335.0,
+                        "total_revised_2024_25": 335.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 389.0,
+                        "total_2026_27": 389.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure on the Secretariat of the 10. Indian Knowledge Systems:..It is a Scheme based on the recommendations of the NEP.",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Glue Grant for Higher Education Institutes:..Glue Grant has been set aside for the purpose",
+                    "values": {
+                        "actual_2024_25": 1960.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Directorate of Hindi:..The Central Hindi Directorate with its four Regional Centres located at of creating formal umbrella structures for institutes supported by the GoI, to have better synergy while also retaining",
+                    "values": {
+                        "actual_2024_25": 1960.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "propagation and development of Hindi as a link language. It operates the schemes of Publication of bilingual/trilingual",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Commission for Scientific and Technical Terminology:..The Commission for Scientific and moratorium period on educational loans taken by students with family income of less than Rs",
+                    "values": {
+                        "actual_2024_25": 4.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Central Institute of Indian Languages (CIIL), Mysore and Regional Language",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Educational Institutions Abroad:..This includes provision for Permanent Delegation of India 13. PM Research Fellowship:..Under this scheme, the best students who have completed or are",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "National Research Professors:..This scheme is in the nature of recognition of the very the eligibility criteria, are shortlisted through a selection process, as laid down in the PMRF Guidelines, will be offered a",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "World Class Institutions:..The provision is for establishing ten world class institutions each in conferences and seminars. A maximum of",
+                    "values": {
+                        "actual_2024_25": 3000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "National Mission in Education Through ICT:..The National Mission on Education through",
+                    "values": {
+                        "actual_2024_25": 2015.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Prime Minister's Girls' Hostel:..This provision was MoE's component in the PMs",
+                    "values": {
+                        "actual_2024_25": 2015.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "teaching and learning process for the benefit of all the learners in Higher Education Institutions. It plans to focus on programmes and schemes. The programme envisages to augment capacity at individual level and also enhance",
+            "items": [
+                {
+                    "code": "15",
+                    "name": "Higher Education Statistics and Public Information System (HESPIS):..The scheme aims India so as to augment the country's existing academic resources, accelerate the pace of quality reform and elevate",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "National Apprenticeship Training Scheme (NATS):..The scheme Programme for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Academic Bank of Credits (ABC):..This scheme envisages development of a digital Apprenticeship has been renamed as National Apprenticeship Training Scheme (NATS).",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "National Initiative for Design Innovation:..Setting up of",
+                    "values": {
+                        "actual_2024_25": 20.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Unnat Bharat Abhiyan:..The Mission of Unnat Bharat Abhiyan is to enable higher educational",
+                    "values": {
+                        "actual_2024_25": 2023.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Implementation of the IMPRINT Research Initiative (Impacting Research Innovation and",
+                    "values": {
+                        "actual_2024_25": 10.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "30",
+                    "name": "Establishment of Centre of Excellence (CoEs) in Artificial Intelligence (AI) for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Scheme for Promotion of Academic and Research Collaboration (SPARC):..Scheme for Education:..This scheme aims to establish Centres of Excellence to promote interdisciplinary research, innovation and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "31",
+                    "name": "Prime Minister Research Chair (PMRC):..The scheme envisages the creation of distinguished",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Scheme for Transformational and Advanced Research in Sciences (STARS):..The scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "32",
+                    "name": "PM One Nation One Subscription (PM-ONOS):..This scheme has been conceived to provide",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "institutions through a centralized national subscription framework. It aims to optimize public expenditure, avoid",
+            "items": [
+                {
+                    "code": "22",
+                    "name": "Multidisciplinary Education and Research Improvement in Technical Education-EAP",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2020",
+                    "name": "and fulfilling the targets of AatmaNirbhar Bharat Abhiyan. It is proposed to be implemented across the country in",
+                    "values": {
+                        "actual_2024_25": 2020.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "Malaviya Mission Teacher Training Programme (MMTTP):..The programme envisions to",
+                    "values": {
+                        "actual_2024_25": 1945.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "36. Support to Central Universities (CUs):..Central Universities are autonomous bodies 47. Grants to Institutes for Promotion of Indian Languages:..This includes provision for",
+            "items": [
+                {
+                    "code": "37",
+                    "name": "Deemed Universities promoted by Central Government:..An Institution of Higher Education 49. Board of Apprenticeship Training, Bombay, Calcutta, Madras and Kanpur:..Govt. of India,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "38",
+                    "name": "Support to Indian Institutes of Technology:..Indian Institutes of Technology have been 50. National Institutes of Technical Teachers Training and Research (NITTTRs):..It is an",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "39. IIT, Hyderabad (EAP):..Provided allocation to EAP projects of IIT Hyderabad. 51. Assistance to Other Institutions:..This includes provision for various programmes-",
+            "items": [
+                {
+                    "code": "40",
+                    "name": "Support to Indian Institutes of Management (IIMs):..Indian Institutes of Management were National Institute of Educational Planning and Administration (NIEPA), auroville Management, National Commission for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "52",
+                    "name": "Schools of Planning and Architecture (SPAs):..The Schools of Planning and Architecture",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "41",
+                    "name": "Support to Indian Institute of Science (IISc):..The Indian Institute of Science (IISc) was are considered as premier institutions of its kind in the country and among the very institutions in the world offering",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "42",
+                    "name": "Support to Indian Institute(s) of Information Technology (Allahabad, Gwalior, Jabalpur 53. Indira Gandhi National Open University (IGNOU):..IGNOU was established by an Act of",
+                    "values": {
+                        "actual_2024_25": 1985.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "43",
+                    "name": "Setting up Indian Institutes of Information Technology in PPP mode:..Looking to the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "56",
+                    "name": "National Institutional Ranking Framework (NIRF):..This framework outlines a methodology",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "44",
+                    "name": "Support to National Institutes of Technology (NITs) and IIEST:..This includes provisions for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "NITs and IIEST. The National Institutes of Technology are Centrally Funded autonomous Technical Institutions and",
+            "items": [
+                {
+                    "code": "57",
+                    "name": "Planning, Administration and Global Engagement:..This includes provision for Initiatives for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "National Monitoring Committee for Minority Education, Expenditure on Seminars, Committees Meetings etc. /TA/DA to",
+            "items": [
+                {
+                    "code": "45",
+                    "name": "Support to Indian Institute(s) of Science, Education and Research (IISER):..The IISERs",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "nurturing both curiosity and creativity in an intellectually vibrant atmosphere of research. Each IISER is an autonomous",
+            "items": [
+                {
+                    "code": "46",
+                    "name": "Grants to Councils/Institutes for Excellence in Humanities and Social Sciences:..This",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "initiative is to encourage bright students to choose programmes in humanities and also to improve its quality of 58. Pradhan Mantri Uchchatar Shiksha Abhiyan (PM-USHA):..This is a Centrally Sponsored",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY",
+            "items": []
+        }
+    ]
+}

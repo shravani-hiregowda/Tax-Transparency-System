@@ -1,0 +1,1429 @@
+{
+    "demand_no": 87,
+    "ministry": "Ministry Of Rural Development",
+    "department": "Department Of Rural Development",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 176650.78,
+                        "capital_2024_25": 3.98,
+                        "total_2024_25": 176654.76,
+                        "budget_2025_26": 187750.29,
+                        "capital_2025_26": 4.24,
+                        "total_2025_26": 187754.53,
+                        "revised_2024_25": 186991.37,
+                        "capital_revised_2024_25": 4.24,
+                        "total_revised_2024_25": 186995.61,
+                        "budget_2026_27": 194364.18,
+                        "capital_2026_27": 4.63,
+                        "total_2026_27": 194368.81
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 101.51,
+                        "capital_2024_25": 3.98,
+                        "total_2024_25": 105.49,
+                        "budget_2025_26": 108.28,
+                        "capital_2025_26": 4.24,
+                        "total_2025_26": 112.52,
+                        "revised_2024_25": 124.26,
+                        "capital_revised_2024_25": 4.24,
+                        "total_revised_2024_25": 128.5,
+                        "budget_2026_27": 129.17,
+                        "capital_2026_27": 4.63,
+                        "total_2026_27": 133.8
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.15,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 101.36,
+                        "capital_2024_25": 3.98,
+                        "total_2024_25": 105.34,
+                        "budget_2025_26": 108.28,
+                        "capital_2025_26": 4.24,
+                        "total_2025_26": 112.52,
+                        "revised_2024_25": 124.26,
+                        "capital_revised_2024_25": 4.24,
+                        "total_revised_2024_25": 128.5,
+                        "budget_2026_27": 129.17,
+                        "capital_2026_27": 4.63,
+                        "total_2026_27": 133.8
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Management Support to Rural Development Programs",
+                    "values": {
+                        "actual_2024_25": 134.42,
+                        "capital_2024_25": null,
+                        "total_2024_25": 134.42,
+                        "budget_2025_26": 153.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 153.0,
+                        "revised_2024_25": 170.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 170.0,
+                        "budget_2026_27": 155.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 155.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -53.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": -53.9,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 80.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": 80.52,
+                        "budget_2025_26": 153.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 153.0,
+                        "revised_2024_25": 170.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 170.0,
+                        "budget_2026_27": 155.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 155.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "National Institute of Rural Development and Panchayati",
+                    "values": {
+                        "actual_2024_25": 80.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 80.96,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "National Social Assistance Progamme",
+                    "values": {
+                        "actual_2024_25": 6843.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6843.93,
+                        "budget_2025_26": 6645.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6645.9,
+                        "revised_2024_25": 6460.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6460.0,
+                        "budget_2026_27": 6904.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6904.9
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Indira Gandhi National Old Age Pension",
+                    "values": {
+                        "actual_2024_25": 6843.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6843.93,
+                        "budget_2025_26": 6645.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6645.9,
+                        "revised_2024_25": 6460.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6460.0,
+                        "budget_2026_27": 6904.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6904.9
+                    }
+                },
+                {
+                    "code": "6.02",
+                    "name": "National Family Benefit Scheme",
+                    "values": {
+                        "actual_2024_25": 394.19,
+                        "capital_2024_25": null,
+                        "total_2024_25": 394.19,
+                        "budget_2025_26": 659.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 659.0,
+                        "revised_2024_25": 400.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 400.0,
+                        "budget_2026_27": 400.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 400.0
+                    }
+                },
+                {
+                    "code": "6.03",
+                    "name": "Indira Gandhi National Widow Pension",
+                    "values": {
+                        "actual_2024_25": 2150.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2150.03,
+                        "budget_2025_26": 2026.99,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2026.99,
+                        "revised_2024_25": 2026.99,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2026.99,
+                        "budget_2026_27": 2026.99,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2026.99
+                    }
+                },
+                {
+                    "code": "6.04",
+                    "name": "Indira Gandhi National Disability Pension",
+                    "values": {
+                        "actual_2024_25": 243.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 243.75,
+                        "budget_2025_26": 290.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 290.0,
+                        "revised_2024_25": 290.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 290.0,
+                        "budget_2026_27": 290.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 290.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "6.05",
+                    "name": "Annapurna Scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "6.06",
+                    "name": "Administrative Expenditure",
+                    "values": {
+                        "actual_2024_25": 20.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 20.11,
+                        "budget_2025_26": 20.11,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.11,
+                        "revised_2024_25": 20.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 20.11,
+                        "budget_2026_27": 39.11,
+                        "capital_2026_27": null,
+                        "total_2026_27": 39.11
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- National Social Assistance Progamme",
+                    "values": {
+                        "actual_2024_25": 9652.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9652.01,
+                        "budget_2025_26": 9652.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9652.0,
+                        "revised_2024_25": 9197.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9197.1,
+                        "budget_2026_27": 9671.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 9671.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 95692.31,
+                        "capital_2026_27": null,
+                        "total_2026_27": 95692.31
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "MGNREGA-Programme Component",
+                    "values": {
+                        "actual_2024_25": 85834.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 85834.4,
+                        "budget_2025_26": 86000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 86000.0,
+                        "revised_2024_25": 88000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 88000.0,
+                        "budget_2026_27": 30000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30000.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Transfer to National Employment Guarantee Fund",
+                    "values": {
+                        "actual_2024_25": 85838.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": 85838.76,
+                        "budget_2025_26": 86000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 86000.0,
+                        "revised_2024_25": 88000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 88000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Amount met from National Employment Gaurantee Fund",
+                    "values": {
+                        "actual_2024_25": -85838.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": -85838.76,
+                        "budget_2025_26": -86000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -86000.0,
+                        "revised_2024_25": -88000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -88000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Mahatma Gandhi National Rural Employment Guarantee Program",
+                    "values": {
+                        "actual_2024_25": 85834.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 85834.4,
+                        "budget_2025_26": 86000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 86000.0,
+                        "revised_2024_25": 88000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 88000.0,
+                        "budget_2026_27": 30000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30000.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "11",
+                    "name": "Pradhan Mantri Gram Sadak Yojna",
+                    "values": {
+                        "actual_2024_25": 12783.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12783.37,
+                        "budget_2025_26": 16600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16600.0,
+                        "revised_2024_25": 9399.99,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9399.99,
+                        "budget_2026_27": 16804.99,
+                        "capital_2026_27": null,
+                        "total_2026_27": 16804.99
+                    }
+                },
+                {
+                    "code": "11.01",
+                    "name": "PMGSY-Programme Component",
+                    "values": {
+                        "actual_2024_25": 12783.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12783.37,
+                        "budget_2025_26": 16600.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 16600.0,
+                        "revised_2024_25": 9399.99,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9399.99,
+                        "budget_2026_27": 16804.99,
+                        "capital_2026_27": null,
+                        "total_2026_27": 16804.99
+                    }
+                },
+                {
+                    "code": "11.02",
+                    "name": "North-east Region",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1900.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1900.0,
+                        "revised_2024_25": 1100.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1100.01,
+                        "budget_2026_27": 1695.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1695.01
+                    }
+                },
+                {
+                    "code": "11.03",
+                    "name": "Left Wing Extremism Affected Area Project",
+                    "values": {
+                        "actual_2024_25": 587.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 587.55,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "11.04",
+                    "name": "Transfer to Central Road and Infrastructure",
+                    "values": {
+                        "actual_2024_25": 12000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12000.0,
+                        "budget_2025_26": 12000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12000.0,
+                        "revised_2024_25": 11000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11000.0,
+                        "budget_2026_27": 12000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12000.0
+                    }
+                },
+                {
+                    "code": "11.05",
+                    "name": "Less- Amount met from Central Road and",
+                    "values": {
+                        "actual_2024_25": -7500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": -7500.0,
+                        "budget_2025_26": -12000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -12000.0,
+                        "revised_2024_25": -11000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -11000.0,
+                        "budget_2026_27": -12000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -12000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 17870.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 17870.92,
+                        "budget_2025_26": 19000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 19000.0,
+                        "revised_2024_25": 11000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11000.0,
+                        "budget_2026_27": 19000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 19000.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "12",
+                    "name": "Deendayal Antyodaya Yojana-National Rural Livelihoods Mission (DAY-",
+                    "values": {
+                        "actual_2024_25": 14503.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14503.02,
+                        "budget_2025_26": 17104.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17104.0,
+                        "revised_2024_25": 14400.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14400.0,
+                        "budget_2026_27": 17280.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17280.0
+                    }
+                },
+                {
+                    "code": "12.01",
+                    "name": "NRLM-Programme Component",
+                    "values": {
+                        "actual_2024_25": 14503.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14503.02,
+                        "budget_2025_26": 17104.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17104.0,
+                        "revised_2024_25": 14400.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14400.0,
+                        "budget_2026_27": 17280.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17280.0
+                    }
+                },
+                {
+                    "code": "12.02",
+                    "name": "NRLM-EAP Component",
+                    "values": {
+                        "actual_2024_25": 202.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": 202.28,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12.03",
+                    "name": "North-east Region",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1901.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1901.0,
+                        "revised_2024_25": 1600.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1600.0,
+                        "budget_2026_27": 1920.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1920.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Deendayal Antyodaya Yojana-National Rural Livelihoods Mission",
+                    "values": {
+                        "actual_2024_25": 14705.3,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14705.3,
+                        "budget_2025_26": 19005.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 19005.0,
+                        "revised_2024_25": 16000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 16000.0,
+                        "budget_2026_27": 19200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 19200.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "13",
+                    "name": "Pradhan Mantri Awaas Yojana-Gramin (PMAY-G)",
+                    "values": {
+                        "actual_2024_25": 32326.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 32326.57,
+                        "budget_2025_26": 54831.99,
+                        "capital_2025_26": null,
+                        "total_2025_26": 54831.99,
+                        "revised_2024_25": 32500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 32500.0,
+                        "budget_2026_27": 54916.69,
+                        "capital_2026_27": null,
+                        "total_2026_27": 54916.69
+                    }
+                },
+                {
+                    "code": "13.01",
+                    "name": "PMAY-Programme Component",
+                    "values": {
+                        "actual_2024_25": 32326.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 32326.57,
+                        "budget_2025_26": 54831.99,
+                        "capital_2025_26": null,
+                        "total_2025_26": 54831.99,
+                        "revised_2024_25": 32500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 32500.0,
+                        "budget_2026_27": 54916.69,
+                        "capital_2026_27": null,
+                        "total_2026_27": 54916.69
+                    }
+                },
+                {
+                    "code": "13.02",
+                    "name": "Interest Subsidy",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Pradhan Mantri Awaas Yojana-Gramin (PMAY-G)",
+                    "values": {
+                        "actual_2024_25": 32326.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 32326.57,
+                        "budget_2025_26": 54832.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 54832.0,
+                        "revised_2024_25": 32500.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 32500.01,
+                        "budget_2026_27": 54916.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 54916.7
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "Additional transfer to Agriculture Infrastructure and",
+                    "values": {
+                        "actual_2024_25": 16000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Additional transfer to National Employment Guarantee",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 30000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Additional amount met from Reserve Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -4400.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -4400.0
+                    }
+                },
+                {
+                    "code": "16.01",
+                    "name": "Agriculture Infrastructure and Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -4400.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -4400.0
+                    }
+                },
+                {
+                    "code": "16.02",
+                    "name": "National Employment Guarantee Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -30000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -30000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -34400.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -34400.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "17",
+                    "name": "Actual Recoveries (CSS)",
+                    "values": {
+                        "actual_2024_25": -1.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1.26,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 176387.94,
+                        "capital_2024_25": null,
+                        "total_2024_25": 176387.94,
+                        "budget_2025_26": 187489.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 187489.0,
+                        "revised_2024_25": 186697.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 186697.11,
+                        "budget_2026_27": 194080.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 194080.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 176650.78,
+                        "capital_2024_25": 3.98,
+                        "total_2024_25": 176654.76,
+                        "budget_2025_26": 187750.29,
+                        "capital_2025_26": 4.24,
+                        "total_2025_26": 187754.53,
+                        "revised_2024_25": 186991.37,
+                        "capital_revised_2024_25": 4.24,
+                        "total_revised_2024_25": 186995.61,
+                        "budget_2026_27": 194364.18,
+                        "capital_2026_27": 4.63,
+                        "total_2026_27": 194368.81
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Housing",
+                    "values": {
+                        "actual_2024_25": 3850.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3850.17,
+                        "budget_2025_26": 3919.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3919.45,
+                        "revised_2024_25": 3909.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3909.45,
+                        "budget_2026_27": 4013.64,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4013.64
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Social Security and Welfare",
+                    "values": {
+                        "actual_2024_25": 25.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 25.85,
+                        "budget_2025_26": 25.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.33,
+                        "revised_2024_25": 25.33,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25.33,
+                        "budget_2026_27": 44.33,
+                        "capital_2026_27": null,
+                        "total_2026_27": 44.33
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 3876.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3876.02,
+                        "budget_2025_26": 3944.78,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3944.78,
+                        "revised_2024_25": 3934.78,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3934.78,
+                        "budget_2026_27": 4057.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4057.97
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Special Programmes for Rural Development",
+                    "values": {
+                        "actual_2024_25": 3465.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3465.6,
+                        "budget_2025_26": 3402.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3402.25,
+                        "revised_2024_25": 3236.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3236.0,
+                        "budget_2026_27": 3516.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3516.25
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Rural Employment",
+                    "values": {
+                        "actual_2024_25": 85834.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 85834.4,
+                        "budget_2025_26": 85851.06,
+                        "capital_2025_26": null,
+                        "total_2025_26": 85851.06,
+                        "revised_2024_25": 117637.91,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 117637.91,
+                        "budget_2026_27": 44151.94,
+                        "capital_2026_27": null,
+                        "total_2026_27": 44151.94
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Other Rural Development Programmes",
+                    "values": {
+                        "actual_2024_25": 161.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 161.48,
+                        "budget_2025_26": 147.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 147.01,
+                        "revised_2024_25": 164.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 164.0,
+                        "budget_2026_27": 149.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 149.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Roads and Bridges",
+                    "values": {
+                        "actual_2024_25": 16256.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16256.67,
+                        "budget_2025_26": 193.23,
+                        "capital_2025_26": null,
+                        "total_2025_26": 193.23,
+                        "revised_2024_25": 159.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 159.11,
+                        "budget_2026_27": 193.04,
+                        "capital_2026_27": null,
+                        "total_2026_27": 193.04
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 101.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 101.36,
+                        "budget_2025_26": 108.28,
+                        "capital_2025_26": null,
+                        "total_2025_26": 108.28,
+                        "revised_2024_25": 124.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 124.26,
+                        "budget_2026_27": 129.17,
+                        "capital_2026_27": null,
+                        "total_2026_27": 129.17
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3.98,
+                        "total_2024_25": 3.98,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4.24,
+                        "total_2025_26": 4.24,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4.24,
+                        "total_revised_2024_25": 4.24,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4.63,
+                        "total_2026_27": 4.63
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 105819.51,
+                        "capital_2024_25": 3.98,
+                        "total_2024_25": 105823.49,
+                        "budget_2025_26": 89701.83,
+                        "capital_2025_26": 4.24,
+                        "total_2025_26": 89706.07,
+                        "revised_2024_25": 121321.28,
+                        "capital_revised_2024_25": 4.24,
+                        "total_revised_2024_25": 121325.52,
+                        "budget_2026_27": 48139.4,
+                        "capital_2026_27": 4.63,
+                        "total_2026_27": 48144.03
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "9",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 9029.23,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9029.23,
+                        "revised_2024_25": 7928.24,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7928.24,
+                        "budget_2026_27": 10078.84,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10078.84
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 64873.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 64873.27,
+                        "budget_2025_26": 83106.19,
+                        "capital_2025_26": null,
+                        "total_2025_26": 83106.19,
+                        "revised_2024_25": 52715.34,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 52715.34,
+                        "budget_2026_27": 128612.68,
+                        "capital_2026_27": null,
+                        "total_2026_27": 128612.68
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 2081.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2081.98,
+                        "budget_2025_26": 1968.26,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1968.26,
+                        "revised_2024_25": 1091.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1091.73,
+                        "budget_2026_27": 3475.29,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3475.29
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 66955.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": 66955.25,
+                        "budget_2025_26": 94103.68,
+                        "capital_2025_26": null,
+                        "total_2025_26": 94103.68,
+                        "revised_2024_25": 61735.31,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 61735.31,
+                        "budget_2026_27": 142166.81,
+                        "capital_2026_27": null,
+                        "total_2026_27": 142166.81
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 176650.78,
+                        "capital_2024_25": 3.98,
+                        "total_2024_25": 176654.76,
+                        "budget_2025_26": 187750.29,
+                        "capital_2025_26": 4.24,
+                        "total_2025_26": 187754.53,
+                        "revised_2024_25": 186991.37,
+                        "capital_revised_2024_25": 4.24,
+                        "total_revised_2024_25": 186995.61,
+                        "budget_2026_27": 194364.18,
+                        "capital_2026_27": 4.63,
+                        "total_2026_27": 194368.81
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "6.02",
+                    "name": "National Family Benefit Scheme:..Under this scheme a BPL household is entitled to one-time",
+                    "values": {
+                        "actual_2024_25": 59.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "1",
+                    "name": "Secretariat:..Provision is for general establishment expenditure of Department of Rural lump sum assistance of..`.20,000, on the death of primary breadwinner aged between 18 and",
+                    "values": {
+                        "actual_2024_25": 59.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.03",
+                    "name": "Indira Gandhi National Widow Pension Scheme(IGNWPS):..Central assistance at the rate",
+                    "values": {
+                        "actual_2024_25": 80.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Management Support to Rural Development Programs and Strengthening of District of..`.300/- per month is provided to widows in the age-group of 40-79 years (belonging to family living below poverty",
+                    "values": {
+                        "actual_2024_25": 80.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.04",
+                    "name": "Indira Gandhi National Disability Pension Scheme(IGNDPS):..Under the scheme Central",
+                    "values": {
+                        "actual_2024_25": 60.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS):..Provision is for assistance assistance at the rate of..`.300/- per month is provided to persons aged 18-79 years with severe or multiple disabilities",
+                    "values": {
+                        "actual_2024_25": 60.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "6.05",
+                    "name": "Annapurna Scheme:..Under the scheme,",
+                    "values": {
+                        "actual_2024_25": 10.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin)-VB-G RAM G The allocation under the scheme includes..`.0.01 crore in RE 2025-26 and..`.2500 crore in BE",
+                    "values": {
+                        "actual_2024_25": 100.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Scheme:..VB G RAM G is a Centrally Sponsored Scheme with the fund sharing ratio of 60-40 between the Centre and 2026-27 for Dharti Aaba Janjatiya Gram Utkarsh Abhiyan (DAJGUA)...",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "MGNREGA-Programme Component:..Mahatma Gandhi NREGA is a demand driven",
+                    "values": {
+                        "actual_2024_25": 15.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Pradhan Mantri Gram Sadak Yojna:..The Pradhan Mantri Gram Sadak Yojana (PMGSY) is a",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Centrally Sponsored Scheme, with a fund sharing ratio of 60:40 between the Centre and States, effective from 2015-",
+            "items": [
+                {
+                    "code": "16",
+                    "name": "For North Eastern and Himalayan States, the ratio is 90:10. Funding is 100% central share for Union Territories",
+                    "values": {
+                        "actual_2024_25": 25000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Deendayal Antyodaya Yojana-National Rural Livelihoods Mission (DAY-NRLM):..The",
+                    "values": {
+                        "actual_2024_25": 2011.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Pradhan Mantri Awaas Yojana-Gramin (PMAY-G):..The scheme aims to achieve the",
+                    "values": {
+                        "actual_2024_25": 4.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF RURAL DEVELOPMENT",
+            "items": []
+        }
+    ]
+}

@@ -1,0 +1,595 @@
+{
+    "demand_no": 12,
+    "ministry": "Ministry Of Communications",
+    "department": "Department Of Posts",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 24915.2,
+                        "capital_2024_25": 1190.49,
+                        "total_2024_25": 26105.69,
+                        "budget_2025_26": 26141.51,
+                        "capital_2025_26": 958.35,
+                        "total_2025_26": 27099.86,
+                        "revised_2024_25": 25323.87,
+                        "capital_revised_2024_25": 1046.11,
+                        "total_revised_2024_25": 26369.98,
+                        "budget_2026_27": 27026.57,
+                        "capital_2026_27": 1249.51,
+                        "total_2026_27": 28276.08
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": []
+        },
+        {
+            "heading": "1. Expenditure relating to establishment",
+            "items": [
+                {
+                    "code": "1.01",
+                    "name": "Pay and Allowances",
+                    "values": {
+                        "actual_2024_25": 22127.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22127.65,
+                        "budget_2025_26": 23458.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 23458.0,
+                        "revised_2024_25": 23400.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23400.0,
+                        "budget_2026_27": 24701.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 24701.0
+                    }
+                },
+                {
+                    "code": "1.02",
+                    "name": "Pensions",
+                    "values": {
+                        "actual_2024_25": 12006.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12006.28,
+                        "budget_2025_26": 13125.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 13125.0,
+                        "revised_2024_25": 12400.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12400.0,
+                        "budget_2026_27": 13400.88,
+                        "capital_2026_27": null,
+                        "total_2026_27": 13400.88
+                    }
+                },
+                {
+                    "code": "1.03",
+                    "name": "Other expenditures",
+                    "values": {
+                        "actual_2024_25": 3243.29,
+                        "capital_2024_25": 29.13,
+                        "total_2024_25": 3272.42,
+                        "budget_2025_26": 3393.15,
+                        "capital_2025_26": 45.45,
+                        "total_2025_26": 3438.6,
+                        "revised_2024_25": 3383.53,
+                        "capital_revised_2024_25": 65.45,
+                        "total_revised_2024_25": 3448.98,
+                        "budget_2026_27": 3353.6,
+                        "capital_2026_27": 155.5,
+                        "total_2026_27": 3509.1
+                    }
+                },
+                {
+                    "code": "1.04",
+                    "name": "Recoveries",
+                    "values": {
+                        "actual_2024_25": -1188.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1188.04,
+                        "budget_2025_26": -1500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1500.0,
+                        "revised_2024_25": -1500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1500.0,
+                        "budget_2026_27": -1600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1600.0
+                    }
+                },
+                {
+                    "code": "1.05",
+                    "name": "Less Commercial Receipts",
+                    "values": {
+                        "actual_2024_25": -4545.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": -4545.62,
+                        "budget_2025_26": -5550.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -5550.0,
+                        "revised_2024_25": -5550.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -5550.0,
+                        "budget_2026_27": -5880.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -5880.0
+                    }
+                },
+                {
+                    "code": "1.06",
+                    "name": "Less Agency Charges",
+                    "values": {
+                        "actual_2024_25": -6879.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": -6879.63,
+                        "budget_2025_26": -6937.11,
+                        "capital_2025_26": null,
+                        "total_2025_26": -6937.11,
+                        "revised_2024_25": -6962.13,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -6962.13,
+                        "budget_2026_27": -7093.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": -7093.92
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 24763.93,
+                        "capital_2024_25": 29.13,
+                        "total_2024_25": 24793.06,
+                        "budget_2025_26": 25989.04,
+                        "capital_2025_26": 45.45,
+                        "total_2025_26": 26034.49,
+                        "revised_2024_25": 25171.4,
+                        "capital_revised_2024_25": 65.45,
+                        "total_revised_2024_25": 25236.85,
+                        "budget_2026_27": 26881.56,
+                        "capital_2026_27": 155.5,
+                        "total_2026_27": 27037.06
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Postal Operation",
+                    "values": {
+                        "actual_2024_25": 119.37,
+                        "capital_2024_25": 42.21,
+                        "total_2024_25": 161.58,
+                        "budget_2025_26": 120.0,
+                        "capital_2025_26": 57.0,
+                        "total_2025_26": 177.0,
+                        "revised_2024_25": 120.0,
+                        "capital_revised_2024_25": 70.0,
+                        "total_revised_2024_25": 190.0,
+                        "budget_2026_27": 124.99,
+                        "capital_2026_27": 200.0,
+                        "total_2026_27": 324.99
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "India Post Payments Bank",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 250.0,
+                        "total_2024_25": 250.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Human Resource Management",
+                    "values": {
+                        "actual_2024_25": 31.9,
+                        "capital_2024_25": 2.03,
+                        "total_2024_25": 33.93,
+                        "budget_2025_26": 32.47,
+                        "capital_2025_26": 6.9,
+                        "total_2025_26": 39.37,
+                        "revised_2024_25": 32.47,
+                        "capital_revised_2024_25": 3.0,
+                        "total_revised_2024_25": 35.47,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": 15.0,
+                        "total_2026_27": 35.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Estates Management",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 116.63,
+                        "total_2024_25": 116.63,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 120.0,
+                        "total_2025_26": 120.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 124.16,
+                        "total_revised_2024_25": 124.16,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": 120.0,
+                        "total_2026_27": 120.01
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "IT Modernization Project 2.0",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 750.49,
+                        "total_2024_25": 750.49,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 729.0,
+                        "total_2025_26": 729.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 783.5,
+                        "total_revised_2024_25": 783.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 759.0,
+                        "total_2026_27": 759.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Postal Logistics Infrastructure Project",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.02
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 151.27,
+                        "capital_2024_25": 1161.36,
+                        "total_2024_25": 1312.63,
+                        "budget_2025_26": 152.47,
+                        "capital_2025_26": 912.9,
+                        "total_2025_26": 1065.37,
+                        "revised_2024_25": 152.47,
+                        "capital_revised_2024_25": 980.66,
+                        "total_revised_2024_25": 1133.13,
+                        "budget_2026_27": 145.01,
+                        "capital_2026_27": 1094.01,
+                        "total_2026_27": 1239.02
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 24915.2,
+                        "capital_2024_25": 1190.49,
+                        "total_2024_25": 26105.69,
+                        "budget_2025_26": 26141.51,
+                        "capital_2025_26": 958.35,
+                        "total_2025_26": 27099.86,
+                        "revised_2024_25": 25323.87,
+                        "capital_revised_2024_25": 1046.11,
+                        "total_revised_2024_25": 26369.98,
+                        "budget_2026_27": 27026.57,
+                        "capital_2026_27": 1249.51,
+                        "total_2026_27": 28276.08
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Postal Services",
+                    "values": {
+                        "actual_2024_25": 24915.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24915.2,
+                        "budget_2025_26": 26133.43,
+                        "capital_2025_26": null,
+                        "total_2025_26": 26133.43,
+                        "revised_2024_25": 25313.59,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25313.59,
+                        "budget_2026_27": 27016.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 27016.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay on Postal Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 940.49,
+                        "total_2024_25": 940.49,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 859.89,
+                        "total_2025_26": 859.89,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 943.08,
+                        "total_revised_2024_25": 943.08,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1136.16,
+                        "total_2026_27": 1136.16
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Investments in General Financial and Trading Institutions",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 250.0,
+                        "total_2024_25": 250.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 24915.2,
+                        "capital_2024_25": 1190.49,
+                        "total_2024_25": 26105.69,
+                        "budget_2025_26": 26133.43,
+                        "capital_2025_26": 859.89,
+                        "total_2025_26": 26993.32,
+                        "revised_2024_25": 25313.59,
+                        "capital_revised_2024_25": 943.08,
+                        "total_revised_2024_25": 26256.67,
+                        "budget_2026_27": 27016.0,
+                        "capital_2026_27": 1136.16,
+                        "total_2026_27": 28152.16
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 8.08,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8.08,
+                        "revised_2024_25": 10.28,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.28,
+                        "budget_2026_27": 10.57,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.57
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 98.46,
+                        "total_2025_26": 98.46,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 103.03,
+                        "total_revised_2024_25": 103.03,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 113.35,
+                        "total_2026_27": 113.35
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 8.08,
+                        "capital_2025_26": 98.46,
+                        "total_2025_26": 106.54,
+                        "revised_2024_25": 10.28,
+                        "capital_revised_2024_25": 103.03,
+                        "total_revised_2024_25": 113.31,
+                        "budget_2026_27": 10.57,
+                        "capital_2026_27": 113.35,
+                        "total_2026_27": 123.92
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 24915.2,
+                        "capital_2024_25": 1190.49,
+                        "total_2024_25": 26105.69,
+                        "budget_2025_26": 26141.51,
+                        "capital_2025_26": 958.35,
+                        "total_2025_26": 27099.86,
+                        "revised_2024_25": 25323.87,
+                        "capital_revised_2024_25": 1046.11,
+                        "total_revised_2024_25": 26369.98,
+                        "budget_2026_27": 27026.57,
+                        "capital_2026_27": 1249.51,
+                        "total_2026_27": 28276.08
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "India Post Payments Bank",
+                    "values": {
+                        "actual_2024_25": 250.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 250.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": 250.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 250.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Expenditure relating to establishment:..Department of Posts incurs expenditure towards 5. Estates Management:..The provision is for Estates Management including construction of",
+            "items": []
+        },
+        {
+            "heading": "meeting its establishment expenditure and schemes/projects . Establishment expenditure is mainly for salary, pension, buildings.",
+            "items": []
+        },
+        {
+            "heading": "and all operational expenditure of the Department. This is partially met through the remuneration (Agency Charges)",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Postal Operation:..It includes components of setting up of Speed Post Hubs, Parcel Booking",
+                    "values": {
+                        "actual_2024_25": 800.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "India Post Payments Bank:..The capital support to 'India Post Payments Bank' was provided",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Human Resource Management:..The provision is for Human Resource Management",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF COMMUNICATIONS",
+            "items": []
+        }
+    ]
+}

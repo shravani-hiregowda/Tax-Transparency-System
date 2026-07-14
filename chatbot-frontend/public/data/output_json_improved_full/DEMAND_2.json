@@ -1,0 +1,772 @@
+{
+    "demand_no": 2,
+    "ministry": "Ministry Of Agriculture And Farmers Welfare",
+    "department": "Department Of Agricultural Research And Education",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 9807.38,
+                        "capital_2024_25": 3.15,
+                        "total_2024_25": 9810.53,
+                        "budget_2025_26": 10462.06,
+                        "capital_2025_26": 4.33,
+                        "total_2025_26": 10466.39,
+                        "revised_2024_25": 10278.34,
+                        "capital_revised_2024_25": 2.49,
+                        "total_revised_2024_25": 10280.83,
+                        "budget_2026_27": 9964.95,
+                        "capital_2026_27": 2.45,
+                        "total_2026_27": 9967.4
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 30.56,
+                        "capital_2024_25": 3.15,
+                        "total_2024_25": 33.71,
+                        "budget_2025_26": 42.84,
+                        "capital_2025_26": 4.33,
+                        "total_2025_26": 47.17,
+                        "revised_2024_25": 37.63,
+                        "capital_revised_2024_25": 2.49,
+                        "total_revised_2024_25": 40.12,
+                        "budget_2026_27": 38.56,
+                        "capital_2026_27": 2.45,
+                        "total_2026_27": 41.01
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Actual Recoveries(Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.16,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 30.4,
+                        "capital_2024_25": 3.15,
+                        "total_2024_25": 33.55,
+                        "budget_2025_26": 42.84,
+                        "capital_2025_26": 4.33,
+                        "total_2025_26": 47.17,
+                        "revised_2024_25": 37.63,
+                        "capital_revised_2024_25": 2.49,
+                        "total_revised_2024_25": 40.12,
+                        "budget_2026_27": 38.56,
+                        "capital_2026_27": 2.45,
+                        "total_2026_27": 41.01
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Strengthening of Krishi Vigyan Kendras (KVKs)",
+                    "values": {
+                        "actual_2024_25": 234.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 234.73,
+                        "budget_2025_26": 204.23,
+                        "capital_2025_26": null,
+                        "total_2025_26": 204.23,
+                        "revised_2024_25": 182.23,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 182.23,
+                        "budget_2026_27": 210.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 210.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Agricultural Production and Post-Production",
+                    "values": {
+                        "actual_2024_25": 91.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 91.16,
+                        "budget_2025_26": 95.74,
+                        "capital_2025_26": null,
+                        "total_2025_26": 95.74,
+                        "revised_2024_25": 89.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 89.0,
+                        "budget_2026_27": 96.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 96.5
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Natural Resource Management",
+                    "values": {
+                        "actual_2024_25": 247.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 247.85,
+                        "budget_2025_26": 229.09,
+                        "capital_2025_26": null,
+                        "total_2025_26": 229.09,
+                        "revised_2024_25": 198.09,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 198.09,
+                        "budget_2026_27": 232.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 232.05
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Crop Science for Food and Nutritional Security",
+                    "values": {
+                        "actual_2024_25": 894.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 894.23,
+                        "budget_2025_26": 965.46,
+                        "capital_2025_26": null,
+                        "total_2025_26": 965.46,
+                        "revised_2024_25": 965.46,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 965.46,
+                        "budget_2026_27": 969.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 969.5
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Technology based support in improvement and",
+                    "values": {
+                        "actual_2024_25": 250.88,
+                        "capital_2024_25": null,
+                        "total_2024_25": 250.88,
+                        "budget_2025_26": 318.91,
+                        "capital_2025_26": null,
+                        "total_2025_26": 318.91,
+                        "revised_2024_25": 262.91,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 262.91,
+                        "budget_2026_27": 220.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 220.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Research, Education and Technology Development for",
+                    "values": {
+                        "actual_2024_25": 400.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 400.95,
+                        "budget_2025_26": 504.04,
+                        "capital_2025_26": null,
+                        "total_2025_26": 504.04,
+                        "revised_2024_25": 417.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 417.04,
+                        "budget_2026_27": 416.95,
+                        "capital_2026_27": null,
+                        "total_2026_27": 416.95
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Fisheries and Aquaculture for Sustainable Development",
+                    "values": {
+                        "actual_2024_25": 200.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": 200.77,
+                        "budget_2025_26": 192.81,
+                        "capital_2025_26": null,
+                        "total_2025_26": 192.81,
+                        "revised_2024_25": 167.81,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 167.81,
+                        "budget_2026_27": 170.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 170.25
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Strengthening Agricultural Education, Management &",
+                    "values": {
+                        "actual_2024_25": 620.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 620.58,
+                        "budget_2025_26": 708.94,
+                        "capital_2025_26": null,
+                        "total_2025_26": 708.94,
+                        "revised_2024_25": 645.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 645.0,
+                        "budget_2026_27": 514.87,
+                        "capital_2026_27": null,
+                        "total_2026_27": 514.87
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 2941.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2941.15,
+                        "budget_2025_26": 3219.22,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3219.22,
+                        "revised_2024_25": 2927.54,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2927.54,
+                        "budget_2026_27": 2830.12,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2830.12
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "ICAR Headquarters",
+                    "values": {
+                        "actual_2024_25": 6369.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6369.15,
+                        "budget_2025_26": 6425.83,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6425.83,
+                        "revised_2024_25": 6559.42,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6559.42,
+                        "budget_2026_27": 6275.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6275.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Central Agricultural Universities",
+                    "values": {
+                        "actual_2024_25": 689.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 689.24,
+                        "budget_2025_26": 774.17,
+                        "capital_2025_26": null,
+                        "total_2025_26": 774.17,
+                        "revised_2024_25": 753.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 753.75,
+                        "budget_2026_27": 821.27,
+                        "capital_2026_27": null,
+                        "total_2026_27": 821.27
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "National Academy of Agricultural Sciences",
+                    "values": {
+                        "actual_2024_25": 0.31,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.31,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -222.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": -222.87,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 6835.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6835.83,
+                        "budget_2025_26": 7200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7200.0,
+                        "revised_2024_25": 7313.17,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7313.17,
+                        "budget_2026_27": 7096.27,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7096.27
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 6835.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6835.83,
+                        "budget_2025_26": 7200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7200.0,
+                        "revised_2024_25": 7313.17,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7313.17,
+                        "budget_2026_27": 7096.27,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7096.27
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 9807.38,
+                        "capital_2024_25": 3.15,
+                        "total_2024_25": 9810.53,
+                        "budget_2025_26": 10462.06,
+                        "capital_2025_26": 4.33,
+                        "total_2025_26": 10466.39,
+                        "revised_2024_25": 10278.34,
+                        "capital_revised_2024_25": 2.49,
+                        "total_revised_2024_25": 10280.83,
+                        "budget_2026_27": 9964.95,
+                        "capital_2026_27": 2.45,
+                        "total_2026_27": 9967.4
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Agricultural Research and Education",
+                    "values": {
+                        "actual_2024_25": 9784.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9784.6,
+                        "budget_2025_26": 9772.86,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9772.86,
+                        "revised_2024_25": 9625.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9625.51,
+                        "budget_2026_27": 9266.27,
+                        "capital_2026_27": null,
+                        "total_2026_27": 9266.27
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 22.78,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22.78,
+                        "budget_2025_26": 35.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35.02,
+                        "revised_2024_25": 29.81,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 29.81,
+                        "budget_2026_27": 30.62,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30.62
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3.15,
+                        "total_2024_25": 3.15,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4.33,
+                        "total_2025_26": 4.33,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.49,
+                        "total_revised_2024_25": 2.49,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.45,
+                        "total_2026_27": 2.45
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 9807.38,
+                        "capital_2024_25": 3.15,
+                        "total_2024_25": 9810.53,
+                        "budget_2025_26": 9807.88,
+                        "capital_2025_26": 4.33,
+                        "total_2025_26": 9812.21,
+                        "revised_2024_25": 9655.32,
+                        "capital_revised_2024_25": 2.49,
+                        "total_revised_2024_25": 9657.81,
+                        "budget_2026_27": 9296.89,
+                        "capital_2026_27": 2.45,
+                        "total_2026_27": 9299.34
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 654.18,
+                        "capital_2025_26": null,
+                        "total_2025_26": 654.18,
+                        "revised_2024_25": 623.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 623.02,
+                        "budget_2026_27": 668.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 668.06
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 654.18,
+                        "capital_2025_26": null,
+                        "total_2025_26": 654.18,
+                        "revised_2024_25": 623.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 623.02,
+                        "budget_2026_27": 668.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 668.06
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 9807.38,
+                        "capital_2024_25": 3.15,
+                        "total_2024_25": 9810.53,
+                        "budget_2025_26": 10462.06,
+                        "capital_2025_26": 4.33,
+                        "total_2025_26": 10466.39,
+                        "revised_2024_25": 10278.34,
+                        "capital_revised_2024_25": 2.49,
+                        "total_revised_2024_25": 10280.83,
+                        "budget_2026_27": 9964.95,
+                        "capital_2026_27": 2.45,
+                        "total_2026_27": 9967.4
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Agrinnovate India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 10.51,
+                        "total_2024_25": 10.51,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 10.0,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7.0,
+                        "total_revised_2024_25": 7.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7.0,
+                        "total_2026_27": 7.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 10.51,
+                        "total_2024_25": 10.51,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 10.0,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7.0,
+                        "total_revised_2024_25": 7.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7.0,
+                        "total_2026_27": 7.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "Agricultural Production and Post-Production Mechanization Augmented with Innovative",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for the expenditure on salary and establishment expenditure of",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Strengthening of Krishi Vigyan Kendras (KVKs):..The provision is for the activities to reach 5. Natural Resource Management:..The provision is for conducting research to address low farm",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Crop Science for Food and Nutritional Security:..Provision is to develop trait-specific high",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Research Project (AICRPs)/Network Research Projects with active collaboration with State Agricultural Universities",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Technology based support in improvement and management of horticulture crops",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Research, Education and Technology Development for Sustainable Livestock Health and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Fisheries and Aquaculture for Sustainable Development:..The provision is to implement",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Strengthening Agricultural Education, Management & Social Sciences:..The provision will",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "ICAR Headquarters:..Provision is primarily for the salaries, pensions, expenses on",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "administrative and logistic support to different schemes under ICAR in order to implement them efficiently.",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Central Agricultural Universities:..The provision is to strengthen the regional education,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "DEPARTMENT OF ATOMIC ENERGY",
+            "items": []
+        }
+    ]
+}

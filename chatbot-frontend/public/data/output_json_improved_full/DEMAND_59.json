@@ -1,0 +1,296 @@
+{
+    "demand_no": 59,
+    "ministry": "Ministry Of Home Affairs",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Transfers to Puducherry",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 3302.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3302.36,
+                        "budget_2025_26": 3432.19,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 3432.2,
+                        "revised_2024_25": 3517.87,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 3517.88,
+                        "budget_2026_27": 3517.87,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 3517.88
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Other Grants/Loans/Transfers",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Grants towards contribution to Union Territory Disaster",
+                    "values": {
+                        "actual_2024_25": 38.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": 38.38,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 5.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.0,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Central Assistance to Union Territories",
+                    "values": {
+                        "actual_2024_25": 3263.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3263.98,
+                        "budget_2025_26": 3427.18,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3427.18,
+                        "revised_2024_25": 3512.86,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3512.86,
+                        "budget_2026_27": 3512.86,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3512.86
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "EAP for Coastal Disaster Risk Reduction Project",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "EAP for Water Supply Project",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Grants/Loans/Transfers",
+                    "values": {
+                        "actual_2024_25": 3302.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3302.36,
+                        "budget_2025_26": 3432.19,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 3432.2,
+                        "revised_2024_25": 3517.87,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 3517.88,
+                        "budget_2026_27": 3517.87,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 3517.88
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3302.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3302.36,
+                        "budget_2025_26": 3432.19,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 3432.2,
+                        "revised_2024_25": 3517.87,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 3517.88,
+                        "budget_2026_27": 3517.87,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 3517.88
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 3302.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3302.36,
+                        "budget_2025_26": 3432.19,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3432.19,
+                        "revised_2024_25": 3517.87,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3517.87,
+                        "budget_2026_27": 3517.87,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3517.87
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Loans and Advances to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 3302.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3302.36,
+                        "budget_2025_26": 3432.19,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 3432.2,
+                        "revised_2024_25": 3517.87,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 3517.88,
+                        "budget_2026_27": 3517.87,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 3517.88
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3302.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3302.36,
+                        "budget_2025_26": 3432.19,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 3432.2,
+                        "revised_2024_25": 3517.87,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 3517.88,
+                        "budget_2026_27": 3517.87,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 3517.88
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "1",
+                    "name": "Grants towards contribution to Union Territory Disaster Response Fund:..Provision is for 3. EAP for Coastal Disaster Risk Reduction Project:..Token amount provision is for Externally",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Central Assistance to Union Territories:..Provision is for grants to meet gap in resources",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "and financing the schemes of Govt. of Puducherry.",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "EAP for Water Supply Project:..Token amount provision is for Externally Aided Project of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF HOUSING AND URBAN AFFAIRS",
+            "items": []
+        }
+    ]
+}

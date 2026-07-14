@@ -1,0 +1,242 @@
+{
+    "demand_no": 66,
+    "ministry": "Ministry Of Law And Justice",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 319.06,
+                        "capital_2024_25": -30.05,
+                        "total_2024_25": 289.01,
+                        "budget_2025_26": 302.98,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 304.98,
+                        "revised_2024_25": 358.79,
+                        "capital_revised_2024_25": 14.5,
+                        "total_revised_2024_25": 373.29,
+                        "budget_2026_27": 367.69,
+                        "capital_2026_27": 14.53,
+                        "total_2026_27": 382.22
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Election Commission of India",
+                    "values": {
+                        "actual_2024_25": 332.93,
+                        "capital_2024_25": 17.56,
+                        "total_2024_25": 350.49,
+                        "budget_2025_26": 302.98,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 304.98,
+                        "revised_2024_25": 358.79,
+                        "capital_revised_2024_25": 14.5,
+                        "total_revised_2024_25": 373.29,
+                        "budget_2026_27": 367.69,
+                        "capital_2026_27": 14.53,
+                        "total_2026_27": 382.22
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -13.87,
+                        "capital_2024_25": -47.61,
+                        "total_2024_25": -61.48,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 319.06,
+                        "capital_2024_25": -30.05,
+                        "total_2024_25": 289.01,
+                        "budget_2025_26": 302.98,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 304.98,
+                        "revised_2024_25": 358.79,
+                        "capital_revised_2024_25": 14.5,
+                        "total_revised_2024_25": 373.29,
+                        "budget_2026_27": 367.69,
+                        "capital_2026_27": 14.53,
+                        "total_2026_27": 382.22
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 319.06,
+                        "capital_2024_25": -30.05,
+                        "total_2024_25": 289.01,
+                        "budget_2025_26": 302.98,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 304.98,
+                        "revised_2024_25": 358.79,
+                        "capital_revised_2024_25": 14.5,
+                        "total_revised_2024_25": 373.29,
+                        "budget_2026_27": 367.69,
+                        "capital_2026_27": 14.53,
+                        "total_2026_27": 382.22
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Elections",
+                    "values": {
+                        "actual_2024_25": 319.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 319.06,
+                        "budget_2025_26": 302.98,
+                        "capital_2025_26": null,
+                        "total_2025_26": 302.98,
+                        "revised_2024_25": 358.79,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 358.79,
+                        "budget_2026_27": 367.69,
+                        "capital_2026_27": null,
+                        "total_2026_27": 367.69
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay on Public Works",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -34.08,
+                        "total_2024_25": -34.08,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.03,
+                        "total_2025_26": 0.03,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10.0,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 9.53,
+                        "total_2026_27": 9.53
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4.03,
+                        "total_2024_25": 4.03,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.97,
+                        "total_2025_26": 1.97,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4.5,
+                        "total_revised_2024_25": 4.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5.0,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 319.06,
+                        "capital_2024_25": -30.05,
+                        "total_2024_25": 289.01,
+                        "budget_2025_26": 302.98,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 304.98,
+                        "revised_2024_25": 358.79,
+                        "capital_revised_2024_25": 14.5,
+                        "total_revised_2024_25": 373.29,
+                        "budget_2026_27": 367.69,
+                        "capital_2026_27": 14.53,
+                        "total_2026_27": 382.22
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 319.06,
+                        "capital_2024_25": -30.05,
+                        "total_2024_25": 289.01,
+                        "budget_2025_26": 302.98,
+                        "capital_2025_26": 2.0,
+                        "total_2025_26": 304.98,
+                        "revised_2024_25": 358.79,
+                        "capital_revised_2024_25": 14.5,
+                        "total_revised_2024_25": 373.29,
+                        "budget_2026_27": 367.69,
+                        "capital_2026_27": 14.53,
+                        "total_2026_27": 382.22
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "1",
+                    "name": "Election Commission of India:..The provision is mainly for the establishment related",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure of the Election Commission of India, Voters' Awareness, training and construction of IIIDEM campus .",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF LAW AND JUSTICE",
+            "items": []
+        }
+    ]
+}

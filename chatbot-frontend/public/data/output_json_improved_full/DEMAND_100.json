@@ -1,0 +1,1232 @@
+{
+    "demand_no": 100,
+    "ministry": "Ministry Of Tribal Affairs",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 10129.81,
+                        "capital_2024_25": 2.05,
+                        "total_2024_25": 10131.86,
+                        "budget_2025_26": 14894.08,
+                        "capital_2025_26": 31.73,
+                        "total_2025_26": 14925.81,
+                        "revised_2024_25": 10805.53,
+                        "capital_revised_2024_25": 18.65,
+                        "total_revised_2024_25": 10824.18,
+                        "budget_2026_27": 15389.54,
+                        "capital_2026_27": 32.43,
+                        "total_2026_27": 15421.97
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 42.83,
+                        "capital_2024_25": 1.67,
+                        "total_2024_25": 44.5,
+                        "budget_2025_26": 42.57,
+                        "capital_2025_26": 1.6,
+                        "total_2025_26": 44.17,
+                        "revised_2024_25": 42.39,
+                        "capital_revised_2024_25": 1.6,
+                        "total_revised_2024_25": 43.99,
+                        "budget_2026_27": 45.23,
+                        "capital_2026_27": 2.35,
+                        "total_2026_27": 47.58
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "National Commission for Scheduled Tribes",
+                    "values": {
+                        "actual_2024_25": 17.12,
+                        "capital_2024_25": 0.38,
+                        "total_2024_25": 17.5,
+                        "budget_2025_26": 19.55,
+                        "capital_2025_26": 0.13,
+                        "total_2025_26": 19.68,
+                        "revised_2024_25": 34.98,
+                        "capital_revised_2024_25": 0.05,
+                        "total_revised_2024_25": 35.03,
+                        "budget_2026_27": 43.28,
+                        "capital_2026_27": 0.08,
+                        "total_2026_27": 43.36
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.08,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 59.87,
+                        "capital_2024_25": 2.05,
+                        "total_2024_25": 61.92,
+                        "budget_2025_26": 62.12,
+                        "capital_2025_26": 1.73,
+                        "total_2025_26": 63.85,
+                        "revised_2024_25": 77.37,
+                        "capital_revised_2024_25": 1.65,
+                        "total_revised_2024_25": 79.02,
+                        "budget_2026_27": 88.51,
+                        "capital_2026_27": 2.43,
+                        "total_2026_27": 90.94
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Eklavya Model Residential Schools (EMRS)",
+                    "values": {
+                        "actual_2024_25": 4716.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4716.29,
+                        "budget_2025_26": 7088.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7088.6,
+                        "revised_2024_25": 4900.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4900.0,
+                        "budget_2026_27": 7150.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7150.01
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "5. National Tribal Welfare Programme",
+            "items": [
+                {
+                    "code": "5.01",
+                    "name": "Aid to Voluntary Organizations working for the",
+                    "values": {
+                        "actual_2024_25": 175.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 175.0,
+                        "budget_2025_26": 175.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 175.0,
+                        "revised_2024_25": 153.93,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 153.93,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "welfare of scheduled Tribes",
+            "items": [
+                {
+                    "code": "5.02",
+                    "name": "Venture Capital Fund for Scheduled Tribes",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 30.0,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 17.0,
+                        "total_revised_2024_25": 17.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 30.0
+                    }
+                },
+                {
+                    "code": "5.03",
+                    "name": "Pradhan Mantri Jan Jatiya Vikas Mission",
+                    "values": {
+                        "actual_2024_25": 112.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 112.58,
+                        "budget_2025_26": 380.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 380.4,
+                        "revised_2024_25": 190.89,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 190.89,
+                        "budget_2026_27": 289.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 289.0
+                    }
+                },
+                {
+                    "code": "5.04",
+                    "name": "Tribal Research Information, Education,",
+                    "values": {
+                        "actual_2024_25": 28.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": 28.33,
+                        "budget_2025_26": 27.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 27.0,
+                        "revised_2024_25": 32.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 32.0,
+                        "budget_2026_27": 32.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 32.0
+                    }
+                },
+                {
+                    "code": "5.05",
+                    "name": "Monitoring, Evaluation, Survey, Social Audit",
+                    "values": {
+                        "actual_2024_25": 17.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": 17.52,
+                        "budget_2025_26": 25.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.0,
+                        "revised_2024_25": 23.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23.0,
+                        "budget_2026_27": 28.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 28.0
+                    }
+                },
+                {
+                    "code": "5.06",
+                    "name": "National Fellowship and Scholarship for Higher",
+                    "values": {
+                        "actual_2024_25": 240.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 240.0,
+                        "budget_2025_26": 0.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.02,
+                        "revised_2024_25": 220.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 220.0,
+                        "budget_2026_27": 340.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 340.0
+                    }
+                },
+                {
+                    "code": "5.07",
+                    "name": "National Overseas Scholarship Scheme",
+                    "values": {
+                        "actual_2024_25": 6.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6.0,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 8.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8.0,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "5.08",
+                    "name": "Pradhan Mantri Janjati Adivasi Nyaya Maha",
+                    "values": {
+                        "actual_2024_25": 0.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.15,
+                        "budget_2025_26": 12.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12.0,
+                        "revised_2024_25": 6.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- National Tribal Welfare Programme",
+                    "values": {
+                        "actual_2024_25": 579.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 579.58,
+                        "budget_2025_26": 619.43,
+                        "capital_2025_26": 30.0,
+                        "total_2025_26": 649.43,
+                        "revised_2024_25": 633.82,
+                        "capital_revised_2024_25": 17.0,
+                        "total_revised_2024_25": 650.82,
+                        "budget_2026_27": 909.0,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 939.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 5295.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5295.87,
+                        "budget_2025_26": 7708.03,
+                        "capital_2025_26": 30.0,
+                        "total_2025_26": 7738.03,
+                        "revised_2024_25": 5533.82,
+                        "capital_revised_2024_25": 17.0,
+                        "total_revised_2024_25": 5550.82,
+                        "budget_2026_27": 8059.01,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 8089.01
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Programme for Development of Scheduled Tribes(PM Vanbandhu Kalyan",
+                    "values": {
+                        "actual_2024_25": 163.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 163.69,
+                        "budget_2025_26": 313.79,
+                        "capital_2025_26": null,
+                        "total_2025_26": 313.79,
+                        "revised_2024_25": 175.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 175.0,
+                        "budget_2026_27": 339.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 339.05
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Pre- Matric Scholarship for STs",
+                    "values": {
+                        "actual_2024_25": 163.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 163.69,
+                        "budget_2025_26": 313.79,
+                        "capital_2025_26": null,
+                        "total_2025_26": 313.79,
+                        "revised_2024_25": 175.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 175.0,
+                        "budget_2026_27": 339.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 339.05
+                    }
+                },
+                {
+                    "code": "6.02",
+                    "name": "Post- Matric Scholarship for STs",
+                    "values": {
+                        "actual_2024_25": 2598.34,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2598.34,
+                        "budget_2025_26": 2462.68,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2462.68,
+                        "revised_2024_25": 2864.34,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2864.34,
+                        "budget_2026_27": 3126.49,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3126.49
+                    }
+                },
+                {
+                    "code": "6.03",
+                    "name": "Support to Tribal Research Institute",
+                    "values": {
+                        "actual_2024_25": 90.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 90.0,
+                        "budget_2025_26": 111.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 111.0,
+                        "revised_2024_25": 90.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 90.0,
+                        "budget_2026_27": 121.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 121.01
+                    }
+                },
+                {
+                    "code": "6.04",
+                    "name": "Development of Particularly Vulnerable Tribal",
+                    "values": {
+                        "actual_2024_25": 73.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 73.09,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.05",
+                    "name": "Pradhan Mantri Adi Adarsh Gram Yojna",
+                    "values": {
+                        "actual_2024_25": 126.19,
+                        "capital_2024_25": null,
+                        "total_2024_25": 126.19,
+                        "budget_2025_26": 335.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 335.97,
+                        "revised_2024_25": 170.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 170.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.06",
+                    "name": "Administrative Cost to States/UTs",
+                    "values": {
+                        "actual_2024_25": 16.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16.11,
+                        "budget_2025_26": 59.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 59.01,
+                        "revised_2024_25": 39.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 39.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.07",
+                    "name": "Pradhan Mantri Janjati Adivasi Nyaya Maha",
+                    "values": {
+                        "actual_2024_25": 99.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 99.68,
+                        "budget_2025_26": 300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 300.0,
+                        "revised_2024_25": 184.99,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 184.99,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "6.08",
+                    "name": "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan",
+                    "values": {
+                        "actual_2024_25": 477.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 477.68,
+                        "budget_2025_26": 2000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2000.0,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": 2013.46,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2013.46
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Programme for Development of Scheduled Tribes(PM Vanbandhu",
+                    "values": {
+                        "actual_2024_25": 3644.78,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3644.78,
+                        "budget_2025_26": 5582.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5582.45,
+                        "revised_2024_25": 4023.34,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4023.34,
+                        "budget_2026_27": 5700.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5700.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Actual Recoveries (CSS)",
+                    "values": {
+                        "actual_2024_25": -41.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": -41.28,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 3603.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3603.5,
+                        "budget_2025_26": 5582.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5582.45,
+                        "revised_2024_25": 4023.34,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4023.34,
+                        "budget_2026_27": 5700.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5700.01
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Grants/Loans/Transfers",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Grants under proviso to Article 275(1) of the Constitution",
+                    "values": {
+                        "actual_2024_25": 1170.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1170.57,
+                        "budget_2025_26": 1541.47,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1541.47,
+                        "revised_2024_25": 1171.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1171.0,
+                        "budget_2026_27": 1542.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1542.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Grant to Assam Government under Clause A of the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Grants under proviso to Article 275(1) of the Constitution",
+                    "values": {
+                        "actual_2024_25": 1170.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1170.57,
+                        "budget_2025_26": 1541.48,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1541.48,
+                        "revised_2024_25": 1171.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1171.0,
+                        "budget_2026_27": 1542.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1542.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Grants/Loans/Transfers",
+                    "values": {
+                        "actual_2024_25": 1170.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1170.57,
+                        "budget_2025_26": 1541.48,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1541.48,
+                        "revised_2024_25": 1171.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1171.0,
+                        "budget_2026_27": 1542.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1542.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 10129.81,
+                        "capital_2024_25": 2.05,
+                        "total_2024_25": 10131.86,
+                        "budget_2025_26": 14894.08,
+                        "capital_2025_26": 31.73,
+                        "total_2025_26": 14925.81,
+                        "revised_2024_25": 10805.53,
+                        "capital_revised_2024_25": 18.65,
+                        "total_revised_2024_25": 10824.18,
+                        "budget_2026_27": 15389.54,
+                        "capital_2026_27": 32.43,
+                        "total_2026_27": 15421.97
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Welfare of Scheduled Castes, Scheduled Tribes, Other",
+                    "values": {
+                        "actual_2024_25": 5316.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5316.13,
+                        "budget_2025_26": 7083.52,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7083.52,
+                        "revised_2024_25": 4922.87,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4922.87,
+                        "budget_2026_27": 7160.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7160.76
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 42.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 42.75,
+                        "budget_2025_26": 42.57,
+                        "capital_2025_26": null,
+                        "total_2025_26": 42.57,
+                        "revised_2024_25": 42.39,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 42.39,
+                        "budget_2026_27": 45.23,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.23
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Welfare of Scheduled Castes,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 30.0,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 17.0,
+                        "total_revised_2024_25": 17.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 30.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.05,
+                        "total_2024_25": 2.05,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.73,
+                        "total_2025_26": 1.73,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.65,
+                        "total_revised_2024_25": 1.65,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.43,
+                        "total_2026_27": 2.43
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 5358.88,
+                        "capital_2024_25": 2.05,
+                        "total_2024_25": 5360.93,
+                        "budget_2025_26": 7126.09,
+                        "capital_2025_26": 31.73,
+                        "total_2025_26": 7157.82,
+                        "revised_2024_25": 4965.26,
+                        "capital_revised_2024_25": 18.65,
+                        "total_revised_2024_25": 4983.91,
+                        "budget_2026_27": 7205.99,
+                        "capital_2026_27": 32.43,
+                        "total_2026_27": 7238.42
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1498.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1498.33,
+                        "revised_2024_25": 1254.89,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1254.89,
+                        "budget_2026_27": 1799.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1799.76
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 4759.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4759.44,
+                        "budget_2025_26": 6204.76,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6204.76,
+                        "revised_2024_25": 4565.17,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4565.17,
+                        "budget_2026_27": 6312.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6312.9
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 11.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11.49,
+                        "budget_2025_26": 64.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 64.9,
+                        "revised_2024_25": 20.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 20.21,
+                        "budget_2026_27": 70.89,
+                        "capital_2026_27": null,
+                        "total_2026_27": 70.89
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 4770.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4770.93,
+                        "budget_2025_26": 7767.99,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7767.99,
+                        "revised_2024_25": 5840.27,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5840.27,
+                        "budget_2026_27": 8183.55,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8183.55
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 10129.81,
+                        "capital_2024_25": 2.05,
+                        "total_2024_25": 10131.86,
+                        "budget_2025_26": 14894.08,
+                        "capital_2025_26": 31.73,
+                        "total_2025_26": 14925.81,
+                        "revised_2024_25": 10805.53,
+                        "capital_revised_2024_25": 18.65,
+                        "total_revised_2024_25": 10824.18,
+                        "budget_2026_27": 15389.54,
+                        "capital_2026_27": 32.43,
+                        "total_2026_27": 15421.97
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Support to National and State",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 455.04,
+                        "total_2024_25": 455.04,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 481.0,
+                        "total_revised_2024_25": 481.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 507.0,
+                        "total_2026_27": 507.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 455.04,
+                        "total_2024_25": 455.04,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 481.0,
+                        "total_revised_2024_25": 481.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 507.0,
+                        "total_2026_27": 507.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure on the Secretariat of the",
+            "items": [
+                {
+                    "code": "5.03",
+                    "name": "Pradhan Mantri Jan Jatiya Vikas Mission (PMJVM):..The objectives of Pradhan Mantri Jan",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "2. National Commission for Scheduled Tribes:..The provision is for Secretariat Expenditure of",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Eklavya Model Residential Schools (EMRS):..In the context of the trend of establishing Agriculture/ Floriculture/ Horticulture/ Medicinal & aromatic plants / others.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Research/Evaluation projects, Seminar/Workshops and Publication of books, relating to issues concerning tribals.",
+            "items": []
+        },
+        {
+            "heading": "5.01. Aid to Voluntary Organizations working for the welfare of scheduled Tribes:..GIA is also",
+            "items": [
+                {
+                    "code": "5.05",
+                    "name": "Monitoring, Evaluation, Survey, Social Audit (MESSA):..Provision has been made for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "given to Voluntary Organizations to assist the reach of welfare schemes of Government and fill the gaps in service",
+            "items": []
+        },
+        {
+            "heading": "expenditure on Monitoring and Evaluation of schemes and projects of this Ministry.",
+            "items": [
+                {
+                    "code": "5.06",
+                    "name": "National Fellowship and Scholarship for Higher Education of ST students:..Financial",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "Venture Capital Fund for Scheduled Tribes:..As a Social Sector Initiative, the objectives of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "5.07",
+                    "name": "National Overseas Scholarship Scheme:..Scholarships are also provided to selected ST",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.08",
+                    "name": "Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN):..The scheme aims to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Pre- Matric Scholarship for STs:..The objective of the Pre Matric Scholarship for STs is to fill",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.02",
+                    "name": "Post- Matric Scholarship for STs:..The objective of the Post Matric Scholarship for STs is to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.03",
+                    "name": "Support to Tribal Research Institute:..Under the scheme Support to Tribal Research",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "provisions and schemes of State and Central Government for welfare of tribal through Seminars / Workshops etc.",
+            "items": [
+                {
+                    "code": "6.04",
+                    "name": "Development of Particularly Vulnerable Tribal Groups(PVTGs):..Provision under the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.05",
+                    "name": "Pradhan Mantri Adi Adarsh Gram Yojna (PMAAGY):..Erstwhile the scheme of Special",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "notified ST population, including North Eastern States (NE States) for development and welfare of tribal people to",
+            "items": [
+                {
+                    "code": "6.07",
+                    "name": "Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN):..The scheme aims to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.08",
+                    "name": "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan (DAJGUA):..Dharti Aaba Janjatiya Gram",
+                    "values": {
+                        "actual_2024_25": 63843.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Grants under proviso to Article 275(1) of the Constitution:..Under this provision, grants are",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "infrastructural projects in the Tribal Areas for the Welfare of STs and for raising the level of administration of Scheduled",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Grant to Assam Government under Clause A of the Second Provision to Article 275(1) of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+            "items": []
+        }
+    ]
+}

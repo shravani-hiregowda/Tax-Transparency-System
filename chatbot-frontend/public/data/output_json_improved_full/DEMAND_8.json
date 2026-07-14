@@ -1,0 +1,954 @@
+{
+    "demand_no": 8,
+    "ministry": "Ministry Of Civil Aviation",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2503.51,
+                        "capital_2024_25": 97.12,
+                        "total_2024_25": 2600.63,
+                        "budget_2025_26": 2330.31,
+                        "capital_2025_26": 70.0,
+                        "total_2025_26": 2400.31,
+                        "revised_2024_25": 2014.48,
+                        "capital_revised_2024_25": 41.01,
+                        "total_revised_2024_25": 2055.49,
+                        "budget_2026_27": 2057.87,
+                        "capital_2026_27": 45.0,
+                        "total_2026_27": 2102.87
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 67.18,
+                        "capital_2024_25": 11.76,
+                        "total_2024_25": 78.94,
+                        "budget_2025_26": 65.0,
+                        "capital_2025_26": 25.0,
+                        "total_2025_26": 90.0,
+                        "revised_2024_25": 65.0,
+                        "capital_revised_2024_25": 3.0,
+                        "total_revised_2024_25": 68.0,
+                        "budget_2026_27": 71.0,
+                        "capital_2026_27": 5.0,
+                        "total_2026_27": 76.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Directorate General of Civil Aviation",
+                    "values": {
+                        "actual_2024_25": 253.67,
+                        "capital_2024_25": 21.54,
+                        "total_2024_25": 275.21,
+                        "budget_2025_26": 300.0,
+                        "capital_2025_26": 30.0,
+                        "total_2025_26": 330.0,
+                        "revised_2024_25": 300.0,
+                        "capital_revised_2024_25": 30.0,
+                        "total_revised_2024_25": 330.0,
+                        "budget_2026_27": 325.0,
+                        "capital_2026_27": 17.0,
+                        "total_2026_27": 342.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Bureau of Civil Aviation Security",
+                    "values": {
+                        "actual_2024_25": 77.89,
+                        "capital_2024_25": 6.55,
+                        "total_2024_25": 84.44,
+                        "budget_2025_26": 80.0,
+                        "capital_2025_26": 15.0,
+                        "total_2025_26": 95.0,
+                        "revised_2024_25": 80.0,
+                        "capital_revised_2024_25": 8.0,
+                        "total_revised_2024_25": 88.0,
+                        "budget_2026_27": 91.0,
+                        "capital_2026_27": 23.0,
+                        "total_2026_27": 114.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Commissioner for Railway Safety",
+                    "values": {
+                        "actual_2024_25": 21.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21.02,
+                        "budget_2025_26": 22.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22.0,
+                        "revised_2024_25": 22.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22.0,
+                        "budget_2026_27": 25.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 25.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Grants for Skill Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-Aid to Institution in Civil Aviation for",
+                    "values": {
+                        "actual_2024_25": 0.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.35,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Providing Medical Benefit to Retired Employees of Air",
+                    "values": {
+                        "actual_2024_25": 103.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 103.0,
+                        "budget_2025_26": 125.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 125.0,
+                        "revised_2024_25": 125.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 125.0,
+                        "budget_2026_27": 132.41,
+                        "capital_2026_27": null,
+                        "total_2026_27": 132.41
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 523.11,
+                        "capital_2024_25": 39.85,
+                        "total_2024_25": 562.96,
+                        "budget_2025_26": 592.02,
+                        "capital_2025_26": 70.0,
+                        "total_2025_26": 662.02,
+                        "revised_2024_25": 592.02,
+                        "capital_revised_2024_25": 41.0,
+                        "total_revised_2024_25": 633.02,
+                        "budget_2026_27": 644.43,
+                        "capital_2026_27": 45.0,
+                        "total_2026_27": 689.43
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Regional Connectivity Scheme",
+                    "values": {
+                        "actual_2024_25": 789.31,
+                        "capital_2024_25": null,
+                        "total_2024_25": 789.31,
+                        "budget_2025_26": 540.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 540.0,
+                        "revised_2024_25": 434.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 434.5,
+                        "budget_2026_27": 550.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 550.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Production Linked Incentive (PLI) Scheme for Drone and",
+                    "values": {
+                        "actual_2024_25": 37.1,
+                        "capital_2024_25": null,
+                        "total_2024_25": 37.1,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Customs Cost Recovery (CCR) charges to Airport",
+                    "values": {
+                        "actual_2024_25": 124.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": 124.17,
+                        "budget_2025_26": 142.75,
+                        "capital_2025_26": null,
+                        "total_2025_26": 142.75,
+                        "revised_2024_25": 1.17,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.17,
+                        "budget_2026_27": 47.39,
+                        "capital_2026_27": null,
+                        "total_2026_27": 47.39
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 950.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 950.58,
+                        "budget_2025_26": 682.75,
+                        "capital_2025_26": null,
+                        "total_2025_26": 682.75,
+                        "revised_2024_25": 435.67,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 435.67,
+                        "budget_2026_27": 597.39,
+                        "capital_2026_27": null,
+                        "total_2026_27": 597.39
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Indira Gandhi Rashtriya Udaan Academy and National",
+                    "values": {
+                        "actual_2024_25": 36.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 36.01,
+                        "budget_2025_26": 10.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.02,
+                        "revised_2024_25": 19.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 19.0,
+                        "budget_2026_27": 34.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": 34.92
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Airports Economic Regulatory Authority",
+                    "values": {
+                        "actual_2024_25": 22.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22.2,
+                        "budget_2025_26": 20.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.0,
+                        "revised_2024_25": 22.27,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22.27,
+                        "budget_2026_27": 22.73,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22.73
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 58.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 58.21,
+                        "budget_2025_26": 30.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.02,
+                        "revised_2024_25": 41.27,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 41.27,
+                        "budget_2026_27": 57.65,
+                        "capital_2026_27": null,
+                        "total_2026_27": 57.65
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "13",
+                    "name": "Air India Asset Holding Limited(SPV)",
+                    "values": {
+                        "actual_2024_25": 977.18,
+                        "capital_2024_25": null,
+                        "total_2024_25": 977.18,
+                        "budget_2025_26": 1025.51,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1025.51,
+                        "revised_2024_25": 945.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 945.51,
+                        "budget_2026_27": 758.39,
+                        "capital_2026_27": null,
+                        "total_2026_27": 758.39
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Airports Authority of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Rohini Heliport Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.13,
+                        "total_2024_25": 0.13,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Hotel Corporation of India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 57.14,
+                        "total_2024_25": 57.14,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Pawan Hans Ltd",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Public Sector Undertakings",
+                    "values": {
+                        "actual_2024_25": 977.18,
+                        "capital_2024_25": 57.27,
+                        "total_2024_25": 1034.45,
+                        "budget_2025_26": 1025.52,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1025.52,
+                        "revised_2024_25": 945.52,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 945.53,
+                        "budget_2026_27": 758.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 758.4
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "18",
+                    "name": "Actual Recoveries (OCSE)",
+                    "values": {
+                        "actual_2024_25": -5.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": -5.57,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 1029.82,
+                        "capital_2024_25": 57.27,
+                        "total_2024_25": 1087.09,
+                        "budget_2025_26": 1055.54,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1055.54,
+                        "revised_2024_25": 986.79,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 986.8,
+                        "budget_2026_27": 816.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 816.05
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2503.51,
+                        "capital_2024_25": 97.12,
+                        "total_2024_25": 2600.63,
+                        "budget_2025_26": 2330.31,
+                        "capital_2025_26": 70.0,
+                        "total_2025_26": 2400.31,
+                        "revised_2024_25": 2014.48,
+                        "capital_revised_2024_25": 41.01,
+                        "total_revised_2024_25": 2055.49,
+                        "budget_2026_27": 2057.87,
+                        "capital_2026_27": 45.0,
+                        "total_2026_27": 2102.87
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Capital Outlay on Public Works",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7.55,
+                        "total_2025_26": 7.55,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7.55,
+                        "total_2025_26": 7.55,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Civil Aviation",
+                    "values": {
+                        "actual_2024_25": 2436.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2436.33,
+                        "budget_2025_26": 2025.34,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2025.34,
+                        "revised_2024_25": 1815.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1815.01,
+                        "budget_2026_27": 1856.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1856.9
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 67.18,
+                        "capital_2024_25": null,
+                        "total_2024_25": 67.18,
+                        "budget_2025_26": 65.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 65.0,
+                        "revised_2024_25": 65.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 65.0,
+                        "budget_2026_27": 71.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 71.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Civil Aviation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 85.36,
+                        "total_2024_25": 85.36,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 45.0,
+                        "total_2025_26": 45.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 38.01,
+                        "total_revised_2024_25": 38.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 40.0,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 11.76,
+                        "total_2024_25": 11.76,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 17.45,
+                        "total_2025_26": 17.45,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.0,
+                        "total_revised_2024_25": 3.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 5.0,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 2503.51,
+                        "capital_2024_25": 97.12,
+                        "total_2024_25": 2600.63,
+                        "budget_2025_26": 2090.34,
+                        "capital_2025_26": 62.45,
+                        "total_2025_26": 2152.79,
+                        "revised_2024_25": 1880.01,
+                        "capital_revised_2024_25": 41.01,
+                        "total_revised_2024_25": 1921.02,
+                        "budget_2026_27": 1927.9,
+                        "capital_2026_27": 45.0,
+                        "total_2026_27": 1972.9
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 239.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 239.97,
+                        "revised_2024_25": 134.47,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 134.47,
+                        "budget_2026_27": 129.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 129.97
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 239.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 239.97,
+                        "revised_2024_25": 134.47,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 134.47,
+                        "budget_2026_27": 129.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 129.97
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2503.51,
+                        "capital_2024_25": 97.12,
+                        "total_2024_25": 2600.63,
+                        "budget_2025_26": 2330.31,
+                        "capital_2025_26": 70.0,
+                        "total_2025_26": 2400.31,
+                        "revised_2024_25": 2014.48,
+                        "capital_revised_2024_25": 41.01,
+                        "total_revised_2024_25": 2055.49,
+                        "budget_2026_27": 2057.87,
+                        "capital_2026_27": 45.0,
+                        "total_2026_27": 2102.87
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Airports Authority of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5069.45,
+                        "total_2024_25": 5069.45,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4193.83,
+                        "total_2025_26": 4193.83,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4688.03,
+                        "total_revised_2024_25": 4688.03,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4699.92,
+                        "total_2026_27": 4699.92
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5069.45,
+                        "total_2024_25": 5069.45,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4193.83,
+                        "total_2025_26": 4193.83,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4688.03,
+                        "total_revised_2024_25": 4688.03,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4699.92,
+                        "total_2026_27": 4699.92
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure of Secretariat of the 14. Airports Authority of India:..A token provision is made for International Arbitration for",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Directorate General of Civil Aviation:..The provision is for meeting the establishment 17. Pawan Hans Ltd:..The provision is for granting financial support of..`0.51 lakhs to Pawan",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure of the Directorate General of Civil Aviation and its Regional and Field Offices. It provides for training Hans LTD for payment to RHL...",
+            "items": []
+        },
+        {
+            "heading": "projects and eGCA Project. It also includes provision for India's contribution to International Civil Aviation Organisation.",
+            "items": []
+        },
+        {
+            "heading": "3. Bureau of Civil Aviation Security:..The provision is for meeting the establishment expenditure",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Commissioner for Railway Safety:..The provision is for meeting the establishment",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure of CRS and its Regional Offices which is concerned with Safety in Rail Travel and Operations.",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Grants for Skill Development:..The provision for Grants-in-Aid to institutions in Civil Aviation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-Aid to Institution in Civil Aviation for Promotion/Development of Aero",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Providing Medical Benefit to Retired Employees of Air India:..The provision is made for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Regional Connectivity Scheme:..The Regional Connectivity Scheme (RCS) of the Ministry",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Customs Cost Recovery (CCR) charges to Airport Authority of India (AAI) and AAI Cargo",
+                    "values": {
+                        "actual_2024_25": 12.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Indira Gandhi Rashtriya Udaan Academy and National Aviation University:..The provision",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "for NAU is made for establishment expenditure of IGRUA.",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Airports Economic Regulatory Authority:..The provision for Grants-in-aid for Salary and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Grants-in-aid General for meeting establishment related expenditure of AERA.",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "Air India Asset Holding Limited(SPV):..The provision is kept for servicing of loan transferred",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF COAL",
+            "items": []
+        }
+    ]
+}

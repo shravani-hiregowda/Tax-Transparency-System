@@ -1,0 +1,1245 @@
+{
+    "demand_no": 86,
+    "ministry": "Ministry Of Road Transport And Highways",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 14115.95,
+                        "capital_2024_25": 285344.4,
+                        "total_2024_25": 299460.35,
+                        "budget_2025_26": 15092.01,
+                        "capital_2025_26": 272241.15,
+                        "total_2025_26": 287333.16,
+                        "revised_2024_25": 15090.41,
+                        "capital_revised_2024_25": 272051.46,
+                        "total_revised_2024_25": 287141.87,
+                        "budget_2026_27": 15707.85,
+                        "capital_2026_27": 294167.45,
+                        "total_2026_27": 309875.3
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 163.49,
+                        "capital_2024_25": 2.69,
+                        "total_2024_25": 166.18,
+                        "budget_2025_26": 176.04,
+                        "capital_2025_26": 4.0,
+                        "total_2025_26": 180.04,
+                        "revised_2024_25": 174.44,
+                        "capital_revised_2024_25": 4.29,
+                        "total_revised_2024_25": 178.73,
+                        "budget_2026_27": 179.24,
+                        "capital_2026_27": 4.29,
+                        "total_2026_27": 183.53
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.59,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 162.9,
+                        "capital_2024_25": 2.69,
+                        "total_2024_25": 165.59,
+                        "budget_2025_26": 176.04,
+                        "capital_2025_26": 4.0,
+                        "total_2025_26": 180.04,
+                        "revised_2024_25": 174.44,
+                        "capital_revised_2024_25": 4.29,
+                        "total_revised_2024_25": 178.73,
+                        "budget_2026_27": 179.24,
+                        "capital_2026_27": 4.29,
+                        "total_2026_27": 183.53
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "National Highways Authority of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 168601.29,
+                        "total_2024_25": 168601.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 170266.0,
+                        "total_2025_26": 170266.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 170266.0,
+                        "total_revised_2024_25": 170266.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 187293.16,
+                        "total_2026_27": 187293.16
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Investment in NHAI",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 168601.29,
+                        "total_2024_25": 168601.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 170266.0,
+                        "total_2025_26": 170266.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 170266.0,
+                        "total_revised_2024_25": 170266.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 187293.16,
+                        "total_2026_27": 187293.16
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Transfer to Central Road and Infrastructure",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3646.0,
+                        "total_2024_25": 3646.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.03",
+                    "name": "NHAI investment met from CRIF",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -3644.99,
+                        "total_2024_25": -3644.99,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3.04",
+                    "name": "Transfer to Permanent Bridge Fee Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 30000.0,
+                        "total_2024_25": 30000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 33000.0,
+                        "total_2025_26": 33000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 33000.0,
+                        "total_revised_2024_25": 33000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 35027.16,
+                        "total_2026_27": 35027.16
+                    }
+                },
+                {
+                    "code": "3.05",
+                    "name": "NHAI investment met from PBFF",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -30000.0,
+                        "total_2024_25": -30000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -33000.0,
+                        "total_2025_26": -33000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -33000.0,
+                        "total_revised_2024_25": -33000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -35027.16,
+                        "total_2026_27": -35027.16
+                    }
+                },
+                {
+                    "code": "3.06",
+                    "name": "Transfer to Monetization of National Highways",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 15000.0,
+                        "total_2024_25": 15000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 15000.0,
+                        "total_2025_26": 15000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15000.0,
+                        "total_revised_2024_25": 15000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15000.0,
+                        "total_2026_27": 15000.0
+                    }
+                },
+                {
+                    "code": "3.07",
+                    "name": "Transfer to Monetization of National Highways",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 18837.0,
+                        "total_revised_2024_25": 18837.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15000.0,
+                        "total_2026_27": 15000.0
+                    }
+                },
+                {
+                    "code": "3.08",
+                    "name": "Met from Monetization of National Highways",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -15000.0,
+                        "total_2024_25": -15000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -15000.0,
+                        "total_2025_26": -15000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -15000.0,
+                        "total_revised_2024_25": -15000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -15000.0,
+                        "total_2026_27": -15000.0
+                    }
+                },
+                {
+                    "code": "3.09",
+                    "name": "Met from MNHF-Infrastructure Investment",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -18837.0,
+                        "total_revised_2024_25": -18837.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -15000.0,
+                        "total_2026_27": -15000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 168602.3,
+                        "total_2024_25": 168602.3,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 170266.0,
+                        "total_2025_26": 170266.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 170266.0,
+                        "total_revised_2024_25": 170266.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 187293.16,
+                        "total_2026_27": 187293.16
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "Road Works",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 99791.35,
+                        "total_2024_25": 99791.35,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 78295.0,
+                        "total_2025_26": 78295.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 78963.02,
+                        "total_revised_2024_25": 78963.02,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 86125.0,
+                        "total_2026_27": 86125.0
+                    }
+                },
+                {
+                    "code": "4.01",
+                    "name": "Works under Roads Wing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 99791.35,
+                        "total_2024_25": 99791.35,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 78295.0,
+                        "total_2025_26": 78295.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 78963.02,
+                        "total_revised_2024_25": 78963.02,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 86125.0,
+                        "total_2026_27": 86125.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "4.02",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1140.73,
+                        "total_2024_25": 1140.73,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1310.0,
+                        "total_2025_26": 1310.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 895.0,
+                        "total_revised_2024_25": 895.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 458.0,
+                        "total_2026_27": 458.0
+                    }
+                },
+                {
+                    "code": "4.03",
+                    "name": "EAP Component",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3644.62,
+                        "total_2024_25": 3644.62,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2291.0,
+                        "total_2025_26": 2291.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1933.0,
+                        "total_revised_2024_25": 1933.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1400.0,
+                        "total_2026_27": 1400.0
+                    }
+                },
+                {
+                    "code": "4.04",
+                    "name": "Schemes of States financed from CRIF",
+                    "values": {
+                        "actual_2024_25": 8493.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8493.21,
+                        "budget_2025_26": 9342.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9342.53,
+                        "revised_2024_25": 9342.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9342.53,
+                        "budget_2026_27": 9809.66,
+                        "capital_2026_27": null,
+                        "total_2026_27": 9809.66
+                    }
+                },
+                {
+                    "code": "4.05",
+                    "name": "Schemes of UTs financed from CRIF",
+                    "values": {
+                        "actual_2024_25": 138.61,
+                        "capital_2024_25": 111.62,
+                        "total_2024_25": 250.23,
+                        "budget_2025_26": 194.42,
+                        "capital_2025_26": 396.06,
+                        "total_2025_26": 590.48,
+                        "revised_2024_25": 194.42,
+                        "capital_revised_2024_25": 396.06,
+                        "total_revised_2024_25": 590.48,
+                        "budget_2026_27": 204.0,
+                        "capital_2026_27": 416.0,
+                        "total_2026_27": 620.0
+                    }
+                },
+                {
+                    "code": "4.06",
+                    "name": "Grants to Inter-State and Economically",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 98.19,
+                        "total_2024_25": 98.19,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 150.0,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 80.0,
+                        "total_revised_2024_25": 80.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 80.0,
+                        "total_2026_27": 80.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Important Roads - Schemes financed from",
+            "items": [
+                {
+                    "code": "4.07",
+                    "name": "Development, Planning, Quality Assurance,",
+                    "values": {
+                        "actual_2024_25": 109.51,
+                        "capital_2024_25": null,
+                        "total_2024_25": 109.51,
+                        "budget_2025_26": 219.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 219.0,
+                        "revised_2024_25": 119.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 119.0,
+                        "budget_2026_27": 124.95,
+                        "capital_2026_27": null,
+                        "total_2026_27": 124.95
+                    }
+                },
+                {
+                    "code": "4.08",
+                    "name": "Maintenance of National Highways - financed",
+                    "values": {
+                        "actual_2024_25": 4708.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4708.76,
+                        "budget_2025_26": 4595.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4595.0,
+                        "revised_2024_25": 4915.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4915.02,
+                        "budget_2026_27": 5020.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5020.0
+                    }
+                },
+                {
+                    "code": "4.09",
+                    "name": "Transfer to Central Road and Infrastructure",
+                    "values": {
+                        "actual_2024_25": 7462.64,
+                        "capital_2024_25": 5232.15,
+                        "total_2024_25": 12694.79,
+                        "budget_2025_26": 14350.95,
+                        "capital_2025_26": 1054.03,
+                        "total_2025_26": 15404.98,
+                        "revised_2024_25": 14570.97,
+                        "capital_revised_2024_25": 1069.03,
+                        "total_revised_2024_25": 15640.0,
+                        "budget_2026_27": 15158.61,
+                        "capital_2026_27": 441.39,
+                        "total_2026_27": 15600.0
+                    }
+                },
+                {
+                    "code": "4.10",
+                    "name": "Met from Central Road and Infrastructure",
+                    "values": {
+                        "actual_2024_25": -7196.26,
+                        "capital_2024_25": -5207.38,
+                        "total_2024_25": -12403.64,
+                        "budget_2025_26": -14350.95,
+                        "capital_2025_26": -1054.03,
+                        "total_2025_26": -15404.98,
+                        "revised_2024_25": -14570.97,
+                        "capital_revised_2024_25": -1069.03,
+                        "total_revised_2024_25": -15640.0,
+                        "budget_2026_27": -15158.61,
+                        "capital_2026_27": -441.39,
+                        "total_2026_27": -15600.0
+                    }
+                },
+                {
+                    "code": "4.11",
+                    "name": "Special Accelerated Road Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 12372.99,
+                        "total_2024_25": 12372.99,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 19499.09,
+                        "total_2025_26": 19499.09,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 19499.09,
+                        "total_revised_2024_25": 19499.09,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 18361.0,
+                        "total_2026_27": 18361.0
+                    }
+                },
+                {
+                    "code": "4.12",
+                    "name": "Transfer to National Investment Fund(NIF)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8000.0,
+                        "total_2024_25": 8000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 11000.0,
+                        "total_2025_26": 11000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10000.0,
+                        "total_revised_2024_25": 10000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 18361.0,
+                        "total_2026_27": 18361.0
+                    }
+                },
+                {
+                    "code": "4.13",
+                    "name": "Met from National Investment Fund (NIF)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -7935.44,
+                        "total_2024_25": -7935.44,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -11000.0,
+                        "total_2025_26": -11000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -10000.0,
+                        "total_revised_2024_25": -10000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -18361.0,
+                        "total_2026_27": -18361.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 13716.47,
+                        "capital_2024_25": 117248.83,
+                        "total_2024_25": 130965.3,
+                        "budget_2025_26": 14350.95,
+                        "capital_2025_26": 101941.15,
+                        "total_2025_26": 116292.1,
+                        "revised_2024_25": 14570.97,
+                        "capital_revised_2024_25": 101766.17,
+                        "total_revised_2024_25": 116337.14,
+                        "budget_2026_27": 15158.61,
+                        "capital_2026_27": 106840.0,
+                        "total_2026_27": 121998.61
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "5. Research, Training, Studies and Other Road Safety Schemes",
+            "items": [
+                {
+                    "code": "5.01",
+                    "name": "Schemes financed from CRIF",
+                    "values": {
+                        "actual_2024_25": 199.66,
+                        "capital_2024_25": 9.11,
+                        "total_2024_25": 208.77,
+                        "budget_2025_26": 565.02,
+                        "capital_2025_26": 30.0,
+                        "total_2025_26": 595.02,
+                        "revised_2024_25": 345.0,
+                        "capital_revised_2024_25": 15.0,
+                        "total_revised_2024_25": 360.0,
+                        "budget_2026_27": 370.0,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 400.0
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "Transfer to CRIF",
+                    "values": {
+                        "actual_2024_25": 243.8,
+                        "capital_2024_25": 10.0,
+                        "total_2024_25": 253.8,
+                        "budget_2025_26": 565.02,
+                        "capital_2025_26": 30.0,
+                        "total_2025_26": 595.02,
+                        "revised_2024_25": 345.0,
+                        "capital_revised_2024_25": 15.0,
+                        "total_revised_2024_25": 360.0,
+                        "budget_2026_27": 370.0,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 400.0
+                    }
+                },
+                {
+                    "code": "5.03",
+                    "name": "Met from CRIF",
+                    "values": {
+                        "actual_2024_25": -199.67,
+                        "capital_2024_25": -9.11,
+                        "total_2024_25": -208.78,
+                        "budget_2025_26": -565.02,
+                        "capital_2025_26": -30.0,
+                        "total_2025_26": -595.02,
+                        "revised_2024_25": -345.0,
+                        "capital_revised_2024_25": -15.0,
+                        "total_revised_2024_25": -360.0,
+                        "budget_2026_27": -370.0,
+                        "capital_2026_27": -30.0,
+                        "total_2026_27": -400.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 243.79,
+                        "capital_2024_25": 10.0,
+                        "total_2024_25": 253.79,
+                        "budget_2025_26": 565.02,
+                        "capital_2025_26": 30.0,
+                        "total_2025_26": 595.02,
+                        "revised_2024_25": 345.0,
+                        "capital_revised_2024_25": 15.0,
+                        "total_revised_2024_25": 360.0,
+                        "budget_2026_27": 370.0,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 400.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Scheme on Women Safety",
+                    "values": {
+                        "actual_2024_25": 36.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 36.49,
+                        "budget_2025_26": 40.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 40.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.0,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Scheme on Women Safety on Public Road",
+                    "values": {
+                        "actual_2024_25": 36.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 36.49,
+                        "budget_2025_26": 40.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.0,
+                        "revised_2024_25": 40.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.0,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "6.02",
+                    "name": "Met from Nirbhaya Fund",
+                    "values": {
+                        "actual_2024_25": -36.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": -36.49,
+                        "budget_2025_26": -40.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -40.0,
+                        "revised_2024_25": -40.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -40.0,
+                        "budget_2026_27": -40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -40.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Road Transport and Safety",
+                    "values": {
+                        "actual_2024_25": 243.79,
+                        "capital_2024_25": 10.0,
+                        "total_2024_25": 253.79,
+                        "budget_2025_26": 565.02,
+                        "capital_2025_26": 30.0,
+                        "total_2025_26": 595.02,
+                        "revised_2024_25": 345.0,
+                        "capital_revised_2024_25": 15.0,
+                        "total_revised_2024_25": 360.0,
+                        "budget_2026_27": 370.0,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 400.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -7.21,
+                        "capital_2024_25": -519.42,
+                        "total_2024_25": -526.63,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 13953.05,
+                        "capital_2024_25": 285341.71,
+                        "total_2024_25": 299294.76,
+                        "budget_2025_26": 14915.97,
+                        "capital_2025_26": 272237.15,
+                        "total_2025_26": 287153.12,
+                        "revised_2024_25": 14915.97,
+                        "capital_revised_2024_25": 272047.17,
+                        "total_revised_2024_25": 286963.14,
+                        "budget_2026_27": 15528.61,
+                        "capital_2026_27": 294163.16,
+                        "total_2026_27": 309691.77
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 14115.95,
+                        "capital_2024_25": 285344.4,
+                        "total_2024_25": 299460.35,
+                        "budget_2025_26": 15092.01,
+                        "capital_2025_26": 272241.15,
+                        "total_2025_26": 287333.16,
+                        "revised_2024_25": 15090.41,
+                        "capital_revised_2024_25": 272051.46,
+                        "total_revised_2024_25": 287141.87,
+                        "budget_2026_27": 15707.85,
+                        "capital_2026_27": 294167.45,
+                        "total_2026_27": 309875.3
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Roads and Bridges",
+                    "values": {
+                        "actual_2024_25": 5075.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5075.79,
+                        "budget_2025_26": 4814.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4814.0,
+                        "revised_2024_25": 5034.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5034.02,
+                        "budget_2026_27": 5144.95,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5144.95
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Road Transport",
+                    "values": {
+                        "actual_2024_25": 243.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 243.62,
+                        "budget_2025_26": 565.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 565.02,
+                        "revised_2024_25": 345.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 345.0,
+                        "budget_2026_27": 370.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 370.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 162.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 162.9,
+                        "budget_2025_26": 176.04,
+                        "capital_2025_26": null,
+                        "total_2025_26": 176.04,
+                        "revised_2024_25": 174.44,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 174.44,
+                        "budget_2026_27": 179.24,
+                        "capital_2026_27": null,
+                        "total_2026_27": 179.24
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Roads and Bridges",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 285331.71,
+                        "total_2024_25": 285331.71,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 252708.06,
+                        "total_2025_26": 252708.06,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 252533.08,
+                        "total_revised_2024_25": 252533.08,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 275772.16,
+                        "total_2026_27": 275772.16
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Road Transport",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 10.0,
+                        "total_2024_25": 10.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 30.0,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15.0,
+                        "total_revised_2024_25": 15.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 30.0,
+                        "total_2026_27": 30.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.69,
+                        "total_2024_25": 2.69,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4.0,
+                        "total_2025_26": 4.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 4.29,
+                        "total_revised_2024_25": 4.29,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4.29,
+                        "total_2026_27": 4.29
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 5482.31,
+                        "capital_2024_25": 285344.4,
+                        "total_2024_25": 290826.71,
+                        "budget_2025_26": 5555.06,
+                        "capital_2025_26": 252742.06,
+                        "total_2025_26": 258297.12,
+                        "revised_2024_25": 5553.46,
+                        "capital_revised_2024_25": 252552.37,
+                        "total_revised_2024_25": 258105.83,
+                        "budget_2026_27": 5694.19,
+                        "capital_2026_27": 275806.45,
+                        "total_2026_27": 281500.64
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 8493.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8493.21,
+                        "budget_2025_26": 9342.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9342.53,
+                        "revised_2024_25": 9342.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9342.53,
+                        "budget_2026_27": 9809.66,
+                        "capital_2026_27": null,
+                        "total_2026_27": 9809.66
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 140.43,
+                        "capital_2024_25": null,
+                        "total_2024_25": 140.43,
+                        "budget_2025_26": 194.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 194.42,
+                        "revised_2024_25": 194.42,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 194.42,
+                        "budget_2026_27": 204.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 204.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 19499.09,
+                        "total_2025_26": 19499.09,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 19499.09,
+                        "total_revised_2024_25": 19499.09,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 18361.0,
+                        "total_2026_27": 18361.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 8633.64,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8633.64,
+                        "budget_2025_26": 9536.95,
+                        "capital_2025_26": 19499.09,
+                        "total_2025_26": 29036.04,
+                        "revised_2024_25": 9536.95,
+                        "capital_revised_2024_25": 19499.09,
+                        "total_revised_2024_25": 29036.04,
+                        "budget_2026_27": 10013.66,
+                        "capital_2026_27": 18361.0,
+                        "total_2026_27": 28374.66
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 14115.95,
+                        "capital_2024_25": 285344.4,
+                        "total_2024_25": 299460.35,
+                        "budget_2025_26": 15092.01,
+                        "capital_2025_26": 272241.15,
+                        "total_2025_26": 287333.16,
+                        "revised_2024_25": 15090.41,
+                        "capital_revised_2024_25": 272051.46,
+                        "total_revised_2024_25": 287141.87,
+                        "budget_2026_27": 15707.85,
+                        "capital_2026_27": 294167.45,
+                        "total_2026_27": 309875.3
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "National Highway Authority",
+                    "values": {
+                        "actual_2024_25": 168602.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 168602.29,
+                        "budget_2025_26": 187803.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 187803.0,
+                        "revised_2024_25": 170266.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 170266.0,
+                        "budget_2026_27": 187293.16,
+                        "capital_2026_27": null,
+                        "total_2026_27": 187293.16
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": 168602.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 168602.29,
+                        "budget_2025_26": 187803.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 187803.0,
+                        "revised_2024_25": 170266.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 170266.0,
+                        "budget_2026_27": 187293.16,
+                        "capital_2026_27": null,
+                        "total_2026_27": 187293.16
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure of the Secretariat of the 4.03. EAP Component:..The provision includes foreign loan component for Externally Aided",
+            "items": []
+        },
+        {
+            "heading": "Ministry. Projects under Roads Wing.",
+            "items": []
+        },
+        {
+            "heading": "3. National Highways Authority of India:..This provision is for Development of National 4.04. Schemes of States financed from CRIF:..This provision is for financing the development and",
+            "items": []
+        },
+        {
+            "heading": "Highways, including projects relating to expressways and greenfield access controlled corridors. The expenditure is maintenance of State Roads in various States under the Central Road & Infrastructure Fund (CRIF) Scheme as per",
+            "items": []
+        },
+        {
+            "heading": "(InvITs) and budgetary support. Infrastructure Fund. However, Government of India only approves the list of projects prioritized by concerned State",
+            "items": []
+        },
+        {
+            "heading": "Governments while Administrative Approval, Technical Approval and Financial Sanction of projects of the approved list",
+            "items": []
+        },
+        {
+            "heading": "4.01. Works under Roads Wing:..The provision is for expenditure on development of National",
+            "items": []
+        },
+        {
+            "heading": "4.05. Schemes of UTs financed from CRIF:..This provision is for financing the development and",
+            "items": []
+        },
+        {
+            "heading": "National Highways and development of Strategic and Border Roads. only approves the list of projects prioritized by concerned UT Governments while Administrative Approval, Technical",
+            "items": []
+        },
+        {
+            "heading": "Approval and Financial Sanction of projects of the approved list is given by concerned UT Governments.",
+            "items": []
+        },
+        {
+            "heading": "4.02. Programme Component:..The expenditure under this component of Road Works is met from",
+            "items": []
+        },
+        {
+            "heading": "4.06. Grants to Inter-State and Economically Important Roads - Schemes financed from",
+            "items": []
+        },
+        {
+            "heading": "However, allocations are still being made under EI&ISC Scheme to clear pending liabilities of previously sanctioned",
+            "items": [
+                {
+                    "code": "4.07",
+                    "name": "Development, Planning, Quality Assurance, Research and Training - financed from",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "CRIF:..This includes the expenditure on Research & Development and Planning studies on Road Development and",
+            "items": []
+        },
+        {
+            "heading": "for trainings, workshop, seminars to be conducted by the Indian Roads Congress and other institutes. The expenditure",
+            "items": [
+                {
+                    "code": "4.08",
+                    "name": "Maintenance of National Highways - financed from CRIF:..The provision is mainly for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure on maintenance and repair (M&R) of National Highways financed from Central Road and Infrastructure",
+            "items": [
+                {
+                    "code": "4.11",
+                    "name": "Special Accelerated Road Development Program (SARDP) for North Eastern Areas:..The",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "road development projects including capital connectivity, district connectivity, connectivity to international border,",
+            "items": []
+        },
+        {
+            "heading": "improvement and strengthening of roads in the North Eastern Region. Schemes are financed from National Investment",
+            "items": []
+        },
+        {
+            "heading": "5. Research, Training, Studies and Other Road Safety Schemes:..The provision is mainly for",
+            "items": []
+        },
+        {
+            "heading": "provision also includes Cashless Treatment to Victims of Road Accidents. The expenditure is financed from CRIF.",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Scheme on Women Safety:..The provision is for safety of women with respect to public road",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "transport. The expenditure is met from Nirbhaya Fund.",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF RURAL DEVELOPMENT",
+            "items": []
+        }
+    ]
+}

@@ -1,0 +1,1150 @@
+{
+    "demand_no": 42,
+    "ministry": "Ministry Of Finance",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Transfers to States",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 133254.06,
+                        "capital_2024_25": 165701.16,
+                        "total_2024_25": 298955.22,
+                        "budget_2025_26": 157447.01,
+                        "capital_2025_26": 170595.47,
+                        "total_2025_26": 328042.48,
+                        "revised_2024_25": 181529.01,
+                        "capital_revised_2024_25": 174953.29,
+                        "total_revised_2024_25": 356482.3,
+                        "budget_2026_27": 167801.61,
+                        "capital_2026_27": 226381.91,
+                        "total_2026_27": 394183.52
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Assistance to States for Public Health Infrastructure",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 699.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 699.0,
+                        "budget_2026_27": 4200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4200.0
+                    }
+                },
+                {
+                    "code": "1.01",
+                    "name": "Program Component",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 699.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 699.0,
+                        "budget_2026_27": 4200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4200.0
+                    }
+                },
+                {
+                    "code": "1.02",
+                    "name": "Transfer to Health Security se National Security",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 699.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 699.0,
+                        "budget_2026_27": 4200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4200.0
+                    }
+                },
+                {
+                    "code": "1.03",
+                    "name": "Amount met from Health Security se National",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": -699.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -699.0,
+                        "budget_2026_27": -4200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -4200.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 699.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 699.0,
+                        "budget_2026_27": 4200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4200.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Grants for Local Bodies",
+                    "values": {
+                        "actual_2024_25": 41261.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 41261.96,
+                        "budget_2025_26": 48573.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 48573.0,
+                        "revised_2024_25": 54314.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 54314.0,
+                        "budget_2026_27": 55909.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 55909.0
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Rural Bodies",
+                    "values": {
+                        "actual_2024_25": 41261.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 41261.96,
+                        "budget_2025_26": 48573.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 48573.0,
+                        "revised_2024_25": 54314.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 54314.0,
+                        "budget_2026_27": 55909.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 55909.0
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Urban Bodies-Basic Component",
+                    "values": {
+                        "actual_2024_25": 19260.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 19260.11,
+                        "budget_2025_26": 26158.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 26158.0,
+                        "revised_2024_25": 26023.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 26023.0,
+                        "budget_2026_27": 37272.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 37272.0
+                    }
+                },
+                {
+                    "code": "2.03",
+                    "name": "Urban Bodies-Special Infrastructure Component",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 6000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6000.0
+                    }
+                },
+                {
+                    "code": "2.04",
+                    "name": "Urban Bodies-Urbanisation Premium",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 2000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Grants for Local Bodies",
+                    "values": {
+                        "actual_2024_25": 60522.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 60522.07,
+                        "budget_2025_26": 74731.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 74731.0,
+                        "revised_2024_25": 80337.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 80337.0,
+                        "budget_2026_27": 101181.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 101181.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Grants-in-Aid for State Disaster Response Fund",
+                    "values": {
+                        "actual_2024_25": 20264.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 20264.4,
+                        "budget_2025_26": 21575.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 21575.2,
+                        "revised_2024_25": 24257.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 24257.0,
+                        "budget_2026_27": 22574.1,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22574.1
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Grants-in-Aid for State Disaster Mitigation Fund",
+                    "values": {
+                        "actual_2024_25": 4984.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4984.25,
+                        "budget_2025_26": 5393.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5393.8,
+                        "revised_2024_25": 9258.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9258.0,
+                        "budget_2026_27": 5641.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5641.5
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Post Devolution Revenue Deficit Grant",
+                    "values": {
+                        "actual_2024_25": 24483.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24483.0,
+                        "budget_2025_26": 13705.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 13705.0,
+                        "revised_2024_25": 13705.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 13705.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants for Health Sector",
+                    "values": {
+                        "actual_2024_25": 10604.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10604.44,
+                        "budget_2025_26": 15272.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15272.0,
+                        "revised_2024_25": 25171.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25171.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Grants for Incubation of new Cities",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 2000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Grants for shared Municipal Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 90.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90.0,
+                        "revised_2024_25": 225.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 225.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Grants-in-aid of Revenues of States under Article 275(1) of the",
+                    "values": {
+                        "actual_2024_25": 120858.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 120858.16,
+                        "budget_2025_26": 132767.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 132767.0,
+                        "revised_2024_25": 152953.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 152953.0,
+                        "budget_2026_27": 129396.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 129396.6
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Finance Commission Grants",
+                    "values": {
+                        "actual_2024_25": 120858.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 120858.16,
+                        "budget_2025_26": 132767.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 132767.0,
+                        "revised_2024_25": 152953.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 152953.0,
+                        "budget_2026_27": 129396.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 129396.6
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Grants/Loans/Transfers",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Special Assistance",
+                    "values": {
+                        "actual_2024_25": 3350.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3350.0,
+                        "budget_2025_26": 10000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10000.0,
+                        "revised_2024_25": 10000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10000.0,
+                        "budget_2026_27": 15000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15000.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Support for COVID-19 Vaccination",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Special Assistance as Loan to States/UTs (with",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 149483.73,
+                        "total_2024_25": 149483.73,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 150000.0,
+                        "total_2025_26": 150000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 150000.0,
+                        "total_revised_2024_25": 150000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 200000.0,
+                        "total_2026_27": 200000.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Additional Central Assistance for Externally Aided",
+                    "values": {
+                        "actual_2024_25": 8173.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8173.68,
+                        "budget_2025_26": 10000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10000.0,
+                        "revised_2024_25": 12957.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12957.0,
+                        "budget_2026_27": 15745.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15745.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Projects (Grants)",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "Additional Central Assistance for Externally Aided",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 34409.84,
+                        "total_2024_25": 34409.84,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 42730.0,
+                        "total_2025_26": 42730.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 47184.0,
+                        "total_revised_2024_25": 47184.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 47753.0,
+                        "total_2026_27": 47753.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Projects (Back to Back Loans including Block Loans)",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -18192.41,
+                        "total_2024_25": -18192.41,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -22134.53,
+                        "total_2025_26": -22134.53,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -22230.71,
+                        "total_revised_2024_25": -22230.71,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -21371.09,
+                        "total_2026_27": -21371.09
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 16217.43,
+                        "total_2024_25": 16217.43,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 20595.47,
+                        "total_2025_26": 20595.47,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 24953.29,
+                        "total_revised_2024_25": 24953.29,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 26381.91,
+                        "total_2026_27": 26381.91
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "Transfer to National Disaster Response Fund/ National Disaster Mitigation",
+                    "values": {
+                        "actual_2024_25": 9610.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9610.0,
+                        "budget_2025_26": 10380.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10380.0,
+                        "revised_2024_25": 10140.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10140.0,
+                        "budget_2026_27": 10910.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10910.0
+                    }
+                },
+                {
+                    "code": "14.01",
+                    "name": "Transfer to National Disaster Response Fund/",
+                    "values": {
+                        "actual_2024_25": 9610.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9610.0,
+                        "budget_2025_26": 10380.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10380.0,
+                        "revised_2024_25": 10140.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10140.0,
+                        "budget_2026_27": 10910.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10910.0
+                    }
+                },
+                {
+                    "code": "14.02",
+                    "name": "Less National Calamity Contingent Duty",
+                    "values": {
+                        "actual_2024_25": -1116.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1116.28,
+                        "budget_2025_26": -1220.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1220.0,
+                        "revised_2024_25": -1140.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1140.0,
+                        "budget_2026_27": -1160.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1160.0
+                    }
+                },
+                {
+                    "code": "14.03",
+                    "name": "Less National Calamity Contingent Duty (Union",
+                    "values": {
+                        "actual_2024_25": -8341.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": -8341.22,
+                        "budget_2025_26": -9160.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -9160.0,
+                        "revised_2024_25": -9000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -9000.0,
+                        "budget_2026_27": -9750.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -9750.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 152.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 152.5,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "15",
+                    "name": "Assistance to States from National Disaster Response Fund and National",
+                    "values": {
+                        "actual_2024_25": 5356.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5356.03,
+                        "budget_2025_26": 12048.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12048.0,
+                        "revised_2024_25": 12048.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12048.0,
+                        "budget_2026_27": 11496.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11496.0
+                    }
+                },
+                {
+                    "code": "15.01",
+                    "name": "Assistance to States from National Disaster",
+                    "values": {
+                        "actual_2024_25": 5356.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5356.03,
+                        "budget_2025_26": 12048.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12048.0,
+                        "revised_2024_25": 12048.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12048.0,
+                        "budget_2026_27": 11496.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11496.0
+                    }
+                },
+                {
+                    "code": "15.02",
+                    "name": "Assistance to States from National Disaster",
+                    "values": {
+                        "actual_2024_25": 719.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 719.72,
+                        "budget_2025_26": 3012.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3012.0,
+                        "revised_2024_25": 3012.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3012.0,
+                        "budget_2026_27": 2874.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2874.0
+                    }
+                },
+                {
+                    "code": "15.03",
+                    "name": "Less Amount met from transfer from",
+                    "values": {
+                        "actual_2024_25": -5356.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": -5356.03,
+                        "budget_2025_26": -10380.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -10380.0,
+                        "revised_2024_25": -10140.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -10140.0,
+                        "budget_2026_27": -10910.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -10910.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 719.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 719.72,
+                        "budget_2025_26": 4680.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4680.0,
+                        "revised_2024_25": 4920.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4920.0,
+                        "budget_2026_27": 3460.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3460.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "16",
+                    "name": "Loans as Advance Assistance for Relief (erstwhile Ways",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 100.0,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -100.0,
+                        "total_2025_26": -100.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -100.0,
+                        "total_2026_27": -100.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Grants/Loans/Transfers",
+                    "values": {
+                        "actual_2024_25": 12395.9,
+                        "capital_2024_25": 165701.16,
+                        "total_2024_25": 178097.06,
+                        "budget_2025_26": 24680.01,
+                        "capital_2025_26": 170595.47,
+                        "total_2025_26": 195275.48,
+                        "revised_2024_25": 27877.01,
+                        "capital_revised_2024_25": 174953.29,
+                        "total_revised_2024_25": 202830.3,
+                        "budget_2026_27": 34205.01,
+                        "capital_2026_27": 226381.91,
+                        "total_2026_27": 260586.92
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 133254.06,
+                        "capital_2024_25": 165701.16,
+                        "total_2024_25": 298955.22,
+                        "budget_2025_26": 157447.01,
+                        "capital_2025_26": 170595.47,
+                        "total_2025_26": 328042.48,
+                        "revised_2024_25": 181529.01,
+                        "capital_revised_2024_25": 174953.29,
+                        "total_revised_2024_25": 356482.3,
+                        "budget_2026_27": 167801.61,
+                        "capital_2026_27": 226381.91,
+                        "total_2026_27": 394183.52
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Medical and Public Health",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Relief on account of Natural Calamities",
+                    "values": {
+                        "actual_2024_25": 152.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 152.5,
+                        "budget_2025_26": 1668.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1668.0,
+                        "revised_2024_25": 4920.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4920.0,
+                        "budget_2026_27": 3460.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3460.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 152.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 152.5,
+                        "budget_2025_26": 1668.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1668.01,
+                        "revised_2024_25": 4920.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4920.01,
+                        "budget_2026_27": 3460.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3460.01
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 133101.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 133101.56,
+                        "budget_2025_26": 155779.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 155779.0,
+                        "revised_2024_25": 176609.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 176609.0,
+                        "budget_2026_27": 164341.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 164341.6
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Loans and Advances to State Governments",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 165701.16,
+                        "total_2024_25": 165701.16,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 170595.47,
+                        "total_2025_26": 170595.47,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 168953.29,
+                        "total_revised_2024_25": 168953.29,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 211381.91,
+                        "total_2026_27": 211381.91
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Loans and Advances to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 6000.0,
+                        "total_revised_2024_25": 6000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15000.0,
+                        "total_2026_27": 15000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 133101.56,
+                        "capital_2024_25": 165701.16,
+                        "total_2024_25": 298802.72,
+                        "budget_2025_26": 155779.0,
+                        "capital_2025_26": 170595.47,
+                        "total_2025_26": 326374.47,
+                        "revised_2024_25": 176609.0,
+                        "capital_revised_2024_25": 174953.29,
+                        "total_revised_2024_25": 351562.29,
+                        "budget_2026_27": 164341.6,
+                        "capital_2026_27": 226381.91,
+                        "total_2026_27": 390723.51
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 133254.06,
+                        "capital_2024_25": 165701.16,
+                        "total_2024_25": 298955.22,
+                        "budget_2025_26": 157447.01,
+                        "capital_2025_26": 170595.47,
+                        "total_2025_26": 328042.48,
+                        "revised_2024_25": 181529.01,
+                        "capital_revised_2024_25": 174953.29,
+                        "total_revised_2024_25": 356482.3,
+                        "budget_2026_27": 167801.61,
+                        "capital_2026_27": 226381.91,
+                        "total_2026_27": 394183.52
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "1",
+                    "name": "Assistance to States for Public Health Infrastructure:..Provision is for providing financial 16. Loans as Advance Assistance for Relief (erstwhile Ways and Means Advance):..This is a",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Grants for Local Bodies:..As per Finance Commission recommendations, allocation is to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Grants-in-Aid for State Disaster Response Fund:..As per Finance Commission's",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Grants-in-Aid for State Disaster Mitigation Fund:..As per Finance Commission",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Special Assistance:..This provision has been earmarked for spill over committed liabilities for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Special Assistance as Loan to States/UTs (with Legislature) for Capital Investment:..This",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "12. Additional Central Assistance for Externally Aided Projects (Grants):..ACA for EAPs is",
+            "items": []
+        },
+        {
+            "heading": "13. Additional Central Assistance for Externally Aided Projects (Back to Back Loans",
+            "items": []
+        },
+        {
+            "heading": "including Block Loans):..Provision of funds for the Loan component for Externally Aided projects to States has been",
+            "items": [
+                {
+                    "code": "14.01",
+                    "name": "Transfer to National Disaster Response Fund/ National Disaster Mitigation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15.01",
+                    "name": "Assistance to States from National Disaster Response Fund (NDRF):..Under NDRF,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15.02",
+                    "name": "Assistance to States from National Disaster Mitigation Fund (NDMF):..Assistance to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+            "items": []
+        }
+    ]
+}

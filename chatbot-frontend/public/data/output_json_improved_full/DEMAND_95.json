@@ -1,0 +1,852 @@
+{
+    "demand_no": 95,
+    "ministry": "Ministry Of Statistics And Programme Implementation",
+    "department": "Department Of Space",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 6923.93,
+                        "capital_2024_25": 4025.47,
+                        "total_2024_25": 10949.4,
+                        "budget_2025_26": 7312.57,
+                        "capital_2025_26": 6103.63,
+                        "total_2025_26": 13416.2,
+                        "revised_2024_25": 7138.73,
+                        "capital_revised_2024_25": 5309.87,
+                        "total_revised_2024_25": 12448.6,
+                        "budget_2026_27": 7329.71,
+                        "capital_2026_27": 6375.92,
+                        "total_2026_27": 13705.63
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 130.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 130.35,
+                        "budget_2025_26": 113.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 113.8,
+                        "revised_2024_25": 153.89,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 153.89,
+                        "budget_2026_27": 156.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 156.25
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.02,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 130.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": 130.33,
+                        "budget_2025_26": 113.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 113.8,
+                        "revised_2024_25": 153.89,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 153.89,
+                        "budget_2026_27": 156.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 156.25
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Indian Space Research Organisation (ISRO) Head",
+                    "values": {
+                        "actual_2024_25": 206.17,
+                        "capital_2024_25": 8.35,
+                        "total_2024_25": 214.52,
+                        "budget_2025_26": 203.19,
+                        "capital_2025_26": 11.86,
+                        "total_2025_26": 215.05,
+                        "revised_2024_25": 178.85,
+                        "capital_revised_2024_25": 9.1,
+                        "total_revised_2024_25": 187.95,
+                        "budget_2026_27": 178.33,
+                        "capital_2026_27": 16.24,
+                        "total_2026_27": 194.57
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Indian National Space Promotion and Authorization",
+                    "values": {
+                        "actual_2024_25": 25.98,
+                        "capital_2024_25": 15.38,
+                        "total_2024_25": 41.36,
+                        "budget_2025_26": 37.25,
+                        "capital_2025_26": 32.75,
+                        "total_2025_26": 70.0,
+                        "revised_2024_25": 33.55,
+                        "capital_revised_2024_25": 11.45,
+                        "total_revised_2024_25": 45.0,
+                        "budget_2026_27": 30.07,
+                        "capital_2026_27": 12.93,
+                        "total_2026_27": 43.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 362.48,
+                        "capital_2024_25": 23.73,
+                        "total_2024_25": 386.21,
+                        "budget_2025_26": 354.24,
+                        "capital_2025_26": 44.61,
+                        "total_2025_26": 398.85,
+                        "revised_2024_25": 366.29,
+                        "capital_revised_2024_25": 20.55,
+                        "total_revised_2024_25": 386.84,
+                        "budget_2026_27": 364.65,
+                        "capital_2026_27": 29.17,
+                        "total_2026_27": 393.82
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Space Technology",
+                    "values": {
+                        "actual_2024_25": 4822.1,
+                        "capital_2024_25": 4018.62,
+                        "total_2024_25": 8840.72,
+                        "budget_2025_26": 4842.3,
+                        "capital_2025_26": 5387.91,
+                        "total_2025_26": 10230.21,
+                        "revised_2024_25": 4847.49,
+                        "capital_revised_2024_25": 4754.49,
+                        "total_revised_2024_25": 9601.98,
+                        "budget_2026_27": 4907.31,
+                        "capital_2026_27": 5489.75,
+                        "total_2026_27": 10397.06
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -64.72,
+                        "capital_2024_25": -504.51,
+                        "total_2024_25": -569.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 4757.38,
+                        "capital_2024_25": 3514.11,
+                        "total_2024_25": 8271.49,
+                        "budget_2025_26": 4842.3,
+                        "capital_2025_26": 5387.91,
+                        "total_2025_26": 10230.21,
+                        "revised_2024_25": 4847.49,
+                        "capital_revised_2024_25": 4754.49,
+                        "total_revised_2024_25": 9601.98,
+                        "budget_2026_27": 4907.31,
+                        "capital_2026_27": 5489.75,
+                        "total_2026_27": 10397.06
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "Space Applications",
+                    "values": {
+                        "actual_2024_25": 1249.68,
+                        "capital_2024_25": 313.22,
+                        "total_2024_25": 1562.9,
+                        "budget_2025_26": 1403.12,
+                        "capital_2025_26": 303.67,
+                        "total_2025_26": 1706.79,
+                        "revised_2024_25": 1281.83,
+                        "capital_revised_2024_25": 314.44,
+                        "total_revised_2024_25": 1596.27,
+                        "budget_2026_27": 1364.14,
+                        "capital_2026_27": 360.92,
+                        "total_2026_27": 1725.06
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Space Sciences",
+                    "values": {
+                        "actual_2024_25": 72.08,
+                        "capital_2024_25": 35.85,
+                        "total_2024_25": 107.93,
+                        "budget_2025_26": 126.82,
+                        "capital_2025_26": 244.18,
+                        "total_2025_26": 371.0,
+                        "revised_2024_25": 85.67,
+                        "capital_revised_2024_25": 98.95,
+                        "total_revised_2024_25": 184.62,
+                        "budget_2026_27": 141.45,
+                        "capital_2026_27": 428.31,
+                        "total_2026_27": 569.76
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "INSAT Satellite Systems",
+                    "values": {
+                        "actual_2024_25": 37.57,
+                        "capital_2024_25": 138.56,
+                        "total_2024_25": 176.13,
+                        "budget_2025_26": 83.75,
+                        "capital_2025_26": 123.25,
+                        "total_2025_26": 207.0,
+                        "revised_2024_25": 84.51,
+                        "capital_revised_2024_25": 121.44,
+                        "total_revised_2024_25": 205.95,
+                        "budget_2026_27": 63.17,
+                        "capital_2026_27": 67.76,
+                        "total_2026_27": 130.93
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 6116.71,
+                        "capital_2024_25": 4001.74,
+                        "total_2024_25": 10118.45,
+                        "budget_2025_26": 6455.99,
+                        "capital_2025_26": 6059.01,
+                        "total_2025_26": 12515.0,
+                        "revised_2024_25": 6299.5,
+                        "capital_revised_2024_25": 5289.32,
+                        "total_revised_2024_25": 11588.82,
+                        "budget_2026_27": 6476.07,
+                        "capital_2026_27": 6346.74,
+                        "total_2026_27": 12822.81
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Indian Institute of Space Science and Technology (IIST)",
+                    "values": {
+                        "actual_2024_25": 128.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 128.29,
+                        "budget_2025_26": 150.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": 144.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 144.6,
+                        "budget_2026_27": 147.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 147.5
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "North Eastern Space Applications Centre (NE-SAC)",
+                    "values": {
+                        "actual_2024_25": 38.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 38.21,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 40.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.0,
+                        "budget_2026_27": 45.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "National Atmospheric Research Laboratory (NARL)",
+                    "values": {
+                        "actual_2024_25": 45.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": 45.63,
+                        "budget_2025_26": 55.34,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.34,
+                        "revised_2024_25": 49.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 49.8,
+                        "budget_2026_27": 53.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 53.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Physical Research Laboratory (PRL)",
+                    "values": {
+                        "actual_2024_25": 229.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": 229.08,
+                        "budget_2025_26": 240.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 240.0,
+                        "revised_2024_25": 233.54,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 233.54,
+                        "budget_2026_27": 235.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 235.06
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 441.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 441.21,
+                        "budget_2025_26": 495.34,
+                        "capital_2025_26": null,
+                        "total_2025_26": 495.34,
+                        "revised_2024_25": 467.94,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 467.94,
+                        "budget_2026_27": 480.56,
+                        "capital_2026_27": null,
+                        "total_2026_27": 480.56
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "12",
+                    "name": "NewSpace India Limited (NSIL)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "International Co-operation",
+                    "values": {
+                        "actual_2024_25": 3.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.53,
+                        "budget_2025_26": 7.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7.0,
+                        "revised_2024_25": 5.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.0,
+                        "budget_2026_27": 8.43,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8.43
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 444.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 444.74,
+                        "budget_2025_26": 502.34,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 502.35,
+                        "revised_2024_25": 472.94,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 472.94,
+                        "budget_2026_27": 488.99,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 489.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 6923.93,
+                        "capital_2024_25": 4025.47,
+                        "total_2024_25": 10949.4,
+                        "budget_2025_26": 7312.57,
+                        "capital_2025_26": 6103.63,
+                        "total_2025_26": 13416.2,
+                        "revised_2024_25": 7138.73,
+                        "capital_revised_2024_25": 5309.87,
+                        "total_revised_2024_25": 12448.6,
+                        "budget_2026_27": 7329.71,
+                        "capital_2026_27": 6375.92,
+                        "total_2026_27": 13705.63
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Space Research",
+                    "values": {
+                        "actual_2024_25": 6793.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6793.6,
+                        "budget_2025_26": 7198.77,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7198.77,
+                        "revised_2024_25": 6984.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6984.84,
+                        "budget_2026_27": 7173.46,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7173.46
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 130.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": 130.33,
+                        "budget_2025_26": 113.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 113.8,
+                        "revised_2024_25": 153.89,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 153.89,
+                        "budget_2026_27": 156.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 156.25
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Space Research",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4025.47,
+                        "total_2024_25": 4025.47,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 6103.63,
+                        "total_2025_26": 6103.63,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 5309.87,
+                        "total_revised_2024_25": 5309.87,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 6375.92,
+                        "total_2026_27": 6375.92
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 6923.93,
+                        "capital_2024_25": 4025.47,
+                        "total_2024_25": 10949.4,
+                        "budget_2025_26": 7312.57,
+                        "capital_2025_26": 6103.63,
+                        "total_2025_26": 13416.2,
+                        "revised_2024_25": 7138.73,
+                        "capital_revised_2024_25": 5309.87,
+                        "total_revised_2024_25": 12448.6,
+                        "budget_2026_27": 7329.71,
+                        "capital_2026_27": 6375.92,
+                        "total_2026_27": 13705.63
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 6923.93,
+                        "capital_2024_25": 4025.47,
+                        "total_2024_25": 10949.4,
+                        "budget_2025_26": 7312.57,
+                        "capital_2025_26": 6103.63,
+                        "total_2025_26": 13416.2,
+                        "revised_2024_25": 7138.73,
+                        "capital_revised_2024_25": 5309.87,
+                        "total_revised_2024_25": 12448.6,
+                        "budget_2026_27": 7329.71,
+                        "capital_2026_27": 6375.92,
+                        "total_2026_27": 13705.63
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "NewSpace India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 706.2,
+                        "total_2024_25": 706.2,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1030.0,
+                        "total_2025_26": 1030.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1030.0,
+                        "total_revised_2024_25": 1030.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1403.0,
+                        "total_2026_27": 1403.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-NewSpace India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 706.2,
+                        "total_2024_25": 706.2,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1030.0,
+                        "total_2025_26": 1030.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1030.0,
+                        "total_revised_2024_25": 1030.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1403.0,
+                        "total_2026_27": 1403.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 706.2,
+                        "total_2024_25": 706.2,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1030.0,
+                        "total_2025_26": 1030.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1030.0,
+                        "total_revised_2024_25": 1030.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1403.0,
+                        "total_2026_27": 1403.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "1",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 1.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "onomic Services : Provision is made for expenditure to be incurred on the a",
+            "items": []
+        },
+        {
+            "heading": "- G",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Space Technology:..Under this, provision has been included for the activities of various ISRO",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Indian Space Research Organisation (ISRO) Head Quarters:..ISRO HQ: Under this,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Works & Housing Works at ISRO Centres, various space technology projects undertaken by the Department consisting",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Indian National Space Promotion and Authorization Centre (IN-SPACe):..IN-SPACe: Indian",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "of Launch Vehicle Projects & Satellite Projects including Developmental and Operational Projects, infrastructure to",
+            "items": []
+        },
+        {
+            "heading": "support the projects and IN-SPACe Schemes.",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Space Applications:..Under this, provision has been included for the activities of ISRO",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Sensing Centre, Indian Institute of Remote Sensing, various Space Application Projects and Programmes undertaken",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Space Sciences:..Under this, provision has been included for the expenses of Space Science",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "INSAT Satellite Systems:..INSAT Satellite Systems: Under this, provision has been included",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "8. Indian Institute of Space Science and Technology (IIST):..IIST is an autonomous body",
+            "items": []
+        },
+        {
+            "heading": "9. North Eastern Space Applications Centre (NE-SAC):..NE-SAC set up as an autonomous",
+            "items": []
+        },
+        {
+            "heading": "resources utilization and monitoring, infrastructure developmental planning and interactive training using space",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "National Atmospheric Research Laboratory (NARL):..NARL, a registered Society, is",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "11. Physical Research Laboratory (PRL):..PRL, an autonomous institution funded by the",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "NewSpace India Limited (NSIL):..NSIL is established to tap the benefits of the research &",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "International Co-operation:..Under this, provision has been included for the expenses of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        }
+    ]
+}

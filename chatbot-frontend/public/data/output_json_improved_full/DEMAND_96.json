@@ -1,0 +1,662 @@
+{
+    "demand_no": 96,
+    "ministry": "Ministry Of Statistics And Programme Implementation",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 3989.26,
+                        "capital_2024_25": 30.02,
+                        "total_2024_25": 4019.28,
+                        "budget_2025_26": 5426.19,
+                        "capital_2025_26": 44.87,
+                        "total_2025_26": 5471.06,
+                        "revised_2024_25": 5492.25,
+                        "capital_revised_2024_25": 59.04,
+                        "total_revised_2024_25": 5551.29,
+                        "budget_2026_27": 5457.75,
+                        "capital_2026_27": 45.14,
+                        "total_2026_27": 5502.89
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 38.13,
+                        "capital_2024_25": 0.12,
+                        "total_2024_25": 38.25,
+                        "budget_2025_26": 42.11,
+                        "capital_2025_26": 0.24,
+                        "total_2025_26": 42.35,
+                        "revised_2024_25": 40.35,
+                        "capital_revised_2024_25": 0.11,
+                        "total_revised_2024_25": 40.46,
+                        "budget_2026_27": 42.07,
+                        "capital_2026_27": 0.39,
+                        "total_2026_27": 42.46
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Attached Offices",
+                    "values": {
+                        "actual_2024_25": 69.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 69.57,
+                        "budget_2025_26": 75.49,
+                        "capital_2025_26": null,
+                        "total_2025_26": 75.49,
+                        "revised_2024_25": 74.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 74.84,
+                        "budget_2026_27": 77.63,
+                        "capital_2026_27": null,
+                        "total_2026_27": 77.63
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Central Statisical Organisation",
+                    "values": {
+                        "actual_2024_25": 69.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 69.57,
+                        "budget_2025_26": 75.49,
+                        "capital_2025_26": null,
+                        "total_2025_26": 75.49,
+                        "revised_2024_25": 74.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 74.84,
+                        "budget_2026_27": 77.63,
+                        "capital_2026_27": null,
+                        "total_2026_27": 77.63
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "National Sample Survey Office",
+                    "values": {
+                        "actual_2024_25": 451.99,
+                        "capital_2024_25": 0.3,
+                        "total_2024_25": 452.29,
+                        "budget_2025_26": 486.09,
+                        "capital_2025_26": 0.48,
+                        "total_2025_26": 486.57,
+                        "revised_2024_25": 504.17,
+                        "capital_revised_2024_25": 0.18,
+                        "total_revised_2024_25": 504.35,
+                        "budget_2026_27": 527.94,
+                        "capital_2026_27": 0.61,
+                        "total_2026_27": 528.55
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Attached Offices",
+                    "values": {
+                        "actual_2024_25": 521.56,
+                        "capital_2024_25": 0.3,
+                        "total_2024_25": 521.86,
+                        "budget_2025_26": 561.58,
+                        "capital_2025_26": 0.48,
+                        "total_2025_26": 562.06,
+                        "revised_2024_25": 579.01,
+                        "capital_revised_2024_25": 0.18,
+                        "total_revised_2024_25": 579.19,
+                        "budget_2026_27": 605.57,
+                        "capital_2026_27": 0.61,
+                        "total_2026_27": 606.18
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 559.69,
+                        "capital_2024_25": 0.42,
+                        "total_2024_25": 560.11,
+                        "budget_2025_26": 603.69,
+                        "capital_2025_26": 0.72,
+                        "total_2025_26": 604.41,
+                        "revised_2024_25": 619.36,
+                        "capital_revised_2024_25": 0.29,
+                        "total_revised_2024_25": 619.65,
+                        "budget_2026_27": 647.64,
+                        "capital_2026_27": 1.0,
+                        "total_2026_27": 648.64
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Member of Parliament Local Area Development Scheme",
+                    "values": {
+                        "actual_2024_25": 2601.52,
+                        "capital_2024_25": 0.08,
+                        "total_2024_25": 2601.6,
+                        "budget_2025_26": 3952.0,
+                        "capital_2025_26": 0.25,
+                        "total_2025_26": 3952.25,
+                        "revised_2024_25": 3941.23,
+                        "capital_revised_2024_25": 0.25,
+                        "total_revised_2024_25": 3941.48,
+                        "budget_2026_27": 3952.05,
+                        "capital_2026_27": 0.2,
+                        "total_2026_27": 3952.25
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capacity Development (CD)",
+                    "values": {
+                        "actual_2024_25": 477.58,
+                        "capital_2024_25": 29.52,
+                        "total_2024_25": 507.1,
+                        "budget_2025_26": 506.1,
+                        "capital_2025_26": 43.9,
+                        "total_2025_26": 550.0,
+                        "revised_2024_25": 575.77,
+                        "capital_revised_2024_25": 58.5,
+                        "total_revised_2024_25": 634.27,
+                        "budget_2026_27": 508.07,
+                        "capital_2026_27": 43.93,
+                        "total_2026_27": 552.0
+                    }
+                },
+                {
+                    "code": "4.01",
+                    "name": "Capacity Development CSO and NSSO",
+                    "values": {
+                        "actual_2024_25": 477.58,
+                        "capital_2024_25": 29.52,
+                        "total_2024_25": 507.1,
+                        "budget_2025_26": 506.1,
+                        "capital_2025_26": 43.9,
+                        "total_2025_26": 550.0,
+                        "revised_2024_25": 575.77,
+                        "capital_revised_2024_25": 58.5,
+                        "total_revised_2024_25": 634.27,
+                        "budget_2026_27": 508.07,
+                        "capital_2026_27": 43.93,
+                        "total_2026_27": 552.0
+                    }
+                },
+                {
+                    "code": "4.02",
+                    "name": "Economic Census",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.73,
+                        "budget_2026_27": 2.99,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 3.0
+                    }
+                },
+                {
+                    "code": "4.03",
+                    "name": "Support for Statistical Strengthening",
+                    "values": {
+                        "actual_2024_25": 9.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9.16,
+                        "budget_2025_26": 15.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15.0,
+                        "revised_2024_25": 25.77,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25.77,
+                        "budget_2026_27": 15.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Capacity Development (CD)",
+                    "values": {
+                        "actual_2024_25": 486.74,
+                        "capital_2024_25": 29.52,
+                        "total_2024_25": 516.26,
+                        "budget_2025_26": 521.11,
+                        "capital_2025_26": 43.9,
+                        "total_2025_26": 565.01,
+                        "revised_2024_25": 602.27,
+                        "capital_revised_2024_25": 58.5,
+                        "total_revised_2024_25": 660.77,
+                        "budget_2026_27": 526.06,
+                        "capital_2026_27": 43.94,
+                        "total_2026_27": 570.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 3088.26,
+                        "capital_2024_25": 29.6,
+                        "total_2024_25": 3117.86,
+                        "budget_2025_26": 4473.11,
+                        "capital_2025_26": 44.15,
+                        "total_2025_26": 4517.26,
+                        "revised_2024_25": 4543.5,
+                        "capital_revised_2024_25": 58.75,
+                        "total_revised_2024_25": 4602.25,
+                        "budget_2026_27": 4478.11,
+                        "capital_2026_27": 44.14,
+                        "total_2026_27": 4522.25
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Indian Statistical Institute (ISI)",
+                    "values": {
+                        "actual_2024_25": 342.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": 342.77,
+                        "budget_2025_26": 349.39,
+                        "capital_2025_26": null,
+                        "total_2025_26": 349.39,
+                        "revised_2024_25": 329.39,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 329.39,
+                        "budget_2026_27": 332.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 332.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -1.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1.46,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 341.31,
+                        "capital_2024_25": null,
+                        "total_2024_25": 341.31,
+                        "budget_2025_26": 349.39,
+                        "capital_2025_26": null,
+                        "total_2025_26": 349.39,
+                        "revised_2024_25": 329.39,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 329.39,
+                        "budget_2026_27": 332.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 332.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3989.26,
+                        "capital_2024_25": 30.02,
+                        "total_2024_25": 4019.28,
+                        "budget_2025_26": 5426.19,
+                        "capital_2025_26": 44.87,
+                        "total_2025_26": 5471.06,
+                        "revised_2024_25": 5492.25,
+                        "capital_revised_2024_25": 59.04,
+                        "total_revised_2024_25": 5551.29,
+                        "budget_2026_27": 5457.75,
+                        "capital_2026_27": 45.14,
+                        "total_2026_27": 5502.89
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat-General Services",
+                    "values": {
+                        "actual_2024_25": 6.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6.21,
+                        "budget_2025_26": 6.78,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6.78,
+                        "revised_2024_25": 6.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.56,
+                        "budget_2026_27": 6.82,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.82
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 6.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6.21,
+                        "budget_2025_26": 6.78,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6.78,
+                        "revised_2024_25": 6.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.56,
+                        "budget_2026_27": 6.82,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.82
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "MPs Local Area Development Scheme",
+                    "values": {
+                        "actual_2024_25": 2601.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2601.52,
+                        "budget_2025_26": 3952.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3952.0,
+                        "revised_2024_25": 3941.23,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3941.23,
+                        "budget_2026_27": 3952.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3952.05
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 31.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 31.87,
+                        "budget_2025_26": 35.33,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35.33,
+                        "revised_2024_25": 33.79,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 33.79,
+                        "budget_2026_27": 35.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 35.25
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Census Surveys and Statistics",
+                    "values": {
+                        "actual_2024_25": 1350.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1350.29,
+                        "budget_2025_26": 1413.43,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1413.43,
+                        "revised_2024_25": 1491.89,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1491.89,
+                        "budget_2026_27": 1445.61,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1445.61
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 30.02,
+                        "total_2024_25": 30.02,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 44.87,
+                        "total_2025_26": 44.87,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 59.04,
+                        "total_revised_2024_25": 59.04,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 45.14,
+                        "total_2026_27": 45.14
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 3983.68,
+                        "capital_2024_25": 30.02,
+                        "total_2024_25": 4013.7,
+                        "budget_2025_26": 5400.76,
+                        "capital_2025_26": 44.87,
+                        "total_2025_26": 5445.63,
+                        "revised_2024_25": 5466.91,
+                        "capital_revised_2024_25": 59.04,
+                        "total_revised_2024_25": 5525.95,
+                        "budget_2026_27": 5432.91,
+                        "capital_2026_27": 45.14,
+                        "total_2026_27": 5478.05
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 18.65,
+                        "capital_2025_26": null,
+                        "total_2025_26": 18.65,
+                        "revised_2024_25": 18.78,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 18.78,
+                        "budget_2026_27": 18.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 18.02
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": -0.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.63,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": -0.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.63,
+                        "budget_2025_26": 18.65,
+                        "capital_2025_26": null,
+                        "total_2025_26": 18.65,
+                        "revised_2024_25": 18.78,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 18.78,
+                        "budget_2026_27": 18.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 18.02
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3989.26,
+                        "capital_2024_25": 30.02,
+                        "total_2024_25": 4019.28,
+                        "budget_2025_26": 5426.19,
+                        "capital_2025_26": 44.87,
+                        "total_2025_26": 5471.06,
+                        "revised_2024_25": 5492.25,
+                        "capital_revised_2024_25": 59.04,
+                        "total_revised_2024_25": 5551.29,
+                        "budget_2026_27": 5457.75,
+                        "capital_2026_27": 45.14,
+                        "total_2026_27": 5502.89
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure of the Secretariat.",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Attached Offices:..Ministry is having one attached office namely Central Statistical Office",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure of CSO which is responsible for methodological work including standardization, preparation of National",
+            "items": []
+        },
+        {
+            "heading": "in India. It also provides for meeting salary expenditure of Departmental Canteen of CSO, international contributions",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Member of Parliament Local Area Development Scheme (MPLAD):..The provision is for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capacity Development (CD):..Capacity Development is an Umbrella Scheme which covers",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "the requirement of CSO and NSSO and the other two Sub-Schemes, Economic Census and Support for Statistical",
+            "items": []
+        },
+        {
+            "heading": "5. Indian Statistical Institute (ISI):..Indian Statistical Institute, an autonomous body, is",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF STEEL",
+            "items": []
+        }
+    ]
+}

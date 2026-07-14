@@ -1,0 +1,651 @@
+{
+    "demand_no": 41,
+    "ministry": "Ministry Of Finance",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 92279.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 92279.49,
+                        "budget_2025_26": 90186.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90186.0,
+                        "revised_2024_25": 91906.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 91906.0,
+                        "budget_2026_27": 97500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 97500.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Pensions and other Retirement Benefits",
+                    "values": {
+                        "actual_2024_25": 40720.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": 40720.8,
+                        "budget_2025_26": 41555.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41555.0,
+                        "revised_2024_25": 41910.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 41910.0,
+                        "budget_2026_27": 47096.55,
+                        "capital_2026_27": null,
+                        "total_2026_27": 47096.55
+                    }
+                },
+                {
+                    "code": "1.01",
+                    "name": "Superannuation and Retirement Allowances",
+                    "values": {
+                        "actual_2024_25": 40720.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": 40720.8,
+                        "budget_2025_26": 41555.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41555.0,
+                        "revised_2024_25": 41910.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 41910.0,
+                        "budget_2026_27": 47096.55,
+                        "capital_2026_27": null,
+                        "total_2026_27": 47096.55
+                    }
+                },
+                {
+                    "code": "1.02",
+                    "name": "Commuted Value of Pensions",
+                    "values": {
+                        "actual_2024_25": 4795.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4795.23,
+                        "budget_2025_26": 5330.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5330.0,
+                        "revised_2024_25": 5330.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5330.0,
+                        "budget_2026_27": 5133.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5133.0
+                    }
+                },
+                {
+                    "code": "1.03",
+                    "name": "Gratuities",
+                    "values": {
+                        "actual_2024_25": 7423.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7423.74,
+                        "budget_2025_26": 8230.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8230.0,
+                        "revised_2024_25": 8233.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8233.0,
+                        "budget_2026_27": 8033.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8033.0
+                    }
+                },
+                {
+                    "code": "1.04",
+                    "name": "Family Pension",
+                    "values": {
+                        "actual_2024_25": 12323.1,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12323.1,
+                        "budget_2025_26": 14530.35,
+                        "capital_2025_26": null,
+                        "total_2025_26": 14530.35,
+                        "revised_2024_25": 14530.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14530.35,
+                        "budget_2026_27": 13529.85,
+                        "capital_2026_27": null,
+                        "total_2026_27": 13529.85
+                    }
+                },
+                {
+                    "code": "1.05",
+                    "name": "Leave Encashment",
+                    "values": {
+                        "actual_2024_25": 4326.94,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4326.94,
+                        "budget_2025_26": 5033.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5033.0,
+                        "revised_2024_25": 5033.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5033.0,
+                        "budget_2026_27": 5035.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5035.0
+                    }
+                },
+                {
+                    "code": "1.06",
+                    "name": "Contribution to Provident Funds",
+                    "values": {
+                        "actual_2024_25": 6.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6.29,
+                        "budget_2025_26": 5.55,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.55,
+                        "revised_2024_25": 5.55,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.55,
+                        "budget_2026_27": 5.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.6
+                    }
+                },
+                {
+                    "code": "1.07",
+                    "name": "Miscellaneous Pensionary Payments",
+                    "values": {
+                        "actual_2024_25": 11183.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11183.21,
+                        "budget_2025_26": 17664.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17664.0,
+                        "revised_2024_25": 13876.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 13876.0,
+                        "budget_2026_27": 16036.95,
+                        "capital_2026_27": null,
+                        "total_2026_27": 16036.95
+                    }
+                },
+                {
+                    "code": "1.08",
+                    "name": "Others",
+                    "values": {
+                        "actual_2024_25": 0.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.56,
+                        "budget_2025_26": 0.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.5,
+                        "revised_2024_25": 0.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.5,
+                        "budget_2026_27": 0.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.5
+                    }
+                },
+                {
+                    "code": "1.09",
+                    "name": "Amount Transferred to Reserve Fund 'Unified",
+                    "values": {
+                        "actual_2024_25": 7000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7000.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "1.10",
+                    "name": "Amount met from Reserve Fund 'Unified",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -7000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -7000.0,
+                        "revised_2024_25": -1850.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1850.0,
+                        "budget_2026_27": -3000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -3000.0
+                    }
+                },
+                {
+                    "code": "1.11",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -1081.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1081.28,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 86698.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 86698.59,
+                        "budget_2025_26": 85348.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 85348.4,
+                        "revised_2024_25": 87068.4,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 87068.4,
+                        "budget_2026_27": 91870.45,
+                        "capital_2026_27": null,
+                        "total_2026_27": 91870.45
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Pensionary charges of Government of National Capital Territory (NCT) of",
+                    "values": {
+                        "actual_2024_25": 5551.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5551.83,
+                        "budget_2025_26": 5801.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5801.5,
+                        "revised_2024_25": 5801.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5801.5,
+                        "budget_2026_27": 6601.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6601.5
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Pensionary Charges payable to employees of",
+                    "values": {
+                        "actual_2024_25": 5551.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5551.83,
+                        "budget_2025_26": 5801.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5801.5,
+                        "revised_2024_25": 5801.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5801.5,
+                        "budget_2026_27": 6601.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6601.5
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Less amount receivable from Government of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -1000.0,
+                        "revised_2024_25": -1000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1000.0,
+                        "budget_2026_27": -1000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -1000.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 5551.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5551.83,
+                        "budget_2025_26": 4801.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4801.5,
+                        "revised_2024_25": 4801.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4801.5,
+                        "budget_2026_27": 5601.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5601.5
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "3. Social Security and Welfare",
+            "items": [
+                {
+                    "code": "3.01",
+                    "name": "Deposit Linked Insurance Scheme",
+                    "values": {
+                        "actual_2024_25": 26.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": 26.22,
+                        "budget_2025_26": 32.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 32.1,
+                        "revised_2024_25": 32.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 32.1,
+                        "budget_2026_27": 25.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 25.05
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Central Government Employees Insurance",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.0,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 0.1,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.1
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "3.03",
+                    "name": "Others",
+                    "values": {
+                        "actual_2024_25": 2.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.36,
+                        "budget_2025_26": 1.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.7,
+                        "revised_2024_25": 1.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.7,
+                        "budget_2026_27": 1.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.7
+                    }
+                },
+                {
+                    "code": "3.04",
+                    "name": "Deposit Linked Insurance Scheme Payable to",
+                    "values": {
+                        "actual_2024_25": 0.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.87,
+                        "budget_2025_26": 1.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.3,
+                        "revised_2024_25": 1.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.3,
+                        "budget_2026_27": 1.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.2
+                    }
+                },
+                {
+                    "code": "3.05",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -0.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.38,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 29.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.07,
+                        "budget_2025_26": 36.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 36.1,
+                        "revised_2024_25": 36.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 36.1,
+                        "budget_2026_27": 28.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 28.05
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 92279.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 92279.49,
+                        "budget_2025_26": 90186.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90186.0,
+                        "revised_2024_25": 91906.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 91906.0,
+                        "budget_2026_27": 97500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 97500.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 92279.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 92279.49,
+                        "budget_2025_26": 90186.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90186.0,
+                        "revised_2024_25": 91906.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 91906.0,
+                        "budget_2026_27": 97500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 97500.0
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Pensions and other Retirement Benefits",
+                    "values": {
+                        "actual_2024_25": 92250.42,
+                        "capital_2024_25": null,
+                        "total_2024_25": 92250.42,
+                        "budget_2025_26": 90149.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90149.9,
+                        "revised_2024_25": 91869.9,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 91869.9,
+                        "budget_2026_27": 97471.95,
+                        "capital_2026_27": null,
+                        "total_2026_27": 97471.95
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 92250.42,
+                        "capital_2024_25": null,
+                        "total_2024_25": 92250.42,
+                        "budget_2025_26": 90149.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90149.9,
+                        "revised_2024_25": 91869.9,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 91869.9,
+                        "budget_2026_27": 97471.95,
+                        "capital_2026_27": null,
+                        "total_2026_27": 97471.95
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Social Security and Welfare",
+                    "values": {
+                        "actual_2024_25": 29.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.07,
+                        "budget_2025_26": 36.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 36.1,
+                        "revised_2024_25": 36.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 36.1,
+                        "budget_2026_27": 28.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 28.05
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 29.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.07,
+                        "budget_2025_26": 36.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 36.1,
+                        "revised_2024_25": 36.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 36.1,
+                        "budget_2026_27": 28.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 28.05
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 92279.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 92279.49,
+                        "budget_2025_26": 90186.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90186.0,
+                        "revised_2024_25": 91906.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 91906.0,
+                        "budget_2026_27": 97500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 97500.0
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "1",
+                    "name": "Pensions and other Retirement Benefits:..This Demand includes provision for payment of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Pensionary charges of Government of National Capital Territory (NCT) of Delhi:..The",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "3. Social Security and Welfare:..It includes provision for contribution to the Contributory and",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF FINANCE",
+            "items": []
+        }
+    ]
+}

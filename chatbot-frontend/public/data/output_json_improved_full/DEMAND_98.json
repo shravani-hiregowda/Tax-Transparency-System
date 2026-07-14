@@ -1,0 +1,1584 @@
+{
+    "demand_no": 98,
+    "ministry": "Ministry Of Textiles",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2895.37,
+                        "capital_2024_25": 42.42,
+                        "total_2024_25": 2937.79,
+                        "budget_2025_26": 5252.89,
+                        "capital_2025_26": 19.11,
+                        "total_2025_26": 5272.0,
+                        "revised_2024_25": 5748.14,
+                        "capital_revised_2024_25": 18.54,
+                        "total_revised_2024_25": 5766.68,
+                        "budget_2026_27": 5269.52,
+                        "capital_2026_27": 9.49,
+                        "total_2026_27": 5279.01
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 51.62,
+                        "capital_2024_25": 2.27,
+                        "total_2024_25": 53.89,
+                        "budget_2025_26": 54.3,
+                        "capital_2025_26": 2.7,
+                        "total_2025_26": 57.0,
+                        "revised_2024_25": 52.75,
+                        "capital_revised_2024_25": 3.2,
+                        "total_revised_2024_25": 55.95,
+                        "budget_2026_27": 55.77,
+                        "capital_2026_27": 2.61,
+                        "total_2026_27": 58.38
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 51.61,
+                        "capital_2024_25": 2.27,
+                        "total_2024_25": 53.88,
+                        "budget_2025_26": 54.3,
+                        "capital_2025_26": 2.7,
+                        "total_2025_26": 57.0,
+                        "revised_2024_25": 52.75,
+                        "capital_revised_2024_25": 3.2,
+                        "total_revised_2024_25": 55.95,
+                        "budget_2026_27": 55.77,
+                        "capital_2026_27": 2.61,
+                        "total_2026_27": 58.38
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Textile Commissioner",
+                    "values": {
+                        "actual_2024_25": 53.94,
+                        "capital_2024_25": 0.52,
+                        "total_2024_25": 54.46,
+                        "budget_2025_26": 51.52,
+                        "capital_2025_26": 0.48,
+                        "total_2025_26": 52.0,
+                        "revised_2024_25": 53.02,
+                        "capital_revised_2024_25": 0.22,
+                        "total_revised_2024_25": 53.24,
+                        "budget_2026_27": 53.84,
+                        "capital_2026_27": 0.43,
+                        "total_2026_27": 54.27
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Jute Commissioner",
+                    "values": {
+                        "actual_2024_25": 15.62,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 15.63,
+                        "budget_2025_26": 15.57,
+                        "capital_2025_26": 0.43,
+                        "total_2025_26": 16.0,
+                        "revised_2024_25": 17.0,
+                        "capital_revised_2024_25": 0.43,
+                        "total_revised_2024_25": 17.43,
+                        "budget_2026_27": 19.43,
+                        "capital_2026_27": 0.41,
+                        "total_2026_27": 19.84
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Development Commissioner (Handloom)",
+                    "values": {
+                        "actual_2024_25": 102.36,
+                        "capital_2024_25": 14.18,
+                        "total_2024_25": 116.54,
+                        "budget_2025_26": 100.5,
+                        "capital_2025_26": 14.5,
+                        "total_2025_26": 115.0,
+                        "revised_2024_25": 111.55,
+                        "capital_revised_2024_25": 13.0,
+                        "total_revised_2024_25": 124.55,
+                        "budget_2026_27": 121.71,
+                        "capital_2026_27": 4.44,
+                        "total_2026_27": 126.15
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Development Commissioner (Handicraft)",
+                    "values": {
+                        "actual_2024_25": 90.69,
+                        "capital_2024_25": 0.94,
+                        "total_2024_25": 91.63,
+                        "budget_2025_26": 103.0,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 104.0,
+                        "revised_2024_25": 103.25,
+                        "capital_revised_2024_25": 1.69,
+                        "total_revised_2024_25": 104.94,
+                        "budget_2026_27": 108.9,
+                        "capital_2026_27": 1.6,
+                        "total_2026_27": 110.5
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Export Promotion Studies & Activities",
+                    "values": {
+                        "actual_2024_25": 39.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 39.55,
+                        "budget_2025_26": 48.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 48.6,
+                        "revised_2024_25": 30.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.8,
+                        "budget_2026_27": 31.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 31.07
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "COP and COP Jute",
+                    "values": {
+                        "actual_2024_25": 0.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.13,
+                        "budget_2025_26": 0.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.2,
+                        "revised_2024_25": 0.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.2,
+                        "budget_2026_27": 0.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.2
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 353.9,
+                        "capital_2024_25": 17.92,
+                        "total_2024_25": 371.82,
+                        "budget_2025_26": 373.69,
+                        "capital_2025_26": 19.11,
+                        "total_2025_26": 392.8,
+                        "revised_2024_25": 368.57,
+                        "capital_revised_2024_25": 18.54,
+                        "total_revised_2024_25": 387.11,
+                        "budget_2026_27": 390.92,
+                        "capital_2026_27": 9.49,
+                        "total_2026_27": 400.41
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Amended Technology Upgradation Fund",
+                    "values": {
+                        "actual_2024_25": 414.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 414.75,
+                        "budget_2025_26": 635.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 635.0,
+                        "revised_2024_25": 449.99,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 449.99,
+                        "budget_2026_27": 0.03,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.03
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Procurement of Cotton by Cotton Corporation under Price",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 1718.57,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1718.57,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "National Handloom Development Programme",
+                    "values": {
+                        "actual_2024_25": 193.1,
+                        "capital_2024_25": null,
+                        "total_2024_25": 193.1,
+                        "budget_2025_26": 200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": 234.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 234.84,
+                        "budget_2026_27": 205.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 205.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "National Handicrafts Development Programme (NHDP)",
+                    "values": {
+                        "actual_2024_25": 159.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 159.68,
+                        "budget_2025_26": 200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": 225.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 225.0,
+                        "budget_2026_27": 205.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 205.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Handicraft Cluster Development Program - Handicraft",
+                    "values": {
+                        "actual_2024_25": 24.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.24,
+                        "budget_2025_26": 60.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 60.0,
+                        "revised_2024_25": 40.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-National Handicraft Development Programme",
+                    "values": {
+                        "actual_2024_25": 183.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 183.92,
+                        "budget_2025_26": 260.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 260.0,
+                        "revised_2024_25": 265.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 265.0,
+                        "budget_2026_27": 205.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 205.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "Integrated Wool Development Programme",
+                    "values": {
+                        "actual_2024_25": 12.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12.98,
+                        "budget_2025_26": 18.28,
+                        "capital_2025_26": null,
+                        "total_2025_26": 18.28,
+                        "revised_2024_25": 25.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25.8,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Central Silk Board",
+                    "values": {
+                        "actual_2024_25": 945.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 945.56,
+                        "budget_2025_26": 956.84,
+                        "capital_2025_26": null,
+                        "total_2025_26": 956.84,
+                        "revised_2024_25": 854.34,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 854.34,
+                        "budget_2026_27": 960.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 960.0
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Scheme for Development of Jute Sector",
+                    "values": {
+                        "actual_2024_25": 60.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 60.0,
+                        "budget_2025_26": 90.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90.0,
+                        "revised_2024_25": 75.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 75.0,
+                        "budget_2026_27": 95.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 95.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Subsidy to Jute Corporation of India towards market",
+                    "values": {
+                        "actual_2024_25": 31.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 31.13,
+                        "budget_2025_26": 38.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 38.0,
+                        "revised_2024_25": 32.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 32.1,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Development of Jute Industries",
+                    "values": {
+                        "actual_2024_25": 91.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 91.13,
+                        "budget_2025_26": 128.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 128.0,
+                        "revised_2024_25": 107.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 107.1,
+                        "budget_2026_27": 135.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 135.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "17",
+                    "name": "Integrated Processing Development Scheme",
+                    "values": {
+                        "actual_2024_25": 14.3,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14.3,
+                        "budget_2025_26": 15.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 16.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 16.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Production Linked Incentive (PLI) Scheme for Textiles",
+                    "values": {
+                        "actual_2024_25": 44.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 44.53,
+                        "budget_2025_26": 1148.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1148.0,
+                        "revised_2024_25": 400.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 400.0,
+                        "budget_2026_27": 405.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 405.0
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Integrated Scheme for Skill Development",
+                    "values": {
+                        "actual_2024_25": 258.94,
+                        "capital_2024_25": null,
+                        "total_2024_25": 258.94,
+                        "budget_2025_26": 330.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 330.0,
+                        "revised_2024_25": 260.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 260.0,
+                        "budget_2026_27": 299.96,
+                        "capital_2026_27": null,
+                        "total_2026_27": 299.96
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "R and D Textiles",
+                    "values": {
+                        "actual_2024_25": 3.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.22,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "National Technical Textiles Mission.",
+                    "values": {
+                        "actual_2024_25": 74.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 74.2,
+                        "budget_2025_26": 370.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 370.0,
+                        "revised_2024_25": 300.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 300.0,
+                        "budget_2026_27": 256.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 256.0
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Textile Cluster Development Scheme",
+                    "values": {
+                        "actual_2024_25": 30.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 30.82,
+                        "budget_2025_26": 100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": 50.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Research and Capacity Building",
+                    "values": {
+                        "actual_2024_25": 411.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": 411.71,
+                        "budget_2025_26": 1948.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1948.0,
+                        "revised_2024_25": 1010.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1010.01,
+                        "budget_2026_27": 1060.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1060.97
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "23",
+                    "name": "PM - MITRA",
+                    "values": {
+                        "actual_2024_25": 0.01,
+                        "capital_2024_25": 24.5,
+                        "total_2024_25": 24.51,
+                        "budget_2025_26": 300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 300.0,
+                        "revised_2024_25": 200.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": 300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 300.0
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Scheme for Protection of the Handlooms and",
+                    "values": {
+                        "actual_2024_25": 6.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6.73,
+                        "budget_2025_26": 7.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7.0,
+                        "revised_2024_25": 7.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7.0,
+                        "budget_2026_27": 7.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7.0
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "Raw Material Supply Scheme",
+                    "values": {
+                        "actual_2024_25": 172.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 172.16,
+                        "budget_2025_26": 190.99,
+                        "capital_2025_26": null,
+                        "total_2025_26": 190.99,
+                        "revised_2024_25": 193.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 193.0,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "26",
+                    "name": "Textiles Focused Research, Assessment, Monitoring and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 25.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25.0,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": "27",
+                    "name": "Integrated Textile Program",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 1500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1500.0
+                    }
+                },
+                {
+                    "code": "28",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -60.67,
+                        "capital_2024_25": null,
+                        "total_2024_25": -60.67,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 2385.68,
+                        "capital_2024_25": 24.5,
+                        "total_2024_25": 2410.18,
+                        "budget_2025_26": 4659.12,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4659.12,
+                        "revised_2024_25": 5100.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5100.65,
+                        "budget_2026_27": 4659.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4659.01
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "29",
+                    "name": "National Institute of Fashion Technology",
+                    "values": {
+                        "actual_2024_25": 62.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 62.96,
+                        "budget_2025_26": 150.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": 122.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 122.0,
+                        "budget_2026_27": 125.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 125.0
+                    }
+                },
+                {
+                    "code": "30",
+                    "name": "Assistant to Textiles Committee",
+                    "values": {
+                        "actual_2024_25": 51.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": 51.37,
+                        "budget_2025_26": 42.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 42.07,
+                        "revised_2024_25": 40.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40.0,
+                        "budget_2026_27": 56.88,
+                        "capital_2026_27": null,
+                        "total_2026_27": 56.88
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Statutory and Regulatory Bodies",
+                    "values": {
+                        "actual_2024_25": 114.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": 114.33,
+                        "budget_2025_26": 192.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 192.07,
+                        "revised_2024_25": 162.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 162.0,
+                        "budget_2026_27": 181.88,
+                        "capital_2026_27": null,
+                        "total_2026_27": 181.88
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "31",
+                    "name": "Textiles Research Association & IJIRA",
+                    "values": {
+                        "actual_2024_25": 17.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 17.0,
+                        "budget_2025_26": 17.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17.0,
+                        "revised_2024_25": 17.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17.0,
+                        "budget_2026_27": 25.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 25.0
+                    }
+                },
+                {
+                    "code": "32",
+                    "name": "Indian Institute of Carpet Technology (IICT)",
+                    "values": {
+                        "actual_2024_25": 6.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6.8,
+                        "budget_2025_26": 9.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9.0,
+                        "revised_2024_25": 9.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9.0,
+                        "budget_2026_27": 9.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 9.0
+                    }
+                },
+                {
+                    "code": "33",
+                    "name": "Assistance to Sardar Vallbhabhai Patel Institute of",
+                    "values": {
+                        "actual_2024_25": 0.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.5,
+                        "budget_2025_26": 0.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.5,
+                        "revised_2024_25": 2.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.5,
+                        "budget_2026_27": 2.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 24.3,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.3,
+                        "budget_2025_26": 26.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 26.5,
+                        "revised_2024_25": 28.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 28.5,
+                        "budget_2026_27": 36.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 36.5
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "34",
+                    "name": "Support to PSU's",
+                    "values": {
+                        "actual_2024_25": 16.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16.0,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 87.42,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 87.42,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "35",
+                    "name": "Contributions to International Institute of Cotton and",
+                    "values": {
+                        "actual_2024_25": 1.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.16,
+                        "budget_2025_26": 1.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.5,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 1.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.2
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 155.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": 155.79,
+                        "budget_2025_26": 220.08,
+                        "capital_2025_26": null,
+                        "total_2025_26": 220.08,
+                        "revised_2024_25": 278.92,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 278.92,
+                        "budget_2026_27": 219.59,
+                        "capital_2026_27": null,
+                        "total_2026_27": 219.59
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2895.37,
+                        "capital_2024_25": 42.42,
+                        "total_2024_25": 2937.79,
+                        "budget_2025_26": 5252.89,
+                        "capital_2025_26": 19.11,
+                        "total_2025_26": 5272.0,
+                        "revised_2024_25": 5748.14,
+                        "capital_revised_2024_25": 18.54,
+                        "total_revised_2024_25": 5766.68,
+                        "budget_2026_27": 5269.52,
+                        "capital_2026_27": 9.49,
+                        "total_2026_27": 5279.01
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Village and Small Industries",
+                    "values": {
+                        "actual_2024_25": 1701.41,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1701.41,
+                        "budget_2025_26": 1722.72,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1722.72,
+                        "revised_2024_25": 1684.94,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1684.94,
+                        "budget_2026_27": 1698.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1698.72
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": 1142.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1142.35,
+                        "budget_2025_26": 3350.98,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3350.98,
+                        "revised_2024_25": 3883.61,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3883.61,
+                        "budget_2026_27": 3369.14,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3369.14
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 51.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 51.61,
+                        "budget_2025_26": 54.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 54.3,
+                        "revised_2024_25": 52.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 52.75,
+                        "budget_2026_27": 55.77,
+                        "capital_2026_27": null,
+                        "total_2026_27": 55.77
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Village and Small Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 39.62,
+                        "total_2024_25": 39.62,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 15.5,
+                        "total_2025_26": 15.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 14.69,
+                        "total_revised_2024_25": 14.69,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 6.04,
+                        "total_2026_27": 6.04
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.8,
+                        "total_2024_25": 2.8,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.61,
+                        "total_2025_26": 3.61,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.85,
+                        "total_revised_2024_25": 3.85,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3.45,
+                        "total_2026_27": 3.45
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 2895.37,
+                        "capital_2024_25": 42.42,
+                        "total_2024_25": 2937.79,
+                        "budget_2025_26": 5128.0,
+                        "capital_2025_26": 19.11,
+                        "total_2025_26": 5147.11,
+                        "revised_2024_25": 5621.3,
+                        "capital_revised_2024_25": 18.54,
+                        "total_revised_2024_25": 5639.84,
+                        "budget_2026_27": 5123.63,
+                        "capital_2026_27": 9.49,
+                        "total_2026_27": 5133.12
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 124.89,
+                        "capital_2025_26": null,
+                        "total_2025_26": 124.89,
+                        "revised_2024_25": 126.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 126.84,
+                        "budget_2026_27": 145.89,
+                        "capital_2026_27": null,
+                        "total_2026_27": 145.89
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 124.89,
+                        "capital_2025_26": null,
+                        "total_2025_26": 124.89,
+                        "revised_2024_25": 126.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 126.84,
+                        "budget_2026_27": 145.89,
+                        "capital_2026_27": null,
+                        "total_2026_27": 145.89
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2895.37,
+                        "capital_2024_25": 42.42,
+                        "total_2024_25": 2937.79,
+                        "budget_2025_26": 5252.89,
+                        "capital_2025_26": 19.11,
+                        "total_2025_26": 5272.0,
+                        "revised_2024_25": 5748.14,
+                        "capital_revised_2024_25": 18.54,
+                        "total_revised_2024_25": 5766.68,
+                        "budget_2026_27": 5269.52,
+                        "capital_2026_27": 9.49,
+                        "total_2026_27": 5279.01
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "National Handloom Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 65.39,
+                        "total_2024_25": 65.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 73.0,
+                        "total_revised_2024_25": 73.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 80.0,
+                        "total_2026_27": 80.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 65.39,
+                        "total_2024_25": 65.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 73.0,
+                        "total_revised_2024_25": 73.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 80.0,
+                        "total_2026_27": 80.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..Provides for establishment related expenditure of secretariat of the Ministry.",
+            "items": []
+        },
+        {
+            "heading": "2. Textile Commissioner:..The provision is for establishment related expenditure of Textile",
+            "items": []
+        },
+        {
+            "heading": "3. Jute Commissioner:..The provision is for establishment related expenditure of Jute",
+            "items": []
+        },
+        {
+            "heading": "4. Development Commissioner (Handloom):..The expenditure relates to establishment 16. Subsidy to Jute Corporation of India towards market operation:..To support JCI to conduct",
+            "items": []
+        },
+        {
+            "heading": "expenses of Office of the Development Commissioner (Handloom). It implements various schemes for the promotion Minimum Support Price (MSP) operations.",
+            "items": [
+                {
+                    "code": "17",
+                    "name": "Integrated Processing Development Scheme:..To facilitate the textile industry to become",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "5. Development Commissioner (Handicraft):..The expenditure relates to establishment globally competitive using environmentally friendly processing standards and technology.",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 1.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 8.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "6. Export Promotion Studies & Activities:..The provision is for establishment expenditure. Its",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "Integrated Scheme for Skill Development:..The scheme focuses on capacity building,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "R and D Textiles:..To encourage research in the textiles and provide financial support to",
+                    "values": {
+                        "actual_2024_25": 7.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 7.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "National Technical Textiles Mission.:..The scheme aims to conduct fundamental and applied",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Amended Technology Upgradation Fund Scheme(ATUFS):..The Scheme provides for one",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Textile Cluster Development Scheme:..The scheme aims at enhancing productivity,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Procurement of Cotton by Cotton Corporation under Price Support Scheme:..The Cotton c",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "National Handloom Development Programme:..Provision is for implementation of National",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Scheme for Protection of the Handlooms and Implementation of the Handlooms",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Handloom Development Programme, Handloom Weavers Comprehensive Welfare Scheme, Yarn Supply Scheme,",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "National Handicrafts Development Programme (NHDP):..Provision is for development of handlooms.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "Raw Material Supply Scheme:..Raw Material Supply Scheme is to provide all types of yarn to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Handicraft Cluster Development Program - Handicraft Mega Cluster:..The scheme handloom weavers through National Handloom Development Programme(NHDP).",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "26",
+                    "name": "Textiles Focused Research, Assessment, Monitoring and Promotion Scheme (Tex-",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Integrated Wool Development Programme:..The provision is for activities such as support to India's textile and apparel sector.",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Central Silk Board:..The Central Silk Board assists in the development, production and 29. National Institute of Fashion Technology:..This is the premier fashion education institution in",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "30",
+                    "name": "Assistant to Textiles Committee:..This is a statutory organisation under the Ministry of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "31",
+                    "name": "Textiles Research Association & IJIRA:..Administrative Expenses of Jute Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Research Association, to provide Grants-in-aid towards recurring expenditure of Textiles Research Associations",
+            "items": [
+                {
+                    "code": "32",
+                    "name": "Indian Institute of Carpet Technology (IICT):..To promote Carpet Technology and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "33",
+                    "name": "Assistance to Sardar Vallbhabhai Patel Institute of Textiles Management:..The provision is",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "34",
+                    "name": "Support to PSU's:..For closure of business operations and grant of VRS to the employees of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF TOURISM",
+            "items": []
+        }
+    ]
+}

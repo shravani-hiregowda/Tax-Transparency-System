@@ -1,0 +1,536 @@
+{
+    "demand_no": 90,
+    "ministry": "Ministry Of Science And Technology",
+    "department": "Department Of Biotechnology",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 1971.66,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1971.66,
+                        "budget_2025_26": 3446.64,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3446.64,
+                        "revised_2024_25": 2830.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2830.45,
+                        "budget_2026_27": 3446.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3446.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 41.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 41.92,
+                        "budget_2025_26": 55.48,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.48,
+                        "revised_2024_25": 48.77,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 48.77,
+                        "budget_2026_27": 50.87,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.87
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Biotechnology Research and Development",
+                    "values": {
+                        "actual_2024_25": 632.19,
+                        "capital_2024_25": null,
+                        "total_2024_25": 632.19,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Biotechnology Research Innovation and",
+                    "values": {
+                        "actual_2024_25": 279.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 279.62,
+                        "budget_2025_26": 2300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2300.0,
+                        "revised_2024_25": 1717.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1717.0,
+                        "budget_2026_27": 2300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2300.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -26.34,
+                        "capital_2024_25": null,
+                        "total_2024_25": -26.34,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 253.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": 253.28,
+                        "budget_2025_26": 2300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2300.0,
+                        "revised_2024_25": 1717.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1717.0,
+                        "budget_2026_27": 2300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2300.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 885.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 885.47,
+                        "budget_2025_26": 2300.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2300.0,
+                        "revised_2024_25": 1717.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1717.0,
+                        "budget_2026_27": 2300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2300.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Assistance to Autonomous Institutions",
+                    "values": {
+                        "actual_2024_25": 954.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": 954.28,
+                        "budget_2025_26": 994.16,
+                        "capital_2025_26": null,
+                        "total_2025_26": 994.16,
+                        "revised_2024_25": 976.68,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 976.68,
+                        "budget_2026_27": 1002.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1002.13
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Biotechnology Industry Research Assistance Council",
+                    "values": {
+                        "actual_2024_25": 40.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 40.0,
+                        "budget_2025_26": 42.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 42.0,
+                        "revised_2024_25": 38.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 38.0,
+                        "budget_2026_27": 38.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 38.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "International Centre for Genetic Engineering and",
+                    "values": {
+                        "actual_2024_25": 49.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 49.99,
+                        "budget_2025_26": 55.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.0,
+                        "revised_2024_25": 50.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": 55.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 55.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 1044.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1044.27,
+                        "budget_2025_26": 1091.16,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1091.16,
+                        "revised_2024_25": 1064.68,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1064.68,
+                        "budget_2026_27": 1095.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1095.13
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 1971.66,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1971.66,
+                        "budget_2025_26": 3446.64,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3446.64,
+                        "revised_2024_25": 2830.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2830.45,
+                        "budget_2026_27": 3446.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3446.0
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Other Scientific Research",
+                    "values": {
+                        "actual_2024_25": 1929.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1929.74,
+                        "budget_2025_26": 3161.16,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3161.16,
+                        "revised_2024_25": 2609.98,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2609.98,
+                        "budget_2026_27": 3165.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3165.13
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 41.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 41.92,
+                        "budget_2025_26": 55.48,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.48,
+                        "revised_2024_25": 48.77,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 48.77,
+                        "budget_2026_27": 50.87,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.87
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 1971.66,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1971.66,
+                        "budget_2025_26": 3216.64,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3216.64,
+                        "revised_2024_25": 2658.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2658.75,
+                        "budget_2026_27": 3216.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3216.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 230.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 230.0,
+                        "revised_2024_25": 171.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 171.7,
+                        "budget_2026_27": 230.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 230.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 230.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 230.0,
+                        "revised_2024_25": 171.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 171.7,
+                        "budget_2026_27": 230.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 230.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 1971.66,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1971.66,
+                        "budget_2025_26": 3446.64,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3446.64,
+                        "revised_2024_25": 2830.45,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2830.45,
+                        "budget_2026_27": 3446.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3446.0
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Biotechnology Industry Research",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 30.76,
+                        "total_2024_25": 30.76,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 16.0,
+                        "total_2025_26": 16.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 32.5,
+                        "total_revised_2024_25": 32.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20.5,
+                        "total_2026_27": 20.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Biotechnology Industry Research Assistance Council",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 30.76,
+                        "total_2024_25": 30.76,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 16.0,
+                        "total_2025_26": 16.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 32.5,
+                        "total_revised_2024_25": 32.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20.5,
+                        "total_2026_27": 20.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 30.76,
+                        "total_2024_25": 30.76,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 16.0,
+                        "total_2025_26": 16.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 32.5,
+                        "total_revised_2024_25": 32.5,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20.5,
+                        "total_2026_27": 20.5
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for expenditure of the Secretariat of the Department of",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Biotechnology Research and Development:..Biotechnology Research and Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Biotechnology Industry Research Assistance Council (BIRAC):..Provision is for not-for-",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Inter-Institutional Centres, Research and Development including Research and Development projects under",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "International Centre for Genetic Engineering and Biotechnology (ICGEB):..The ICGEB,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Biotechnology Research Innovation and Entrepreneurship Development (Bio- New Delhi is an intergovernmental organisation established as a special project of UNIDO. ICGEB is not an",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "autonomous organisation but receives funding from the Department of Biotechnology, and its accounts are not tabled",
+            "items": []
+        },
+        {
+            "heading": "existing two schemes Biotechnology Research & Development(R&D) and Industrial & Entrepreneurship",
+            "items": []
+        },
+        {
+            "heading": "4. Assistance to Autonomous Institutions:..Under the administrative control of the Department,",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+            "items": []
+        }
+    ]
+}

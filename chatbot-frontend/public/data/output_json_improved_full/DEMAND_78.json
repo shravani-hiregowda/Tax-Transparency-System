@@ -1,0 +1,1478 @@
+{
+    "demand_no": 78,
+    "ministry": "Ministry Of Ports",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 1498.17,
+                        "capital_2024_25": 1339.41,
+                        "total_2024_25": 2837.58,
+                        "budget_2025_26": 1709.23,
+                        "capital_2025_26": 1761.35,
+                        "total_2025_26": 3470.58,
+                        "revised_2024_25": 1700.13,
+                        "capital_revised_2024_25": 1198.98,
+                        "total_revised_2024_25": 2899.11,
+                        "budget_2026_27": 3964.88,
+                        "capital_2026_27": 1199.92,
+                        "total_2026_27": 5164.8
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 68.73,
+                        "capital_2024_25": 4.05,
+                        "total_2024_25": 72.78,
+                        "budget_2025_26": 77.39,
+                        "capital_2025_26": 2.54,
+                        "total_2025_26": 79.93,
+                        "revised_2024_25": 73.37,
+                        "capital_revised_2024_25": 3.34,
+                        "total_revised_2024_25": 76.71,
+                        "budget_2026_27": 73.27,
+                        "capital_2026_27": 1.97,
+                        "total_2026_27": 75.24
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Actual Recoveries(Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.02,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 68.71,
+                        "capital_2024_25": 4.05,
+                        "total_2024_25": 72.76,
+                        "budget_2025_26": 77.39,
+                        "capital_2025_26": 2.54,
+                        "total_2025_26": 79.93,
+                        "revised_2024_25": 73.37,
+                        "capital_revised_2024_25": 3.34,
+                        "total_revised_2024_25": 76.71,
+                        "budget_2026_27": 73.27,
+                        "capital_2026_27": 1.97,
+                        "total_2026_27": 75.24
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Research and Development (Ports)",
+                    "values": {
+                        "actual_2024_25": 1.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.87,
+                        "budget_2025_26": 0.71,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.71,
+                        "revised_2024_25": 0.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.5,
+                        "budget_2026_27": 0.71,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.71
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Sagarmala Schemes and Projects",
+                    "values": {
+                        "actual_2024_25": 634.47,
+                        "capital_2024_25": 23.82,
+                        "total_2024_25": 658.29,
+                        "budget_2025_26": 810.0,
+                        "capital_2025_26": 56.0,
+                        "total_2025_26": 866.0,
+                        "revised_2024_25": 660.23,
+                        "capital_revised_2024_25": 38.77,
+                        "total_revised_2024_25": 699.0,
+                        "budget_2026_27": 576.88,
+                        "capital_2026_27": 40.0,
+                        "total_2026_27": 616.88
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Assistance to Ship Building, Research and Development",
+                    "values": {
+                        "actual_2024_25": 149.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": 149.25,
+                        "budget_2025_26": 365.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 365.0,
+                        "revised_2024_25": 195.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 195.0,
+                        "budget_2026_27": 340.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 340.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Shipbuilding Financial Assistance Scheme (SBFAS) and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 515.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 515.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Scheme for Capacity & Capability development and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 250.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Maritime Development Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 1000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1000.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Grants to IWAI",
+                    "values": {
+                        "actual_2024_25": 3.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.71,
+                        "budget_2025_26": 15.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15.0,
+                        "revised_2024_25": 7.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7.0,
+                        "budget_2026_27": 265.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 265.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Cargo Promotion Scheme - JALVAHAK",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 13.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 13.0,
+                        "budget_2026_27": 30.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -35.31,
+                        "capital_2024_25": null,
+                        "total_2024_25": -35.31,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 753.99,
+                        "capital_2024_25": 23.82,
+                        "total_2024_25": 777.81,
+                        "budget_2025_26": 1190.71,
+                        "capital_2025_26": 56.0,
+                        "total_2025_26": 1246.71,
+                        "revised_2024_25": 875.73,
+                        "capital_revised_2024_25": 38.77,
+                        "total_revised_2024_25": 914.5,
+                        "budget_2026_27": 2977.59,
+                        "capital_2026_27": 40.0,
+                        "total_2026_27": 3017.59
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Tariff Authority for Major Ports",
+                    "values": {
+                        "actual_2024_25": 9.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9.5,
+                        "budget_2025_26": 11.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11.0,
+                        "revised_2024_25": 10.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.75,
+                        "budget_2026_27": 11.15,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11.15
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Indian Maritime University",
+                    "values": {
+                        "actual_2024_25": 99.54,
+                        "capital_2024_25": null,
+                        "total_2024_25": 99.54,
+                        "budget_2025_26": 100.62,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.62,
+                        "revised_2024_25": 88.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 88.62,
+                        "budget_2026_27": 68.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 68.13
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Syama Prasad Mookerjee Port, Kolkata",
+                    "values": {
+                        "actual_2024_25": 145.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 145.0,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 50.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": 150.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 150.0
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Development of Minor Ports",
+                    "values": {
+                        "actual_2024_25": 62.94,
+                        "capital_2024_25": null,
+                        "total_2024_25": 62.94,
+                        "budget_2025_26": 80.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": 62.94,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 62.94,
+                        "budget_2026_27": 63.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 63.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "16. IWAI",
+            "items": [
+                {
+                    "code": "16.01",
+                    "name": "Investment",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1127.23,
+                        "total_2024_25": 1127.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1675.81,
+                        "total_2025_26": 1675.81,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1130.0,
+                        "total_revised_2024_25": 1130.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1130.0,
+                        "total_2026_27": 1130.0
+                    }
+                },
+                {
+                    "code": "16.02",
+                    "name": "Interest under EBR",
+                    "values": {
+                        "actual_2024_25": 76.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 76.5,
+                        "budget_2025_26": 76.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 76.5,
+                        "revised_2024_25": 76.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 76.5,
+                        "budget_2026_27": 416.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 416.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- IWAI",
+                    "values": {
+                        "actual_2024_25": 76.5,
+                        "capital_2024_25": 1127.23,
+                        "total_2024_25": 1203.73,
+                        "budget_2025_26": 76.5,
+                        "capital_2025_26": 1675.81,
+                        "total_2025_26": 1752.31,
+                        "revised_2024_25": 76.5,
+                        "capital_revised_2024_25": 1130.0,
+                        "total_revised_2024_25": 1206.5,
+                        "budget_2026_27": 416.5,
+                        "capital_2026_27": 1130.0,
+                        "total_2026_27": 1546.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "17",
+                    "name": "Chennai Port Authority",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 146.72,
+                        "total_2024_25": 146.72,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 393.48,
+                        "capital_2024_25": 1273.95,
+                        "total_2024_25": 1667.43,
+                        "budget_2025_26": 268.13,
+                        "capital_2025_26": 1675.81,
+                        "total_2025_26": 1943.94,
+                        "revised_2024_25": 288.81,
+                        "capital_revised_2024_25": 1130.0,
+                        "total_revised_2024_25": 1418.81,
+                        "budget_2026_27": 708.78,
+                        "capital_2026_27": 1130.0,
+                        "total_2026_27": 1838.78
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "18",
+                    "name": "Shipping Corporation of India",
+                    "values": {
+                        "actual_2024_25": 34.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": 34.71,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 10.85,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.85,
+                        "budget_2026_27": 28.19,
+                        "capital_2026_27": null,
+                        "total_2026_27": 28.19
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Directorate General of Shipping",
+                    "values": {
+                        "actual_2024_25": 164.04,
+                        "capital_2024_25": 37.59,
+                        "total_2024_25": 201.63,
+                        "budget_2025_26": 173.0,
+                        "capital_2025_26": 27.0,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": 174.37,
+                        "capital_revised_2024_25": 26.87,
+                        "total_revised_2024_25": 201.24,
+                        "budget_2026_27": 177.05,
+                        "capital_2026_27": 27.95,
+                        "total_2026_27": 205.0
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Directorate General of Lighthouses and Lightships",
+                    "values": {
+                        "actual_2024_25": 508.37,
+                        "capital_2024_25": 80.23,
+                        "total_2024_25": 588.6,
+                        "budget_2025_26": 475.0,
+                        "capital_2025_26": 90.0,
+                        "total_2025_26": 565.0,
+                        "revised_2024_25": 752.0,
+                        "capital_revised_2024_25": 90.0,
+                        "total_revised_2024_25": 842.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": "20.01",
+                    "name": "Directorate General of Lighthouses and",
+                    "values": {
+                        "actual_2024_25": 508.37,
+                        "capital_2024_25": 80.23,
+                        "total_2024_25": 588.6,
+                        "budget_2025_26": 475.0,
+                        "capital_2025_26": 90.0,
+                        "total_2025_26": 565.0,
+                        "revised_2024_25": 752.0,
+                        "capital_revised_2024_25": 90.0,
+                        "total_revised_2024_25": 842.0,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": "20.02",
+                    "name": "Recoveries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -80.23,
+                        "total_2024_25": -80.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -90.0,
+                        "total_2025_26": -90.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -90.0,
+                        "total_revised_2024_25": -90.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -100.0,
+                        "total_2026_27": -100.0
+                    }
+                },
+                {
+                    "code": "20.03",
+                    "name": "Receipts",
+                    "values": {
+                        "actual_2024_25": -425.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": -425.13,
+                        "budget_2025_26": -475.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -475.0,
+                        "revised_2024_25": -475.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -475.0,
+                        "budget_2026_27": -500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -500.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 83.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 83.24,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 277.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 277.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 247.28,
+                        "capital_2024_25": 37.59,
+                        "total_2024_25": 284.87,
+                        "budget_2025_26": 173.0,
+                        "capital_2025_26": 27.0,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": 451.37,
+                        "capital_revised_2024_25": 26.87,
+                        "total_revised_2024_25": 478.24,
+                        "budget_2026_27": 177.05,
+                        "capital_2026_27": 27.95,
+                        "total_2026_27": 205.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 675.47,
+                        "capital_2024_25": 1311.54,
+                        "total_2024_25": 1987.01,
+                        "budget_2025_26": 441.13,
+                        "capital_2025_26": 1702.81,
+                        "total_2025_26": 2143.94,
+                        "revised_2024_25": 751.03,
+                        "capital_revised_2024_25": 1156.87,
+                        "total_revised_2024_25": 1907.9,
+                        "budget_2026_27": 914.02,
+                        "capital_2026_27": 1157.95,
+                        "total_2026_27": 2071.97
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 1498.17,
+                        "capital_2024_25": 1339.41,
+                        "total_2024_25": 2837.58,
+                        "budget_2025_26": 1709.23,
+                        "capital_2025_26": 1761.35,
+                        "total_2025_26": 3470.58,
+                        "revised_2024_25": 1700.13,
+                        "capital_revised_2024_25": 1198.98,
+                        "total_revised_2024_25": 2899.11,
+                        "budget_2026_27": 3964.88,
+                        "capital_2026_27": 1199.92,
+                        "total_2026_27": 5164.8
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": 150.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 150.39,
+                        "budget_2025_26": 370.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 370.0,
+                        "revised_2024_25": 196.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 196.35,
+                        "budget_2026_27": 1106.35,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1106.35
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Ports and Light Houses",
+                    "values": {
+                        "actual_2024_25": 905.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 905.62,
+                        "budget_2025_26": 901.72,
+                        "capital_2025_26": null,
+                        "total_2025_26": 901.72,
+                        "revised_2024_25": 1061.42,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1061.42,
+                        "budget_2026_27": 801.74,
+                        "capital_2026_27": null,
+                        "total_2026_27": 801.74
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Shipping",
+                    "values": {
+                        "actual_2024_25": 298.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 298.02,
+                        "budget_2025_26": 273.62,
+                        "capital_2025_26": null,
+                        "total_2025_26": 273.62,
+                        "revised_2024_25": 273.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 273.84,
+                        "budget_2026_27": 1273.37,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1273.37
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Inland Water Transport",
+                    "values": {
+                        "actual_2024_25": 76.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 76.5,
+                        "budget_2025_26": 76.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 76.5,
+                        "revised_2024_25": 89.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 89.5,
+                        "budget_2026_27": 446.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 446.5
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 67.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 67.57,
+                        "budget_2025_26": 72.39,
+                        "capital_2025_26": null,
+                        "total_2025_26": 72.39,
+                        "revised_2024_25": 72.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 72.02,
+                        "budget_2026_27": 71.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": 71.92
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on Ports and Light Houses",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 23.82,
+                        "total_2024_25": 23.82,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 56.0,
+                        "total_2025_26": 56.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 38.77,
+                        "total_revised_2024_25": 38.77,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 40.0,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Capital Outlay on Shipping",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 37.59,
+                        "total_2024_25": 37.59,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 27.0,
+                        "total_2025_26": 27.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 26.87,
+                        "total_revised_2024_25": 26.87,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 27.95,
+                        "total_2026_27": 27.95
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Capital Outlay on Inland Water Transport",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1127.23,
+                        "total_2024_25": 1127.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1254.81,
+                        "total_2025_26": 1254.81,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 880.0,
+                        "total_revised_2024_25": 880.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 855.0,
+                        "total_2026_27": 855.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 4.05,
+                        "total_2024_25": 4.05,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.54,
+                        "total_2025_26": 2.54,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.34,
+                        "total_revised_2024_25": 3.34,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.97,
+                        "total_2026_27": 1.97
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Loans for Ports and Light Houses",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 146.72,
+                        "total_2024_25": 146.72,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 1498.1,
+                        "capital_2024_25": 1339.41,
+                        "total_2024_25": 2837.51,
+                        "budget_2025_26": 1694.23,
+                        "capital_2025_26": 1340.35,
+                        "total_2025_26": 3034.58,
+                        "revised_2024_25": 1693.13,
+                        "capital_revised_2024_25": 948.98,
+                        "total_revised_2024_25": 2642.11,
+                        "budget_2026_27": 3699.88,
+                        "capital_2026_27": 924.92,
+                        "total_2026_27": 4624.8
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "11",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 15.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15.0,
+                        "revised_2024_25": 7.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7.0,
+                        "budget_2026_27": 265.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 265.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 0.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.07,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 421.0,
+                        "total_2025_26": 421.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 250.0,
+                        "total_revised_2024_25": 250.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 275.0,
+                        "total_2026_27": 275.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 0.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.07,
+                        "budget_2025_26": 15.0,
+                        "capital_2025_26": 421.0,
+                        "total_2025_26": 436.0,
+                        "revised_2024_25": 7.0,
+                        "capital_revised_2024_25": 250.0,
+                        "total_revised_2024_25": 257.0,
+                        "budget_2026_27": 265.0,
+                        "capital_2026_27": 275.0,
+                        "total_2026_27": 540.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 1498.17,
+                        "capital_2024_25": 1339.41,
+                        "total_2024_25": 2837.58,
+                        "budget_2025_26": 1709.23,
+                        "capital_2025_26": 1761.35,
+                        "total_2025_26": 3470.58,
+                        "revised_2024_25": 1700.13,
+                        "capital_revised_2024_25": 1198.98,
+                        "total_revised_2024_25": 2899.11,
+                        "budget_2026_27": 3964.88,
+                        "capital_2026_27": 1199.92,
+                        "total_2026_27": 5164.8
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Cochin Port Trust",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8.89,
+                        "total_2024_25": 8.89,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 29.56,
+                        "total_2025_26": 29.56,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 28.94,
+                        "total_revised_2024_25": 28.94,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 89.46,
+                        "total_2026_27": 89.46
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Paradip Port Trust",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1128.21,
+                        "total_2024_25": 1128.21,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 866.16,
+                        "total_2025_26": 866.16,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1130.4,
+                        "total_revised_2024_25": 1130.4,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 808.32,
+                        "total_2026_27": 808.32
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "VoChidambaranar Port Trust",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 480.11,
+                        "total_2024_25": 480.11,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 337.02,
+                        "total_2025_26": 337.02,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 716.61,
+                        "total_revised_2024_25": 716.61,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 845.88,
+                        "total_2026_27": 845.88
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Jawaharlal Nehru Port Trust",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2270.63,
+                        "total_2024_25": 2270.63,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2005.15,
+                        "total_2025_26": 2005.15,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3720.86,
+                        "total_revised_2024_25": 3720.86,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4316.63,
+                        "total_2026_27": 4316.63
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "New Mangalore Port Trust",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 185.57,
+                        "total_2024_25": 185.57,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 184.58,
+                        "total_2025_26": 184.58,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 180.8,
+                        "total_revised_2024_25": 180.8,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 149.82,
+                        "total_2026_27": 149.82
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Chennai Port Trust",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 154.41,
+                        "total_2024_25": 154.41,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 178.38,
+                        "total_2025_26": 178.38,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 102.95,
+                        "total_revised_2024_25": 102.95,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 74.02,
+                        "total_2026_27": 74.02
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Mumbai Port Trust",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 259.13,
+                        "total_2024_25": 259.13,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 204.26,
+                        "total_2025_26": 204.26,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 271.81,
+                        "total_revised_2024_25": 271.81,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 336.83,
+                        "total_2026_27": 336.83
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Deendayal Port Trust Kandla",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1039.05,
+                        "total_2024_25": 1039.05,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 830.57,
+                        "total_2025_26": 830.57,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3947.75,
+                        "total_revised_2024_25": 3947.75,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3885.35,
+                        "total_2026_27": 3885.35
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Mormugao Port Trust",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 304.57,
+                        "total_2024_25": 304.57,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 46.74,
+                        "total_2025_26": 46.74,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 73.64,
+                        "total_revised_2024_25": 73.64,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 30.73,
+                        "total_2026_27": 30.73
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Visakapatnam Port Trust",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 354.1,
+                        "total_2024_25": 354.1,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 730.0,
+                        "total_2025_26": 730.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 730.0,
+                        "total_revised_2024_25": 730.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 450.0,
+                        "total_2026_27": 450.0
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Kamarajar Port Trust",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 439.14,
+                        "total_2024_25": 439.14,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 460.0,
+                        "total_2025_26": 460.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 658.74,
+                        "total_revised_2024_25": 658.74,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 588.0,
+                        "total_2026_27": 588.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Inland Waterway Authority of India",
+                    "values": {
+                        "actual_2024_25": 1127.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1127.23,
+                        "budget_2025_26": 1675.81,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1675.81,
+                        "revised_2024_25": 1130.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1130.0,
+                        "budget_2026_27": 1130.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1130.0
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Cochin Shipyard Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 461.44,
+                        "total_2024_25": 461.44,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 275.0,
+                        "total_2025_26": 275.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 275.0,
+                        "total_revised_2024_25": 275.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 120.0,
+                        "total_2026_27": 120.0
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Shipping Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 294.47,
+                        "total_2024_25": 294.47,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 213.0,
+                        "total_2025_26": 213.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1300.0,
+                        "total_revised_2024_25": 1300.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 500.0,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Syama Prasad Mookerjee Port",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 369.66,
+                        "total_2024_25": 369.66,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 751.76,
+                        "total_2025_26": 751.76,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 669.68,
+                        "total_revised_2024_25": 669.68,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 369.03,
+                        "total_2026_27": 369.03
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Shipping Corporation of India Land",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 6.24,
+                        "total_2024_25": 6.24,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 11.28,
+                        "total_2025_26": 11.28,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 16.9,
+                        "total_revised_2024_25": 16.9,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 44.19,
+                        "total_2026_27": 44.19
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Sagarmala Finance Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.6,
+                        "total_revised_2024_25": 3.6,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Indian Port Rail and Ropeway",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.61,
+                        "total_2024_25": 0.61,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.55,
+                        "total_revised_2024_25": 0.55,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.5,
+                        "total_2026_27": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "19",
+                    "name": "Dredging Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.11,
+                        "total_2024_25": 0.11,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 71.41,
+                        "total_revised_2024_25": 71.41,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 94.18,
+                        "total_2026_27": 94.18
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": 1127.23,
+                        "capital_2024_25": 7756.34,
+                        "total_2024_25": 8883.57,
+                        "budget_2025_26": 1675.81,
+                        "capital_2025_26": 7123.46,
+                        "total_2025_26": 8799.27,
+                        "revised_2024_25": 1130.0,
+                        "capital_revised_2024_25": 13899.64,
+                        "total_revised_2024_25": 15029.64,
+                        "budget_2026_27": 1130.0,
+                        "capital_2026_27": 12702.94,
+                        "total_2026_27": 13832.94
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..This provision is for establishment related expenditure of secretariat of the 12. Tariff Authority for Major Ports:..These are grants for the establishment of Tariff Authority for",
+            "items": []
+        },
+        {
+            "heading": "3. Research and Development (Ports):..The provision is for expenditure on research and 13. Indian Maritime University:..This includes Grants-in-aid Salaries to Indian Maritime",
+            "items": []
+        },
+        {
+            "heading": "development schemes under ports, provisions to carryout research study in the Port and Harbour Sector to find University(IMU), an autonomous organisation under this Ministry. This also includes Grants for creation of Capital",
+            "items": []
+        },
+        {
+            "heading": "solution for field problems in formulation, design and execution of Port and Harbour Projects and to bring in new Assets towards meeting the requirement of Infrastructure development of IMU.",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Syama Prasad Mookerjee Port, Kolkata:..This is for payment of subsidy for maintenance and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "4. Sagarmala Schemes and Projects:..The provision is for development of coastal community, dredging in Haldia Channel and River Hooghly by Syama Prasad Mookerjee Port, Kolkata.",
+            "items": []
+        },
+        {
+            "heading": "cargo/passengers by sea/National Waterways. The projects identified under Sagarmala Programme are expected to 15. Development of Minor Ports:..This includes assistance to Andaman and Lakshadweep",
+            "items": []
+        },
+        {
+            "heading": "includes projects for development of minor ports... 16. IWAI:..This provision is for Investment in IWAI. Inland Waterways Authority of India (IWAI) was",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Assistance to Ship Building, Research and Development:..The provision is for grants-in-aid Shipping and Navigation. IWAI primarily undertakes infrastructure development and regulation of National Waterways",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "(NWs). The provision includes expenditure on EAP projects of Inland Waterways Authority of India (IWAI) including",
+            "items": []
+        },
+        {
+            "heading": "development schemes for ship building. This also includes payment of financial assistance to all",
+            "items": []
+        },
+        {
+            "heading": "implementation and commissioning of various sub-projects under Jal Marg Vikas Project (JMVP).",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Shipbuilding Financial Assistance Scheme (SBFAS) and National Shipbuilding 18. Shipping Corporation of India:..The provision is for providing financial assistance to Shipping",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "19. Directorate General of Shipping:..The provision is for the establishment expenditure of",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Scheme for Capacity & Capability development and credit risk coverage for shipbuilding Directorate General of Shipping, which is a statutory authority under the Merchant Shipping Act, 1958. It renders",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "in India-Shipbuilding Development Scheme (SbDS):..The provision is for grants-in-aid (a) for common infrastructure regulatory functions for all matters relating to merchant shipping laws. The Directorate is also looking after the welfare",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Maritime Development Fund:..MDF is a dedicated fund to support the growth of maritime light vessels, sound signals, buoys, radio beacons etc. It also undertakes construction and maintenance of lighthouses",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure is matched by Recovery and Receipts.",
+            "items": []
+        },
+        {
+            "heading": "9. Grants to IWAI:..This provision is for the projects of IWAI in North Eastern Region for the",
+            "items": []
+        },
+        {
+            "heading": "10. Cargo Promotion Scheme - JALVAHAK:..The provision is for meeting expenditure under the",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF POWER",
+            "items": []
+        }
+    ]
+}

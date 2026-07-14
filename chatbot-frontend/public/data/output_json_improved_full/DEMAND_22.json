@@ -1,0 +1,310 @@
+{
+    "demand_no": 22,
+    "ministry": "Ministry Of Defence",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 157653.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 157653.65,
+                        "budget_2025_26": 160795.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 160795.0,
+                        "revised_2024_25": 169186.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 169186.5,
+                        "budget_2026_27": 171338.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 171338.22
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Pensions and other Retirement Benefits",
+                    "values": {
+                        "actual_2024_25": 133712.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 133712.87,
+                        "budget_2025_26": 141751.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 141751.0,
+                        "revised_2024_25": 142556.69,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 142556.69,
+                        "budget_2026_27": 151631.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 151631.06
+                    }
+                },
+                {
+                    "code": "1.01",
+                    "name": "Army",
+                    "values": {
+                        "actual_2024_25": 133712.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 133712.87,
+                        "budget_2025_26": 141751.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 141751.0,
+                        "revised_2024_25": 142556.69,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 142556.69,
+                        "budget_2026_27": 151631.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 151631.06
+                    }
+                },
+                {
+                    "code": "1.02",
+                    "name": "Navy",
+                    "values": {
+                        "actual_2024_25": 8551.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8551.02,
+                        "budget_2025_26": 9463.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9463.8,
+                        "revised_2024_25": 8937.43,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8937.43,
+                        "budget_2026_27": 10023.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10023.6
+                    }
+                },
+                {
+                    "code": "1.03",
+                    "name": "Air Force",
+                    "values": {
+                        "actual_2024_25": 15358.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 15358.56,
+                        "budget_2025_26": 17553.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17553.5,
+                        "revised_2024_25": 17656.27,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17656.27,
+                        "budget_2026_27": 17646.13,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17646.13
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Pensions and other Retirement Benefits",
+                    "values": {
+                        "actual_2024_25": 157622.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 157622.45,
+                        "budget_2025_26": 168768.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 168768.3,
+                        "revised_2024_25": 169150.39,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 169150.39,
+                        "budget_2026_27": 179300.79,
+                        "capital_2026_27": null,
+                        "total_2026_27": 179300.79
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Deduct Recovery from Public Account",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": -8000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -8000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -8000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -8000.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Service Charges to Banks",
+                    "values": {
+                        "actual_2024_25": 3.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.45,
+                        "budget_2025_26": 4.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4.5,
+                        "revised_2024_25": 4.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4.5,
+                        "budget_2026_27": 4.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Rewards-Army, Navy and Air Force",
+                    "values": {
+                        "actual_2024_25": 27.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 27.75,
+                        "budget_2025_26": 22.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22.2,
+                        "revised_2024_25": 31.61,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 31.61,
+                        "budget_2026_27": 33.43,
+                        "capital_2026_27": null,
+                        "total_2026_27": 33.43
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 157653.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 157653.65,
+                        "budget_2025_26": 160795.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 160795.0,
+                        "revised_2024_25": 169186.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 169186.5,
+                        "budget_2026_27": 171338.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 171338.22
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 157653.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 157653.65,
+                        "budget_2025_26": 160795.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 160795.0,
+                        "revised_2024_25": 169186.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 169186.5,
+                        "budget_2026_27": 171338.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 171338.22
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Pensions and other Retirement Benefits",
+                    "values": {
+                        "actual_2024_25": 157653.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 157653.65,
+                        "budget_2025_26": 160795.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 160795.0,
+                        "revised_2024_25": 169186.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 169186.5,
+                        "budget_2026_27": 171338.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 171338.22
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 157653.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 157653.65,
+                        "budget_2025_26": 160795.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 160795.0,
+                        "revised_2024_25": 169186.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 169186.5,
+                        "budget_2026_27": 171338.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 171338.22
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 157653.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 157653.65,
+                        "budget_2025_26": 160795.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 160795.0,
+                        "revised_2024_25": 169186.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 169186.5,
+                        "budget_2026_27": 171338.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 171338.22
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "1",
+                    "name": "Pensions and other Retirement Benefits:..The provision is for pensionary charges in respect 3. Service Charges to Banks:..The provision is for payment of service charges to banks on",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF DEVELOPMENT OF NORTH EASTERN REGION",
+            "items": []
+        }
+    ]
+}

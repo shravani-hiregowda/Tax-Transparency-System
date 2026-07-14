@@ -1,0 +1,23 @@
+/* =====================
+   GLOBAL FOOTER STYLE
+   ===================== */
+
+.footer {
+  margin-top: 60px;
+  padding: 20px;
+  text-align: center;
+  background: #eef2f8;
+  color: #444;
+  border-top: 1px solid #d9e0ea;
+  font-size: 14px;
+}
+
+.footer-links a {
+  color: var(--primary-dark);
+  text-decoration: none;
+  margin: 0 6px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}

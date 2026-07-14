@@ -1,0 +1,1086 @@
+{
+    "demand_no": 48,
+    "ministry": "Ministry Of Heavy Industries",
+    "department": "Department Has Taken Initiative For Introducing Electric",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2646.42,
+                        "capital_2024_25": 1.55,
+                        "total_2024_25": 2647.97,
+                        "budget_2025_26": 7178.23,
+                        "capital_2025_26": 502.0,
+                        "total_2025_26": 7680.23,
+                        "revised_2024_25": 4791.27,
+                        "capital_revised_2024_25": 502.58,
+                        "total_revised_2024_25": 5293.85,
+                        "budget_2026_27": 7937.08,
+                        "capital_2026_27": 2.82,
+                        "total_2026_27": 7939.9
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 39.46,
+                        "capital_2024_25": 1.55,
+                        "total_2024_25": 41.01,
+                        "budget_2025_26": 39.56,
+                        "capital_2025_26": 1.8,
+                        "total_2025_26": 41.36,
+                        "revised_2024_25": 42.83,
+                        "capital_revised_2024_25": 2.38,
+                        "total_revised_2024_25": 45.21,
+                        "budget_2026_27": 43.0,
+                        "capital_2026_27": 2.62,
+                        "total_2026_27": 45.62
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 39.21,
+                        "capital_2024_25": 1.55,
+                        "total_2024_25": 40.76,
+                        "budget_2025_26": 39.56,
+                        "capital_2025_26": 1.8,
+                        "total_2025_26": 41.36,
+                        "revised_2024_25": 42.83,
+                        "capital_revised_2024_25": 2.38,
+                        "total_revised_2024_25": 45.21,
+                        "budget_2026_27": 43.0,
+                        "capital_2026_27": 2.62,
+                        "total_2026_27": 45.62
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Enhancement of Competitiveness in the Indian Capital",
+                    "values": {
+                        "actual_2024_25": 171.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 171.62,
+                        "budget_2025_26": 120.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 120.0,
+                        "revised_2024_25": 120.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 120.0,
+                        "budget_2026_27": 125.36,
+                        "capital_2026_27": null,
+                        "total_2026_27": 125.36
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Scheme for Faster Adoption and Manufacturing of",
+                    "values": {
+                        "actual_2024_25": 1113.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1113.95,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 1181.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1181.26,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "PM Electric Drive Revolution in Innovative Vehicle",
+                    "values": {
+                        "actual_2024_25": 993.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": 993.05,
+                        "budget_2025_26": 4000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4000.0,
+                        "revised_2024_25": 1300.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1300.0,
+                        "budget_2026_27": 1500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1500.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "PM-eBus Sewa-Payment Security Mechanism (PSM) for",
+                    "values": {
+                        "actual_2024_25": 4.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4.92,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": 500.0,
+                        "total_2025_26": 510.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": 500.0,
+                        "total_revised_2024_25": 510.0,
+                        "budget_2026_27": 12.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Production Linked Incentive (PLI) Scheme for",
+                    "values": {
+                        "actual_2024_25": 325.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 325.35,
+                        "budget_2025_26": 2818.85,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2818.85,
+                        "revised_2024_25": 2091.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2091.26,
+                        "budget_2026_27": 5939.87,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5939.87
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Production Linked Incentive (PLI) Scheme for National",
+                    "values": {
+                        "actual_2024_25": 12.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12.28,
+                        "budget_2025_26": 155.76,
+                        "capital_2025_26": null,
+                        "total_2025_26": 155.76,
+                        "revised_2024_25": 13.31,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 13.31,
+                        "budget_2026_27": 86.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 86.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Development of Automobile Industry",
+                    "values": {
+                        "actual_2024_25": 337.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": 337.63,
+                        "budget_2025_26": 2974.61,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2974.61,
+                        "revised_2024_25": 2104.57,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2104.57,
+                        "budget_2026_27": 6025.88,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6025.88
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "Scheme for Enhancement of Construction and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 200.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -38.33,
+                        "capital_2024_25": null,
+                        "total_2024_25": -38.33,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 2582.84,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2582.84,
+                        "budget_2025_26": 7104.61,
+                        "capital_2025_26": 500.0,
+                        "total_2025_26": 7604.61,
+                        "revised_2024_25": 4715.83,
+                        "capital_revised_2024_25": 500.0,
+                        "total_revised_2024_25": 5215.83,
+                        "budget_2026_27": 7863.24,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7863.24
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "Central Manufacturing Technology Institute (CMTI)",
+                    "values": {
+                        "actual_2024_25": 18.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18.89,
+                        "budget_2025_26": 20.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.03,
+                        "revised_2024_25": 20.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 20.6,
+                        "budget_2026_27": 22.04,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22.04
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Support to Central Public Sector Enterprises",
+                    "values": {
+                        "actual_2024_25": 1.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.0,
+                        "budget_2025_26": 2.03,
+                        "capital_2025_26": 0.2,
+                        "total_2025_26": 2.23,
+                        "revised_2024_25": 3.01,
+                        "capital_revised_2024_25": 0.2,
+                        "total_revised_2024_25": 3.21,
+                        "budget_2026_27": 2.03,
+                        "capital_2026_27": 0.2,
+                        "total_2026_27": 2.23
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Scheme to Promote Manufacturing of Electric Passenger",
+                    "values": {
+                        "actual_2024_25": 4.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4.48,
+                        "budget_2025_26": 12.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12.0,
+                        "revised_2024_25": 9.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9.0,
+                        "budget_2026_27": 6.77,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.77
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 24.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.37,
+                        "budget_2025_26": 34.06,
+                        "capital_2025_26": 0.2,
+                        "total_2025_26": 34.26,
+                        "revised_2024_25": 32.61,
+                        "capital_revised_2024_25": 0.2,
+                        "total_revised_2024_25": 32.81,
+                        "budget_2026_27": 30.84,
+                        "capital_2026_27": 0.2,
+                        "total_2026_27": 31.04
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2646.42,
+                        "capital_2024_25": 1.55,
+                        "total_2024_25": 2647.97,
+                        "budget_2025_26": 7178.23,
+                        "capital_2025_26": 502.0,
+                        "total_2025_26": 7680.23,
+                        "revised_2024_25": 4791.27,
+                        "capital_revised_2024_25": 502.58,
+                        "total_revised_2024_25": 5293.85,
+                        "budget_2026_27": 7937.08,
+                        "capital_2026_27": 2.82,
+                        "total_2026_27": 7939.9
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": 2607.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2607.21,
+                        "budget_2025_26": 7138.67,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7138.67,
+                        "revised_2024_25": 4748.44,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4748.44,
+                        "budget_2026_27": 7894.08,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7894.08
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 39.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 39.21,
+                        "budget_2025_26": 39.56,
+                        "capital_2025_26": null,
+                        "total_2025_26": 39.56,
+                        "revised_2024_25": 42.83,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 42.83,
+                        "budget_2026_27": 43.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Engineering Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.05,
+                        "total_2025_26": 0.05,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.05,
+                        "total_revised_2024_25": 0.05,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.05,
+                        "total_2026_27": 0.05
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Consumer Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.02,
+                        "total_2025_26": 0.02,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.02,
+                        "total_revised_2024_25": 0.02,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.02,
+                        "total_2026_27": 0.02
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.55,
+                        "total_2024_25": 1.55,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.8,
+                        "total_2025_26": 1.8,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.38,
+                        "total_revised_2024_25": 2.38,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.62,
+                        "total_2026_27": 2.62
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Loans for Cement and Non-Metallic Mineral Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Loans for Engineering Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 500.08,
+                        "total_2025_26": 500.08,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 500.08,
+                        "total_revised_2024_25": 500.08,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.08,
+                        "total_2026_27": 0.08
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Loans for Consumer Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.04,
+                        "total_2025_26": 0.04,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.04,
+                        "total_revised_2024_25": 0.04,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.04,
+                        "total_2026_27": 0.04
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 2646.42,
+                        "capital_2024_25": 1.55,
+                        "total_2024_25": 2647.97,
+                        "budget_2025_26": 7178.23,
+                        "capital_2025_26": 502.0,
+                        "total_2025_26": 7680.23,
+                        "revised_2024_25": 4791.27,
+                        "capital_revised_2024_25": 502.58,
+                        "total_revised_2024_25": 5293.85,
+                        "budget_2026_27": 7937.08,
+                        "capital_2026_27": 2.82,
+                        "total_2026_27": 7939.9
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2646.42,
+                        "capital_2024_25": 1.55,
+                        "total_2024_25": 2647.97,
+                        "budget_2025_26": 7178.23,
+                        "capital_2025_26": 502.0,
+                        "total_2025_26": 7680.23,
+                        "revised_2024_25": 4791.27,
+                        "capital_revised_2024_25": 502.58,
+                        "total_revised_2024_25": 5293.85,
+                        "budget_2026_27": 7937.08,
+                        "capital_2026_27": 2.82,
+                        "total_2026_27": 7939.9
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Bharat Heavy Electricals Ltd",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 536.0,
+                        "total_2024_25": 536.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 234.0,
+                        "total_2025_26": 234.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 304.0,
+                        "total_revised_2024_25": 304.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 310.0,
+                        "total_2026_27": 310.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Heavy Engineering Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.02,
+                        "revised_2024_25": 0.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.02,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.02
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Scooter India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.09,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.09,
+                        "revised_2024_25": 0.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.02,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.02
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "HMT Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3.43,
+                        "total_2024_25": 3.43,
+                        "budget_2025_26": 0.02,
+                        "capital_2025_26": 7.03,
+                        "total_2025_26": 7.05,
+                        "revised_2024_25": 0.02,
+                        "capital_revised_2024_25": 10.57,
+                        "total_revised_2024_25": 10.59,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": 11.95,
+                        "total_2026_27": 11.97
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Hindustan Cables Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.02,
+                        "revised_2024_25": 0.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.02,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.02
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Andrew Yule and Co Ltd",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8.25,
+                        "total_2024_25": 8.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 36.5,
+                        "total_2025_26": 36.5,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": 35.82,
+                        "total_revised_2024_25": 35.83,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": 35.0,
+                        "total_2026_27": 35.01
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Engineering Projects India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.32,
+                        "total_2024_25": 0.32,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.5,
+                        "total_2025_26": 1.5,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": 4.12,
+                        "total_revised_2024_25": 4.13,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": 5.0,
+                        "total_2026_27": 5.01
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Rajasthan Electronics and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.07,
+                        "total_2024_25": 0.07,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.5,
+                        "total_2025_26": 0.5,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": 1.5,
+                        "total_revised_2024_25": 1.51,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 2.01
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Bridge and Roof Company Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3.39,
+                        "total_2024_25": 3.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.0,
+                        "total_2025_26": 3.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.0,
+                        "total_revised_2024_25": 3.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3.0,
+                        "total_2026_27": 3.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Richardson and Cruddas Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Braithwaite Burn Jessop",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.35,
+                        "total_2024_25": 0.35,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.0,
+                        "total_2025_26": 3.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.0,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.0,
+                        "total_2026_27": 1.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Nepa Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.02,
+                        "revised_2024_25": 0.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.02,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.02
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Hindustan Salt Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.02,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.02
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Cement Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 23.88,
+                        "total_2024_25": 23.88,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": 38.77,
+                        "total_2025_26": 38.78,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 38.77,
+                        "total_revised_2024_25": 38.77,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 24.75,
+                        "total_2026_27": 24.75
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Hindustan Paper Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Convergence Energy Services Ltd",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Tyre Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Instrumentation Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Triveni Structurals Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 575.69,
+                        "total_2024_25": 575.69,
+                        "budget_2025_26": 500.2,
+                        "capital_2025_26": 324.3,
+                        "total_2025_26": 824.5,
+                        "revised_2024_25": 500.2,
+                        "capital_revised_2024_25": 398.78,
+                        "total_revised_2024_25": 898.98,
+                        "budget_2026_27": 0.2,
+                        "capital_2026_27": 392.7,
+                        "total_2026_27": 392.9
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..A provision is to meet secretariat expenditure of the Ministry of Heavy Industries. 6. Production Linked Incentive (PLI) Scheme for Automobiles and Auto Components:..The",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Enhancement of Competitiveness in the Indian Capital Goods Sector:..The objective of the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Production Linked Incentive (PLI) Scheme for National Programme on Advanced",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Scheme for Faster Adoption and Manufacturing of (Hybrid and) Electric Vehicle in India -",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "PM-eBus Sewa-Payment Security Mechanism (PSM) for procurement and operation of e-",
+                    "values": {
+                        "actual_2024_25": 38000.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Support to Central Public Sector Enterprises:..The budgetary support to Central Public",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Scheme to Promote Manufacturing of Electric Passenger Cars in India (SMEC):..The",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF HOME AFFAIRS",
+            "items": []
+        }
+    ]
+}

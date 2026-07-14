@@ -1,0 +1,507 @@
+{
+    "demand_no": 50,
+    "ministry": "Ministry Of Home Affairs",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 643.78,
+                        "capital_2024_25": 317.17,
+                        "total_2024_25": 960.95,
+                        "budget_2025_26": 765.72,
+                        "capital_2025_26": 258.58,
+                        "total_2025_26": 1024.3,
+                        "revised_2024_25": 803.02,
+                        "capital_revised_2024_25": 175.18,
+                        "total_revised_2024_25": 978.2,
+                        "budget_2026_27": 992.32,
+                        "capital_2026_27": 109.68,
+                        "total_2026_27": 1102.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat assistance to Ex-Governors",
+                    "values": {
+                        "actual_2024_25": 1.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.24,
+                        "budget_2025_26": 1.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.8,
+                        "revised_2024_25": 1.4,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.4,
+                        "budget_2026_27": 1.53,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.53
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Council of Ministers",
+                    "values": {
+                        "actual_2024_25": 331.67,
+                        "capital_2024_25": 178.29,
+                        "total_2024_25": 509.96,
+                        "budget_2025_26": 419.04,
+                        "capital_2025_26": 200.0,
+                        "total_2025_26": 619.04,
+                        "revised_2024_25": 428.54,
+                        "capital_revised_2024_25": 55.0,
+                        "total_revised_2024_25": 483.54,
+                        "budget_2026_27": 604.0,
+                        "capital_2026_27": 16.0,
+                        "total_2026_27": 620.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -2.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": -2.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 329.28,
+                        "capital_2024_25": 178.29,
+                        "total_2024_25": 507.57,
+                        "budget_2025_26": 419.04,
+                        "capital_2025_26": 200.0,
+                        "total_2025_26": 619.04,
+                        "revised_2024_25": 428.54,
+                        "capital_revised_2024_25": 55.0,
+                        "total_revised_2024_25": 483.54,
+                        "budget_2026_27": 604.0,
+                        "capital_2026_27": 16.0,
+                        "total_2026_27": 620.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Cabinet Secretariat",
+                    "values": {
+                        "actual_2024_25": 69.52,
+                        "capital_2024_25": 2.83,
+                        "total_2024_25": 72.35,
+                        "budget_2025_26": 73.08,
+                        "capital_2025_26": 2.6,
+                        "total_2025_26": 75.68,
+                        "revised_2024_25": 74.59,
+                        "capital_revised_2024_25": 3.41,
+                        "total_revised_2024_25": 78.0,
+                        "budget_2026_27": 77.07,
+                        "capital_2026_27": 2.93,
+                        "total_2026_27": 80.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "National Security Council Secretariat",
+                    "values": {
+                        "actual_2024_25": 117.43,
+                        "capital_2024_25": 4802.59,
+                        "total_2024_25": 4920.02,
+                        "budget_2025_26": 127.51,
+                        "capital_2025_26": 6193.5,
+                        "total_2025_26": 6321.01,
+                        "revised_2024_25": 163.93,
+                        "capital_revised_2024_25": 6254.07,
+                        "total_revised_2024_25": 6418.0,
+                        "budget_2026_27": 166.34,
+                        "capital_2026_27": 4204.97,
+                        "total_2026_27": 4371.31
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -4666.77,
+                        "total_2024_25": -4666.77,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -6138.26,
+                        "total_2025_26": -6138.26,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -6138.26,
+                        "total_revised_2024_25": -6138.26,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -4115.12,
+                        "total_2026_27": -4115.12
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 117.43,
+                        "capital_2024_25": 135.82,
+                        "total_2024_25": 253.25,
+                        "budget_2025_26": 127.51,
+                        "capital_2025_26": 55.24,
+                        "total_2025_26": 182.75,
+                        "revised_2024_25": 163.93,
+                        "capital_revised_2024_25": 115.81,
+                        "total_revised_2024_25": 279.74,
+                        "budget_2026_27": 166.34,
+                        "capital_2026_27": 89.85,
+                        "total_2026_27": 256.19
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "Office of Principal Scientific Advisor",
+                    "values": {
+                        "actual_2024_25": 60.91,
+                        "capital_2024_25": 0.08,
+                        "total_2024_25": 60.99,
+                        "budget_2025_26": 69.54,
+                        "capital_2025_26": 0.58,
+                        "total_2025_26": 70.12,
+                        "revised_2024_25": 60.83,
+                        "capital_revised_2024_25": 0.49,
+                        "total_revised_2024_25": 61.32,
+                        "budget_2026_27": 64.46,
+                        "capital_2026_27": 0.54,
+                        "total_2026_27": 65.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Prime Minister's Office",
+                    "values": {
+                        "actual_2024_25": 61.42,
+                        "capital_2024_25": 0.15,
+                        "total_2024_25": 61.57,
+                        "budget_2025_26": 70.75,
+                        "capital_2025_26": 0.16,
+                        "total_2025_26": 70.91,
+                        "revised_2024_25": 67.53,
+                        "capital_revised_2024_25": 0.47,
+                        "total_revised_2024_25": 68.0,
+                        "budget_2026_27": 73.16,
+                        "capital_2026_27": 0.36,
+                        "total_2026_27": 73.52
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Hospitality and Entertainment Expenses",
+                    "values": {
+                        "actual_2024_25": 3.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.98,
+                        "budget_2025_26": 4.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4.0,
+                        "revised_2024_25": 6.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.2,
+                        "budget_2026_27": 5.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.76
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 643.78,
+                        "capital_2024_25": 317.17,
+                        "total_2024_25": 960.95,
+                        "budget_2025_26": 765.72,
+                        "capital_2025_26": 258.58,
+                        "total_2025_26": 1024.3,
+                        "revised_2024_25": 803.02,
+                        "capital_revised_2024_25": 175.18,
+                        "total_revised_2024_25": 978.2,
+                        "budget_2026_27": 992.32,
+                        "capital_2026_27": 109.68,
+                        "total_2026_27": 1102.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 643.78,
+                        "capital_2024_25": 317.17,
+                        "total_2024_25": 960.95,
+                        "budget_2025_26": 765.72,
+                        "capital_2025_26": 258.58,
+                        "total_2025_26": 1024.3,
+                        "revised_2024_25": 803.02,
+                        "capital_revised_2024_25": 175.18,
+                        "total_revised_2024_25": 978.2,
+                        "budget_2026_27": 992.32,
+                        "capital_2026_27": 109.68,
+                        "total_2026_27": 1102.0
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "President, Vice President/Governor, Administrator of",
+                    "values": {
+                        "actual_2024_25": 1.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.24,
+                        "budget_2025_26": 1.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.8,
+                        "revised_2024_25": 1.4,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.4,
+                        "budget_2026_27": 1.53,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.53
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Council of Ministers",
+                    "values": {
+                        "actual_2024_25": 638.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 638.56,
+                        "budget_2025_26": 759.92,
+                        "capital_2025_26": null,
+                        "total_2025_26": 759.92,
+                        "revised_2024_25": 795.42,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 795.42,
+                        "budget_2026_27": 985.03,
+                        "capital_2026_27": null,
+                        "total_2026_27": 985.03
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": 3.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.98,
+                        "budget_2025_26": 4.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4.0,
+                        "revised_2024_25": 6.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.2,
+                        "budget_2026_27": 5.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.76
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 178.29,
+                        "total_2024_25": 178.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 200.0,
+                        "total_2025_26": 200.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 55.0,
+                        "total_revised_2024_25": 55.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 16.0,
+                        "total_2026_27": 16.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 138.88,
+                        "total_2024_25": 138.88,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 58.58,
+                        "total_2025_26": 58.58,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 120.18,
+                        "total_revised_2024_25": 120.18,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 93.68,
+                        "total_2026_27": 93.68
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 643.78,
+                        "capital_2024_25": 317.17,
+                        "total_2024_25": 960.95,
+                        "budget_2025_26": 765.72,
+                        "capital_2025_26": 258.58,
+                        "total_2025_26": 1024.3,
+                        "revised_2024_25": 803.02,
+                        "capital_revised_2024_25": 175.18,
+                        "total_revised_2024_25": 978.2,
+                        "budget_2026_27": 992.32,
+                        "capital_2026_27": 109.68,
+                        "total_2026_27": 1102.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 643.78,
+                        "capital_2024_25": 317.17,
+                        "total_2024_25": 960.95,
+                        "budget_2025_26": 765.72,
+                        "capital_2025_26": 258.58,
+                        "total_2025_26": 1024.3,
+                        "revised_2024_25": 803.02,
+                        "capital_revised_2024_25": 175.18,
+                        "total_revised_2024_25": 978.2,
+                        "budget_2026_27": 992.32,
+                        "capital_2026_27": 109.68,
+                        "total_2026_27": 1102.0
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "2. Council of Ministers:..The provision is for expenditure on salaries, sumptuary and other",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Cabinet Secretariat:..The provision is for meeting the administrative expenses of Cabinet",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "National Security Council Secretariat:..The provision is for meeting the administrative",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Office of Principal Scientific Advisor:..The provision is for meeting the administrative",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Prime Minister's Office:..The provision is for meeting the administrative expenses of Prime",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "7. Hospitality and Entertainment Expenses:..Includes provision for expenditure on Government",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF HOME AFFAIRS",
+            "items": []
+        }
+    ]
+}

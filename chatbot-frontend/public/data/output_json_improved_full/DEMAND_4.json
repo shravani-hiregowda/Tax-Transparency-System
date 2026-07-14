@@ -1,0 +1,1070 @@
+{
+    "demand_no": 4,
+    "ministry": "Ministry Of Ayush",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 3299.71,
+                        "capital_2024_25": 12.34,
+                        "total_2024_25": 3312.05,
+                        "budget_2025_26": 3937.45,
+                        "capital_2025_26": 55.45,
+                        "total_2025_26": 3992.9,
+                        "revised_2024_25": 3618.47,
+                        "capital_revised_2024_25": 53.35,
+                        "total_revised_2024_25": 3671.82,
+                        "budget_2026_27": 4381.86,
+                        "capital_2026_27": 27.07,
+                        "total_2026_27": 4408.93
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 47.68,
+                        "capital_2024_25": 7.62,
+                        "total_2024_25": 55.3,
+                        "budget_2025_26": 59.6,
+                        "capital_2025_26": 48.95,
+                        "total_2025_26": 108.55,
+                        "revised_2024_25": 53.98,
+                        "capital_revised_2024_25": 49.65,
+                        "total_revised_2024_25": 103.63,
+                        "budget_2026_27": 53.82,
+                        "capital_2026_27": 20.62,
+                        "total_2026_27": 74.44
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "National Medicinal Plants Board",
+                    "values": {
+                        "actual_2024_25": 14.62,
+                        "capital_2024_25": 0.22,
+                        "total_2024_25": 14.84,
+                        "budget_2025_26": 18.34,
+                        "capital_2025_26": 0.25,
+                        "total_2025_26": 18.59,
+                        "revised_2024_25": 17.58,
+                        "capital_revised_2024_25": 0.3,
+                        "total_revised_2024_25": 17.88,
+                        "budget_2026_27": 17.91,
+                        "capital_2026_27": 0.25,
+                        "total_2026_27": 18.16
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Pharmacopoeia Commission for Indian Medicine and",
+                    "values": {
+                        "actual_2024_25": 13.67,
+                        "capital_2024_25": 4.5,
+                        "total_2024_25": 18.17,
+                        "budget_2025_26": 15.71,
+                        "capital_2025_26": 6.25,
+                        "total_2025_26": 21.96,
+                        "revised_2024_25": 15.81,
+                        "capital_revised_2024_25": 3.4,
+                        "total_revised_2024_25": 19.21,
+                        "budget_2026_27": 16.06,
+                        "capital_2026_27": 6.2,
+                        "total_2026_27": 22.26
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 75.96,
+                        "capital_2024_25": 12.34,
+                        "total_2024_25": 88.3,
+                        "budget_2025_26": 93.65,
+                        "capital_2025_26": 55.45,
+                        "total_2025_26": 149.1,
+                        "revised_2024_25": 87.37,
+                        "capital_revised_2024_25": 53.35,
+                        "total_revised_2024_25": 140.72,
+                        "budget_2026_27": 87.79,
+                        "capital_2026_27": 27.07,
+                        "total_2026_27": 114.86
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": []
+        },
+        {
+            "heading": "Central Sector Schemes of Ayush",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Information, Education and Communication",
+                    "values": {
+                        "actual_2024_25": 29.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.82,
+                        "budget_2025_26": 43.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 43.2,
+                        "revised_2024_25": 73.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 73.0,
+                        "budget_2026_27": 45.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 45.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Promotion of International Cooperation",
+                    "values": {
+                        "actual_2024_25": 103.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 103.86,
+                        "budget_2025_26": 136.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 136.0,
+                        "revised_2024_25": 142.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 142.75,
+                        "budget_2026_27": 156.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 156.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "AYURGYAN",
+                    "values": {
+                        "actual_2024_25": 25.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 25.7,
+                        "budget_2025_26": 50.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.0,
+                        "revised_2024_25": 37.81,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 37.81,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Ayurswasthay Yojana",
+                    "values": {
+                        "actual_2024_25": 20.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 20.61,
+                        "budget_2025_26": 62.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 62.6,
+                        "revised_2024_25": 46.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 46.73,
+                        "budget_2026_27": 62.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 62.6
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "AYUSH Oushadhi Gunvatta evum Uttpadan Samvardhan",
+                    "values": {
+                        "actual_2024_25": 13.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 13.92,
+                        "budget_2025_26": 27.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 27.0,
+                        "revised_2024_25": 17.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17.75,
+                        "budget_2026_27": 27.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 27.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Central Sector Scheme for Conservation, Development",
+                    "values": {
+                        "actual_2024_25": 40.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 40.0,
+                        "budget_2025_26": 65.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 65.0,
+                        "revised_2024_25": 35.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 35.0,
+                        "budget_2026_27": 65.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 65.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes of Ayush",
+                    "values": {
+                        "actual_2024_25": 233.91,
+                        "capital_2024_25": null,
+                        "total_2024_25": 233.91,
+                        "budget_2025_26": 383.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 383.8,
+                        "revised_2024_25": 353.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 353.04,
+                        "budget_2026_27": 405.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 405.6
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 233.91,
+                        "capital_2024_25": null,
+                        "total_2024_25": 233.91,
+                        "budget_2025_26": 383.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 383.8,
+                        "revised_2024_25": 353.04,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 353.04,
+                        "budget_2026_27": 405.6,
+                        "capital_2026_27": null,
+                        "total_2026_27": 405.6
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Institute of Teaching and Research in Ayurveda",
+                    "values": {
+                        "actual_2024_25": 130.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": 130.05,
+                        "budget_2025_26": 165.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 165.2,
+                        "revised_2024_25": 279.24,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 279.24,
+                        "budget_2026_27": 219.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 219.05
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "National Commission for Homoeopathy",
+                    "values": {
+                        "actual_2024_25": 16.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16.0,
+                        "budget_2025_26": 20.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.0,
+                        "revised_2024_25": 19.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 19.0,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "National Commission for Indian System of Medicine",
+                    "values": {
+                        "actual_2024_25": 32.43,
+                        "capital_2024_25": null,
+                        "total_2024_25": 32.43,
+                        "budget_2025_26": 34.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 34.0,
+                        "revised_2024_25": 34.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 34.0,
+                        "budget_2026_27": 37.28,
+                        "capital_2026_27": null,
+                        "total_2026_27": 37.28
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Statutory and Regulatory Bodies",
+                    "values": {
+                        "actual_2024_25": 178.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 178.48,
+                        "budget_2025_26": 219.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 219.2,
+                        "revised_2024_25": 332.24,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 332.24,
+                        "budget_2026_27": 276.33,
+                        "capital_2026_27": null,
+                        "total_2026_27": 276.33
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "14",
+                    "name": "Central Council for Research in Ayurvedic Sciences",
+                    "values": {
+                        "actual_2024_25": 469.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 469.72,
+                        "budget_2025_26": 457.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 457.2,
+                        "revised_2024_25": 518.85,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 518.85,
+                        "budget_2026_27": 524.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 524.05
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Central Council for Research in Homoeopathy",
+                    "values": {
+                        "actual_2024_25": 162.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 162.0,
+                        "budget_2025_26": 165.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 165.0,
+                        "revised_2024_25": 214.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 214.0,
+                        "budget_2026_27": 227.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 227.25
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Central Council for Research in Unani Medicine",
+                    "values": {
+                        "actual_2024_25": 190.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": 190.05,
+                        "budget_2025_26": 214.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 214.5,
+                        "revised_2024_25": 199.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 199.0,
+                        "budget_2026_27": 208.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 208.5
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "All India Institute of Ayurveda",
+                    "values": {
+                        "actual_2024_25": 243.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 243.2,
+                        "budget_2025_26": 251.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 251.2,
+                        "revised_2024_25": 306.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 306.2,
+                        "budget_2026_27": 270.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 270.2
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "National Institute of Homoeopathy, Kolkata",
+                    "values": {
+                        "actual_2024_25": 84.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": 84.08,
+                        "budget_2025_26": 93.96,
+                        "capital_2025_26": null,
+                        "total_2025_26": 93.96,
+                        "revised_2024_25": 86.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 86.11,
+                        "budget_2026_27": 91.99,
+                        "capital_2026_27": null,
+                        "total_2026_27": 91.99
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Other Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 681.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 681.23,
+                        "budget_2025_26": 783.94,
+                        "capital_2025_26": null,
+                        "total_2025_26": 783.94,
+                        "revised_2024_25": 740.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 740.7,
+                        "budget_2026_27": 990.15,
+                        "capital_2026_27": null,
+                        "total_2026_27": 990.15
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 1830.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1830.28,
+                        "budget_2025_26": 1965.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1965.8,
+                        "revised_2024_25": 2064.86,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2064.86,
+                        "budget_2026_27": 2312.14,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2312.14
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "20",
+                    "name": "Actual Recoveries (Other Central Sector Expenditure)",
+                    "values": {
+                        "actual_2024_25": -100.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": -100.77,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 1907.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1907.99,
+                        "budget_2025_26": 2185.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2185.0,
+                        "revised_2024_25": 2397.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2397.1,
+                        "budget_2026_27": 2588.47,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2588.47
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "21",
+                    "name": "National AYUSH Mission",
+                    "values": {
+                        "actual_2024_25": 1137.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1137.65,
+                        "budget_2025_26": 1275.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1275.0,
+                        "revised_2024_25": 780.96,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 780.96,
+                        "budget_2026_27": 1300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1300.0
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Actual Recoveries (CSS)",
+                    "values": {
+                        "actual_2024_25": -55.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": -55.8,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 1081.85,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1081.85,
+                        "budget_2025_26": 1275.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1275.0,
+                        "revised_2024_25": 780.96,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 780.96,
+                        "budget_2026_27": 1300.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1300.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3299.71,
+                        "capital_2024_25": 12.34,
+                        "total_2024_25": 3312.05,
+                        "budget_2025_26": 3937.45,
+                        "capital_2025_26": 55.45,
+                        "total_2025_26": 3992.9,
+                        "revised_2024_25": 3618.47,
+                        "capital_revised_2024_25": 53.35,
+                        "total_revised_2024_25": 3671.82,
+                        "budget_2026_27": 4381.86,
+                        "capital_2026_27": 27.07,
+                        "total_2026_27": 4408.93
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Medical and Public Health",
+                    "values": {
+                        "actual_2024_25": 2192.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2192.2,
+                        "budget_2025_26": 2570.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2570.4,
+                        "revised_2024_25": 2725.35,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2725.35,
+                        "budget_2026_27": 2965.51,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2965.51
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 47.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 47.68,
+                        "budget_2025_26": 59.6,
+                        "capital_2025_26": null,
+                        "total_2025_26": 59.6,
+                        "revised_2024_25": 53.98,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 53.98,
+                        "budget_2026_27": 53.82,
+                        "capital_2026_27": null,
+                        "total_2026_27": 53.82
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 12.34,
+                        "total_2024_25": 12.34,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 55.45,
+                        "total_2025_26": 55.45,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 53.35,
+                        "total_revised_2024_25": 53.35,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 27.07,
+                        "total_2026_27": 27.07
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 2239.88,
+                        "capital_2024_25": 12.34,
+                        "total_2024_25": 2252.22,
+                        "budget_2025_26": 2630.0,
+                        "capital_2025_26": 55.45,
+                        "total_2025_26": 2685.45,
+                        "revised_2024_25": 2779.33,
+                        "capital_revised_2024_25": 53.35,
+                        "total_revised_2024_25": 2832.68,
+                        "budget_2026_27": 3019.33,
+                        "capital_2026_27": 27.07,
+                        "total_2026_27": 3046.4
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 214.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 214.45,
+                        "revised_2024_25": 213.88,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 213.88,
+                        "budget_2026_27": 251.03,
+                        "capital_2026_27": null,
+                        "total_2026_27": 251.03
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 1036.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1036.39,
+                        "budget_2025_26": 988.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 988.0,
+                        "revised_2024_25": 573.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 573.26,
+                        "budget_2026_27": 1006.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1006.5
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 23.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 23.44,
+                        "budget_2025_26": 105.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 105.0,
+                        "revised_2024_25": 52.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 52.0,
+                        "budget_2026_27": 105.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 105.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 1059.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1059.83,
+                        "budget_2025_26": 1307.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1307.45,
+                        "revised_2024_25": 839.14,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 839.14,
+                        "budget_2026_27": 1362.53,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1362.53
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3299.71,
+                        "capital_2024_25": 12.34,
+                        "total_2024_25": 3312.05,
+                        "budget_2025_26": 3937.45,
+                        "capital_2025_26": 55.45,
+                        "total_2025_26": 3992.9,
+                        "revised_2024_25": 3618.47,
+                        "capital_revised_2024_25": 53.35,
+                        "total_revised_2024_25": 3671.82,
+                        "budget_2026_27": 4381.86,
+                        "capital_2026_27": 27.07,
+                        "total_2026_27": 4408.93
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure on the Secretariat of the obligations of India in the context of medicinal plant biodiversity and promote bilateral/international cooperation.",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "National Medicinal Plants Board:..National Medicinal Plants Board undertakes promotional",
+                    "values": {
+                        "actual_2024_25": 27.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "and contractual farming schemes with a view to encourage in-situ conservation and ex-situ cultivation of medicinal",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Pharmacopoeia Commission for Indian Medicine and Homoeopathy (PCIM&H):..It is a Homoeopathy medical professionals in all parts of the country; that promotes equitable and universal healthcare",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Information, Education and Communication:..To create awareness among the members of transparent assessment of medical institutions and facilitates maintenance of a Homoeopathy medical register for India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "National Commission for Indian System of Medicine:..To provide for a medical education",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Promotion of International Cooperation:..To promote global acceptance of AYUSH Systems system that improves access to quality and affordable medical education, ensures availability of adequate and high",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "AYURGYAN:..Ministry of Ayush has implemented the 'AYURGYAN' scheme with the aim to of Medicine for India and enforces high ethical standards in all aspects of medical services; that is flexible to adapt to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Ayurswasthay Yojana:..This is an umbrella scheme containing of previous scheme of Ministry",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Central Council for Research in Ayurvedic Sciences:..To undertake scientific research for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "(SDG 3) of community health care and documentations of the efficacy of AYUSH systems through AYUSH",
+                    "values": {
+                        "actual_2024_25": 3.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Central Council for Research in Unani Medicine:..To undertake research on Unani medicine",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "AYUSH Oushadhi Gunvatta evum Uttpadan Samvardhan Yojana (AOGUSY):..Ayush in the areas of clinical research, drug research, literary research & survey and cultivation of medicinal plants besides,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "All India Institute of Ayurveda:..To set up benchmarks of Postgraduate & Post-Doctoral",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Central Sector Scheme for Conservation, Development and Sustainable Management of education (MD/Ph.D) in Ayurveda at National and International level.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "molecular characterization tools etc. Enhance livelihood systems based on medicinal plants for farmers, collectors and 19. Other Autonomous Bodies:..It includes provision for National Institute of Ayurveda (NIA),",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "21",
+                    "name": "National AYUSH Mission:..(i) To provide cost effective AYUSH Services with the universal",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF CHEMICALS AND FERTILISERS",
+            "items": []
+        }
+    ]
+}

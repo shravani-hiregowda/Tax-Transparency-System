@@ -1,0 +1,630 @@
+{
+    "demand_no": 43,
+    "ministry": "Ministry Of Fisheries",
+    "department": "Department Of Fisheries",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 1019.71,
+                        "capital_2024_25": 5.28,
+                        "total_2024_25": 1024.99,
+                        "budget_2025_26": 2681.05,
+                        "capital_2025_26": 22.62,
+                        "total_2025_26": 2703.67,
+                        "revised_2024_25": 1723.13,
+                        "capital_revised_2024_25": 9.82,
+                        "total_revised_2024_25": 1732.95,
+                        "budget_2026_27": 2732.27,
+                        "capital_2026_27": 29.53,
+                        "total_2026_27": 2761.8
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 27.67,
+                        "capital_2024_25": 1.7,
+                        "total_2024_25": 29.37,
+                        "budget_2025_26": 37.88,
+                        "capital_2025_26": 2.05,
+                        "total_2025_26": 39.93,
+                        "revised_2024_25": 53.45,
+                        "capital_revised_2024_25": 1.4,
+                        "total_revised_2024_25": 54.85,
+                        "budget_2026_27": 52.0,
+                        "capital_2026_27": 2.25,
+                        "total_2026_27": 54.25
+                    }
+                },
+                {
+                    "code": "1.01",
+                    "name": "Establishment Expenditure",
+                    "values": {
+                        "actual_2024_25": 27.67,
+                        "capital_2024_25": 1.7,
+                        "total_2024_25": 29.37,
+                        "budget_2025_26": 37.88,
+                        "capital_2025_26": 2.05,
+                        "total_2025_26": 39.93,
+                        "revised_2024_25": 53.45,
+                        "capital_revised_2024_25": 1.4,
+                        "total_revised_2024_25": 54.85,
+                        "budget_2026_27": 52.0,
+                        "capital_2026_27": 2.25,
+                        "total_2026_27": 54.25
+                    }
+                },
+                {
+                    "code": "1.02",
+                    "name": "International Cooperation",
+                    "values": {
+                        "actual_2024_25": 2.14,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.14,
+                        "budget_2025_26": 2.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.42,
+                        "revised_2024_25": 2.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.5,
+                        "budget_2026_27": 2.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Secretariat",
+                    "values": {
+                        "actual_2024_25": 29.81,
+                        "capital_2024_25": 1.7,
+                        "total_2024_25": 31.51,
+                        "budget_2025_26": 40.3,
+                        "capital_2025_26": 2.05,
+                        "total_2025_26": 42.35,
+                        "revised_2024_25": 55.95,
+                        "capital_revised_2024_25": 1.4,
+                        "total_revised_2024_25": 57.35,
+                        "budget_2026_27": 54.5,
+                        "capital_2026_27": 2.25,
+                        "total_2026_27": 56.75
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Fisheries Institute",
+                    "values": {
+                        "actual_2024_25": 82.07,
+                        "capital_2024_25": 3.02,
+                        "total_2024_25": 85.09,
+                        "budget_2025_26": 125.45,
+                        "capital_2025_26": 16.57,
+                        "total_2025_26": 142.02,
+                        "revised_2024_25": 117.43,
+                        "capital_revised_2024_25": 8.3,
+                        "total_revised_2024_25": 125.73,
+                        "budget_2026_27": 127.67,
+                        "capital_2026_27": 25.28,
+                        "total_2026_27": 152.95
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 111.88,
+                        "capital_2024_25": 4.72,
+                        "total_2024_25": 116.6,
+                        "budget_2025_26": 165.75,
+                        "capital_2025_26": 18.62,
+                        "total_2025_26": 184.37,
+                        "revised_2024_25": 173.38,
+                        "capital_revised_2024_25": 9.7,
+                        "total_revised_2024_25": 183.08,
+                        "budget_2026_27": 182.17,
+                        "capital_2026_27": 27.53,
+                        "total_2026_27": 209.7
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Fisheries and Aquaculture Infrastructure Development",
+                    "values": {
+                        "actual_2024_25": 18.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18.25,
+                        "budget_2025_26": 30.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": 30.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 30.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30.3
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -4.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": -4.2,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 14.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14.05,
+                        "budget_2025_26": 30.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.0,
+                        "revised_2024_25": 30.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 30.0,
+                        "budget_2026_27": 30.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 30.3
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Coastal Aquaculture Authority",
+                    "values": {
+                        "actual_2024_25": 4.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4.29,
+                        "budget_2025_26": 6.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6.3,
+                        "revised_2024_25": 5.72,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.72,
+                        "budget_2026_27": 7.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7.25
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "National Fisheries Development Board",
+                    "values": {
+                        "actual_2024_25": 11.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11.5,
+                        "budget_2025_26": 18.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 18.0,
+                        "revised_2024_25": 14.15,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14.15,
+                        "budget_2026_27": 14.55,
+                        "capital_2026_27": null,
+                        "total_2026_27": 14.55
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 15.79,
+                        "capital_2024_25": null,
+                        "total_2024_25": 15.79,
+                        "budget_2025_26": 24.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 24.3,
+                        "revised_2024_25": 19.87,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 19.87,
+                        "budget_2026_27": 21.8,
+                        "capital_2026_27": null,
+                        "total_2026_27": 21.8
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+                    "values": {
+                        "actual_2024_25": 976.72,
+                        "capital_2024_25": 0.56,
+                        "total_2024_25": 977.28,
+                        "budget_2025_26": 2461.0,
+                        "capital_2025_26": 4.0,
+                        "total_2025_26": 2465.0,
+                        "revised_2024_25": 1499.88,
+                        "capital_revised_2024_25": 0.12,
+                        "total_revised_2024_25": 1500.0,
+                        "budget_2026_27": 2498.0,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 2500.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -98.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": -98.73,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 877.99,
+                        "capital_2024_25": 0.56,
+                        "total_2024_25": 878.55,
+                        "budget_2025_26": 2461.0,
+                        "capital_2025_26": 4.0,
+                        "total_2025_26": 2465.0,
+                        "revised_2024_25": 1499.88,
+                        "capital_revised_2024_25": 0.12,
+                        "total_revised_2024_25": 1500.0,
+                        "budget_2026_27": 2498.0,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 2500.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 1019.71,
+                        "capital_2024_25": 5.28,
+                        "total_2024_25": 1024.99,
+                        "budget_2025_26": 2681.05,
+                        "capital_2025_26": 22.62,
+                        "total_2025_26": 2703.67,
+                        "revised_2024_25": 1723.13,
+                        "capital_revised_2024_25": 9.82,
+                        "total_revised_2024_25": 1732.95,
+                        "budget_2026_27": 2732.27,
+                        "capital_2026_27": 29.53,
+                        "total_2026_27": 2761.8
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Fisheries",
+                    "values": {
+                        "actual_2024_25": 445.94,
+                        "capital_2024_25": null,
+                        "total_2024_25": 445.94,
+                        "budget_2025_26": 712.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 712.25,
+                        "revised_2024_25": 618.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 618.25,
+                        "budget_2026_27": 1061.77,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1061.77
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 29.81,
+                        "capital_2024_25": null,
+                        "total_2024_25": 29.81,
+                        "budget_2025_26": 40.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40.3,
+                        "revised_2024_25": 55.95,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 55.95,
+                        "budget_2026_27": 54.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 54.5
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Fisheries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3.58,
+                        "total_2024_25": 3.58,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 20.57,
+                        "total_2025_26": 20.57,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 8.42,
+                        "total_revised_2024_25": 8.42,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 27.28,
+                        "total_2026_27": 27.28
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.7,
+                        "total_2024_25": 1.7,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.05,
+                        "total_2025_26": 2.05,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.4,
+                        "total_revised_2024_25": 1.4,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2.25,
+                        "total_2026_27": 2.25
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 475.75,
+                        "capital_2024_25": 5.28,
+                        "total_2024_25": 481.03,
+                        "budget_2025_26": 752.55,
+                        "capital_2025_26": 22.62,
+                        "total_2025_26": 775.17,
+                        "revised_2024_25": 674.2,
+                        "capital_revised_2024_25": 9.82,
+                        "total_revised_2024_25": 684.02,
+                        "budget_2026_27": 1116.27,
+                        "capital_2026_27": 29.53,
+                        "total_2026_27": 1145.8
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 255.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 255.0,
+                        "revised_2024_25": 146.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 146.0,
+                        "budget_2026_27": 255.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 255.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 508.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 508.01,
+                        "budget_2025_26": 1573.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1573.5,
+                        "revised_2024_25": 858.13,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 858.13,
+                        "budget_2026_27": 1261.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1261.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 35.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 35.95,
+                        "budget_2025_26": 100.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 100.0,
+                        "revised_2024_25": 44.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 44.8,
+                        "budget_2026_27": 100.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 543.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 543.96,
+                        "budget_2025_26": 1928.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1928.5,
+                        "revised_2024_25": 1048.93,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1048.93,
+                        "budget_2026_27": 1616.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1616.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 1019.71,
+                        "capital_2024_25": 5.28,
+                        "total_2024_25": 1024.99,
+                        "budget_2025_26": 2681.05,
+                        "capital_2025_26": 22.62,
+                        "total_2025_26": 2703.67,
+                        "revised_2024_25": 1723.13,
+                        "capital_revised_2024_25": 9.82,
+                        "total_revised_2024_25": 1732.95,
+                        "budget_2026_27": 2732.27,
+                        "capital_2026_27": 29.53,
+                        "total_2026_27": 2761.8
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment expenditure of the Secretariat, network based 7. Pradhan Mantri Matsya Sampada Yojana (PMMSY):..A scheme to bring about Blue",
+            "items": []
+        },
+        {
+            "heading": "information system at headquarters, contribution to different international bodies and payment to Department of Space Revolution through sustainable, responsible and holistic development of fisheries sector in India including welfare of",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Fisheries Institute:..The provision is for Fisheries Institutes which constitute Fisheries Survey The allocation under the scheme includes..`75 crore in RE 2025-26 and..`75 crore in BE 2026-",
+                    "values": {
+                        "actual_2024_25": 27.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Fisheries and Aquaculture Infrastructure Development Fund (FIDF):..The provision is for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "5. Coastal Aquaculture Authority:..The provision is for establishment related expenditure of the",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "National Fisheries Development Board:..The provision is for the establishment related",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure of the National Fisheries Development Board situated at Hyderabad and different schemes implemented",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",
+            "items": []
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "demand_no": 58,
+    "ministry": "Ministry Of Home Affairs",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Transfers to Jammu and Kashmir",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 46000.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 46000.06,
+                        "budget_2025_26": 41000.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41000.07,
+                        "revised_2024_25": 41340.22,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 41340.22,
+                        "budget_2026_27": 43290.29,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43290.29
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Other Grants/Loans/Transfers",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Grants towards contribution to Union Territory Disaster",
+                    "values": {
+                        "actual_2024_25": 279.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 279.0,
+                        "budget_2025_26": 279.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 279.0,
+                        "revised_2024_25": 279.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 279.0,
+                        "budget_2026_27": 279.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 279.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Central Assistance to Union Territories",
+                    "values": {
+                        "actual_2024_25": 45278.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 45278.07,
+                        "budget_2025_26": 40619.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 40619.3,
+                        "revised_2024_25": 40619.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 40619.3,
+                        "budget_2026_27": 42650.27,
+                        "capital_2026_27": null,
+                        "total_2026_27": 42650.27
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Grants towards equity contribution for 624 MW Kiru HEP",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 154.81,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 154.81,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Grant towards JTFRP-EAP",
+                    "values": {
+                        "actual_2024_25": 170.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 170.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 185.34,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 185.34,
+                        "budget_2026_27": 259.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 259.25
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Support for Capital Expenditure of UT",
+                    "values": {
+                        "actual_2024_25": 101.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": 101.77,
+                        "budget_2025_26": 101.77,
+                        "capital_2025_26": null,
+                        "total_2025_26": 101.77,
+                        "revised_2024_25": 101.77,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 101.77,
+                        "budget_2026_27": 101.77,
+                        "capital_2026_27": null,
+                        "total_2026_27": 101.77
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants for equity contribution for 540MW KWR HEP",
+                    "values": {
+                        "actual_2024_25": 171.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": 171.22,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Grants/Loans/Transfers",
+                    "values": {
+                        "actual_2024_25": 46000.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 46000.06,
+                        "budget_2025_26": 41000.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41000.07,
+                        "revised_2024_25": 41340.22,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 41340.22,
+                        "budget_2026_27": 43290.29,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43290.29
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 46000.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 46000.06,
+                        "budget_2025_26": 41000.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41000.07,
+                        "revised_2024_25": 41340.22,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 41340.22,
+                        "budget_2026_27": 43290.29,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43290.29
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 46000.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 46000.06,
+                        "budget_2025_26": 41000.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41000.07,
+                        "revised_2024_25": 41340.22,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 41340.22,
+                        "budget_2026_27": 43290.29,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43290.29
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 46000.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 46000.06,
+                        "budget_2025_26": 41000.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41000.07,
+                        "revised_2024_25": 41340.22,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 41340.22,
+                        "budget_2026_27": 43290.29,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43290.29
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 46000.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 46000.06,
+                        "budget_2025_26": 41000.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41000.07,
+                        "revised_2024_25": 41340.22,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 41340.22,
+                        "budget_2026_27": 43290.29,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43290.29
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "1",
+                    "name": "Grants towards contribution to Union Territory Disaster Response Fund:..Provision is for 3. Grants towards equity contribution for",
+                    "values": {
+                        "actual_2024_25": 624.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "2. Central Assistance to Union Territories:..Provision is to assist UT of Jammu and Kashmir to 4. Grant towards JTFRP-EAP:..Provision is to meet the expenditure on account of Jhelum Tavi",
+            "items": []
+        },
+        {
+            "heading": "5. Support for Capital Expenditure of UT:..Provision is to meet resource gap funding for",
+            "items": []
+        },
+        {
+            "heading": "infrastructure projects facilitating creation of durable capital assets, promoting economic growth and employment.",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Grants for equity contribution for 540MW KWR HEP:..Provision is to provide equity",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF HOME AFFAIRS",
+            "items": []
+        }
+    ]
+}

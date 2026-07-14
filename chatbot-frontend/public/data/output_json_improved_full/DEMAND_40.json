@@ -1,0 +1,479 @@
+{
+    "demand_no": 40,
+    "ministry": "Ministry Of Finance",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Internal Debt of Central Government",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 596582.74,
+                        "total_2024_25": 596582.74,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 395666.06,
+                        "total_2025_26": 395666.06,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 395665.95,
+                        "total_revised_2024_25": 395665.95,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 546790.21,
+                        "total_2026_27": 546790.21
+                    }
+                },
+                {
+                    "code": "1.01",
+                    "name": "Market Loans",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 596582.74,
+                        "total_2024_25": 596582.74,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 395666.06,
+                        "total_2025_26": 395666.06,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 395665.95,
+                        "total_revised_2024_25": 395665.95,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 546790.21,
+                        "total_2026_27": 546790.21
+                    }
+                },
+                {
+                    "code": "1.02",
+                    "name": "Buyback / Switching",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 250000.0,
+                        "total_2025_26": 250000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 250879.06,
+                        "total_revised_2024_25": 250879.06,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 250000.0,
+                        "total_2026_27": 250000.0
+                    }
+                },
+                {
+                    "code": "1.07",
+                    "name": "Cash Management Bills",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 50000.0,
+                        "total_2025_26": 50000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 50000.0,
+                        "total_2026_27": 50000.0
+                    }
+                },
+                {
+                    "code": "1.08",
+                    "name": "Ways and Means Advances",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 52254.0,
+                        "total_2024_25": 52254.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 500000.0,
+                        "total_2025_26": 500000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1674.0,
+                        "total_revised_2024_25": 1674.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 500000.0,
+                        "total_2026_27": 500000.0
+                    }
+                },
+                {
+                    "code": "1.09",
+                    "name": "Redemption of securities issued to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7154.28,
+                        "total_2024_25": 7154.28,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7776.91,
+                        "total_2025_26": 7776.91,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7707.02,
+                        "total_revised_2024_25": 7707.02,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7836.83,
+                        "total_2026_27": 7836.83
+                    }
+                },
+                {
+                    "code": "1.10",
+                    "name": "Compensation and Other Bonds",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1434.24,
+                        "total_2024_25": 1434.24,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3115.92,
+                        "total_2025_26": 3115.92,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3048.76,
+                        "total_revised_2024_25": 3048.76,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 6827.35,
+                        "total_2026_27": 6827.35
+                    }
+                },
+                {
+                    "code": "1.11",
+                    "name": "Redemption of Securities issued to NSSF",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 340484.61,
+                        "total_2024_25": 340484.61,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 279509.04,
+                        "total_2025_26": 279509.04,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 280538.76,
+                        "total_revised_2024_25": 280538.76,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 349283.24,
+                        "total_2026_27": 349283.24
+                    }
+                },
+                {
+                    "code": "1.13",
+                    "name": "Gold Monetization Scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 44.43,
+                        "total_2024_25": 44.43,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 145.28,
+                        "total_2025_26": 145.28,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1061.0,
+                        "total_revised_2024_25": 1061.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 355.76,
+                        "total_2026_27": 355.76
+                    }
+                },
+                {
+                    "code": "1.14",
+                    "name": "Sovereign Gold Bond Scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8124.42,
+                        "total_2024_25": 8124.42,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5510.34,
+                        "total_2025_26": 5510.34,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 7109.65,
+                        "total_revised_2024_25": 7109.65,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4290.58,
+                        "total_2026_27": 4290.58
+                    }
+                },
+                {
+                    "code": "1.15",
+                    "name": "Less Receipts",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -8445340.87,
+                        "total_2024_25": -8445340.87,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -8973259.71,
+                        "total_2025_26": -8973259.71,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -8108406.82,
+                        "total_revised_2024_25": -8108406.82,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -9459383.97,
+                        "total_2026_27": -9459383.97
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -0.01,
+                        "total_2024_25": -0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "External Debt",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 55438.04,
+                        "total_2024_25": 55438.04,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 65388.45,
+                        "total_2025_26": 65388.45,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 68651.8,
+                        "total_revised_2024_25": 68651.8,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 75061.91,
+                        "total_2026_27": 75061.91
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 55438.04,
+                        "total_2024_25": 55438.04,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 65388.45,
+                        "total_2025_26": 65388.45,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 68651.8,
+                        "total_revised_2024_25": 68651.8,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 75061.91,
+                        "total_2026_27": 75061.91
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Less Receipts",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -55438.03,
+                        "total_2024_25": -55438.03,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -65388.45,
+                        "total_2025_26": -65388.45,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -68651.8,
+                        "total_revised_2024_25": -68651.8,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -75061.91,
+                        "total_2026_27": -75061.91
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Internal Debt of Central Government",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -0.01,
+                        "total_2024_25": -0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "External Debt",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 0.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF FINANCE",
+            "items": []
+        }
+    ]
+}

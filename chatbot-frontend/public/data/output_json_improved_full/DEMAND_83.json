@@ -1,0 +1,205 @@
+{
+    "demand_no": 83,
+    "ministry": null,
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 10.68,
+                        "capital_2024_25": 0.29,
+                        "total_2024_25": 10.97,
+                        "budget_2025_26": 12.11,
+                        "capital_2025_26": 0.31,
+                        "total_2025_26": 12.42,
+                        "revised_2024_25": 11.98,
+                        "capital_revised_2024_25": 0.16,
+                        "total_revised_2024_25": 12.14,
+                        "budget_2026_27": 11.39,
+                        "capital_2026_27": 0.31,
+                        "total_2026_27": 11.7
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 10.61,
+                        "capital_2024_25": 0.29,
+                        "total_2024_25": 10.9,
+                        "budget_2025_26": 12.04,
+                        "capital_2025_26": 0.31,
+                        "total_2025_26": 12.35,
+                        "revised_2024_25": 11.91,
+                        "capital_revised_2024_25": 0.16,
+                        "total_revised_2024_25": 12.07,
+                        "budget_2026_27": 11.32,
+                        "capital_2026_27": 0.31,
+                        "total_2026_27": 11.63
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Others",
+                    "values": {
+                        "actual_2024_25": 0.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.07,
+                        "budget_2025_26": 0.07,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.07,
+                        "revised_2024_25": 0.07,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.07,
+                        "budget_2026_27": 0.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.07
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 10.68,
+                        "capital_2024_25": 0.29,
+                        "total_2024_25": 10.97,
+                        "budget_2025_26": 12.11,
+                        "capital_2025_26": 0.31,
+                        "total_2025_26": 12.42,
+                        "revised_2024_25": 11.98,
+                        "capital_revised_2024_25": 0.16,
+                        "total_revised_2024_25": 12.14,
+                        "budget_2026_27": 11.39,
+                        "capital_2026_27": 0.31,
+                        "total_2026_27": 11.7
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 10.68,
+                        "capital_2024_25": 0.29,
+                        "total_2024_25": 10.97,
+                        "budget_2025_26": 12.11,
+                        "capital_2025_26": 0.31,
+                        "total_2025_26": 12.42,
+                        "revised_2024_25": 11.98,
+                        "capital_revised_2024_25": 0.16,
+                        "total_revised_2024_25": 12.14,
+                        "budget_2026_27": 11.39,
+                        "capital_2026_27": 0.31,
+                        "total_2026_27": 11.7
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "President, Vice President/Governor, Administrator of",
+                    "values": {
+                        "actual_2024_25": 10.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10.68,
+                        "budget_2025_26": 12.11,
+                        "capital_2025_26": null,
+                        "total_2025_26": 12.11,
+                        "revised_2024_25": 11.98,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11.98,
+                        "budget_2026_27": 11.39,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11.39
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay on Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.29,
+                        "total_2024_25": 0.29,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.31,
+                        "total_2025_26": 0.31,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.16,
+                        "total_revised_2024_25": 0.16,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.31,
+                        "total_2026_27": 0.31
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 10.68,
+                        "capital_2024_25": 0.29,
+                        "total_2024_25": 10.97,
+                        "budget_2025_26": 12.11,
+                        "capital_2025_26": 0.31,
+                        "total_2025_26": 12.42,
+                        "revised_2024_25": 11.98,
+                        "capital_revised_2024_25": 0.16,
+                        "total_revised_2024_25": 12.14,
+                        "budget_2026_27": 11.39,
+                        "capital_2026_27": 0.31,
+                        "total_2026_27": 11.7
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 10.68,
+                        "capital_2024_25": 0.29,
+                        "total_2024_25": 10.97,
+                        "budget_2025_26": 12.11,
+                        "capital_2025_26": 0.31,
+                        "total_2025_26": 12.42,
+                        "revised_2024_25": 11.98,
+                        "capital_revised_2024_25": 0.16,
+                        "total_revised_2024_25": 12.14,
+                        "budget_2026_27": 11.39,
+                        "capital_2026_27": 0.31,
+                        "total_2026_27": 11.7
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for expenditure on the staff and officers of the Vice President's",
+            "items": []
+        },
+        {
+            "heading": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
+            "items": []
+        }
+    ]
+}

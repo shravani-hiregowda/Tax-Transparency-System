@@ -1,0 +1,331 @@
+{
+    "demand_no": 31,
+    "ministry": "Ministry Of Finance",
+    "department": "Department Of Expenditure",
+    "sections": [
+        {
+            "heading": "Department of Expenditure",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 439.37,
+                        "capital_2024_25": 47.48,
+                        "total_2024_25": 486.85,
+                        "budget_2025_26": 540.52,
+                        "capital_2025_26": 63.31,
+                        "total_2025_26": 603.83,
+                        "revised_2024_25": 449.16,
+                        "capital_revised_2024_25": 61.71,
+                        "total_revised_2024_25": 510.87,
+                        "budget_2026_27": 451.4,
+                        "capital_2026_27": 74.13,
+                        "total_2026_27": 525.53
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat General Services",
+                    "values": {
+                        "actual_2024_25": 386.42,
+                        "capital_2024_25": 46.79,
+                        "total_2024_25": 433.21,
+                        "budget_2025_26": 496.27,
+                        "capital_2025_26": 62.37,
+                        "total_2025_26": 558.64,
+                        "revised_2024_25": 419.97,
+                        "capital_revised_2024_25": 60.1,
+                        "total_revised_2024_25": 480.07,
+                        "budget_2026_27": 404.89,
+                        "capital_2026_27": 71.0,
+                        "total_2026_27": 475.89
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Institute of Government Accounts and Finance",
+                    "values": {
+                        "actual_2024_25": 9.18,
+                        "capital_2024_25": 0.69,
+                        "total_2024_25": 9.87,
+                        "budget_2025_26": 12.86,
+                        "capital_2025_26": 0.94,
+                        "total_2025_26": 13.8,
+                        "revised_2024_25": 13.24,
+                        "capital_revised_2024_25": 1.61,
+                        "total_revised_2024_25": 14.85,
+                        "budget_2026_27": 14.25,
+                        "capital_2026_27": 1.03,
+                        "total_2026_27": 15.28
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "NSDL Charges for New Pension Scheme",
+                    "values": {
+                        "actual_2024_25": 32.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": 32.71,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "8th Central Pay Commission",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 20.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.2,
+                        "revised_2024_25": 6.74,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.74,
+                        "budget_2026_27": 21.32,
+                        "capital_2026_27": 2.1,
+                        "total_2026_27": 23.42
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -0.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.22,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 428.09,
+                        "capital_2024_25": 47.48,
+                        "total_2024_25": 475.57,
+                        "budget_2025_26": 529.33,
+                        "capital_2025_26": 63.31,
+                        "total_2025_26": 592.64,
+                        "revised_2024_25": 439.95,
+                        "capital_revised_2024_25": 61.71,
+                        "total_revised_2024_25": 501.66,
+                        "budget_2026_27": 440.46,
+                        "capital_2026_27": 74.13,
+                        "total_2026_27": 514.59
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "National Institute of Financial Management",
+                    "values": {
+                        "actual_2024_25": 11.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11.28,
+                        "budget_2025_26": 11.19,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11.19,
+                        "revised_2024_25": 9.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9.21,
+                        "budget_2026_27": 10.94,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.94
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 439.37,
+                        "capital_2024_25": 47.48,
+                        "total_2024_25": 486.85,
+                        "budget_2025_26": 540.52,
+                        "capital_2025_26": 63.31,
+                        "total_2025_26": 603.83,
+                        "revised_2024_25": 449.16,
+                        "capital_revised_2024_25": 61.71,
+                        "total_revised_2024_25": 510.87,
+                        "budget_2026_27": 451.4,
+                        "capital_2026_27": 74.13,
+                        "total_2026_27": 525.53
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat-General Services",
+                    "values": {
+                        "actual_2024_25": 386.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 386.2,
+                        "budget_2025_26": 496.27,
+                        "capital_2025_26": null,
+                        "total_2025_26": 496.27,
+                        "revised_2024_25": 419.97,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 419.97,
+                        "budget_2026_27": 404.89,
+                        "capital_2026_27": null,
+                        "total_2026_27": 404.89
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": 53.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": 53.17,
+                        "budget_2025_26": 44.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 44.25,
+                        "revised_2024_25": 29.19,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 29.19,
+                        "budget_2026_27": 46.51,
+                        "capital_2026_27": null,
+                        "total_2026_27": 46.51
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 47.48,
+                        "total_2024_25": 47.48,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 63.31,
+                        "total_2025_26": 63.31,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 61.71,
+                        "total_revised_2024_25": 61.71,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 74.13,
+                        "total_2026_27": 74.13
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 439.37,
+                        "capital_2024_25": 47.48,
+                        "total_2024_25": 486.85,
+                        "budget_2025_26": 540.52,
+                        "capital_2025_26": 63.31,
+                        "total_2025_26": 603.83,
+                        "revised_2024_25": 449.16,
+                        "capital_revised_2024_25": 61.71,
+                        "total_revised_2024_25": 510.87,
+                        "budget_2026_27": 451.4,
+                        "capital_2026_27": 74.13,
+                        "total_2026_27": 525.53
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 439.37,
+                        "capital_2024_25": 47.48,
+                        "total_2024_25": 486.85,
+                        "budget_2025_26": 540.52,
+                        "capital_2025_26": 63.31,
+                        "total_2025_26": 603.83,
+                        "revised_2024_25": 449.16,
+                        "capital_revised_2024_25": 61.71,
+                        "total_revised_2024_25": 510.87,
+                        "budget_2026_27": 451.4,
+                        "capital_2026_27": 74.13,
+                        "total_2026_27": 525.53
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat General Services:..The provision is for secretariat expenditure of the Department",
+            "items": []
+        },
+        {
+            "heading": "of Expenditure including the office of the Controller General of Accounts and towards public works for the new",
+            "items": []
+        },
+        {
+            "heading": "2. Institute of Government Accounts and Finance:..The provision is for expenditure on",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "National Institute of Financial Management:..The provision is for reimbursement of fees",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF FINANCE",
+            "items": []
+        }
+    ]
+}

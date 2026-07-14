@@ -1,0 +1,327 @@
+{
+    "demand_no": 81,
+    "ministry": null,
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 669.72,
+                        "capital_2024_25": 25.82,
+                        "total_2024_25": 695.54,
+                        "budget_2025_26": 878.1,
+                        "capital_2025_26": 24.9,
+                        "total_2025_26": 903.0,
+                        "revised_2024_25": 893.05,
+                        "capital_revised_2024_25": 29.95,
+                        "total_revised_2024_25": 923.0,
+                        "budget_2026_27": 978.17,
+                        "capital_2026_27": 30.83,
+                        "total_2026_27": 1009.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Speaker and Deputy Speaker",
+                    "values": {
+                        "actual_2024_25": 0.52,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.52,
+                        "budget_2025_26": 1.56,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.56,
+                        "revised_2024_25": 1.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.3,
+                        "budget_2026_27": 1.56,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.56
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Members",
+                    "values": {
+                        "actual_2024_25": 208.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": 208.46,
+                        "budget_2025_26": 338.79,
+                        "capital_2025_26": null,
+                        "total_2025_26": 338.79,
+                        "revised_2024_25": 363.26,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 363.26,
+                        "budget_2026_27": 416.45,
+                        "capital_2026_27": null,
+                        "total_2026_27": 416.45
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 458.72,
+                        "capital_2024_25": 25.82,
+                        "total_2024_25": 484.54,
+                        "budget_2025_26": 533.91,
+                        "capital_2025_26": 24.9,
+                        "total_2025_26": 558.81,
+                        "revised_2024_25": 524.18,
+                        "capital_revised_2024_25": 29.95,
+                        "total_revised_2024_25": 554.13,
+                        "budget_2026_27": 555.2,
+                        "capital_2026_27": 30.83,
+                        "total_2026_27": 586.03
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Secretariat (Chief Whips)",
+                    "values": {
+                        "actual_2024_25": 0.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.32,
+                        "budget_2025_26": 0.34,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.34,
+                        "revised_2024_25": 0.71,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.71,
+                        "budget_2026_27": 0.71,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.71
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Other Expenditure",
+                    "values": {
+                        "actual_2024_25": 2.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.62,
+                        "budget_2025_26": 3.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.5,
+                        "revised_2024_25": 3.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.6,
+                        "budget_2026_27": 4.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4.25
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Actual Recoveies",
+                    "values": {
+                        "actual_2024_25": -0.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.92,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 669.72,
+                        "capital_2024_25": 25.82,
+                        "total_2024_25": 695.54,
+                        "budget_2025_26": 878.1,
+                        "capital_2025_26": 24.9,
+                        "total_2025_26": 903.0,
+                        "revised_2024_25": 893.05,
+                        "capital_revised_2024_25": 29.95,
+                        "total_revised_2024_25": 923.0,
+                        "budget_2026_27": 978.17,
+                        "capital_2026_27": 30.83,
+                        "total_2026_27": 1009.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 669.72,
+                        "capital_2024_25": 25.82,
+                        "total_2024_25": 695.54,
+                        "budget_2025_26": 878.1,
+                        "capital_2025_26": 24.9,
+                        "total_2025_26": 903.0,
+                        "revised_2024_25": 893.05,
+                        "capital_revised_2024_25": 29.95,
+                        "total_revised_2024_25": 923.0,
+                        "budget_2026_27": 978.17,
+                        "capital_2026_27": 30.83,
+                        "total_2026_27": 1009.0
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Parliament/State/Union Territory Legislatures",
+                    "values": {
+                        "actual_2024_25": 669.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 669.72,
+                        "budget_2025_26": 878.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 878.1,
+                        "revised_2024_25": 893.05,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 893.05,
+                        "budget_2026_27": 978.17,
+                        "capital_2026_27": null,
+                        "total_2026_27": 978.17
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Capital Outlay on Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 25.82,
+                        "total_2024_25": 25.82,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 24.9,
+                        "total_2025_26": 24.9,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 29.95,
+                        "total_revised_2024_25": 29.95,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 30.83,
+                        "total_2026_27": 30.83
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 669.72,
+                        "capital_2024_25": 25.82,
+                        "total_2024_25": 695.54,
+                        "budget_2025_26": 878.1,
+                        "capital_2025_26": 24.9,
+                        "total_2025_26": 903.0,
+                        "revised_2024_25": 893.05,
+                        "capital_revised_2024_25": 29.95,
+                        "total_revised_2024_25": 923.0,
+                        "budget_2026_27": 978.17,
+                        "capital_2026_27": 30.83,
+                        "total_2026_27": 1009.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 669.72,
+                        "capital_2024_25": 25.82,
+                        "total_2024_25": 695.54,
+                        "budget_2025_26": 878.1,
+                        "capital_2025_26": 24.9,
+                        "total_2025_26": 903.0,
+                        "revised_2024_25": 893.05,
+                        "capital_revised_2024_25": 29.95,
+                        "total_revised_2024_25": 923.0,
+                        "budget_2026_27": 978.17,
+                        "capital_2026_27": 30.83,
+                        "total_2026_27": 1009.0
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Speaker and Deputy Speaker:..The provision is for the salaries and allowances etc. of the 2. Members:..This includes expenditure provision for salaries and allowances of Members of",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Secretariat:..The provision is for the salaries of the staff and officers, establishment related",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "needs, , Grants-in-Aid and expenditure on the Sansad TV.",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Secretariat (Chief Whips):..The provision is for the salaries and allowances in respect of the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "5. Other Expenditure:..The provision is for the annual membership fee towards the contributions",
+            "items": []
+        },
+        {
+            "heading": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
+            "items": []
+        }
+    ]
+}

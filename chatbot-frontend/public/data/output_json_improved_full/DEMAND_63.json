@@ -1,0 +1,842 @@
+{
+    "demand_no": 63,
+    "ministry": "Ministry Of Jal Shakti",
+    "department": "Department Of Drinking Water And Sanitation",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 25851.75,
+                        "capital_2024_25": 1.5,
+                        "total_2024_25": 25853.25,
+                        "budget_2025_26": 74224.82,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 74226.02,
+                        "revised_2024_25": 23029.88,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 23031.08,
+                        "budget_2026_27": 74893.66,
+                        "capital_2026_27": 1.2,
+                        "total_2026_27": 74894.86
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 28.82,
+                        "capital_2024_25": 1.5,
+                        "total_2024_25": 30.32,
+                        "budget_2025_26": 32.82,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 34.02,
+                        "revised_2024_25": 29.88,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 31.08,
+                        "budget_2026_27": 31.66,
+                        "capital_2026_27": 1.2,
+                        "total_2026_27": 32.86
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.02,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 28.8,
+                        "capital_2024_25": 1.5,
+                        "total_2024_25": 30.3,
+                        "budget_2025_26": 32.82,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 34.02,
+                        "revised_2024_25": 29.88,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 31.08,
+                        "budget_2026_27": 31.66,
+                        "capital_2026_27": 1.2,
+                        "total_2026_27": 32.86
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Jal Jeevan Mission (JJM)",
+                    "values": {
+                        "actual_2024_25": 6.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6.15,
+                        "budget_2025_26": 89.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 89.53,
+                        "revised_2024_25": 12.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12.0,
+                        "budget_2026_27": 132.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 132.0
+                    }
+                },
+                {
+                    "code": "3.01",
+                    "name": "Dr. Syama Prasad Mookerjee National Institute",
+                    "values": {
+                        "actual_2024_25": 6.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6.15,
+                        "budget_2025_26": 89.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 89.53,
+                        "revised_2024_25": 12.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12.0,
+                        "budget_2026_27": 132.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 132.0
+                    }
+                },
+                {
+                    "code": "3.02",
+                    "name": "Mission Management",
+                    "values": {
+                        "actual_2024_25": 3.14,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.14,
+                        "budget_2025_26": 13.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 13.5,
+                        "revised_2024_25": 6.75,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.75,
+                        "budget_2026_27": 19.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 19.0
+                    }
+                },
+                {
+                    "code": "3.03",
+                    "name": "Assistance to Institutions etc.",
+                    "values": {
+                        "actual_2024_25": 0.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.01,
+                        "budget_2025_26": 5.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 0.05,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.05,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": "3.04",
+                    "name": "Conference, Seminars, Exhibitions",
+                    "values": {
+                        "actual_2024_25": 1.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.16,
+                        "budget_2025_26": 2.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": 1.78,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.78,
+                        "budget_2026_27": 2.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": "3.05",
+                    "name": "Human Resource Development",
+                    "values": {
+                        "actual_2024_25": 7.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.09,
+                        "budget_2025_26": 2.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": 1.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.1,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "3.06",
+                    "name": "Monitoring and Evaluation",
+                    "values": {
+                        "actual_2024_25": 15.13,
+                        "capital_2024_25": null,
+                        "total_2024_25": 15.13,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 27.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 27.0
+                    }
+                },
+                {
+                    "code": "3.07",
+                    "name": "Information, Education and Communication",
+                    "values": {
+                        "actual_2024_25": 21.83,
+                        "capital_2024_25": null,
+                        "total_2024_25": 21.83,
+                        "budget_2025_26": 80.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 80.0,
+                        "revised_2024_25": 0.38,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.38,
+                        "budget_2026_27": 80.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 80.0
+                    }
+                },
+                {
+                    "code": "3.08",
+                    "name": "Management Information System",
+                    "values": {
+                        "actual_2024_25": 6.09,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6.09,
+                        "budget_2025_26": 11.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11.0,
+                        "revised_2024_25": 8.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8.0,
+                        "budget_2026_27": 12.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 12.0
+                    }
+                },
+                {
+                    "code": "3.09",
+                    "name": "Research",
+                    "values": {
+                        "actual_2024_25": 0.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.16,
+                        "budget_2025_26": 1.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 1.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.0
+                    }
+                },
+                {
+                    "code": "3.10",
+                    "name": "National Project Management Unit (NPMU)",
+                    "values": {
+                        "actual_2024_25": 14.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14.08,
+                        "budget_2025_26": 15.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15.5,
+                        "revised_2024_25": 15.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 15.5,
+                        "budget_2026_27": 18.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 18.5
+                    }
+                },
+                {
+                    "code": "3.11",
+                    "name": "Jal Jeevan Mission/National Rural Drinking",
+                    "values": {
+                        "actual_2024_25": 22540.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22540.21,
+                        "budget_2025_26": 66770.47,
+                        "capital_2025_26": null,
+                        "total_2025_26": 66770.47,
+                        "revised_2024_25": 16944.44,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 16944.44,
+                        "budget_2026_27": 67363.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 67363.5
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total- Jal Jeevan Mission (JJM)",
+                    "values": {
+                        "actual_2024_25": 22615.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": 22615.05,
+                        "budget_2025_26": 67000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 67000.0,
+                        "revised_2024_25": 17000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17000.0,
+                        "budget_2026_27": 67670.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 67670.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "SBM-Grameen",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.0,
+                        "revised_2024_25": 0.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.5,
+                        "budget_2026_27": 1.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.0
+                    }
+                },
+                {
+                    "code": "4.01",
+                    "name": "Monitoring and Evaluation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.0,
+                        "revised_2024_25": 0.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.5,
+                        "budget_2026_27": 1.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.0
+                    }
+                },
+                {
+                    "code": "4.02",
+                    "name": "Human Resource Development",
+                    "values": {
+                        "actual_2024_25": 0.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.55,
+                        "budget_2025_26": 3.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.0,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 2.45,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.45
+                    }
+                },
+                {
+                    "code": "4.03",
+                    "name": "Research",
+                    "values": {
+                        "actual_2024_25": 0.18,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.18,
+                        "budget_2025_26": 5.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.3,
+                        "revised_2024_25": 1.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.3,
+                        "budget_2026_27": 5.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.3
+                    }
+                },
+                {
+                    "code": "4.04",
+                    "name": "Information-Education and Communication",
+                    "values": {
+                        "actual_2024_25": 33.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 33.86,
+                        "budget_2025_26": 87.79,
+                        "capital_2025_26": null,
+                        "total_2025_26": 87.79,
+                        "revised_2024_25": 87.79,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 87.79,
+                        "budget_2026_27": 87.79,
+                        "capital_2026_27": null,
+                        "total_2026_27": 87.79
+                    }
+                },
+                {
+                    "code": "4.05",
+                    "name": "Management Information System and",
+                    "values": {
+                        "actual_2024_25": 1.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.37,
+                        "budget_2025_26": 4.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4.0,
+                        "revised_2024_25": 4.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4.0,
+                        "budget_2026_27": 6.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.0
+                    }
+                },
+                {
+                    "code": "4.06",
+                    "name": "Professional Services",
+                    "values": {
+                        "actual_2024_25": 5.19,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.19,
+                        "budget_2025_26": 7.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7.9,
+                        "revised_2024_25": 7.9,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7.9,
+                        "budget_2026_27": 7.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7.9
+                    }
+                },
+                {
+                    "code": "4.07",
+                    "name": "Interest on Loan",
+                    "values": {
+                        "actual_2024_25": 1032.59,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1032.59,
+                        "budget_2025_26": 1033.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1033.3,
+                        "revised_2024_25": 1033.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1033.3,
+                        "budget_2026_27": 1033.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1033.3
+                    }
+                },
+                {
+                    "code": "4.08",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 2539.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2539.55,
+                        "budget_2025_26": 6049.71,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6049.71,
+                        "revised_2024_25": 4864.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4864.21,
+                        "budget_2026_27": 6048.26,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6048.26
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- SBM-Grameen",
+                    "values": {
+                        "actual_2024_25": 3613.29,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3613.29,
+                        "budget_2025_26": 7192.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7192.0,
+                        "revised_2024_25": 6000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6000.0,
+                        "budget_2026_27": 7192.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7192.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "Actual Recoveries (CSS)",
+                    "values": {
+                        "actual_2024_25": -405.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": -405.39,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 25822.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 25822.95,
+                        "budget_2025_26": 74192.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 74192.0,
+                        "revised_2024_25": 23000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 23000.0,
+                        "budget_2026_27": 74862.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 74862.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 25851.75,
+                        "capital_2024_25": 1.5,
+                        "total_2024_25": 25853.25,
+                        "budget_2025_26": 74224.82,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 74226.02,
+                        "revised_2024_25": 23029.88,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 23031.08,
+                        "budget_2026_27": 74893.66,
+                        "capital_2026_27": 1.2,
+                        "total_2026_27": 74894.86
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Water Supply and Sanitation",
+                    "values": {
+                        "actual_2024_25": 23690.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 23690.21,
+                        "budget_2025_26": 2630.94,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2630.94,
+                        "revised_2024_25": 1438.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1438.62,
+                        "budget_2026_27": 2232.75,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2232.75
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 23690.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": 23690.21,
+                        "budget_2025_26": 2630.94,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2630.94,
+                        "revised_2024_25": 1438.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1438.62,
+                        "budget_2026_27": 2232.75,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2232.75
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 28.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": 28.8,
+                        "budget_2025_26": 32.82,
+                        "capital_2025_26": null,
+                        "total_2025_26": 32.82,
+                        "revised_2024_25": 29.88,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 29.88,
+                        "budget_2026_27": 31.66,
+                        "capital_2026_27": null,
+                        "total_2026_27": 31.66
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1.5,
+                        "total_2024_25": 1.5,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 1.2,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 1.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.2,
+                        "total_2026_27": 1.2
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 28.8,
+                        "capital_2024_25": 1.5,
+                        "total_2024_25": 30.3,
+                        "budget_2025_26": 32.82,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 34.02,
+                        "revised_2024_25": 29.88,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 31.08,
+                        "budget_2026_27": 31.66,
+                        "capital_2026_27": 1.2,
+                        "total_2026_27": 32.86
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 6828.59,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6828.59,
+                        "revised_2024_25": 2196.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2196.7,
+                        "budget_2026_27": 7382.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7382.9
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 1947.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1947.74,
+                        "budget_2025_26": 62594.96,
+                        "capital_2025_26": null,
+                        "total_2025_26": 62594.96,
+                        "revised_2024_25": 18686.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 18686.02,
+                        "budget_2026_27": 63089.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 63089.97
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": 185.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 185.0,
+                        "budget_2025_26": 2137.51,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2137.51,
+                        "revised_2024_25": 678.66,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 678.66,
+                        "budget_2026_27": 2156.38,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2156.38
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 2132.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2132.74,
+                        "budget_2025_26": 71561.06,
+                        "capital_2025_26": null,
+                        "total_2025_26": 71561.06,
+                        "revised_2024_25": 21561.38,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 21561.38,
+                        "budget_2026_27": 72629.25,
+                        "capital_2026_27": null,
+                        "total_2026_27": 72629.25
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 25851.75,
+                        "capital_2024_25": 1.5,
+                        "total_2024_25": 25853.25,
+                        "budget_2025_26": 74224.82,
+                        "capital_2025_26": 1.2,
+                        "total_2025_26": 74226.02,
+                        "revised_2024_25": 23029.88,
+                        "capital_revised_2024_25": 1.2,
+                        "total_revised_2024_25": 23031.08,
+                        "budget_2026_27": 74893.66,
+                        "capital_2026_27": 1.2,
+                        "total_2026_27": 74894.86
+                    },
+                    "type": "grand_total"
+                },
+                {
+                    "code": "1",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 1.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Secretariat:..The provision is for Secretariat expenditure of the Department of Drinking Water f",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Jal Jeevan Mission (JJM):..Jal Jeevan Mission is a flagship programme of the Government of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "SBM-Grameen:..The government continues to give utmost importance for supplementing the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF LABOUR AND EMPLOYMENT",
+            "items": []
+        }
+    ]
+}

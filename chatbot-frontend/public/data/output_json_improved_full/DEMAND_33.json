@@ -1,0 +1,441 @@
+{
+    "demand_no": 33,
+    "ministry": "Ministry Of Finance",
+    "department": "Department Of Public Enterprises",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 21.17,
+                        "capital_2024_25": 0.64,
+                        "total_2024_25": 21.81,
+                        "budget_2025_26": 28.6,
+                        "capital_2025_26": 0.57,
+                        "total_2025_26": 29.17,
+                        "revised_2024_25": 26.69,
+                        "capital_revised_2024_25": 0.57,
+                        "total_revised_2024_25": 27.26,
+                        "budget_2026_27": 28.94,
+                        "capital_2026_27": 0.66,
+                        "total_2026_27": 29.6
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 18.49,
+                        "capital_2024_25": 0.64,
+                        "total_2024_25": 19.13,
+                        "budget_2025_26": 22.11,
+                        "capital_2025_26": 0.57,
+                        "total_2025_26": 22.68,
+                        "revised_2024_25": 20.2,
+                        "capital_revised_2024_25": 0.57,
+                        "total_revised_2024_25": 20.77,
+                        "budget_2026_27": 22.19,
+                        "capital_2026_27": 0.66,
+                        "total_2026_27": 22.85
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.02,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 18.47,
+                        "capital_2024_25": 0.64,
+                        "total_2024_25": 19.11,
+                        "budget_2025_26": 22.11,
+                        "capital_2025_26": 0.57,
+                        "total_2025_26": 22.68,
+                        "revised_2024_25": 20.2,
+                        "capital_revised_2024_25": 0.57,
+                        "total_revised_2024_25": 20.77,
+                        "budget_2026_27": 22.19,
+                        "capital_2026_27": 0.66,
+                        "total_2026_27": 22.85
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Counselling, Retraining and Redeployment (CRR)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 1.21,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.21,
+                        "revised_2024_25": 1.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.21,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Research, Development and Consultancy on generic",
+                    "values": {
+                        "actual_2024_25": 2.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.89,
+                        "budget_2025_26": 5.28,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.28,
+                        "revised_2024_25": 5.28,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.28,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.19,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.19,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.7,
+                        "budget_2025_26": 5.28,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.28,
+                        "revised_2024_25": 5.28,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.28,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "Research, Development, Consultancy & Reorientation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 6.75,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.75
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 2.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.7,
+                        "budget_2025_26": 6.49,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6.49,
+                        "revised_2024_25": 6.49,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.49,
+                        "budget_2026_27": 6.75,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.75
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 21.17,
+                        "capital_2024_25": 0.64,
+                        "total_2024_25": 21.81,
+                        "budget_2025_26": 28.6,
+                        "capital_2025_26": 0.57,
+                        "total_2025_26": 29.17,
+                        "revised_2024_25": 26.69,
+                        "capital_revised_2024_25": 0.57,
+                        "total_revised_2024_25": 27.26,
+                        "budget_2026_27": 28.94,
+                        "capital_2026_27": 0.66,
+                        "total_2026_27": 29.6
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": 2.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.7,
+                        "budget_2025_26": 5.65,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.65,
+                        "revised_2024_25": 5.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.65,
+                        "budget_2026_27": 6.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.07
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 18.47,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18.47,
+                        "budget_2025_26": 22.11,
+                        "capital_2025_26": null,
+                        "total_2025_26": 22.11,
+                        "revised_2024_25": 20.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 20.2,
+                        "budget_2026_27": 22.19,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22.19
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.64,
+                        "total_2024_25": 0.64,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.57,
+                        "total_2025_26": 0.57,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.57,
+                        "total_revised_2024_25": 0.57,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.66,
+                        "total_2026_27": 0.66
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 21.17,
+                        "capital_2024_25": 0.64,
+                        "total_2024_25": 21.81,
+                        "budget_2025_26": 27.76,
+                        "capital_2025_26": 0.57,
+                        "total_2025_26": 28.33,
+                        "revised_2024_25": 25.85,
+                        "capital_revised_2024_25": 0.57,
+                        "total_revised_2024_25": 26.42,
+                        "budget_2026_27": 28.26,
+                        "capital_2026_27": 0.66,
+                        "total_2026_27": 28.92
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "4",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.84,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.84,
+                        "revised_2024_25": 0.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.84,
+                        "budget_2026_27": 0.68,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.68
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.84,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.84,
+                        "revised_2024_25": 0.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.84,
+                        "budget_2026_27": 0.68,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.68
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 21.17,
+                        "capital_2024_25": 0.64,
+                        "total_2024_25": 21.81,
+                        "budget_2025_26": 28.6,
+                        "capital_2025_26": 0.57,
+                        "total_2025_26": 29.17,
+                        "revised_2024_25": 26.69,
+                        "capital_revised_2024_25": 0.57,
+                        "total_revised_2024_25": 27.26,
+                        "budget_2026_27": 28.94,
+                        "capital_2026_27": 0.66,
+                        "total_2026_27": 29.6
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..Provides funds for establishment related expenditure of Secretariat of the",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Counselling, Retraining and Redeployment (CRR) Scheme:..Funds are released to National",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Research, Development and Consultancy on generic issues related to CPSEs and State",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Research, Development, Consultancy & Reorientation (RDCR):..This scheme is created by",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "merging and rationalizing the two existing schemes namely Counselling, Retraining and Redeployment (CRR) and",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF FINANCE",
+            "items": []
+        }
+    ]
+}

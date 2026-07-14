@@ -1,0 +1,962 @@
+{
+    "demand_no": 61,
+    "ministry": "Ministry Of Information And Broadcasting",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 4256.72,
+                        "capital_2024_25": 45.1,
+                        "total_2024_25": 4301.82,
+                        "budget_2025_26": 4314.59,
+                        "capital_2025_26": 43.79,
+                        "total_2025_26": 4358.38,
+                        "revised_2024_25": 6038.34,
+                        "capital_revised_2024_25": 64.68,
+                        "total_revised_2024_25": 6103.02,
+                        "budget_2026_27": 4494.56,
+                        "capital_2026_27": 57.38,
+                        "total_2026_27": 4551.94
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": []
+        },
+        {
+            "heading": "1. Establishment Expenditure",
+            "items": [
+                {
+                    "code": "1.01",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 109.48,
+                        "capital_2024_25": 5.69,
+                        "total_2024_25": 115.17,
+                        "budget_2025_26": 124.16,
+                        "capital_2025_26": 18.54,
+                        "total_2025_26": 142.7,
+                        "revised_2024_25": 120.03,
+                        "capital_revised_2024_25": 18.74,
+                        "total_revised_2024_25": 138.77,
+                        "budget_2026_27": 123.38,
+                        "capital_2026_27": 18.03,
+                        "total_2026_27": 141.41
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.02,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 109.46,
+                        "capital_2024_25": 5.69,
+                        "total_2024_25": 115.15,
+                        "budget_2025_26": 124.16,
+                        "capital_2025_26": 18.54,
+                        "total_2025_26": 142.7,
+                        "revised_2024_25": 120.03,
+                        "capital_revised_2024_25": 18.74,
+                        "total_revised_2024_25": 138.77,
+                        "budget_2026_27": 123.38,
+                        "capital_2026_27": 18.03,
+                        "total_2026_27": 141.41
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "1.02",
+                    "name": "Art and Culture",
+                    "values": {
+                        "actual_2024_25": 37.59,
+                        "capital_2024_25": 0.11,
+                        "total_2024_25": 37.7,
+                        "budget_2025_26": 38.12,
+                        "capital_2025_26": 0.15,
+                        "total_2025_26": 38.27,
+                        "revised_2024_25": 38.55,
+                        "capital_revised_2024_25": 0.13,
+                        "total_revised_2024_25": 38.68,
+                        "budget_2026_27": 32.94,
+                        "capital_2026_27": 0.13,
+                        "total_2026_27": 33.07
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.06,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 37.53,
+                        "capital_2024_25": 0.11,
+                        "total_2024_25": 37.64,
+                        "budget_2025_26": 38.12,
+                        "capital_2025_26": 0.15,
+                        "total_2025_26": 38.27,
+                        "revised_2024_25": 38.55,
+                        "capital_revised_2024_25": 0.13,
+                        "total_revised_2024_25": 38.68,
+                        "budget_2026_27": 32.94,
+                        "capital_2026_27": 0.13,
+                        "total_2026_27": 33.07
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "1.03",
+                    "name": "Information and Publicity",
+                    "values": {
+                        "actual_2024_25": 371.53,
+                        "capital_2024_25": 11.86,
+                        "total_2024_25": 383.39,
+                        "budget_2025_26": 391.53,
+                        "capital_2025_26": 10.0,
+                        "total_2025_26": 401.53,
+                        "revised_2024_25": 385.93,
+                        "capital_revised_2024_25": 27.08,
+                        "total_revised_2024_25": 413.01,
+                        "budget_2026_27": 397.22,
+                        "capital_2026_27": 27.38,
+                        "total_2026_27": 424.6
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -1.66,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1.66,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 369.87,
+                        "capital_2024_25": 11.86,
+                        "total_2024_25": 381.73,
+                        "budget_2025_26": 391.53,
+                        "capital_2025_26": 10.0,
+                        "total_2025_26": 401.53,
+                        "revised_2024_25": 385.93,
+                        "capital_revised_2024_25": 27.08,
+                        "total_revised_2024_25": 413.01,
+                        "budget_2026_27": 397.22,
+                        "capital_2026_27": 27.38,
+                        "total_2026_27": 424.6
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 516.86,
+                        "capital_2024_25": 17.66,
+                        "total_2024_25": 534.52,
+                        "budget_2025_26": 553.81,
+                        "capital_2025_26": 28.69,
+                        "total_2025_26": 582.5,
+                        "revised_2024_25": 544.51,
+                        "capital_revised_2024_25": 45.95,
+                        "total_revised_2024_25": 590.46,
+                        "budget_2026_27": 553.54,
+                        "capital_2026_27": 45.54,
+                        "total_2026_27": 599.08
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Broadcasting Infrastructure Network Development",
+                    "values": {
+                        "actual_2024_25": 213.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 213.69,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 550.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 550.0,
+                        "budget_2026_27": 509.24,
+                        "capital_2026_27": null,
+                        "total_2026_27": 509.24
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Development Communication and Dissemination of Filmic",
+                    "values": {
+                        "actual_2024_25": 298.46,
+                        "capital_2024_25": 25.74,
+                        "total_2024_25": 324.2,
+                        "budget_2025_26": 347.9,
+                        "capital_2025_26": 15.1,
+                        "total_2025_26": 363.0,
+                        "revised_2024_25": 405.16,
+                        "capital_revised_2024_25": 18.73,
+                        "total_revised_2024_25": 423.89,
+                        "budget_2026_27": 332.71,
+                        "capital_2026_27": 11.84,
+                        "total_2026_27": 344.55
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Development Communication and Information",
+                    "values": {
+                        "actual_2024_25": 167.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 167.74,
+                        "budget_2025_26": 238.09,
+                        "capital_2025_26": null,
+                        "total_2025_26": 238.09,
+                        "revised_2024_25": 196.11,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 196.11,
+                        "budget_2026_27": 250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 250.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Supporting Community Radio Movement in India",
+                    "values": {
+                        "actual_2024_25": 7.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.65,
+                        "budget_2025_26": 17.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17.4,
+                        "revised_2024_25": 8.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8.0,
+                        "budget_2026_27": 8.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Talent Development in Animation, Visual Effects, Gaming",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 250.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 687.54,
+                        "capital_2024_25": 25.74,
+                        "total_2024_25": 713.28,
+                        "budget_2025_26": 1103.39,
+                        "capital_2025_26": 15.1,
+                        "total_2025_26": 1118.49,
+                        "revised_2024_25": 1159.27,
+                        "capital_revised_2024_25": 18.73,
+                        "total_revised_2024_25": 1178.0,
+                        "budget_2026_27": 1349.95,
+                        "capital_2026_27": 11.84,
+                        "total_2026_27": 1361.79
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": []
+        },
+        {
+            "heading": "7. Support to Autonomous Bodies",
+            "items": [
+                {
+                    "code": "7.01",
+                    "name": "Prasar Bharati",
+                    "values": {
+                        "actual_2024_25": 2427.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2427.76,
+                        "budget_2025_26": 2379.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2379.7,
+                        "revised_2024_25": 4059.24,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4059.24,
+                        "budget_2026_27": 2291.88,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2291.88
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -3.21,
+                        "capital_2024_25": null,
+                        "total_2024_25": -3.21,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2424.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2424.55,
+                        "budget_2025_26": 2379.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2379.7,
+                        "revised_2024_25": 4059.24,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4059.24,
+                        "budget_2026_27": 2291.88,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2291.88
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7.02",
+                    "name": "Film and Television Institute of India, Pune",
+                    "values": {
+                        "actual_2024_25": 73.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 73.11,
+                        "budget_2025_26": 89.11,
+                        "capital_2025_26": null,
+                        "total_2025_26": 89.11,
+                        "revised_2024_25": 95.33,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 95.33,
+                        "budget_2026_27": 89.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 89.97
+                    }
+                },
+                {
+                    "code": "7.03",
+                    "name": "Satyajit Ray Film and Television",
+                    "values": {
+                        "actual_2024_25": 53.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 53.0,
+                        "budget_2025_26": 52.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 52.45,
+                        "revised_2024_25": 55.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 55.0,
+                        "budget_2026_27": 80.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 80.0
+                    }
+                },
+                {
+                    "code": "7.04",
+                    "name": "Indian Institute of Mass Communication",
+                    "values": {
+                        "actual_2024_25": 83.31,
+                        "capital_2024_25": null,
+                        "total_2024_25": 83.31,
+                        "budget_2025_26": 108.65,
+                        "capital_2025_26": null,
+                        "total_2025_26": 108.65,
+                        "revised_2024_25": 81.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 81.65,
+                        "budget_2026_27": 83.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 83.0
+                    }
+                },
+                {
+                    "code": "7.05",
+                    "name": "Press Council of India",
+                    "values": {
+                        "actual_2024_25": 9.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9.2,
+                        "budget_2025_26": 10.48,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.48,
+                        "revised_2024_25": 10.34,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.34,
+                        "budget_2026_27": 11.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11.22
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Support to Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 2643.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2643.17,
+                        "budget_2025_26": 2640.39,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2640.39,
+                        "revised_2024_25": 4301.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4301.56,
+                        "budget_2026_27": 2556.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2556.07
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "National Film Development Corporation (NFDC)",
+                    "values": {
+                        "actual_2024_25": 18.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18.0,
+                        "budget_2025_26": 17.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17.0,
+                        "revised_2024_25": 33.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 33.0,
+                        "budget_2026_27": 35.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 35.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "National Centre of Excellence for Animation, Visual",
+                    "values": {
+                        "actual_2024_25": 391.15,
+                        "capital_2024_25": 1.7,
+                        "total_2024_25": 392.85,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Public Sector Undertakings",
+                    "values": {
+                        "actual_2024_25": 409.15,
+                        "capital_2024_25": 1.7,
+                        "total_2024_25": 410.85,
+                        "budget_2025_26": 17.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17.0,
+                        "revised_2024_25": 33.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 33.0,
+                        "budget_2026_27": 35.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 35.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 3052.32,
+                        "capital_2024_25": 1.7,
+                        "total_2024_25": 3054.02,
+                        "budget_2025_26": 2657.39,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2657.39,
+                        "revised_2024_25": 4334.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4334.56,
+                        "budget_2026_27": 2591.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2591.07
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 4256.72,
+                        "capital_2024_25": 45.1,
+                        "total_2024_25": 4301.82,
+                        "budget_2025_26": 4314.59,
+                        "capital_2025_26": 43.79,
+                        "total_2025_26": 4358.38,
+                        "revised_2024_25": 6038.34,
+                        "capital_revised_2024_25": 64.68,
+                        "total_revised_2024_25": 6103.02,
+                        "budget_2026_27": 4494.56,
+                        "capital_2026_27": 57.38,
+                        "total_2026_27": 4551.94
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Art and Culture",
+                    "values": {
+                        "actual_2024_25": 37.53,
+                        "capital_2024_25": null,
+                        "total_2024_25": 37.53,
+                        "budget_2025_26": 38.12,
+                        "capital_2025_26": null,
+                        "total_2025_26": 38.12,
+                        "revised_2024_25": 38.55,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 38.55,
+                        "budget_2026_27": 32.94,
+                        "capital_2026_27": null,
+                        "total_2026_27": 32.94
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Information and Publicity",
+                    "values": {
+                        "actual_2024_25": 1471.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1471.49,
+                        "budget_2025_26": 1210.76,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1210.76,
+                        "revised_2024_25": 1207.67,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1207.67,
+                        "budget_2026_27": 1476.83,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1476.83
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Broadcasting",
+                    "values": {
+                        "actual_2024_25": 2638.24,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2638.24,
+                        "budget_2025_26": 2829.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2829.7,
+                        "revised_2024_25": 4554.24,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4554.24,
+                        "budget_2026_27": 2750.19,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2750.19
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 109.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": 109.46,
+                        "budget_2025_26": 124.16,
+                        "capital_2025_26": null,
+                        "total_2025_26": 124.16,
+                        "revised_2024_25": 120.03,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 120.03,
+                        "budget_2026_27": 123.38,
+                        "capital_2026_27": null,
+                        "total_2026_27": 123.38
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Information and Publicity",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 45.1,
+                        "total_2024_25": 45.1,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 43.79,
+                        "total_2025_26": 43.79,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 64.68,
+                        "total_revised_2024_25": 64.68,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 57.38,
+                        "total_2026_27": 57.38
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 4256.72,
+                        "capital_2024_25": 45.1,
+                        "total_2024_25": 4301.82,
+                        "budget_2025_26": 4202.74,
+                        "capital_2025_26": 43.79,
+                        "total_2025_26": 4246.53,
+                        "revised_2024_25": 5920.49,
+                        "capital_revised_2024_25": 64.68,
+                        "total_revised_2024_25": 5985.17,
+                        "budget_2026_27": 4383.34,
+                        "capital_2026_27": 57.38,
+                        "total_2026_27": 4440.72
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 111.85,
+                        "capital_2025_26": null,
+                        "total_2025_26": 111.85,
+                        "revised_2024_25": 117.85,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 117.85,
+                        "budget_2026_27": 111.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 111.22
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 111.85,
+                        "capital_2025_26": null,
+                        "total_2025_26": 111.85,
+                        "revised_2024_25": 117.85,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 117.85,
+                        "budget_2026_27": 111.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 111.22
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 4256.72,
+                        "capital_2024_25": 45.1,
+                        "total_2024_25": 4301.82,
+                        "budget_2025_26": 4314.59,
+                        "capital_2025_26": 43.79,
+                        "total_2025_26": 4358.38,
+                        "revised_2024_25": 6038.34,
+                        "capital_revised_2024_25": 64.68,
+                        "total_revised_2024_25": 6103.02,
+                        "budget_2026_27": 4494.56,
+                        "capital_2026_27": 57.38,
+                        "total_2026_27": 4551.94
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "National Film Development",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5.56,
+                        "total_2024_25": 5.56,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 14.5,
+                        "total_2025_26": 14.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 13.83,
+                        "total_revised_2024_25": 13.83,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15.3,
+                        "total_2026_27": 15.3
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-National Centre of Excellence for Animation Visual",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5.56,
+                        "total_2024_25": 5.56,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 14.5,
+                        "total_2025_26": 14.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 13.83,
+                        "total_revised_2024_25": 13.83,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15.3,
+                        "total_2026_27": 15.3
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5.56,
+                        "total_2024_25": 5.56,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 14.5,
+                        "total_2025_26": 14.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 13.83,
+                        "total_revised_2024_25": 13.83,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15.3,
+                        "total_2026_27": 15.3
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1.01. Secretariat:..It covers the establishment expenditure for Main Secretariat and Principal (vii) Electronic Media Monitoring Centre (EMMC) - EMMC monitors programme and advertising",
+            "items": [
+                {
+                    "code": "1.02",
+                    "name": "Art and Culture:..The provision covers expenditure in respect of Central Board of Film capital of",
+                    "values": {
+                        "actual_2024_25": 12.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Broadcasting Infrastructure Network Development:..It is implemented through Prasar",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "1.03. Information and Publicity:..This covers establishment expenditure of the following Media Bharati. Scheme aims at digitalisation & FMisation of AIR Network, upgradation of capacity of DTH platform to",
+            "items": []
+        },
+        {
+            "heading": "Televisions, exhibitions and other outdoor publicity media, interpersonal, developmental communication through film",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Development Communication and Information Dissemination:..It is to generate awareness",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "in citizens about various schemes and programs of the Government to enable the target beneficiaries to avail benefits",
+            "items": []
+        },
+        {
+            "heading": "of the developmental schemes and elicit people participation in process of development.",
+            "items": []
+        },
+        {
+            "heading": "(iii) Publications Division - This provides for expenditure of the Publications Division of the 6. Talent Development in Animation, Visual Effects, Gaming and Comics (AVGC)",
+            "items": [
+                {
+                    "code": "7.01",
+                    "name": "Prasar Bharati:..It includes salary and the leave salary and pension contribution of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7.02",
+                    "name": "Film and Television Institute of India, Pune:..It includes the erstwhile scheme allocation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "7.05. Press Council of India:..It covers the Non-Scheme expenditure of Press Council of India",
+            "items": []
+        },
+        {
+            "heading": "8. National Film Development Corporation (NFDC):..It covers the Non-Scheme expenditure of",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF JAL SHAKTI",
+            "items": []
+        }
+    ]
+}

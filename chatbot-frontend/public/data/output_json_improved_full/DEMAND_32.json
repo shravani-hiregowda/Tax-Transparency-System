@@ -1,0 +1,1396 @@
+{
+    "demand_no": 32,
+    "ministry": "Ministry Of Finance",
+    "department": "Department Of Financial Services",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 3161.78,
+                        "capital_2024_25": 523.37,
+                        "total_2024_25": 3685.15,
+                        "budget_2025_26": 1620.01,
+                        "capital_2025_26": 68.13,
+                        "total_2025_26": 1688.14,
+                        "revised_2024_25": 3641.84,
+                        "capital_revised_2024_25": 54.79,
+                        "total_revised_2024_25": 3696.63,
+                        "budget_2026_27": 3686.99,
+                        "capital_2026_27": 59.96,
+                        "total_2026_27": 3746.95
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat- General Services",
+                    "values": {
+                        "actual_2024_25": 69.92,
+                        "capital_2024_25": 6.91,
+                        "total_2024_25": 76.83,
+                        "budget_2025_26": 82.06,
+                        "capital_2025_26": 10.73,
+                        "total_2025_26": 92.79,
+                        "revised_2024_25": 86.36,
+                        "capital_revised_2024_25": 8.53,
+                        "total_revised_2024_25": 94.89,
+                        "budget_2026_27": 85.24,
+                        "capital_2026_27": 7.44,
+                        "total_2026_27": 92.68
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Direction and Administration",
+                    "values": {
+                        "actual_2024_25": 6.38,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 6.39,
+                        "budget_2025_26": 4.61,
+                        "capital_2025_26": 0.06,
+                        "total_2025_26": 4.67,
+                        "revised_2024_25": 4.19,
+                        "capital_revised_2024_25": 0.11,
+                        "total_revised_2024_25": 4.3,
+                        "budget_2026_27": 4.37,
+                        "capital_2026_27": 0.09,
+                        "total_2026_27": 4.46
+                    }
+                },
+                {
+                    "code": "2.01",
+                    "name": "Office of Special Court",
+                    "values": {
+                        "actual_2024_25": 6.38,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 6.39,
+                        "budget_2025_26": 4.61,
+                        "capital_2025_26": 0.06,
+                        "total_2025_26": 4.67,
+                        "revised_2024_25": 4.19,
+                        "capital_revised_2024_25": 0.11,
+                        "total_revised_2024_25": 4.3,
+                        "budget_2026_27": 4.37,
+                        "capital_2026_27": 0.09,
+                        "total_2026_27": 4.46
+                    }
+                },
+                {
+                    "code": "2.02",
+                    "name": "Office of Custodian",
+                    "values": {
+                        "actual_2024_25": 6.38,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 6.39,
+                        "budget_2025_26": 6.85,
+                        "capital_2025_26": 0.05,
+                        "total_2025_26": 6.9,
+                        "revised_2024_25": 6.54,
+                        "capital_revised_2024_25": 0.05,
+                        "total_revised_2024_25": 6.59,
+                        "budget_2026_27": 7.02,
+                        "capital_2026_27": 0.05,
+                        "total_2026_27": 7.07
+                    }
+                },
+                {
+                    "code": "2.03",
+                    "name": "Debt Recovery Tribunals (DRTs)",
+                    "values": {
+                        "actual_2024_25": 167.2,
+                        "capital_2024_25": 16.44,
+                        "total_2024_25": 183.64,
+                        "budget_2025_26": 198.43,
+                        "capital_2025_26": 57.23,
+                        "total_2025_26": 255.66,
+                        "revised_2024_25": 209.4,
+                        "capital_revised_2024_25": 46.1,
+                        "total_revised_2024_25": 255.5,
+                        "budget_2026_27": 285.32,
+                        "capital_2026_27": 52.33,
+                        "total_2026_27": 337.65
+                    }
+                },
+                {
+                    "code": "2.04",
+                    "name": "Office of Court Liquidator",
+                    "values": {
+                        "actual_2024_25": 0.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.03,
+                        "budget_2025_26": 0.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.03,
+                        "revised_2024_25": 0.03,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.03,
+                        "budget_2026_27": 0.03,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.03
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Direction and Administration",
+                    "values": {
+                        "actual_2024_25": 179.99,
+                        "capital_2024_25": 16.46,
+                        "total_2024_25": 196.45,
+                        "budget_2025_26": 209.92,
+                        "capital_2025_26": 57.34,
+                        "total_2025_26": 267.26,
+                        "revised_2024_25": 220.16,
+                        "capital_revised_2024_25": 46.26,
+                        "total_revised_2024_25": 266.42,
+                        "budget_2026_27": 296.74,
+                        "capital_2026_27": 52.47,
+                        "total_2026_27": 349.21
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -0.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.16,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 249.75,
+                        "capital_2024_25": 23.37,
+                        "total_2024_25": 273.12,
+                        "budget_2025_26": 291.98,
+                        "capital_2025_26": 68.07,
+                        "total_2025_26": 360.05,
+                        "revised_2024_25": 306.52,
+                        "capital_revised_2024_25": 54.79,
+                        "total_revised_2024_25": 361.31,
+                        "budget_2026_27": 381.98,
+                        "capital_2026_27": 59.91,
+                        "total_2026_27": 441.89
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Recapitalization of Public Sector Banks",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Recapitalization of Public Sector Banks (through Bonds)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "Less met through issue of Special Securities to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -0.01,
+                        "total_2025_26": -0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -0.01,
+                        "total_2026_27": -0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Recapitalization of Public Sector Banks",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Subscription to Share Captial of National Bank for Agricultural and Rural",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "6.02",
+                    "name": "Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Recapitalization of Regional Rural Banks (RRBs)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 261.0,
+                        "total_2024_25": 261.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "7.01",
+                    "name": "Gross Budgetary Support",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 261.0,
+                        "total_2024_25": 261.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "7.02",
+                    "name": "Amount met from National Investment Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -261.0,
+                        "total_2024_25": -261.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "Equity Support to Industrial Finance Corporation of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 500.0,
+                        "total_2024_25": 500.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Grants to NABARD to settle the claims under Indo-Swiss",
+                    "values": {
+                        "actual_2024_25": 0.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.82,
+                        "budget_2025_26": 0.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.8,
+                        "revised_2024_25": 0.82,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.82,
+                        "budget_2026_27": 0.81,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.81
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Support to Financial Institutions",
+                    "values": {
+                        "actual_2024_25": 0.82,
+                        "capital_2024_25": 500.0,
+                        "total_2024_25": 500.82,
+                        "budget_2025_26": 0.8,
+                        "capital_2025_26": 0.03,
+                        "total_2025_26": 0.83,
+                        "revised_2024_25": 0.82,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.82,
+                        "budget_2026_27": 0.81,
+                        "capital_2026_27": 0.02,
+                        "total_2026_27": 0.83
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Social Security Schemes",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "Government Co-contribution to Atal Pension Yojana",
+                    "values": {
+                        "actual_2024_25": 465.05,
+                        "capital_2024_25": null,
+                        "total_2024_25": 465.05,
+                        "budget_2025_26": 308.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 308.0,
+                        "revised_2024_25": 459.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 459.5,
+                        "budget_2026_27": 547.75,
+                        "capital_2026_27": null,
+                        "total_2026_27": 547.75
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Interest Subsidy to LIC for Pension Plan for Senior",
+                    "values": {
+                        "actual_2024_25": 101.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 101.16,
+                        "budget_2025_26": 159.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 159.2,
+                        "revised_2024_25": 81.46,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 81.46,
+                        "budget_2026_27": 160.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 160.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -84.99,
+                        "capital_2024_25": null,
+                        "total_2024_25": -84.99,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 16.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16.17,
+                        "budget_2025_26": 159.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 159.2,
+                        "revised_2024_25": 81.46,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 81.46,
+                        "budget_2026_27": 160.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 160.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "12",
+                    "name": "Loan Guarantee Scheme for Covid Affected Sectors",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Pradhan Mantri Vaya Vandana Yojana (PMVVY)",
+                    "values": {
+                        "actual_2024_25": 507.22,
+                        "capital_2024_25": null,
+                        "total_2024_25": 507.22,
+                        "budget_2025_26": 423.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 423.01,
+                        "revised_2024_25": 597.33,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 597.33,
+                        "budget_2026_27": 596.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 596.4
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Security Schemes",
+                    "values": {
+                        "actual_2024_25": 988.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 988.44,
+                        "budget_2025_26": 890.21,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 890.22,
+                        "revised_2024_25": 1138.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1138.29,
+                        "budget_2026_27": 1304.15,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 1304.16
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "Pradhan Mantri Mudra Yojana (PMMY)(through NCGTC)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Publicity and awareness for Pradhan Mantri Mudra",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Credit Guarantee Scheme for Micro Finance Institutions",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Credit Guarantee Funds",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.02,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.03,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.03
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "17",
+                    "name": "Incentive scheme for promotion of RuPay Debit Cards",
+                    "values": {
+                        "actual_2024_25": 1922.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1922.77,
+                        "budget_2025_26": 437.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 437.0,
+                        "revised_2024_25": 2196.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2196.21,
+                        "budget_2026_27": 2000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2000.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Grants to ICICI Bank for Externally Aided Components",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Subsidy to National Housing Bank for Interest Subvention",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Support to Financial Institutions",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.02
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "20",
+                    "name": "Stand-Up India (through NCGTC)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 2912.03,
+                        "capital_2024_25": 500.0,
+                        "total_2024_25": 3412.03,
+                        "budget_2025_26": 1328.03,
+                        "capital_2025_26": 0.06,
+                        "total_2025_26": 1328.09,
+                        "revised_2024_25": 3335.32,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3335.32,
+                        "budget_2026_27": 3305.01,
+                        "capital_2026_27": 0.05,
+                        "total_2026_27": 3305.06
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3161.78,
+                        "capital_2024_25": 523.37,
+                        "total_2024_25": 3685.15,
+                        "budget_2025_26": 1620.01,
+                        "capital_2025_26": 68.13,
+                        "total_2025_26": 1688.14,
+                        "revised_2024_25": 3641.84,
+                        "capital_revised_2024_25": 54.79,
+                        "total_revised_2024_25": 3696.63,
+                        "budget_2026_27": 3686.99,
+                        "capital_2026_27": 59.96,
+                        "total_2026_27": 3746.95
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Other Fiscal Services",
+                    "values": {
+                        "actual_2024_25": 12.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12.76,
+                        "budget_2025_26": 11.46,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11.46,
+                        "revised_2024_25": 10.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.73,
+                        "budget_2026_27": 11.39,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11.39
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-General Services",
+                    "values": {
+                        "actual_2024_25": 69.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 69.92,
+                        "budget_2025_26": 82.06,
+                        "capital_2025_26": null,
+                        "total_2025_26": 82.06,
+                        "revised_2024_25": 86.36,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 86.36,
+                        "budget_2026_27": 85.24,
+                        "capital_2026_27": null,
+                        "total_2026_27": 85.24
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": 167.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": 167.04,
+                        "budget_2025_26": 198.43,
+                        "capital_2025_26": null,
+                        "total_2025_26": 198.43,
+                        "revised_2024_25": 209.4,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 209.4,
+                        "budget_2026_27": 285.32,
+                        "capital_2026_27": null,
+                        "total_2026_27": 285.32
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Other Administrative Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 23.35,
+                        "total_2024_25": 23.35,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 67.96,
+                        "total_2025_26": 67.96,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 54.63,
+                        "total_revised_2024_25": 54.63,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 59.77,
+                        "total_2026_27": 59.77
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Miscellaneous General Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.02,
+                        "total_2024_25": 0.02,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.11,
+                        "total_2025_26": 0.11,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.16,
+                        "total_revised_2024_25": 0.16,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.14,
+                        "total_2026_27": 0.14
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 249.72,
+                        "capital_2024_25": 23.37,
+                        "total_2024_25": 273.09,
+                        "budget_2025_26": 291.95,
+                        "capital_2025_26": 68.07,
+                        "total_2025_26": 360.02,
+                        "revised_2024_25": 306.49,
+                        "capital_revised_2024_25": 54.79,
+                        "total_revised_2024_25": 361.28,
+                        "budget_2026_27": 381.95,
+                        "capital_2026_27": 59.91,
+                        "total_2026_27": 441.86
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Social Security and Welfare",
+                    "values": {
+                        "actual_2024_25": 988.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 988.44,
+                        "budget_2025_26": 890.21,
+                        "capital_2025_26": null,
+                        "total_2025_26": 890.21,
+                        "revised_2024_25": 1138.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1138.29,
+                        "budget_2026_27": 1304.15,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1304.15
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 988.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": 988.44,
+                        "budget_2025_26": 890.21,
+                        "capital_2025_26": null,
+                        "total_2025_26": 890.21,
+                        "revised_2024_25": 1138.29,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1138.29,
+                        "budget_2026_27": 1304.15,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1304.15
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Agricultural Financial Institutions",
+                    "values": {
+                        "actual_2024_25": 0.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.82,
+                        "budget_2025_26": 0.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.8,
+                        "revised_2024_25": 0.82,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.82,
+                        "budget_2026_27": 0.81,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.81
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Other Outlays on Industries and Minerals",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.02
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "General Financial and Trading Institutions",
+                    "values": {
+                        "actual_2024_25": 1922.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1922.77,
+                        "budget_2025_26": 437.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 437.02,
+                        "revised_2024_25": 2196.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2196.21,
+                        "budget_2026_27": 2000.03,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2000.03
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": 0.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.03,
+                        "budget_2025_26": 0.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.03,
+                        "revised_2024_25": 0.03,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.03,
+                        "budget_2026_27": 0.03,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.03
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Investments in Agricultural Financial Institutions",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.02,
+                        "total_2025_26": 0.02,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.02,
+                        "total_2026_27": 0.02
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Other Capital Outlay on Industries and Minerals",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 500.0,
+                        "total_2024_25": 500.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Investments in General Financial and Trading Institutions",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Other Loans to Industries and Minerals",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Loans to General Financial and Trading Institutions",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 1923.62,
+                        "capital_2024_25": 500.0,
+                        "total_2024_25": 2423.62,
+                        "budget_2025_26": 437.85,
+                        "capital_2025_26": 0.06,
+                        "total_2025_26": 437.91,
+                        "revised_2024_25": 2197.06,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2197.06,
+                        "budget_2026_27": 2000.89,
+                        "capital_2026_27": 0.05,
+                        "total_2026_27": 2000.94
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3161.78,
+                        "capital_2024_25": 523.37,
+                        "total_2024_25": 3685.15,
+                        "budget_2025_26": 1620.01,
+                        "capital_2025_26": 68.13,
+                        "total_2025_26": 1688.14,
+                        "revised_2024_25": 3641.84,
+                        "capital_revised_2024_25": 54.79,
+                        "total_revised_2024_25": 3696.63,
+                        "budget_2026_27": 3686.99,
+                        "capital_2026_27": 59.96,
+                        "total_2026_27": 3746.95
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "National Bank for Agriculture and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Recapitalization of Regional Rural",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Recapitalization of Public Sector",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.02,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.02
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Industrial Finance Corporation of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.05,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.05,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 0.04,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.04
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat- General Services:..The provision is for Secretariat expenditure of the Department",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Direction and Administration:..The provision is made for Office of the Special Court set up",
+                    "values": {
+                        "actual_2024_25": 1992.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Grants to NABARD to settle the claims under Indo-Swiss Cooperation-VI:..The provision is",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Government Co-contribution to Atal Pension Yojana:..The provision is for Government's Co",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Interest Subsidy to LIC for Pension Plan for Senior Citizens:..The provision is for payment",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):..The provision is for payment of interest",
+                    "values": {
+                        "actual_2024_25": 60.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Incentive scheme for promotion of RuPay Debit Cards and low-value BHIM-UPI",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF FINANCE",
+            "items": []
+        }
+    ]
+}

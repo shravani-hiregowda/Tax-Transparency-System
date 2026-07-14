@@ -1,0 +1,1169 @@
+{
+    "demand_no": 70,
+    "ministry": "Ministry Of Minority Affairs",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 712.03,
+                        "capital_2024_25": 2.95,
+                        "total_2024_25": 714.98,
+                        "budget_2025_26": 3346.28,
+                        "capital_2025_26": 3.72,
+                        "total_2025_26": 3350.0,
+                        "revised_2024_25": 2157.98,
+                        "capital_revised_2024_25": 2.47,
+                        "total_revised_2024_25": 2160.45,
+                        "budget_2026_27": 3395.62,
+                        "capital_2026_27": 4.38,
+                        "total_2026_27": 3400.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 39.12,
+                        "capital_2024_25": 2.95,
+                        "total_2024_25": 42.07,
+                        "budget_2025_26": 36.1,
+                        "capital_2025_26": 1.71,
+                        "total_2025_26": 37.81,
+                        "revised_2024_25": 42.14,
+                        "capital_revised_2024_25": 1.96,
+                        "total_revised_2024_25": 44.1,
+                        "budget_2026_27": 43.78,
+                        "capital_2026_27": 3.37,
+                        "total_2026_27": 47.15
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Special Programme for Minorities",
+                    "values": {
+                        "actual_2024_25": 112.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 112.03,
+                        "budget_2025_26": 140.99,
+                        "capital_2025_26": 2.01,
+                        "total_2025_26": 143.0,
+                        "revised_2024_25": 131.75,
+                        "capital_revised_2024_25": 0.51,
+                        "total_revised_2024_25": 132.26,
+                        "budget_2026_27": 136.29,
+                        "capital_2026_27": 1.01,
+                        "total_2026_27": 137.3
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.06,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 151.09,
+                        "capital_2024_25": 2.95,
+                        "total_2024_25": 154.04,
+                        "budget_2025_26": 177.09,
+                        "capital_2025_26": 3.72,
+                        "total_2025_26": 180.81,
+                        "revised_2024_25": 173.89,
+                        "capital_revised_2024_25": 2.47,
+                        "total_revised_2024_25": 176.36,
+                        "budget_2026_27": 180.07,
+                        "capital_2026_27": 4.38,
+                        "total_2026_27": 184.45
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Quami Waqf Board Taraqqiati Scheme and Sahari Waqf",
+                    "values": {
+                        "actual_2024_25": 1.56,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.56,
+                        "budget_2025_26": 13.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 13.0,
+                        "revised_2024_25": 13.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 13.53,
+                        "budget_2026_27": 32.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 32.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Education Empowerment",
+                    "values": {
+                        "actual_2024_25": 1.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.55,
+                        "budget_2025_26": 195.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 195.7,
+                        "revised_2024_25": 0.06,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.06,
+                        "budget_2026_27": 198.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 198.0
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "Pre-Matric Scholarship for Minorities",
+                    "values": {
+                        "actual_2024_25": 1.55,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.55,
+                        "budget_2025_26": 195.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 195.7,
+                        "revised_2024_25": 0.06,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.06,
+                        "budget_2026_27": 198.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 198.0
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "Post-Matric Scholarship for Minorities",
+                    "values": {
+                        "actual_2024_25": 5.31,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.31,
+                        "budget_2025_26": 413.99,
+                        "capital_2025_26": null,
+                        "total_2025_26": 413.99,
+                        "revised_2024_25": 0.06,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.06,
+                        "budget_2026_27": 581.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 581.0
+                    }
+                },
+                {
+                    "code": "5.03",
+                    "name": "Merit-cum-Means Scholarship for professional",
+                    "values": {
+                        "actual_2024_25": 3.51,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.51,
+                        "budget_2025_26": 7.34,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7.34,
+                        "revised_2024_25": 0.06,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.06,
+                        "budget_2026_27": 0.06,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.06
+                    }
+                },
+                {
+                    "code": "5.04",
+                    "name": "Maulana Azad National Fellowship for Minority",
+                    "values": {
+                        "actual_2024_25": 25.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 25.0,
+                        "budget_2025_26": 42.84,
+                        "capital_2025_26": null,
+                        "total_2025_26": 42.84,
+                        "revised_2024_25": 53.84,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 53.84,
+                        "budget_2026_27": 36.14,
+                        "capital_2026_27": null,
+                        "total_2026_27": 36.14
+                    }
+                },
+                {
+                    "code": "5.05",
+                    "name": "Free Coaching and allied schemes for Minorities",
+                    "values": {
+                        "actual_2024_25": 2.36,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.36,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "5.06",
+                    "name": "Interest Subsidy on Educational loans for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 8.16,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8.16,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 6.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Education Empowerment",
+                    "values": {
+                        "actual_2024_25": 37.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 37.73,
+                        "budget_2025_26": 678.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 678.03,
+                        "revised_2024_25": 55.03,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 55.03,
+                        "budget_2026_27": 831.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 831.7
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Skill Development and Livelihoods",
+                    "values": {
+                        "actual_2024_25": 2.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.0,
+                        "budget_2025_26": 3.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.0,
+                        "revised_2024_25": 3.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.0,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Grants in aid to State Channelizing Agencies",
+                    "values": {
+                        "actual_2024_25": 2.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.0,
+                        "budget_2025_26": 3.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.0,
+                        "revised_2024_25": 3.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.0,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Special Programmes of Minorities",
+                    "values": {
+                        "actual_2024_25": 23.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 23.62,
+                        "budget_2025_26": 20.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.0,
+                        "revised_2024_25": 16.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 16.0,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                },
+                {
+                    "code": "7.01",
+                    "name": "Research/Studies, Publicity, Monitoring and",
+                    "values": {
+                        "actual_2024_25": 23.62,
+                        "capital_2024_25": null,
+                        "total_2024_25": 23.62,
+                        "budget_2025_26": 20.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.0,
+                        "revised_2024_25": 16.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 16.0,
+                        "budget_2026_27": 20.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Evaluation of development Schemes for",
+            "items": [
+                {
+                    "code": "7.02",
+                    "name": "Scheme for containing population decline of",
+                    "values": {
+                        "actual_2024_25": 5.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.04,
+                        "budget_2025_26": 6.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6.0,
+                        "revised_2024_25": 4.87,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4.87,
+                        "budget_2026_27": 6.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Special Programmes of Minorities",
+                    "values": {
+                        "actual_2024_25": 28.66,
+                        "capital_2024_25": null,
+                        "total_2024_25": 28.66,
+                        "budget_2025_26": 26.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 26.0,
+                        "revised_2024_25": 20.87,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 20.87,
+                        "budget_2026_27": 26.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 26.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "PM-Viraasat Ka Samvardhan (PM VIKAS)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 267.29,
+                        "capital_2025_26": null,
+                        "total_2025_26": 267.29,
+                        "revised_2024_25": 200.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": 303.27,
+                        "capital_2026_27": null,
+                        "total_2026_27": 303.27
+                    }
+                },
+                {
+                    "code": "8.01",
+                    "name": "PM-VIKAS",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 267.29,
+                        "capital_2025_26": null,
+                        "total_2025_26": 267.29,
+                        "revised_2024_25": 200.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 200.0,
+                        "budget_2026_27": 303.27,
+                        "capital_2026_27": null,
+                        "total_2026_27": 303.27
+                    }
+                },
+                {
+                    "code": "8.02",
+                    "name": "PM-VIKAS Committed Liabilities",
+                    "values": {
+                        "actual_2024_25": 203.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 203.35,
+                        "budget_2025_26": 250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 250.0,
+                        "revised_2024_25": 112.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 112.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- PM-Viraasat Ka Samvardhan (PM VIKAS)",
+                    "values": {
+                        "actual_2024_25": 203.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 203.35,
+                        "budget_2025_26": 517.29,
+                        "capital_2025_26": null,
+                        "total_2025_26": 517.29,
+                        "revised_2024_25": 312.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 312.01,
+                        "budget_2026_27": 303.27,
+                        "capital_2026_27": null,
+                        "total_2026_27": 303.27
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "9",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -663.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": -663.74,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": -390.44,
+                        "capital_2024_25": null,
+                        "total_2024_25": -390.44,
+                        "budget_2025_26": 1237.32,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1237.32,
+                        "revised_2024_25": 404.44,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 404.44,
+                        "budget_2026_27": 1197.97,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1197.97
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "National Commission for Minorities",
+                    "values": {
+                        "actual_2024_25": 11.77,
+                        "capital_2024_25": null,
+                        "total_2024_25": 11.77,
+                        "budget_2025_26": 14.89,
+                        "capital_2025_26": null,
+                        "total_2025_26": 14.89,
+                        "revised_2024_25": 12.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12.5,
+                        "budget_2026_27": 15.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15.5
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "Special Officer for Linguistic Minorities",
+                    "values": {
+                        "actual_2024_25": 1.61,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.61,
+                        "budget_2025_26": 3.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.0,
+                        "revised_2024_25": 2.15,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.15,
+                        "budget_2026_27": 2.08,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.08
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Statutory and Regulatory Bodies",
+                    "values": {
+                        "actual_2024_25": 13.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": 13.38,
+                        "budget_2025_26": 17.89,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17.89,
+                        "revised_2024_25": 14.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14.65,
+                        "budget_2026_27": 17.58,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17.58
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 13.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": 13.38,
+                        "budget_2025_26": 17.89,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17.89,
+                        "revised_2024_25": 14.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14.65,
+                        "budget_2026_27": 17.58,
+                        "capital_2026_27": null,
+                        "total_2026_27": 17.58
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "TRANSFERS TO STATES/UTs",
+            "items": []
+        },
+        {
+            "heading": "Centrally Sponsored Schemes",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Pradhan Mantri Jan Vikas Karyakaram",
+                    "values": {
+                        "actual_2024_25": 955.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 955.23,
+                        "budget_2025_26": 1913.97,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1913.97,
+                        "revised_2024_25": 1565.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1565.0,
+                        "budget_2026_27": 2000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2000.0
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Education Scheme for Madrasas and Minorities",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Umbrella Programme for Development of Minorities",
+                    "values": {
+                        "actual_2024_25": 955.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": 955.23,
+                        "budget_2025_26": 1913.98,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1913.98,
+                        "revised_2024_25": 1565.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1565.0,
+                        "budget_2026_27": 2000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2000.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "Actual Recoveries (CSS)",
+                    "values": {
+                        "actual_2024_25": -17.23,
+                        "capital_2024_25": null,
+                        "total_2024_25": -17.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Centrally Sponsored Schemes",
+                    "values": {
+                        "actual_2024_25": 938.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 938.0,
+                        "budget_2025_26": 1913.98,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1913.98,
+                        "revised_2024_25": 1565.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1565.0,
+                        "budget_2026_27": 2000.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2000.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 712.03,
+                        "capital_2024_25": 2.95,
+                        "total_2024_25": 714.98,
+                        "budget_2025_26": 3346.28,
+                        "capital_2025_26": 3.72,
+                        "total_2025_26": 3350.0,
+                        "revised_2024_25": 2157.98,
+                        "capital_revised_2024_25": 2.47,
+                        "total_revised_2024_25": 2160.45,
+                        "budget_2026_27": 3395.62,
+                        "capital_2026_27": 4.38,
+                        "total_2026_27": 3400.0
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Welfare of Scheduled Castes, Scheduled Tribes, Other",
+                    "values": {
+                        "actual_2024_25": -488.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": -488.63,
+                        "budget_2025_26": 812.12,
+                        "capital_2025_26": null,
+                        "total_2025_26": 812.12,
+                        "revised_2024_25": 298.65,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 298.65,
+                        "budget_2026_27": 1062.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1062.7
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Social Security and Welfare",
+                    "values": {
+                        "actual_2024_25": 345.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 345.58,
+                        "budget_2025_26": 653.71,
+                        "capital_2025_26": null,
+                        "total_2025_26": 653.71,
+                        "revised_2024_25": 434.63,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 434.63,
+                        "budget_2026_27": 473.73,
+                        "capital_2026_27": null,
+                        "total_2026_27": 473.73
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 39.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 39.06,
+                        "budget_2025_26": 36.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 36.1,
+                        "revised_2024_25": 42.14,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 42.14,
+                        "budget_2026_27": 43.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43.78
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.95,
+                        "total_2024_25": 2.95,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.72,
+                        "total_2025_26": 3.72,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.47,
+                        "total_revised_2024_25": 2.47,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 4.38,
+                        "total_2026_27": 4.38
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": -103.99,
+                        "capital_2024_25": 2.95,
+                        "total_2024_25": -101.04,
+                        "budget_2025_26": 1501.93,
+                        "capital_2025_26": 3.72,
+                        "total_2025_26": 1505.65,
+                        "revised_2024_25": 775.42,
+                        "capital_revised_2024_25": 2.47,
+                        "total_revised_2024_25": 777.89,
+                        "budget_2026_27": 1580.21,
+                        "capital_2026_27": 4.38,
+                        "total_2026_27": 1584.59
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 315.98,
+                        "capital_2025_26": null,
+                        "total_2025_26": 315.98,
+                        "revised_2024_25": 248.25,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 248.25,
+                        "budget_2026_27": 319.94,
+                        "capital_2026_27": null,
+                        "total_2026_27": 319.94
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": 816.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 816.02,
+                        "budget_2025_26": 1518.31,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1518.31,
+                        "revised_2024_25": 1133.28,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1133.28,
+                        "budget_2026_27": 1491.42,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1491.42
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Grants-in-aid to Union Territory Governments",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 10.06,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.06,
+                        "revised_2024_25": 1.03,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.03,
+                        "budget_2026_27": 4.05,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4.05
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 816.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 816.02,
+                        "budget_2025_26": 1844.35,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1844.35,
+                        "revised_2024_25": 1382.56,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1382.56,
+                        "budget_2026_27": 1815.41,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1815.41
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 712.03,
+                        "capital_2024_25": 2.95,
+                        "total_2024_25": 714.98,
+                        "budget_2025_26": 3346.28,
+                        "capital_2025_26": 3.72,
+                        "total_2025_26": 3350.0,
+                        "revised_2024_25": 2157.98,
+                        "capital_revised_2024_25": 2.47,
+                        "total_revised_2024_25": 2160.45,
+                        "budget_2026_27": 3395.62,
+                        "capital_2026_27": 4.38,
+                        "total_2026_27": 3400.0
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Equity contribution to National",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 836.27,
+                        "total_2024_25": 836.27,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 780.0,
+                        "total_2025_26": 780.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 838.0,
+                        "total_revised_2024_25": 838.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 915.0,
+                        "total_2026_27": 915.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 836.27,
+                        "total_2024_25": 836.27,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 780.0,
+                        "total_2025_26": 780.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 838.0,
+                        "total_revised_2024_25": 838.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 915.0,
+                        "total_2026_27": 915.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure on the Secretariat of the Under SWSVY, financial assistance is provided to extend interest free loan to various Waqf",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Special Programme for Minorities:..This provision is for Haj Management in India and CGI,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "Pre-Matric Scholarship for Minorities:..Pre-matric scholarship is provided to students from",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Quami Waqf Board Taraqqiati Scheme and Sahari Waqf Sampati Vikas Yojna:..The",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "widen welfare activities respectively.",
+            "items": [
+                {
+                    "code": "5.03",
+                    "name": "Merit-cum-Means Scholarship for professional and technical courses (under graduate",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "aulad and other welfare interventions. While substantial progress has been achieved in onboarding State/UT Waqf",
+            "items": []
+        },
+        {
+            "heading": "5.05. Free Coaching and allied schemes for Minorities:..The objective of the scheme is to",
+            "items": [
+                {
+                    "code": "5.06",
+                    "name": "Interest Subsidy on Educational loans for Overseas Studies:..This scheme is being",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6.01",
+                    "name": "Grants in aid to State Channelizing Agencies (SCAs) for implementation of National",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "7.01. Research/Studies, Publicity, Monitoring and Evaluation of development Schemes for",
+            "items": []
+        },
+        {
+            "heading": "(ii) Monitor and evaluate ongoing schemes for continuous improvement.",
+            "items": []
+        },
+        {
+            "heading": "(iii) Promote widespread awareness of Ministry schemes through IEC (Information, Education",
+            "items": [
+                {
+                    "code": "7.02",
+                    "name": "Scheme for containing population decline of small minority community:..This scheme is a",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "PM-Viraasat Ka Samvardhan (PM VIKAS):..Pradhan Mantri Virasat Ka Samvardhan (PM",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "10. National Commission for Minorities:..The provision is to meet the administrative expenditure",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Special Officer for Linguistic Minorities:..The provision is to meet the administrative",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure of the Special Officer for Linguistic Minorities.",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Pradhan Mantri Jan Vikas Karyakaram:..PMJVK (Pradhan Mantri Jan Vikas Karyakaram) is a",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF NEW AND RENEWABLE ENERGY",
+            "items": []
+        }
+    ]
+}

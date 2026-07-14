@@ -1,0 +1,2126 @@
+{
+    "demand_no": 13,
+    "ministry": "Ministry Of Communications",
+    "department": "Department Of Telecommunications",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 47880.58,
+                        "capital_2024_25": 73846.06,
+                        "total_2024_25": 121726.64,
+                        "budget_2025_26": 29220.49,
+                        "capital_2025_26": 51784.75,
+                        "total_2025_26": 81005.24,
+                        "revised_2024_25": 29482.37,
+                        "capital_revised_2024_25": 23915.8,
+                        "total_revised_2024_25": 53398.17,
+                        "budget_2026_27": 26716.02,
+                        "capital_2026_27": 47274.92,
+                        "total_2026_27": 73990.94
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat -Economic Services",
+                    "values": {
+                        "actual_2024_25": 1008.78,
+                        "capital_2024_25": 21.34,
+                        "total_2024_25": 1030.12,
+                        "budget_2025_26": 1132.19,
+                        "capital_2025_26": 162.12,
+                        "total_2025_26": 1294.31,
+                        "revised_2024_25": 1035.53,
+                        "capital_revised_2024_25": 26.29,
+                        "total_revised_2024_25": 1061.82,
+                        "budget_2026_27": 1023.92,
+                        "capital_2026_27": 84.95,
+                        "total_2026_27": 1108.87
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Pensions",
+                    "values": {
+                        "actual_2024_25": 18225.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18225.04,
+                        "budget_2025_26": 20133.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20133.42,
+                        "revised_2024_25": 19685.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 19685.0,
+                        "budget_2026_27": 21064.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 21064.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Labour Employment and Skill Development",
+                    "values": {
+                        "actual_2024_25": 0.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.11,
+                        "budget_2025_26": 0.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.4,
+                        "revised_2024_25": 0.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.21,
+                        "budget_2026_27": 0.33,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.33
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Regulatory Bodies",
+                    "values": {
+                        "actual_2024_25": 97.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 97.0,
+                        "budget_2025_26": 130.0,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 131.0,
+                        "revised_2024_25": 135.0,
+                        "capital_revised_2024_25": 9.0,
+                        "total_revised_2024_25": 144.0,
+                        "budget_2026_27": 146.0,
+                        "capital_2026_27": 3.0,
+                        "total_2026_27": 149.0
+                    }
+                },
+                {
+                    "code": "4.01",
+                    "name": "Telecom Regulatory Authority of India General",
+                    "values": {
+                        "actual_2024_25": 97.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 97.0,
+                        "budget_2025_26": 130.0,
+                        "capital_2025_26": 1.0,
+                        "total_2025_26": 131.0,
+                        "revised_2024_25": 135.0,
+                        "capital_revised_2024_25": 9.0,
+                        "total_revised_2024_25": 144.0,
+                        "budget_2026_27": 146.0,
+                        "capital_2026_27": 3.0,
+                        "total_2026_27": 149.0
+                    }
+                },
+                {
+                    "code": "4.02",
+                    "name": "Telecom Disputes Settlement and Appellate",
+                    "values": {
+                        "actual_2024_25": 25.56,
+                        "capital_2024_25": 1.94,
+                        "total_2024_25": 27.5,
+                        "budget_2025_26": 28.94,
+                        "capital_2025_26": 0.77,
+                        "total_2025_26": 29.71,
+                        "revised_2024_25": 22.73,
+                        "capital_revised_2024_25": 0.32,
+                        "total_revised_2024_25": 23.05,
+                        "budget_2026_27": 24.66,
+                        "capital_2026_27": 0.79,
+                        "total_2026_27": 25.45
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Regulatory Bodies",
+                    "values": {
+                        "actual_2024_25": 122.56,
+                        "capital_2024_25": 1.94,
+                        "total_2024_25": 124.5,
+                        "budget_2025_26": 158.94,
+                        "capital_2025_26": 1.77,
+                        "total_2025_26": 160.71,
+                        "revised_2024_25": 157.73,
+                        "capital_revised_2024_25": 9.32,
+                        "total_revised_2024_25": 167.05,
+                        "budget_2026_27": 170.66,
+                        "capital_2026_27": 3.79,
+                        "total_2026_27": 174.45
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "Human Resource Management",
+                    "values": {
+                        "actual_2024_25": 15.27,
+                        "capital_2024_25": 22.94,
+                        "total_2024_25": 38.21,
+                        "budget_2025_26": 65.78,
+                        "capital_2025_26": 62.46,
+                        "total_2025_26": 128.24,
+                        "revised_2024_25": 28.0,
+                        "capital_revised_2024_25": 24.48,
+                        "total_revised_2024_25": 52.48,
+                        "budget_2026_27": 33.45,
+                        "capital_2026_27": 50.43,
+                        "total_2026_27": 83.88
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Special Assistance for Swachhta Action Plan",
+                    "values": {
+                        "actual_2024_25": 1.03,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.03,
+                        "budget_2025_26": 2.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": 1.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.8,
+                        "budget_2026_27": 1.63,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.63
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Mandatory Testing and Certification of Telecom",
+                    "values": {
+                        "actual_2024_25": 1.17,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.17,
+                        "budget_2025_26": 1.2,
+                        "capital_2025_26": 0.2,
+                        "total_2025_26": 1.4,
+                        "revised_2024_25": 1.2,
+                        "capital_revised_2024_25": 0.2,
+                        "total_revised_2024_25": 1.4,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Construction of Office Building",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 4.0,
+                        "total_2025_26": 4.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1.64,
+                        "total_revised_2024_25": 1.64,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.96,
+                        "total_2026_27": 1.96
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Sampann 2.0",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 5.0,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.0,
+                        "total_revised_2024_25": 3.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3.38,
+                        "total_2026_27": 3.38
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Other Establishment Expenditure",
+                    "values": {
+                        "actual_2024_25": 60.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 60.75,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 75.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 75.51,
+                        "budget_2026_27": 83.23,
+                        "capital_2026_27": null,
+                        "total_2026_27": 83.23
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 19434.71,
+                        "capital_2024_25": 46.22,
+                        "total_2024_25": 19480.93,
+                        "budget_2025_26": 21493.93,
+                        "capital_2025_26": 235.55,
+                        "total_2025_26": 21729.48,
+                        "revised_2024_25": 20984.98,
+                        "capital_revised_2024_25": 64.93,
+                        "total_revised_2024_25": 21049.91,
+                        "budget_2026_27": 22377.22,
+                        "capital_2026_27": 144.51,
+                        "total_2026_27": 22521.73
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Compensation to Service Providers for creation and augmentation of",
+                    "values": {
+                        "actual_2024_25": 7200.0,
+                        "capital_2024_25": 1000.0,
+                        "total_2024_25": 8200.0,
+                        "budget_2025_26": 4000.0,
+                        "capital_2025_26": 16000.0,
+                        "total_2025_26": 20000.0,
+                        "revised_2024_25": 4000.0,
+                        "capital_revised_2024_25": 5500.0,
+                        "total_revised_2024_25": 9500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 17063.0,
+                        "total_2026_27": 17063.0
+                    }
+                },
+                {
+                    "code": "11.01",
+                    "name": "Transfer to Universal Service Obligation (USO)",
+                    "values": {
+                        "actual_2024_25": 7200.0,
+                        "capital_2024_25": 1000.0,
+                        "total_2024_25": 8200.0,
+                        "budget_2025_26": 4000.0,
+                        "capital_2025_26": 16000.0,
+                        "total_2025_26": 20000.0,
+                        "revised_2024_25": 4000.0,
+                        "capital_revised_2024_25": 5500.0,
+                        "total_revised_2024_25": 9500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 17063.0,
+                        "total_2026_27": 17063.0
+                    }
+                },
+                {
+                    "code": "11.02",
+                    "name": "Compensation to Telecom Service Providers",
+                    "values": {
+                        "actual_2024_25": 4643.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4643.08,
+                        "budget_2025_26": 6000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6000.0,
+                        "revised_2024_25": 4000.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4000.0,
+                        "budget_2026_27": 3600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3600.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "11.03",
+                    "name": "Bharatnet",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3995.01,
+                        "total_2024_25": 3995.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 22000.0,
+                        "total_2025_26": 22000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 5500.0,
+                        "total_revised_2024_25": 5500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 20000.0,
+                        "total_2026_27": 20000.0
+                    }
+                },
+                {
+                    "code": "11.04",
+                    "name": "R&D (Revenue)",
+                    "values": {
+                        "actual_2024_25": 160.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 160.07,
+                        "budget_2025_26": 400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 400.0,
+                        "revised_2024_25": 150.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 150.0,
+                        "budget_2026_27": 400.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 400.0
+                    }
+                },
+                {
+                    "code": "11.05",
+                    "name": "Amount met from Universal Service Obligation",
+                    "values": {
+                        "actual_2024_25": -4803.15,
+                        "capital_2024_25": -3974.43,
+                        "total_2024_25": -8777.58,
+                        "budget_2025_26": -4000.0,
+                        "capital_2025_26": -16000.0,
+                        "total_2025_26": -20000.0,
+                        "revised_2024_25": -4000.0,
+                        "capital_revised_2024_25": -5500.0,
+                        "total_revised_2024_25": -9500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -17063.0,
+                        "total_2026_27": -17063.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 7200.0,
+                        "capital_2024_25": 1020.58,
+                        "total_2024_25": 8220.58,
+                        "budget_2025_26": 6400.0,
+                        "capital_2025_26": 22000.0,
+                        "total_2025_26": 28400.0,
+                        "revised_2024_25": 4150.0,
+                        "capital_revised_2024_25": 5500.0,
+                        "total_revised_2024_25": 9650.0,
+                        "budget_2026_27": 4000.0,
+                        "capital_2026_27": 20000.0,
+                        "total_2026_27": 24000.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "12",
+                    "name": "Additional Transfer to Reserve Fund",
+                    "values": {
+                        "actual_2024_25": 10300.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10300.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10500.0,
+                        "total_revised_2024_25": 10500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12.01",
+                    "name": "Universal Service Obligation Fund",
+                    "values": {
+                        "actual_2024_25": 10300.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10300.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10500.0,
+                        "total_revised_2024_25": 10500.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Additional Amount met from Reserve Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -20.58,
+                        "total_2024_25": -20.58,
+                        "budget_2025_26": -2400.0,
+                        "capital_2025_26": -6000.0,
+                        "total_2025_26": -8400.0,
+                        "revised_2024_25": -150.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -150.0,
+                        "budget_2026_27": -4000.0,
+                        "capital_2026_27": -2937.0,
+                        "total_2026_27": -6937.0
+                    }
+                },
+                {
+                    "code": "13.01",
+                    "name": "Universal Service Obligation Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -20.58,
+                        "total_2024_25": -20.58,
+                        "budget_2025_26": -2400.0,
+                        "capital_2025_26": -6000.0,
+                        "total_2025_26": -8400.0,
+                        "revised_2024_25": -150.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -150.0,
+                        "budget_2026_27": -4000.0,
+                        "capital_2026_27": -2937.0,
+                        "total_2026_27": -6937.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Universal Service Obligation Fund",
+                    "values": {
+                        "actual_2024_25": 17500.0,
+                        "capital_2024_25": 1000.0,
+                        "total_2024_25": 18500.0,
+                        "budget_2025_26": 4000.0,
+                        "capital_2025_26": 16000.0,
+                        "total_2025_26": 20000.0,
+                        "revised_2024_25": 4000.0,
+                        "capital_revised_2024_25": 16000.0,
+                        "total_revised_2024_25": 20000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 17063.0,
+                        "total_2026_27": 17063.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "Optical Fibre Cable based network for Defence Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 446.23,
+                        "total_2024_25": 446.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1456.25,
+                        "total_2025_26": 1456.25,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 706.0,
+                        "total_revised_2024_25": 706.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 975.0,
+                        "total_2026_27": 975.0
+                    }
+                },
+                {
+                    "code": "14.01",
+                    "name": "Optical Fibre Cable based network for Defence",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 446.23,
+                        "total_2024_25": 446.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 1456.25,
+                        "total_2025_26": 1456.25,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 706.0,
+                        "total_revised_2024_25": 706.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 975.0,
+                        "total_2026_27": 975.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "DoT Projects",
+            "items": [
+                {
+                    "code": "15",
+                    "name": "Domestic Industry Incentivisation Scheme",
+                    "values": {
+                        "actual_2024_25": 843.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 843.93,
+                        "budget_2025_26": 1965.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1965.5,
+                        "revised_2024_25": 1944.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1944.0,
+                        "budget_2026_27": 1950.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1950.0
+                    }
+                },
+                {
+                    "code": "15.01",
+                    "name": "Production Linked Incentive Scheme",
+                    "values": {
+                        "actual_2024_25": 843.93,
+                        "capital_2024_25": null,
+                        "total_2024_25": 843.93,
+                        "budget_2025_26": 1965.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1965.5,
+                        "revised_2024_25": 1944.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1944.0,
+                        "budget_2026_27": 1950.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1950.0
+                    }
+                },
+                {
+                    "code": "15.02",
+                    "name": "Champion Service Sector Scheme",
+                    "values": {
+                        "actual_2024_25": 18.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18.6,
+                        "budget_2025_26": 1.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.1,
+                        "revised_2024_25": 14.05,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 14.05,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15.03",
+                    "name": "Technology Development and Investment",
+                    "values": {
+                        "actual_2024_25": 23.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": 23.37,
+                        "budget_2025_26": 39.74,
+                        "capital_2025_26": null,
+                        "total_2025_26": 39.74,
+                        "revised_2024_25": 24.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 24.0,
+                        "budget_2026_27": 39.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 39.72
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Domestic Industry Incentivisation Scheme",
+                    "values": {
+                        "actual_2024_25": 885.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 885.9,
+                        "budget_2025_26": 2006.34,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2006.34,
+                        "revised_2024_25": 1982.05,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1982.05,
+                        "budget_2026_27": 1989.72,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1989.72
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "16",
+                    "name": "Wireless Planning and Coordination",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 75.79,
+                        "total_2024_25": 75.79,
+                        "budget_2025_26": 22.63,
+                        "capital_2025_26": 25.0,
+                        "total_2025_26": 47.63,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.1,
+                        "total_revised_2024_25": 0.1,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 35.0,
+                        "total_2026_27": 35.0
+                    }
+                },
+                {
+                    "code": "16.01",
+                    "name": "Wireless Planning and Coordination",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 75.79,
+                        "total_2024_25": 75.79,
+                        "budget_2025_26": 22.63,
+                        "capital_2025_26": 25.0,
+                        "total_2025_26": 47.63,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.1,
+                        "total_revised_2024_25": 0.1,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 35.0,
+                        "total_2026_27": 35.0
+                    }
+                },
+                {
+                    "code": "16.02",
+                    "name": "Wireless Monitoring Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 72.17,
+                        "total_2024_25": 72.17,
+                        "budget_2025_26": 47.85,
+                        "capital_2025_26": 54.0,
+                        "total_2025_26": 101.85,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15.0,
+                        "total_revised_2024_25": 15.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 55.0,
+                        "total_2026_27": 55.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Wireless Planning and Coordination",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 147.96,
+                        "total_2024_25": 147.96,
+                        "budget_2025_26": 70.48,
+                        "capital_2025_26": 79.0,
+                        "total_2025_26": 149.48,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15.1,
+                        "total_revised_2024_25": 15.1,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 90.0,
+                        "total_2026_27": 90.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "17",
+                    "name": "Telecom Engineering Centre",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.13,
+                        "total_2024_25": 0.13,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.37,
+                        "total_2025_26": 0.37,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.16,
+                        "total_revised_2024_25": 0.16,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.13,
+                        "total_2026_27": 0.13
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Telecom Testing and Security Certification Centre",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7.45,
+                        "total_2024_25": 7.45,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 8.0,
+                        "total_2025_26": 8.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.77,
+                        "total_revised_2024_25": 3.77,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7.54,
+                        "total_2026_27": 7.54
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Telecom Computer Emergency Response Team(T-Cert)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 117.0,
+                        "total_2024_25": 117.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 73.0,
+                        "total_2025_26": 73.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 72.98,
+                        "total_revised_2024_25": 72.98,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 97.62,
+                        "total_2026_27": 97.62
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Funding to BSNL for providing Telecom Connectivity for",
+                    "values": {
+                        "actual_2024_25": 1.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.0,
+                        "budget_2025_26": 1.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.0,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "5G Connectivity Test Bed",
+                    "values": {
+                        "actual_2024_25": 3.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.63,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Digital Intelligence Unit Project",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 65.51,
+                        "total_2024_25": 65.51,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 52.0,
+                        "total_2025_26": 52.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 65.51,
+                        "total_revised_2024_25": 65.51,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 59.0,
+                        "total_2026_27": 59.0
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "Prevention of Spoofed Incoming International Calls",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 11.53,
+                        "total_2024_25": 11.53,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7.5,
+                        "total_2025_26": 7.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 5.65,
+                        "total_revised_2024_25": 5.65,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 7.0,
+                        "total_2026_27": 7.0
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "Unified Portal",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5.01,
+                        "total_2024_25": 5.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 10.0,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 36.7,
+                        "total_revised_2024_25": 36.7,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 28.59,
+                        "total_2026_27": 28.59
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "SATCOM Monitoring-Facility",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 5.28,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 5.28,
+                        "budget_2026_27": 2.77,
+                        "capital_2026_27": 190.03,
+                        "total_2026_27": 192.8
+                    }
+                },
+                {
+                    "code": "26",
+                    "name": "Centralized Monitoring System-2.0",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-DoT Projects",
+                    "values": {
+                        "actual_2024_25": 890.53,
+                        "capital_2024_25": 354.59,
+                        "total_2024_25": 1245.12,
+                        "budget_2025_26": 2077.82,
+                        "capital_2025_26": 229.87,
+                        "total_2025_26": 2307.69,
+                        "revised_2024_25": 1988.33,
+                        "capital_revised_2024_25": 199.87,
+                        "total_revised_2024_25": 2188.2,
+                        "budget_2026_27": 1992.5,
+                        "capital_2026_27": 579.91,
+                        "total_2026_27": 2572.41
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 18390.53,
+                        "capital_2024_25": 1800.82,
+                        "total_2024_25": 20191.35,
+                        "budget_2025_26": 6077.82,
+                        "capital_2025_26": 17686.12,
+                        "total_2025_26": 23763.94,
+                        "revised_2024_25": 5988.33,
+                        "capital_revised_2024_25": 16905.87,
+                        "total_revised_2024_25": 22894.2,
+                        "budget_2026_27": 1992.5,
+                        "capital_2026_27": 18617.91,
+                        "total_2026_27": 20610.41
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "27",
+                    "name": "Centre for Development of Telematics (C-DoT)",
+                    "values": {
+                        "actual_2024_25": 500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 500.0,
+                        "budget_2025_26": 400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 400.0,
+                        "revised_2024_25": 587.18,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 587.18,
+                        "budget_2026_27": 600.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 600.0
+                    }
+                },
+                {
+                    "code": "28",
+                    "name": "Support to Public Sector Undertakings",
+                    "values": {
+                        "actual_2024_25": 302.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 302.48,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "28.01",
+                    "name": "Financial Support to Mahanagar Telephone",
+                    "values": {
+                        "actual_2024_25": 302.48,
+                        "capital_2024_25": null,
+                        "total_2024_25": 302.48,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "28.02",
+                    "name": "Payments of Principal amount of MTNL bonds",
+                    "values": {
+                        "actual_2024_25": 3668.97,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3668.97,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "28.03",
+                    "name": "Financial Relief / Infusion to Indian Telephone",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 59.0,
+                        "total_2024_25": 59.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 105.5,
+                        "total_2025_26": 105.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 60.0,
+                        "total_revised_2024_25": 60.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 39.5,
+                        "total_2026_27": 39.5
+                    }
+                },
+                {
+                    "code": "28.04",
+                    "name": "Capital infusion in BSNL",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 71940.02,
+                        "total_2024_25": 71940.02,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 33757.58,
+                        "total_2025_26": 33757.58,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 6885.0,
+                        "total_revised_2024_25": 6885.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 28473.0,
+                        "total_2026_27": 28473.0
+                    }
+                },
+                {
+                    "code": "28.05",
+                    "name": "Implementation of Voluntary Retirement",
+                    "values": {
+                        "actual_2024_25": 4248.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4248.4,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 675.6,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 675.6,
+                        "budget_2026_27": 475.95,
+                        "capital_2026_27": null,
+                        "total_2026_27": 475.95
+                    }
+                },
+                {
+                    "code": "28.06",
+                    "name": "Viability Gap Funding",
+                    "values": {
+                        "actual_2024_25": 1200.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1200.0,
+                        "budget_2025_26": 1200.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1200.0,
+                        "revised_2024_25": 1200.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1200.0,
+                        "budget_2026_27": 1200.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1200.0
+                    }
+                },
+                {
+                    "code": "28.07",
+                    "name": "Waiver of Guarantee fee to BSNL/MTNL",
+                    "values": {
+                        "actual_2024_25": 169.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": 169.76,
+                        "budget_2025_26": 231.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 231.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "28.08",
+                    "name": "Less Receipts",
+                    "values": {
+                        "actual_2024_25": -169.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": -169.76,
+                        "budget_2025_26": -231.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": -231.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "28.09",
+                    "name": "Loans to MTNL on invocation of Government",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1151.23,
+                        "total_2024_25": 1151.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1829.49,
+                        "total_revised_2024_25": 1829.49,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.01,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "28.10",
+                    "name": "Amount met from Guarantee Redemption Fund",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": -1151.23,
+                        "total_2024_25": -1151.23,
+                        "budget_2025_26": null,
+                        "capital_2025_26": -0.01,
+                        "total_2025_26": -0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -1829.49,
+                        "total_revised_2024_25": -1829.49,
+                        "budget_2026_27": null,
+                        "capital_2026_27": -0.01,
+                        "total_2026_27": -0.01
+                    }
+                },
+                {
+                    "code": "28.11",
+                    "name": "Vodafone Idea Ltd (Conversion of Outstanding",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 36950.0,
+                        "total_revised_2024_25": 36950.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "28.12",
+                    "name": "Less Receipt from NTR",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": -36950.0,
+                        "total_revised_2024_25": -36950.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 9419.85,
+                        "capital_2024_25": 71999.02,
+                        "total_2024_25": 81418.87,
+                        "budget_2025_26": 1200.01,
+                        "capital_2025_26": 33863.08,
+                        "total_2025_26": 35063.09,
+                        "revised_2024_25": 1875.6,
+                        "capital_revised_2024_25": 6945.0,
+                        "total_revised_2024_25": 8820.6,
+                        "budget_2026_27": 1675.95,
+                        "capital_2026_27": 28512.5,
+                        "total_2026_27": 30188.45
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "29",
+                    "name": "International Cooperation",
+                    "values": {
+                        "actual_2024_25": 135.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 135.49,
+                        "budget_2025_26": 48.73,
+                        "capital_2025_26": null,
+                        "total_2025_26": 48.73,
+                        "revised_2024_25": 46.28,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 46.28,
+                        "budget_2026_27": 70.35,
+                        "capital_2026_27": null,
+                        "total_2026_27": 70.35
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 10055.34,
+                        "capital_2024_25": 71999.02,
+                        "total_2024_25": 82054.36,
+                        "budget_2025_26": 1648.74,
+                        "capital_2025_26": 33863.08,
+                        "total_2025_26": 35511.82,
+                        "revised_2024_25": 2509.06,
+                        "capital_revised_2024_25": 6945.0,
+                        "total_revised_2024_25": 9454.06,
+                        "budget_2026_27": 2346.3,
+                        "capital_2026_27": 28512.5,
+                        "total_2026_27": 30858.8
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 47880.58,
+                        "capital_2024_25": 73846.06,
+                        "total_2024_25": 121726.64,
+                        "budget_2025_26": 29220.49,
+                        "capital_2025_26": 51784.75,
+                        "total_2025_26": 81005.24,
+                        "revised_2024_25": 29482.37,
+                        "capital_revised_2024_25": 23915.8,
+                        "total_revised_2024_25": 53398.17,
+                        "budget_2026_27": 26716.02,
+                        "capital_2026_27": 47274.92,
+                        "total_2026_27": 73990.94
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Pensions and other Retirement Benefits",
+                    "values": {
+                        "actual_2024_25": 18225.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18225.04,
+                        "budget_2025_26": 20133.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20133.42,
+                        "revised_2024_25": 19685.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 19685.0,
+                        "budget_2026_27": 21064.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 21064.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-General Services",
+                    "values": {
+                        "actual_2024_25": 18225.04,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18225.04,
+                        "budget_2025_26": 20133.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20133.42,
+                        "revised_2024_25": 19685.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 19685.0,
+                        "budget_2026_27": 21064.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 21064.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Labour, Employment and Skill Development",
+                    "values": {
+                        "actual_2024_25": 0.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.11,
+                        "budget_2025_26": 0.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.4,
+                        "revised_2024_25": 0.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.21,
+                        "budget_2026_27": 0.33,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.33
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 0.11,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.11,
+                        "budget_2025_26": 0.4,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.4,
+                        "revised_2024_25": 0.21,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.21,
+                        "budget_2026_27": 0.33,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.33
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "3",
+                    "name": "Other Communication Services",
+                    "values": {
+                        "actual_2024_25": 28646.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 28646.65,
+                        "budget_2025_26": 7314.48,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7314.48,
+                        "revised_2024_25": 8302.91,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 8302.91,
+                        "budget_2026_27": 4207.77,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4207.77
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 1008.78,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1008.78,
+                        "budget_2025_26": 1132.19,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1132.19,
+                        "revised_2024_25": 1035.53,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1035.53,
+                        "budget_2026_27": 1023.92,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1023.92
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on Telecommunication and Electronic",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 59.0,
+                        "total_2024_25": 59.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 105.5,
+                        "total_2025_26": 105.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 60.0,
+                        "total_revised_2024_25": 60.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 39.5,
+                        "total_2026_27": 39.5
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on Other Communication Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 73787.06,
+                        "total_2024_25": 73787.06,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 49333.62,
+                        "total_2025_26": 49333.62,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 23235.2,
+                        "total_revised_2024_25": 23235.2,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 45137.92,
+                        "total_2026_27": 45137.92
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Loans for Telecommunication and Electronic Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 29655.43,
+                        "capital_2024_25": 73846.06,
+                        "total_2024_25": 103501.49,
+                        "budget_2025_26": 8446.67,
+                        "capital_2025_26": 49439.12,
+                        "total_2025_26": 57885.79,
+                        "revised_2024_25": 9338.44,
+                        "capital_revised_2024_25": 23295.2,
+                        "total_revised_2024_25": 32633.64,
+                        "budget_2026_27": 5231.69,
+                        "capital_2026_27": 45177.42,
+                        "total_2026_27": 50409.11
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 640.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 640.0,
+                        "revised_2024_25": 458.72,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 458.72,
+                        "budget_2026_27": 420.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 420.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2345.63,
+                        "total_2025_26": 2345.63,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 620.6,
+                        "total_revised_2024_25": 620.6,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 2097.5,
+                        "total_2026_27": 2097.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 640.0,
+                        "capital_2025_26": 2345.63,
+                        "total_2025_26": 2985.63,
+                        "revised_2024_25": 458.72,
+                        "capital_revised_2024_25": 620.6,
+                        "total_revised_2024_25": 1079.32,
+                        "budget_2026_27": 420.0,
+                        "capital_2026_27": 2097.5,
+                        "total_2026_27": 2517.5
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 47880.58,
+                        "capital_2024_25": 73846.06,
+                        "total_2024_25": 121726.64,
+                        "budget_2025_26": 29220.49,
+                        "capital_2025_26": 51784.75,
+                        "total_2025_26": 81005.24,
+                        "revised_2024_25": 29482.37,
+                        "capital_revised_2024_25": 23915.8,
+                        "total_revised_2024_25": 53398.17,
+                        "budget_2026_27": 26716.02,
+                        "capital_2026_27": 47274.92,
+                        "total_2026_27": 73990.94
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Indian Telephone Industries",
+                    "values": {
+                        "actual_2024_25": 59.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 59.0,
+                        "budget_2025_26": 105.5,
+                        "capital_2025_26": 12.61,
+                        "total_2025_26": 118.11,
+                        "revised_2024_25": 60.0,
+                        "capital_revised_2024_25": 12.61,
+                        "total_revised_2024_25": 72.61,
+                        "budget_2026_27": 39.5,
+                        "capital_2026_27": 10.0,
+                        "total_2026_27": 49.5
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Mahanagar Telephone Nigam",
+                    "values": {
+                        "actual_2024_25": 1151.23,
+                        "capital_2024_25": 45.01,
+                        "total_2024_25": 1196.24,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 1829.49,
+                        "capital_revised_2024_25": 75.0,
+                        "total_revised_2024_25": 1904.49,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": 75.0,
+                        "total_2026_27": 75.01
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Centre for Development of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 396.0,
+                        "total_2024_25": 396.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 150.0,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 150.0,
+                        "total_revised_2024_25": 150.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 150.0,
+                        "total_2026_27": 150.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Telecommunications Consultant",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 32.53,
+                        "total_2024_25": 32.53,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 102.2,
+                        "total_2025_26": 102.2,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 54.93,
+                        "total_revised_2024_25": 54.93,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 156.0,
+                        "total_2026_27": 156.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Bharat Sanchar Nigam Limited",
+                    "values": {
+                        "actual_2024_25": 71940.02,
+                        "capital_2024_25": 573.97,
+                        "total_2024_25": 72513.99,
+                        "budget_2025_26": 33757.58,
+                        "capital_2025_26": 500.0,
+                        "total_2025_26": 34257.58,
+                        "revised_2024_25": 6885.0,
+                        "capital_revised_2024_25": 500.0,
+                        "total_revised_2024_25": 7385.0,
+                        "budget_2026_27": 28473.0,
+                        "capital_2026_27": 500.0,
+                        "total_2026_27": 28973.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": 73150.25,
+                        "capital_2024_25": 1047.51,
+                        "total_2024_25": 74197.76,
+                        "budget_2025_26": 33863.09,
+                        "capital_2025_26": 764.81,
+                        "total_2025_26": 34627.9,
+                        "revised_2024_25": 8774.49,
+                        "capital_revised_2024_25": 792.54,
+                        "total_revised_2024_25": 9567.03,
+                        "budget_2026_27": 28512.51,
+                        "capital_2026_27": 891.0,
+                        "total_2026_27": 29403.51
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Service Obligation Fund and will be utilized for schemes viz. Compensation to Telecom Service Providers, Bharatnet",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Labour Employment and Skill Development:..The provision is for pilot scheme to open",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat -Economic Services:..The provision is for expenditure on the Secretariat of the",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Regulatory Bodies:..The provision is for transfer to Telecom Regulatory Authority of India",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Office Building of the Authority; and the expenditure relating to Telecom Disputes",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Human Resource Management:..The provision is for operational expenses of National 17. Telecom Engineering Centre:..The provision is for Telecom Engineering Centre.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Special Assistance for Swachhta Action Plan:..This provision is for special assistance for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Mandatory Testing and Certification of Telecom Equipment (MTCTE):..The provision is for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Construction of Office Building:..The Provision is for construction of DoT Building.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "5G Connectivity Test Bed:..The provision is for 5G connectivity Test Bed.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Sampann 2.0:..The Provision is for SAMPANN 2.0.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Digital Intelligence Unit Project:..Digital Intelligence Unit (DIU) Project's objective is for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "10. Other Establishment Expenditure:..The provision is for Establishment Expenditure of investigating fraudulent activity involving telecom resources, such as Unsolicited Commercial Communication (UCC)",
+            "items": []
+        },
+        {
+            "heading": "The amount under actual 2024-25 pertains to the expenditure on revenue portion of the Scheme,'Wireless Planning",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Compensation to Service Providers for creation and augmentation of telecom telecom subscribers.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11.03",
+                    "name": "Bharatnet:..The provision is for Bharatnet project towards creation of telecom infrastructure 27. Centre for Development of Telematics (C-DoT):..The provision is for meeting the expenses",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11.04",
+                    "name": "R&D (Revenue):..It will promote R&D and commercialization of technologies and solutions to issued by MTNL in lieu of refund of Spectrum Charges/CDMA spectrum charges.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Optical Fibre Cable based network for Defence Services:..The provision is for providing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "28.03",
+                    "name": "Financial Relief / Infusion to Indian Telephone Industries Limited:..The provision is for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Domestic Industry Incentivisation Scheme:..The provision is for Production Linked Incentive",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 2.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 8.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 4.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "16. Wireless Planning and Coordination:..(i) The provision is for expenditure relating to Wireless",
+            "items": [
+                {
+                    "code": "28.05",
+                    "name": "Implementation of Voluntary Retirement Scheme (BSNL/MTNL):..The provision is made for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "international standards; and (ii) The provision is for expenditure of Wireless Monitoring Organization, which provides",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "28.07",
+                    "name": "Waiver of Guarantee fee to BSNL/MTNL:..The provision is for waiver of guarantee fee",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "28.09",
+                    "name": "Loans to MTNL on invocation of Government Guarantee:..The provision is against",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "28.11",
+                    "name": "Vodafone Idea Ltd (Conversion of Outstanding Spectrum Auction Dues into equity):..The",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "29",
+                    "name": "International Cooperation:..The provision is for International Co-operation.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+            "items": []
+        }
+    ]
+}

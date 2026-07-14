@@ -1,0 +1,775 @@
+{
+    "demand_no": 97,
+    "ministry": "Ministry Of Steel",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 109.77,
+                        "capital_2024_25": 8429.3,
+                        "total_2024_25": 8539.07,
+                        "budget_2025_26": 364.22,
+                        "capital_2025_26": 2997.78,
+                        "total_2025_26": 3362.0,
+                        "revised_2024_25": 252.66,
+                        "capital_revised_2024_25": 3019.78,
+                        "total_revised_2024_25": 3272.44,
+                        "budget_2026_27": 439.84,
+                        "capital_2026_27": 3.34,
+                        "total_2026_27": 443.18
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries and receipts, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 41.95,
+                        "capital_2024_25": 6.3,
+                        "total_2024_25": 48.25,
+                        "budget_2025_26": 43.86,
+                        "capital_2025_26": 2.78,
+                        "total_2025_26": 46.64,
+                        "revised_2024_25": 43.39,
+                        "capital_revised_2024_25": 2.76,
+                        "total_revised_2024_25": 46.15,
+                        "budget_2026_27": 43.44,
+                        "capital_2026_27": 3.34,
+                        "total_2026_27": 46.78
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Product Linked Incentive (PLI) Scheme for Specialty",
+                    "values": {
+                        "actual_2024_25": 52.2,
+                        "capital_2024_25": null,
+                        "total_2024_25": 52.2,
+                        "budget_2025_26": 305.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 305.0,
+                        "revised_2024_25": 192.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 192.5,
+                        "budget_2026_27": 380.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 380.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Scheme for Promotion of Research and Development in",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.0,
+                        "budget_2025_26": 6.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6.0,
+                        "revised_2024_25": 6.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.0,
+                        "budget_2026_27": 6.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Flagging of Merchant Ships in India",
+                    "values": {
+                        "actual_2024_25": 8.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.86,
+                        "budget_2025_26": 7.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 7.0,
+                        "revised_2024_25": 7.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 7.0,
+                        "budget_2026_27": 7.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 7.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 66.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 66.06,
+                        "budget_2025_26": 318.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 318.0,
+                        "revised_2024_25": 205.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 205.5,
+                        "budget_2026_27": 393.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 393.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Rashtriya Ispat Nigam Limited (RINL)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8423.0,
+                        "total_2024_25": 8423.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2995.0,
+                        "total_2025_26": 2995.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3017.01,
+                        "total_revised_2024_25": 3017.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Hindustan Steelworks Construction Limited(HSCL)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 1585.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1585.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": -1585.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -1585.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Public Sector Undertakings",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 8423.0,
+                        "total_2024_25": 8423.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2995.0,
+                        "total_2025_26": 2995.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3017.01,
+                        "total_revised_2024_25": 3017.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "7",
+                    "name": "Other Programmes",
+                    "values": {
+                        "actual_2024_25": 1.76,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.76,
+                        "budget_2025_26": 2.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.36,
+                        "revised_2024_25": 3.77,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 3.78,
+                        "budget_2026_27": 3.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3.4
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 1.76,
+                        "capital_2024_25": 8423.0,
+                        "total_2024_25": 8424.76,
+                        "budget_2025_26": 2.36,
+                        "capital_2025_26": 2995.0,
+                        "total_2025_26": 2997.36,
+                        "revised_2024_25": 3.77,
+                        "capital_revised_2024_25": 3017.02,
+                        "total_revised_2024_25": 3020.79,
+                        "budget_2026_27": 3.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3.4
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 109.77,
+                        "capital_2024_25": 8429.3,
+                        "total_2024_25": 8539.07,
+                        "budget_2025_26": 364.22,
+                        "capital_2025_26": 2997.78,
+                        "total_2025_26": 3362.0,
+                        "revised_2024_25": 252.66,
+                        "capital_revised_2024_25": 3019.78,
+                        "total_revised_2024_25": 3272.44,
+                        "budget_2026_27": 439.84,
+                        "capital_2026_27": 3.34,
+                        "total_2026_27": 443.18
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": 67.82,
+                        "capital_2024_25": null,
+                        "total_2024_25": 67.82,
+                        "budget_2025_26": 320.36,
+                        "capital_2025_26": null,
+                        "total_2025_26": 320.36,
+                        "revised_2024_25": 209.27,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 209.27,
+                        "budget_2026_27": 396.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 396.4
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 41.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 41.95,
+                        "budget_2025_26": 43.86,
+                        "capital_2025_26": null,
+                        "total_2025_26": 43.86,
+                        "revised_2024_25": 43.39,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 43.39,
+                        "budget_2026_27": 43.44,
+                        "capital_2026_27": null,
+                        "total_2026_27": 43.44
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Iron and Steel Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7283.0,
+                        "total_2024_25": 7283.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2995.0,
+                        "total_2025_26": 2995.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3017.02,
+                        "total_revised_2024_25": 3017.02,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 6.3,
+                        "total_2024_25": 6.3,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.78,
+                        "total_2025_26": 2.78,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2.76,
+                        "total_revised_2024_25": 2.76,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3.34,
+                        "total_2026_27": 3.34
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Loans for Iron and Steel Industries",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1140.0,
+                        "total_2024_25": 1140.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 109.77,
+                        "capital_2024_25": 8429.3,
+                        "total_2024_25": 8539.07,
+                        "budget_2025_26": 364.22,
+                        "capital_2025_26": 2997.78,
+                        "total_2025_26": 3362.0,
+                        "revised_2024_25": 252.66,
+                        "capital_revised_2024_25": 3019.78,
+                        "total_revised_2024_25": 3272.44,
+                        "budget_2026_27": 439.84,
+                        "capital_2026_27": 3.34,
+                        "total_2026_27": 443.18
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 109.77,
+                        "capital_2024_25": 8429.3,
+                        "total_2024_25": 8539.07,
+                        "budget_2025_26": 364.22,
+                        "capital_2025_26": 2997.78,
+                        "total_2025_26": 3362.0,
+                        "revised_2024_25": 252.66,
+                        "capital_revised_2024_25": 3019.78,
+                        "total_revised_2024_25": 3272.44,
+                        "budget_2026_27": 439.84,
+                        "capital_2026_27": 3.34,
+                        "total_2026_27": 443.18
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Steel Authority of India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 5879.0,
+                        "total_2024_25": 5879.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 7500.0,
+                        "total_2025_26": 7500.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 10000.0,
+                        "total_revised_2024_25": 10000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15000.0,
+                        "total_2026_27": 15000.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Rashtriya Ispat Nigam Limited",
+                    "values": {
+                        "actual_2024_25": 8423.0,
+                        "capital_2024_25": 234.46,
+                        "total_2024_25": 8657.46,
+                        "budget_2025_26": 2995.0,
+                        "capital_2025_26": 300.0,
+                        "total_2025_26": 3295.0,
+                        "revised_2024_25": 3017.01,
+                        "capital_revised_2024_25": 545.0,
+                        "total_revised_2024_25": 3562.01,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "NMDC Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 3741.0,
+                        "total_2024_25": 3741.0,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3517.0,
+                        "total_2025_26": 3517.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 6000.0,
+                        "total_revised_2024_25": 6000.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 9000.0,
+                        "total_2026_27": 9000.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "KIOCL Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 27.34,
+                        "total_2024_25": 27.34,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 137.0,
+                        "total_2025_26": 137.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 131.0,
+                        "total_revised_2024_25": 131.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Manganese Ore India Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 321.94,
+                        "total_2024_25": 321.94,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 275.5,
+                        "total_2025_26": 275.5,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 600.0,
+                        "total_revised_2024_25": 600.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 800.0,
+                        "total_2026_27": 800.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "MECON Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 14.49,
+                        "total_2024_25": 14.49,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 15.0,
+                        "total_2025_26": 15.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 15.0,
+                        "total_revised_2024_25": 15.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 15.0,
+                        "total_2026_27": 15.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "MSTC Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 24.6,
+                        "total_2024_25": 24.6,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 10.0,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 32.0,
+                        "total_revised_2024_25": 32.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 10.0,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Ferro Scrap Nigam Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7.26,
+                        "total_2024_25": 7.26,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 18.0,
+                        "total_2025_26": 18.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "NMDC Steel Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 281.17,
+                        "total_2024_25": 281.17,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 150.0,
+                        "total_2025_26": 150.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 150.0,
+                        "total_revised_2024_25": 150.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 100.0,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "SAIL Refractory Company Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.38,
+                        "total_2024_25": 0.38,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "11",
+                    "name": "The OMDC Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 121.67,
+                        "total_2024_25": 121.67,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 6.86,
+                        "total_revised_2024_25": 6.86,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": 8423.0,
+                        "capital_2024_25": 10653.31,
+                        "total_2024_25": 19076.31,
+                        "budget_2025_26": 2995.0,
+                        "capital_2025_26": 11922.5,
+                        "total_2025_26": 14917.5,
+                        "revised_2024_25": 3017.01,
+                        "capital_revised_2024_25": 17479.86,
+                        "total_revised_2024_25": 20496.87,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 25125.0,
+                        "total_2026_27": 25125.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..Provision is for establishment related expenditure of secretariat of the Ministry of i",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Scheme for Promotion of Research and Development in Iron and Steel sector:..Ministry of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Product Linked Incentive (PLI) Scheme for Specialty Steel in India:..The objective of the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Steel provides financial assistance for pursuing R&D projects of national importance in iron & steel sector.",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Flagging of Merchant Ships in India:..To promote the objective of Atmanirbhar Bharat, Govt.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Rashtriya Ispat Nigam Limited (RINL):..Provision is made for infusion of funds in RINL in the",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Hindustan Steelworks Construction Limited(HSCL):..Provision is for accumulated losses of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Other Programmes:..These include provision for awards to distinguished metallurgists,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF TEXTILES",
+            "items": []
+        }
+    ]
+}

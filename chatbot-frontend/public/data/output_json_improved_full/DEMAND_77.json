@@ -1,0 +1,542 @@
+{
+    "demand_no": 77,
+    "ministry": "Ministry Of Planning",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 273.28,
+                        "capital_2024_25": 7.15,
+                        "total_2024_25": 280.43,
+                        "budget_2025_26": 972.35,
+                        "capital_2025_26": 33.71,
+                        "total_2025_26": 1006.06,
+                        "revised_2024_25": 826.67,
+                        "capital_revised_2024_25": 21.57,
+                        "total_revised_2024_25": 848.24,
+                        "budget_2026_27": 1203.38,
+                        "capital_2026_27": 28.78,
+                        "total_2026_27": 1232.16
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 177.98,
+                        "capital_2024_25": 7.08,
+                        "total_2024_25": 185.06,
+                        "budget_2025_26": 179.05,
+                        "capital_2025_26": 13.7,
+                        "total_2025_26": 192.75,
+                        "revised_2024_25": 231.05,
+                        "capital_revised_2024_25": 20.88,
+                        "total_revised_2024_25": 251.93,
+                        "budget_2026_27": 211.57,
+                        "capital_2026_27": 12.28,
+                        "total_2026_27": 223.85
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.28,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.28,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 177.7,
+                        "capital_2024_25": 7.08,
+                        "total_2024_25": 184.78,
+                        "budget_2025_26": 179.05,
+                        "capital_2025_26": 13.7,
+                        "total_2025_26": 192.75,
+                        "revised_2024_25": 231.05,
+                        "capital_revised_2024_25": 20.88,
+                        "total_revised_2024_25": 251.93,
+                        "budget_2026_27": 211.57,
+                        "capital_2026_27": 12.28,
+                        "total_2026_27": 223.85
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Atal Innovation Mission(AIM) including Self Employment",
+                    "values": {
+                        "actual_2024_25": 27.01,
+                        "capital_2024_25": 0.07,
+                        "total_2024_25": 27.08,
+                        "budget_2025_26": 380.0,
+                        "capital_2025_26": 20.0,
+                        "total_2025_26": 400.0,
+                        "revised_2024_25": 109.32,
+                        "capital_revised_2024_25": 0.68,
+                        "total_revised_2024_25": 110.0,
+                        "budget_2026_27": 390.5,
+                        "capital_2026_27": 14.5,
+                        "total_2026_27": 405.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Ongoing Programme and Schemes",
+                    "values": {
+                        "actual_2024_25": 4.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 4.0,
+                        "budget_2025_26": 4.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4.0,
+                        "revised_2024_25": 6.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 6.0,
+                        "budget_2026_27": 4.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Official Development Assistance for Sustainable",
+                    "values": {
+                        "actual_2024_25": 8.07,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.07,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 0.01,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.01,
+                        "budget_2026_27": 0.01,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.01
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "State Support Mission",
+                    "values": {
+                        "actual_2024_25": 40.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": 40.9,
+                        "budget_2025_26": 44.99,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 45.0,
+                        "revised_2024_25": 38.99,
+                        "capital_revised_2024_25": 0.01,
+                        "total_revised_2024_25": 39.0,
+                        "budget_2026_27": 98.0,
+                        "capital_2026_27": 2.0,
+                        "total_2026_27": 100.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Aspirational Blocks Programme (ABP)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 353.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 353.0,
+                        "revised_2024_25": 210.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 210.0,
+                        "budget_2026_27": 218.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 218.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Aspirational Districts Programme (ADP) - Phase III",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": 220.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 220.0,
+                        "budget_2026_27": 270.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 270.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 79.98,
+                        "capital_2024_25": 0.07,
+                        "total_2024_25": 80.05,
+                        "budget_2025_26": 782.0,
+                        "capital_2025_26": 20.01,
+                        "total_2025_26": 802.01,
+                        "revised_2024_25": 584.32,
+                        "capital_revised_2024_25": 0.69,
+                        "total_revised_2024_25": 585.01,
+                        "budget_2026_27": 980.51,
+                        "capital_2026_27": 16.5,
+                        "total_2026_27": 997.01
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "National Institute of Labour Economics Research and",
+                    "values": {
+                        "actual_2024_25": 17.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 17.5,
+                        "budget_2025_26": 11.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11.3,
+                        "revised_2024_25": 11.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11.3,
+                        "budget_2026_27": 11.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11.3
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -1.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1.9,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 15.6,
+                        "capital_2024_25": null,
+                        "total_2024_25": 15.6,
+                        "budget_2025_26": 11.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11.3,
+                        "revised_2024_25": 11.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11.3,
+                        "budget_2026_27": 11.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11.3
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 273.28,
+                        "capital_2024_25": 7.15,
+                        "total_2024_25": 280.43,
+                        "budget_2025_26": 972.35,
+                        "capital_2025_26": 33.71,
+                        "total_2025_26": 1006.06,
+                        "revised_2024_25": 826.67,
+                        "capital_revised_2024_25": 21.57,
+                        "total_revised_2024_25": 848.24,
+                        "budget_2026_27": 1203.38,
+                        "capital_2026_27": 28.78,
+                        "total_2026_27": 1232.16
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 177.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 177.7,
+                        "budget_2025_26": 179.05,
+                        "capital_2025_26": null,
+                        "total_2025_26": 179.05,
+                        "revised_2024_25": 231.05,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 231.05,
+                        "budget_2026_27": 211.57,
+                        "capital_2026_27": null,
+                        "total_2026_27": 211.57
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": 95.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 95.58,
+                        "budget_2025_26": 793.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 793.3,
+                        "revised_2024_25": 595.62,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 595.62,
+                        "budget_2026_27": 991.81,
+                        "capital_2026_27": null,
+                        "total_2026_27": 991.81
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 7.15,
+                        "total_2024_25": 7.15,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 33.71,
+                        "total_2025_26": 33.71,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 21.57,
+                        "total_revised_2024_25": 21.57,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 28.78,
+                        "total_2026_27": 28.78
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 273.28,
+                        "capital_2024_25": 7.15,
+                        "total_2024_25": 280.43,
+                        "budget_2025_26": 972.35,
+                        "capital_2025_26": 33.71,
+                        "total_2025_26": 1006.06,
+                        "revised_2024_25": 826.67,
+                        "capital_revised_2024_25": 21.57,
+                        "total_revised_2024_25": 848.24,
+                        "budget_2026_27": 1203.38,
+                        "capital_2026_27": 28.78,
+                        "total_2026_27": 1232.16
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 273.28,
+                        "capital_2024_25": 7.15,
+                        "total_2024_25": 280.43,
+                        "budget_2025_26": 972.35,
+                        "capital_2025_26": 33.71,
+                        "total_2025_26": 1006.06,
+                        "revised_2024_25": 826.67,
+                        "capital_revised_2024_25": 21.57,
+                        "total_revised_2024_25": 848.24,
+                        "budget_2026_27": 1203.38,
+                        "capital_2026_27": 28.78,
+                        "total_2026_27": 1232.16
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..Provides for the Secretariat expenditure of the Ministry, including NITI Aayog 8. Aspirational Districts Programme (ADP) - Phase III:..Under Aspirational Districts",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Atal Innovation Mission(AIM) including Self Employment and Talent Utilization",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "National Institute of Labour Economics Research and Development:..National Institute of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "research in India. AIM will create mechanism to incentivize innovators through grants, awards and challenge Labour Economics Research and Development (NILERD) is an autonomous institute under NITI Aayog, Government",
+            "items": []
+        },
+        {
+            "heading": "4. Ongoing Programme and Schemes:..This provision is intended to enable NITI Aayog to get",
+            "items": [
+                {
+                    "code": "5",
+                    "name": "Official Development Assistance for Sustainable Development Goals (EAP",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "empowered to sanction critical projects for the Aspirational Districts in addition to taking up projects for monitoring and",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "State Support Mission:..State Support Mission (SSM) - is an overarching umbrella initiative of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Aspirational Blocks Programme (ABP):..The Aspirational Blocks Programme (ABP) is",
+                    "values": {
+                        "actual_2024_25": 500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "500",
+                    "name": "aspirational blocks of India by converging existing schemes, defining outcomes, and monitoring them on a",
+                    "values": {
+                        "actual_2024_25": 500.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF PORTS, SHIPPING AND WATERWAYS",
+            "items": []
+        }
+    ]
+}

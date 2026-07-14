@@ -1,0 +1,834 @@
+{
+    "demand_no": 69,
+    "ministry": "Ministry Of Mines",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 3050.41,
+                        "capital_2024_25": 46.0,
+                        "total_2024_25": 3096.41,
+                        "budget_2025_26": 2958.91,
+                        "capital_2025_26": 79.09,
+                        "total_2025_26": 3038.0,
+                        "revised_2024_25": 2991.2,
+                        "capital_revised_2024_25": 173.94,
+                        "total_revised_2024_25": 3165.14,
+                        "budget_2026_27": 3642.8,
+                        "capital_2026_27": 163.65,
+                        "total_2026_27": 3806.45
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 73.03,
+                        "capital_2024_25": 0.75,
+                        "total_2024_25": 73.78,
+                        "budget_2025_26": 81.3,
+                        "capital_2025_26": 0.55,
+                        "total_2025_26": 81.85,
+                        "revised_2024_25": 80.3,
+                        "capital_revised_2024_25": 0.55,
+                        "total_revised_2024_25": 80.85,
+                        "budget_2026_27": 83.95,
+                        "capital_2026_27": 0.55,
+                        "total_2026_27": 84.5
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Indian Bureau of Mines",
+                    "values": {
+                        "actual_2024_25": 100.64,
+                        "capital_2024_25": null,
+                        "total_2024_25": 100.64,
+                        "budget_2025_26": 116.42,
+                        "capital_2025_26": null,
+                        "total_2025_26": 116.42,
+                        "revised_2024_25": 119.42,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 119.42,
+                        "budget_2026_27": 131.34,
+                        "capital_2026_27": null,
+                        "total_2026_27": 131.34
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Geological Survey of India",
+                    "values": {
+                        "actual_2024_25": 968.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 968.58,
+                        "budget_2025_26": 954.44,
+                        "capital_2025_26": null,
+                        "total_2025_26": 954.44,
+                        "revised_2024_25": 974.9,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 974.9,
+                        "budget_2026_27": 1018.29,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1018.29
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 1142.25,
+                        "capital_2024_25": 0.75,
+                        "total_2024_25": 1143.0,
+                        "budget_2025_26": 1152.16,
+                        "capital_2025_26": 0.55,
+                        "total_2025_26": 1152.71,
+                        "revised_2024_25": 1174.62,
+                        "capital_revised_2024_25": 0.55,
+                        "total_revised_2024_25": 1175.17,
+                        "budget_2026_27": 1233.58,
+                        "capital_2026_27": 0.55,
+                        "total_2026_27": 1234.13
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "National Critical Mineral Mission (NCMM)",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 410.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 410.0,
+                        "revised_2024_25": 90.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 90.0,
+                        "budget_2026_27": 440.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 440.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Activities performed under NCMM through National",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Amount met from National Mineral Exploration and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": -500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -500.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 410.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 410.0,
+                        "revised_2024_25": 90.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 90.0,
+                        "budget_2026_27": 440.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 440.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "7",
+                    "name": "Support to Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 27.64,
+                        "capital_2024_25": null,
+                        "total_2024_25": 27.64,
+                        "budget_2025_26": 30.7,
+                        "capital_2025_26": null,
+                        "total_2025_26": 30.7,
+                        "revised_2024_25": 37.69,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 37.69,
+                        "budget_2026_27": 37.56,
+                        "capital_2026_27": null,
+                        "total_2026_27": 37.56
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Bharat Gold Mines Ltd.",
+                    "values": {
+                        "actual_2024_25": 8.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 8.0,
+                        "budget_2025_26": 8.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8.0,
+                        "revised_2024_25": 9.7,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9.7,
+                        "budget_2026_27": 8.75,
+                        "capital_2026_27": null,
+                        "total_2026_27": 8.75
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Geological Survey of India Activities",
+                    "values": {
+                        "actual_2024_25": 410.04,
+                        "capital_2024_25": 34.69,
+                        "total_2024_25": 444.73,
+                        "budget_2025_26": 419.0,
+                        "capital_2025_26": 74.01,
+                        "total_2025_26": 493.01,
+                        "revised_2024_25": 420.48,
+                        "capital_revised_2024_25": 168.86,
+                        "total_revised_2024_25": 589.34,
+                        "budget_2026_27": 409.74,
+                        "capital_2026_27": 159.61,
+                        "total_2026_27": 569.35
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Indian Bureau of Mines Activities",
+                    "values": {
+                        "actual_2024_25": 8.38,
+                        "capital_2024_25": 10.56,
+                        "total_2024_25": 18.94,
+                        "budget_2025_26": 14.05,
+                        "capital_2025_26": 4.53,
+                        "total_2025_26": 18.58,
+                        "revised_2024_25": 8.71,
+                        "capital_revised_2024_25": 4.53,
+                        "total_revised_2024_25": 13.24,
+                        "budget_2026_27": 13.17,
+                        "capital_2026_27": 3.49,
+                        "total_2026_27": 16.66
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Transfer to National Mineral Exploration and",
+                    "values": {
+                        "actual_2024_25": 1466.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1466.0,
+                        "budget_2025_26": 925.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 925.0,
+                        "revised_2024_25": 1250.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1250.0,
+                        "budget_2026_27": 1500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1500.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Programme Component",
+                    "values": {
+                        "actual_2024_25": 398.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 398.95,
+                        "budget_2025_26": 500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 500.0,
+                        "revised_2024_25": 350.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 350.0,
+                        "budget_2026_27": 410.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 410.0
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Amount met from National Mineral Exploration and",
+                    "values": {
+                        "actual_2024_25": -398.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": -398.95,
+                        "budget_2025_26": -500.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": -500.0,
+                        "revised_2024_25": -350.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -350.0,
+                        "budget_2026_27": -410.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": -410.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Exploration Activities under National Mineral Exploration and",
+                    "values": {
+                        "actual_2024_25": 1466.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1466.0,
+                        "budget_2025_26": 925.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 925.0,
+                        "revised_2024_25": 1250.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1250.0,
+                        "budget_2026_27": 1500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1500.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "14",
+                    "name": "Actual Recovery",
+                    "values": {
+                        "actual_2024_25": -11.9,
+                        "capital_2024_25": null,
+                        "total_2024_25": -11.9,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": 1872.52,
+                        "capital_2024_25": 45.25,
+                        "total_2024_25": 1917.77,
+                        "budget_2025_26": 1358.05,
+                        "capital_2025_26": 78.54,
+                        "total_2025_26": 1436.59,
+                        "revised_2024_25": 1679.19,
+                        "capital_revised_2024_25": 173.39,
+                        "total_revised_2024_25": 1852.58,
+                        "budget_2026_27": 1922.91,
+                        "capital_2026_27": 163.1,
+                        "total_2026_27": 2086.01
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 1908.16,
+                        "capital_2024_25": 45.25,
+                        "total_2024_25": 1953.41,
+                        "budget_2025_26": 1396.75,
+                        "capital_2025_26": 78.54,
+                        "total_2025_26": 1475.29,
+                        "revised_2024_25": 1726.58,
+                        "capital_revised_2024_25": 173.39,
+                        "total_revised_2024_25": 1899.97,
+                        "budget_2026_27": 1969.22,
+                        "capital_2026_27": 163.1,
+                        "total_2026_27": 2132.32
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3050.41,
+                        "capital_2024_25": 46.0,
+                        "total_2024_25": 3096.41,
+                        "budget_2025_26": 2958.91,
+                        "capital_2025_26": 79.09,
+                        "total_2025_26": 3038.0,
+                        "revised_2024_25": 2991.2,
+                        "capital_revised_2024_25": 173.94,
+                        "total_revised_2024_25": 3165.14,
+                        "budget_2026_27": 3642.8,
+                        "capital_2026_27": 163.65,
+                        "total_2026_27": 3806.45
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Non-Ferrous Mining and Metallurgical Industries",
+                    "values": {
+                        "actual_2024_25": 2977.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2977.39,
+                        "budget_2025_26": 2809.45,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2809.45,
+                        "revised_2024_25": 2842.74,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2842.74,
+                        "budget_2026_27": 3489.32,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3489.32
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 73.02,
+                        "capital_2024_25": null,
+                        "total_2024_25": 73.02,
+                        "budget_2025_26": 81.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 81.3,
+                        "revised_2024_25": 80.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 80.3,
+                        "budget_2026_27": 83.95,
+                        "capital_2026_27": null,
+                        "total_2026_27": 83.95
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Non-Ferrous Mining and Metallurgical",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 45.25,
+                        "total_2024_25": 45.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 78.44,
+                        "total_2025_26": 78.44,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 173.29,
+                        "total_revised_2024_25": 173.29,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 162.98,
+                        "total_2026_27": 162.98
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.75,
+                        "total_2024_25": 0.75,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.55,
+                        "total_2025_26": 0.55,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.55,
+                        "total_revised_2024_25": 0.55,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.55,
+                        "total_2026_27": 0.55
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 3050.41,
+                        "capital_2024_25": 46.0,
+                        "total_2024_25": 3096.41,
+                        "budget_2025_26": 2890.75,
+                        "capital_2025_26": 78.99,
+                        "total_2025_26": 2969.74,
+                        "revised_2024_25": 2923.04,
+                        "capital_revised_2024_25": 173.84,
+                        "total_revised_2024_25": 3096.88,
+                        "budget_2026_27": 3573.27,
+                        "capital_2026_27": 163.53,
+                        "total_2026_27": 3736.8
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 68.16,
+                        "capital_2025_26": null,
+                        "total_2025_26": 68.16,
+                        "revised_2024_25": 68.16,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 68.16,
+                        "budget_2026_27": 69.53,
+                        "capital_2026_27": null,
+                        "total_2026_27": 69.53
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.1,
+                        "total_2025_26": 0.1,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.1,
+                        "total_revised_2024_25": 0.1,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.12,
+                        "total_2026_27": 0.12
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 68.16,
+                        "capital_2025_26": 0.1,
+                        "total_2025_26": 68.26,
+                        "revised_2024_25": 68.16,
+                        "capital_revised_2024_25": 0.1,
+                        "total_revised_2024_25": 68.26,
+                        "budget_2026_27": 69.53,
+                        "capital_2026_27": 0.12,
+                        "total_2026_27": 69.65
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 3050.41,
+                        "capital_2024_25": 46.0,
+                        "total_2024_25": 3096.41,
+                        "budget_2025_26": 2958.91,
+                        "capital_2025_26": 79.09,
+                        "total_2025_26": 3038.0,
+                        "revised_2024_25": 2991.2,
+                        "capital_revised_2024_25": 173.94,
+                        "total_revised_2024_25": 3165.14,
+                        "budget_2026_27": 3642.8,
+                        "capital_2026_27": 163.65,
+                        "total_2026_27": 3806.45
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "C. Investment in Public Enterprises",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Mineral Exploration Corporation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 20.54,
+                        "total_2024_25": 20.54,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 12.0,
+                        "total_2025_26": 12.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 22.0,
+                        "total_revised_2024_25": 22.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 22.0,
+                        "total_2026_27": 22.0
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Hindustan Copper Limited",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 409.89,
+                        "total_2024_25": 409.89,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 350.0,
+                        "total_2025_26": 350.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 350.0,
+                        "total_revised_2024_25": 350.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 350.0,
+                        "total_2026_27": 350.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "National Aluminium Company",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1396.55,
+                        "total_2024_25": 1396.55,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2000.0,
+                        "total_2025_26": 2000.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 1700.0,
+                        "total_revised_2024_25": 1700.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1500.0,
+                        "total_2026_27": 1500.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 1826.98,
+                        "total_2024_25": 1826.98,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2362.0,
+                        "total_2025_26": 2362.0,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 2072.0,
+                        "total_revised_2024_25": 2072.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1872.0,
+                        "total_2026_27": 1872.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure of Secretariat, Ministry of",
+            "items": []
+        },
+        {
+            "heading": "2. Indian Bureau of Mines:..The provision is for meeting the establishment related expenditure",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "Geological Survey of India:..The provision is for meeting the establishment related",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure on the Headquarters of Geological Survey of India and the regional and field offices under it.",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "National Critical Mineral Mission (NCMM):..This mission aims to enhance domestic",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Activities performed under NCMM through National Mineral Exploration and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "7. Support to Autonomous Bodies:..These include Provisions for Grants for creation of Capital",
+            "items": []
+        },
+        {
+            "heading": "Assets for two autonomous bodies under ministry i.e. National Institute of Rock Mechanics, Jawaharlal Nehru",
+            "items": []
+        },
+        {
+            "heading": "Aluminium Research Development and Design Centers and Grants-in-aid to science & technology projects/institutes",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "Bharat Gold Mines Ltd.:..The provision is for meeting the expenses on maintenance of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Geological Survey of India Activities:..The Provision is for geological mapping and regional",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Indian Bureau of Mines Activities:..The provision covers the requirements of the Indian",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Programme Component:..Under this component, exploration and development activities are",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF MINORITY AFFAIRS",
+            "items": []
+        }
+    ]
+}

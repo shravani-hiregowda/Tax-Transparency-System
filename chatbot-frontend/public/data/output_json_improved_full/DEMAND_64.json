@@ -1,0 +1,1111 @@
+{
+    "demand_no": 64,
+    "ministry": "Ministry Of Labour And Employment",
+    "department": null,
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 11375.63,
+                        "capital_2024_25": 32.39,
+                        "total_2024_25": 11408.02,
+                        "budget_2025_26": 32606.92,
+                        "capital_2025_26": 39.27,
+                        "total_2025_26": 32646.19,
+                        "revised_2024_25": 12659.41,
+                        "capital_revised_2024_25": 28.64,
+                        "total_revised_2024_25": 12688.05,
+                        "budget_2026_27": 32625.33,
+                        "capital_2026_27": 40.98,
+                        "total_2026_27": 32666.31
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 89.35,
+                        "capital_2024_25": 4.97,
+                        "total_2024_25": 94.32,
+                        "budget_2025_26": 102.62,
+                        "capital_2025_26": 3.92,
+                        "total_2025_26": 106.54,
+                        "revised_2024_25": 117.78,
+                        "capital_revised_2024_25": 4.72,
+                        "total_revised_2024_25": 122.5,
+                        "budget_2026_27": 114.21,
+                        "capital_2026_27": 6.23,
+                        "total_2026_27": 120.44
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Totals (line)",
+                    "values": {
+                        "actual_2024_25": -0.46,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.46,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 88.89,
+                        "capital_2024_25": 4.97,
+                        "total_2024_25": 93.86,
+                        "budget_2025_26": 102.62,
+                        "capital_2025_26": 3.92,
+                        "total_2025_26": 106.54,
+                        "revised_2024_25": 117.78,
+                        "capital_revised_2024_25": 4.72,
+                        "total_revised_2024_25": 122.5,
+                        "budget_2026_27": 114.21,
+                        "capital_2026_27": 6.23,
+                        "total_2026_27": 120.44
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "2",
+                    "name": "Labour Bureau",
+                    "values": {
+                        "actual_2024_25": 25.04,
+                        "capital_2024_25": 0.03,
+                        "total_2024_25": 25.07,
+                        "budget_2025_26": 27.57,
+                        "capital_2025_26": 0.1,
+                        "total_2025_26": 27.67,
+                        "revised_2024_25": 26.02,
+                        "capital_revised_2024_25": 0.11,
+                        "total_revised_2024_25": 26.13,
+                        "budget_2026_27": 31.03,
+                        "capital_2026_27": 0.19,
+                        "total_2026_27": 31.22
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Other Expenditure related to Chief Labour",
+                    "values": {
+                        "actual_2024_25": 105.75,
+                        "capital_2024_25": 2.83,
+                        "total_2024_25": 108.58,
+                        "budget_2025_26": 115.7,
+                        "capital_2025_26": 7.0,
+                        "total_2025_26": 122.7,
+                        "revised_2024_25": 112.69,
+                        "capital_revised_2024_25": 5.36,
+                        "total_revised_2024_25": 118.05,
+                        "budget_2026_27": 118.53,
+                        "capital_2026_27": 3.84,
+                        "total_2026_27": 122.37
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Direcorate General of Factory Advice Services",
+                    "values": {
+                        "actual_2024_25": 31.23,
+                        "capital_2024_25": 2.61,
+                        "total_2024_25": 33.84,
+                        "budget_2025_26": 32.65,
+                        "capital_2025_26": 6.36,
+                        "total_2025_26": 39.01,
+                        "revised_2024_25": 30.72,
+                        "capital_revised_2024_25": 3.28,
+                        "total_revised_2024_25": 34.0,
+                        "budget_2026_27": 33.61,
+                        "capital_2026_27": 7.5,
+                        "total_2026_27": 41.11
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Directorate General of Mines Safety (DGMS)",
+                    "values": {
+                        "actual_2024_25": 109.66,
+                        "capital_2024_25": 8.06,
+                        "total_2024_25": 117.72,
+                        "budget_2025_26": 113.68,
+                        "capital_2025_26": 12.85,
+                        "total_2025_26": 126.53,
+                        "revised_2024_25": 112.82,
+                        "capital_revised_2024_25": 8.09,
+                        "total_revised_2024_25": 120.91,
+                        "budget_2026_27": 116.73,
+                        "capital_2026_27": 12.17,
+                        "total_2026_27": 128.9
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "International Cooperation",
+                    "values": {
+                        "actual_2024_25": 38.51,
+                        "capital_2024_25": null,
+                        "total_2024_25": 38.51,
+                        "budget_2025_26": 41.99,
+                        "capital_2025_26": null,
+                        "total_2025_26": 41.99,
+                        "revised_2024_25": 52.05,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 52.05,
+                        "budget_2026_27": 52.03,
+                        "capital_2026_27": null,
+                        "total_2026_27": 52.03
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Directorate General of Employment",
+                    "values": {
+                        "actual_2024_25": 63.14,
+                        "capital_2024_25": 12.07,
+                        "total_2024_25": 75.21,
+                        "budget_2025_26": 69.1,
+                        "capital_2025_26": 3.93,
+                        "total_2025_26": 73.03,
+                        "revised_2024_25": 65.99,
+                        "capital_revised_2024_25": 3.51,
+                        "total_revised_2024_25": 69.5,
+                        "budget_2026_27": 65.11,
+                        "capital_2026_27": 6.79,
+                        "total_2026_27": 71.9
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "Directorate General of Labour Welfare Scheme",
+                    "values": {
+                        "actual_2024_25": 148.43,
+                        "capital_2024_25": 1.32,
+                        "total_2024_25": 149.75,
+                        "budget_2025_26": 158.42,
+                        "capital_2025_26": 3.0,
+                        "total_2025_26": 161.42,
+                        "revised_2024_25": 156.44,
+                        "capital_revised_2024_25": 1.19,
+                        "total_revised_2024_25": 157.63,
+                        "budget_2026_27": 157.53,
+                        "capital_2026_27": 3.0,
+                        "total_2026_27": 160.53
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 610.65,
+                        "capital_2024_25": 31.89,
+                        "total_2024_25": 642.54,
+                        "budget_2025_26": 661.73,
+                        "capital_2025_26": 37.16,
+                        "total_2025_26": 698.89,
+                        "revised_2024_25": 674.51,
+                        "capital_revised_2024_25": 26.26,
+                        "total_revised_2024_25": 700.77,
+                        "budget_2026_27": 688.78,
+                        "capital_2026_27": 39.72,
+                        "total_2026_27": 728.5
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Labour and Employment Statistical System (LESS)",
+                    "values": {
+                        "actual_2024_25": 12.72,
+                        "capital_2024_25": null,
+                        "total_2024_25": 12.72,
+                        "budget_2025_26": 71.22,
+                        "capital_2025_26": 1.5,
+                        "total_2025_26": 72.72,
+                        "revised_2024_25": 23.23,
+                        "capital_revised_2024_25": 1.77,
+                        "total_revised_2024_25": 25.0,
+                        "budget_2026_27": 74.5,
+                        "capital_2026_27": 0.5,
+                        "total_2026_27": 75.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Labour Welfare Scheme",
+                    "values": {
+                        "actual_2024_25": 40.27,
+                        "capital_2024_25": null,
+                        "total_2024_25": 40.27,
+                        "budget_2025_26": 50.68,
+                        "capital_2025_26": null,
+                        "total_2025_26": 50.68,
+                        "revised_2024_25": 78.09,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 78.09,
+                        "budget_2026_27": 52.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 52.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Social Security Schemes for Workers",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Employees Pension Scheme, 1995",
+                    "values": {
+                        "actual_2024_25": 10235.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10235.0,
+                        "budget_2025_26": 11250.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11250.0,
+                        "revised_2024_25": 10500.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10500.0,
+                        "budget_2026_27": 11144.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11144.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Social Security for Plantation Workers in Assam",
+                    "values": {
+                        "actual_2024_25": 63.39,
+                        "capital_2024_25": null,
+                        "total_2024_25": 63.39,
+                        "budget_2025_26": 66.87,
+                        "capital_2025_26": null,
+                        "total_2025_26": 66.87,
+                        "revised_2024_25": 61.37,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 61.37,
+                        "budget_2026_27": 68.99,
+                        "capital_2026_27": null,
+                        "total_2026_27": 68.99
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Pradhan Mantri Shram Yogi Maandhan",
+                    "values": {
+                        "actual_2024_25": 231.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 231.5,
+                        "budget_2025_26": 244.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 244.02,
+                        "revised_2024_25": 244.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 244.02,
+                        "budget_2026_27": 250.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 250.0
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Pradhan Mantri Karam Yogi Maandhan",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 5.1,
+                        "capital_2025_26": null,
+                        "total_2025_26": 5.1,
+                        "revised_2024_25": 2.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.8,
+                        "budget_2026_27": 3.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "15",
+                    "name": "National database for Unorganized Workers",
+                    "values": {
+                        "actual_2024_25": 24.49,
+                        "capital_2024_25": null,
+                        "total_2024_25": 24.49,
+                        "budget_2025_26": 27.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 27.8,
+                        "revised_2024_25": 25.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 25.0,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Security Schemes for Workers",
+                    "values": {
+                        "actual_2024_25": 10554.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10554.38,
+                        "budget_2025_26": 11593.79,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11593.79,
+                        "revised_2024_25": 10833.19,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10833.19,
+                        "budget_2026_27": 11465.99,
+                        "capital_2026_27": null,
+                        "total_2026_27": 11465.99
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "16",
+                    "name": "National Child Labour Project including grants in aid to",
+                    "values": {
+                        "actual_2024_25": 1.98,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1.98,
+                        "budget_2025_26": 6.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 6.0,
+                        "revised_2024_25": 3.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3.0,
+                        "budget_2026_27": 6.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 6.0
+                    }
+                },
+                {
+                    "code": "17",
+                    "name": "Coaching and Guidance for SC,ST and Other Backward",
+                    "values": {
+                        "actual_2024_25": 18.37,
+                        "capital_2024_25": 0.5,
+                        "total_2024_25": 18.87,
+                        "budget_2025_26": 20.0,
+                        "capital_2025_26": 0.61,
+                        "total_2025_26": 20.61,
+                        "revised_2024_25": 20.0,
+                        "capital_revised_2024_25": 0.61,
+                        "total_revised_2024_25": 20.61,
+                        "budget_2026_27": 24.24,
+                        "capital_2026_27": 0.76,
+                        "total_2026_27": 25.0
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "National Career Services",
+                    "values": {
+                        "actual_2024_25": 47.43,
+                        "capital_2024_25": null,
+                        "total_2024_25": 47.43,
+                        "budget_2025_26": 77.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 77.0,
+                        "revised_2024_25": 60.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 60.0,
+                        "budget_2026_27": 80.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 80.0
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "New Employment Generation Scheme",
+                    "values": {
+                        "actual_2024_25": 0.16,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.16,
+                        "budget_2025_26": 20000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20000.0,
+                        "revised_2024_25": 848.16,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 848.16,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Pradhan Mantri Viksit Bharat Rozgar Yojana",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 20082.7,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20082.7
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Shram Registration, Inspection, Samadhan and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 28.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 28.0
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "Actual Recoveries",
+                    "values": {
+                        "actual_2024_25": -28.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": -28.01,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 10647.3,
+                        "capital_2024_25": 0.5,
+                        "total_2024_25": 10647.8,
+                        "budget_2025_26": 31818.69,
+                        "capital_2025_26": 2.11,
+                        "total_2025_26": 31820.8,
+                        "revised_2024_25": 11865.67,
+                        "capital_revised_2024_25": 2.38,
+                        "total_revised_2024_25": 11868.05,
+                        "budget_2026_27": 31813.43,
+                        "capital_2026_27": 1.26,
+                        "total_2026_27": 31814.69
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "23",
+                    "name": "Dattopant Thengadi National Board for Workers",
+                    "values": {
+                        "actual_2024_25": 103.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": 103.26,
+                        "budget_2025_26": 110.85,
+                        "capital_2025_26": null,
+                        "total_2025_26": 110.85,
+                        "revised_2024_25": 105.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 105.5,
+                        "budget_2026_27": 109.12,
+                        "capital_2026_27": null,
+                        "total_2026_27": 109.12
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "National Labour Institute",
+                    "values": {
+                        "actual_2024_25": 14.42,
+                        "capital_2024_25": null,
+                        "total_2024_25": 14.42,
+                        "budget_2025_26": 15.65,
+                        "capital_2025_26": null,
+                        "total_2025_26": 15.65,
+                        "revised_2024_25": 13.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 13.73,
+                        "budget_2026_27": 14.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 14.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 117.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 117.68,
+                        "budget_2025_26": 126.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 126.5,
+                        "revised_2024_25": 119.23,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 119.23,
+                        "budget_2026_27": 123.12,
+                        "capital_2026_27": null,
+                        "total_2026_27": 123.12
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 117.68,
+                        "capital_2024_25": null,
+                        "total_2024_25": 117.68,
+                        "budget_2025_26": 126.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 126.5,
+                        "revised_2024_25": 119.23,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 119.23,
+                        "budget_2026_27": 123.12,
+                        "capital_2026_27": null,
+                        "total_2026_27": 123.12
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 11375.63,
+                        "capital_2024_25": 32.39,
+                        "total_2024_25": 11408.02,
+                        "budget_2025_26": 32606.92,
+                        "capital_2025_26": 39.27,
+                        "total_2025_26": 32646.19,
+                        "revised_2024_25": 12659.41,
+                        "capital_revised_2024_25": 28.64,
+                        "total_revised_2024_25": 12688.05,
+                        "budget_2026_27": 32625.33,
+                        "capital_2026_27": 40.98,
+                        "total_2026_27": 32666.31
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Welfare of Scheduled Castes, Scheduled Tribes, Other",
+                    "values": {
+                        "actual_2024_25": 18.37,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18.37,
+                        "budget_2025_26": 18.8,
+                        "capital_2025_26": null,
+                        "total_2025_26": 18.8,
+                        "revised_2024_25": 18.8,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 18.8,
+                        "budget_2026_27": 22.94,
+                        "capital_2026_27": null,
+                        "total_2026_27": 22.94
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Labour, Employment and Skill Development",
+                    "values": {
+                        "actual_2024_25": 10754.87,
+                        "capital_2024_25": null,
+                        "total_2024_25": 10754.87,
+                        "budget_2025_26": 28717.72,
+                        "capital_2025_26": null,
+                        "total_2025_26": 28717.72,
+                        "revised_2024_25": 10774.96,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10774.96,
+                        "budget_2026_27": 28714.85,
+                        "capital_2026_27": null,
+                        "total_2026_27": 28714.85
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 610.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 610.65,
+                        "budget_2025_26": 661.73,
+                        "capital_2025_26": null,
+                        "total_2025_26": 661.73,
+                        "revised_2024_25": 674.51,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 674.51,
+                        "budget_2026_27": 688.78,
+                        "capital_2026_27": null,
+                        "total_2026_27": 688.78
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on Welfare of Scheduled Castes,",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 0.5,
+                        "total_2024_25": 0.5,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.61,
+                        "total_2025_26": 0.61,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 0.61,
+                        "total_revised_2024_25": 0.61,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 0.76,
+                        "total_2026_27": 0.76
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 31.89,
+                        "total_2024_25": 31.89,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 38.66,
+                        "total_2025_26": 38.66,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 28.03,
+                        "total_revised_2024_25": 28.03,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 40.22,
+                        "total_2026_27": 40.22
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 11383.89,
+                        "capital_2024_25": 32.39,
+                        "total_2024_25": 11416.28,
+                        "budget_2025_26": 29398.25,
+                        "capital_2025_26": 39.27,
+                        "total_2025_26": 29437.52,
+                        "revised_2024_25": 11468.27,
+                        "capital_revised_2024_25": 28.64,
+                        "total_revised_2024_25": 11496.91,
+                        "budget_2026_27": 29426.57,
+                        "capital_2026_27": 40.98,
+                        "total_2026_27": 29467.55
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 3208.67,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3208.67,
+                        "revised_2024_25": 1191.14,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1191.14,
+                        "budget_2026_27": 3198.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3198.76
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": -8.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": -8.26,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": -8.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": -8.26,
+                        "budget_2025_26": 3208.67,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3208.67,
+                        "revised_2024_25": 1191.14,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1191.14,
+                        "budget_2026_27": 3198.76,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3198.76
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 11375.63,
+                        "capital_2024_25": 32.39,
+                        "total_2024_25": 11408.02,
+                        "budget_2025_26": 32606.92,
+                        "capital_2025_26": 39.27,
+                        "total_2025_26": 32646.19,
+                        "revised_2024_25": 12659.41,
+                        "capital_revised_2024_25": 28.64,
+                        "total_revised_2024_25": 12688.05,
+                        "budget_2026_27": 32625.33,
+                        "capital_2026_27": 40.98,
+                        "total_2026_27": 32666.31
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "13",
+                    "name": "Pradhan Mantri Shram Yogi Maandhan:..Pradhan Mantri Sharam Yogi Maandhan Yojana",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..Provides for establishment related expenditure of the Secretariat of the Ministry. provides assured pension of..`.3000/- per month to those unorganised sector workers who contribute defined amount",
+            "items": []
+        },
+        {
+            "heading": "2. Labour Bureau:..Provides for establishment related expenditure of Labour Bureau. The",
+            "items": []
+        },
+        {
+            "heading": "3. Other Expenditure related to Chief Labour Commissioner,Central Government Industrial",
+            "items": []
+        },
+        {
+            "heading": "Tribunal, Research and Information Technology:..Provides establishment related to expenditure for Other Items",
+            "items": []
+        },
+        {
+            "heading": "15. National database for Unorganized Workers:..Provides for expenditure on e-SHRAM portal",
+            "items": []
+        },
+        {
+            "heading": "efficiency of social security services for the unorganised workers as well as to enhance the portability of welfare",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "Direcorate General of Factory Advice Services (DGFASLI):..Provides establishment related",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "National Child Labour Project including grants in aid to voluntary agencies and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "expenditure for Directorate General of Factory Advice Services (DGFASLI). It functions as technical arm of the Ministry",
+            "items": []
+        },
+        {
+            "heading": "regarding matters concerned with safety, health and welfare of workers in factories and ports.",
+            "items": []
+        },
+        {
+            "heading": "policies and programmes concerning the welfare of National Child labour Project including grants-in-aid to voluntary",
+            "items": []
+        },
+        {
+            "heading": "5. Directorate General of Mines Safety (DGMS):..Provides establishment related expenditure",
+            "items": [
+                {
+                    "code": "17",
+                    "name": "Coaching and Guidance for SC,ST and Other Backward Classes:..The Scheme provides",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "International Cooperation:..Includes payment for annual subscription to International Labour",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "/ ST",
+            "items": []
+        },
+        {
+            "heading": "7. Directorate General of Employment:..Provides for establishment related expenditure for 18. National Career Services:..National Career Service Project is a Mission Mode Project which",
+            "items": []
+        },
+        {
+            "heading": "8. Directorate General of Labour Welfare Scheme:..Provide for establishment expenditure of up of Model Career Centres (MCCs) to be established by States to deliver employment service using technology.",
+            "items": []
+        },
+        {
+            "heading": "Directorate General of Labour Welfare. It deals with matters concerning policy and legislation related to workers in the",
+            "items": []
+        },
+        {
+            "heading": "unorganised sector and administration of welfare fund for specified categories of workers. 19. New Employment Generation Scheme:..New Employment Generation has been formed to",
+            "items": [
+                {
+                    "code": "9",
+                    "name": "Labour and Employment Statistical System (LESS):..Provides for collection and publication changed to Pradhan Mantri Viksit Bharat Rozgar Yojana.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Pradhan Mantri Viksit Bharat Rozgar Yojana:..Erstwhile New Employment Generation",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "10. Labour Welfare Scheme:..Provides for expenditure under labour welfare scheme for welfare Scheme has been renamed as Pradhan Mantri Viksit Bharat Rozgar Yojana , a scheme to support employment",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Employees Pension Scheme, 1995:..Provides for Family Pension and life Insurance benefits 21. Shram Registration, Inspection, Samadhan and Transparency Initiative (SRISTI):..A new",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "to industrial workers under EPS scheme. The provision is for the Government contribution for the schemes. scheme, namely SRISTI (Shram Registration, Inspection, Samadhan and Transparency Initiative), an umbrella Central",
+            "items": [
+                {
+                    "code": "12",
+                    "name": "Social Security for Plantation Workers in Assam:..Provides for family pension-cum-life and new project for revamping of portals under the Ministry of Labour and Employment (MoLE).",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "These schemes are administered through the State Government of Assam in respect of plantation workers in Assam, 23. Dattopant Thengadi National Board for Workers Education and Development:..Provides",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "24",
+                    "name": "National Labour Institute:..Provides Grants-in-aid for V.V. Giri National Labour Institute which",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF LAW AND JUSTICE",
+            "items": []
+        }
+    ]
+}

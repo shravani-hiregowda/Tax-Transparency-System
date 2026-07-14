@@ -1,0 +1,18 @@
+{
+  "11IW2501420": {
+    "date": "2025-06-12",
+    "items": [
+      { "name": "36M61144", "price": 200.78, "cgst": 14, "sgst": 14 },
+      { "name": "Disc Pad Set", "price": 261.92, "cgst": 14, "sgst": 14 },
+      { "name": "36E00403", "price": 52.50, "cgst": 14, "sgst": 14 },
+      { "name": "Outer Air Filter Element", "price": 141.48, "cgst": 14, "sgst": 14 },
+      { "name": "Brake Fluid DOT 3", "price": 35.34, "cgst": 14, "sgst": 14 },
+      { "name": "DRGM Covering 104W40-1LTR", "price": 49.40, "cgst": 14, "sgst": 14 },
+      { "name": "JB-CON (labour)", "price": 68.00, "cgst": 9, "sgst": 9 },
+      { "name": "Consumable Charges", "price": 381.00, "cgst": 9, "sgst": 9 }
+    ],
+    "gst_total": 321.92,
+    "net_amount": 1558.89,
+    "bill_amount": 1881.00
+  }
+}

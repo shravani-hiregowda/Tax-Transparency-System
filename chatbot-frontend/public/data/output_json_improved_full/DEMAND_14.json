@@ -1,0 +1,873 @@
+{
+    "demand_no": 14,
+    "ministry": "Ministry Of Consumer Affairs",
+    "department": "Department Of Consumer Affairs",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 7239.86,
+                        "capital_2024_25": 62.38,
+                        "total_2024_25": 7302.24,
+                        "budget_2025_26": 4276.3,
+                        "capital_2025_26": 84.42,
+                        "total_2025_26": 4360.72,
+                        "revised_2024_25": 3283.27,
+                        "capital_revised_2024_25": 78.55,
+                        "total_revised_2024_25": 3361.82,
+                        "budget_2026_27": 4380.75,
+                        "capital_2026_27": 93.42,
+                        "total_2026_27": 4474.17
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat",
+                    "values": {
+                        "actual_2024_25": 137.14,
+                        "capital_2024_25": 1.24,
+                        "total_2024_25": 138.38,
+                        "budget_2025_26": 129.08,
+                        "capital_2025_26": 0.82,
+                        "total_2025_26": 129.9,
+                        "revised_2024_25": 138.81,
+                        "capital_revised_2024_25": 2.98,
+                        "total_revised_2024_25": 141.79,
+                        "budget_2026_27": 150.62,
+                        "capital_2026_27": 1.55,
+                        "total_2026_27": 152.17
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Price Stabilisation Fund",
+                    "values": {
+                        "actual_2024_25": 6970.94,
+                        "capital_2024_25": null,
+                        "total_2024_25": 6970.94,
+                        "budget_2025_26": 4019.83,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4019.83,
+                        "revised_2024_25": 3018.89,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3018.89,
+                        "budget_2026_27": 4099.7,
+                        "capital_2026_27": 0.3,
+                        "total_2026_27": 4100.0
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "CONFONET",
+                    "values": {
+                        "actual_2024_25": 70.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 70.75,
+                        "budget_2025_26": 52.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 52.0,
+                        "revised_2024_25": 50.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 50.0,
+                        "budget_2026_27": 52.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 52.0
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Consumer Awareness (Advertising and Publicity)",
+                    "values": {
+                        "actual_2024_25": 17.74,
+                        "capital_2024_25": null,
+                        "total_2024_25": 17.74,
+                        "budget_2025_26": 17.99,
+                        "capital_2025_26": null,
+                        "total_2025_26": 17.99,
+                        "revised_2024_25": 17.94,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 17.94,
+                        "budget_2026_27": 18.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 18.0
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Consumer Protection Cell",
+                    "values": {
+                        "actual_2024_25": 9.43,
+                        "capital_2024_25": null,
+                        "total_2024_25": 9.43,
+                        "budget_2025_26": 8.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 8.9,
+                        "revised_2024_25": 9.9,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 9.9,
+                        "budget_2026_27": 9.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 9.0
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Strengthening Consumer Forum, Consumer Counseling",
+                    "values": {
+                        "actual_2024_25": 7.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.0,
+                        "budget_2025_26": 11.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 11.0,
+                        "revised_2024_25": 10.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 10.0,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "7. Consumer Welfare Fund",
+            "items": [
+                {
+                    "code": "7.01",
+                    "name": "Consumer Welfare Fund",
+                    "values": {
+                        "actual_2024_25": 52.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": 52.73,
+                        "budget_2025_26": 56.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": 56.2,
+                        "revised_2024_25": 56.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 56.2,
+                        "budget_2026_27": 23.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": 23.2
+                    }
+                },
+                {
+                    "code": "7.02",
+                    "name": "Met from Consumer Welfare Fund",
+                    "values": {
+                        "actual_2024_25": -52.73,
+                        "capital_2024_25": null,
+                        "total_2024_25": -52.73,
+                        "budget_2025_26": -56.2,
+                        "capital_2025_26": null,
+                        "total_2025_26": -56.2,
+                        "revised_2024_25": -56.2,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": -56.2,
+                        "budget_2026_27": -23.2,
+                        "capital_2026_27": null,
+                        "total_2026_27": -23.2
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Total-Consumer Protection",
+                    "values": {
+                        "actual_2024_25": 7075.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7075.86,
+                        "budget_2025_26": 4109.72,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4109.72,
+                        "revised_2024_25": 3106.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 3106.73,
+                        "budget_2026_27": 4188.7,
+                        "capital_2026_27": 0.3,
+                        "total_2026_27": 4189.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "Bureau of Indian Standards",
+                    "values": {
+                        "actual_2024_25": 0.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.96,
+                        "budget_2025_26": 1.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.0,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 1.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.0
+                    }
+                },
+                {
+                    "code": "8.01",
+                    "name": "Setting-up of Gold Hallmarking / Assaying",
+                    "values": {
+                        "actual_2024_25": 0.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.96,
+                        "budget_2025_26": 1.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1.0,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 1.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "National Test House",
+                    "values": {
+                        "actual_2024_25": 17.08,
+                        "capital_2024_25": 15.88,
+                        "total_2024_25": 32.96,
+                        "budget_2025_26": 23.2,
+                        "capital_2025_26": 42.6,
+                        "total_2025_26": 65.8,
+                        "revised_2024_25": 25.43,
+                        "capital_revised_2024_25": 32.57,
+                        "total_revised_2024_25": 58.0,
+                        "budget_2026_27": 27.43,
+                        "capital_2026_27": 39.57,
+                        "total_2026_27": 67.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Strengthening of Weights and Measures Infrastructure",
+                    "values": {
+                        "actual_2024_25": 10.62,
+                        "capital_2024_25": 45.26,
+                        "total_2024_25": 55.88,
+                        "budget_2025_26": 13.3,
+                        "capital_2025_26": 41.0,
+                        "total_2025_26": 54.3,
+                        "revised_2024_25": 11.3,
+                        "capital_revised_2024_25": 43.0,
+                        "total_revised_2024_25": 54.3,
+                        "budget_2026_27": 13.0,
+                        "capital_2026_27": 52.0,
+                        "total_2026_27": 65.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Legal Metrology and Quality Assurance",
+                    "values": {
+                        "actual_2024_25": 28.66,
+                        "capital_2024_25": 61.14,
+                        "total_2024_25": 89.8,
+                        "budget_2025_26": 37.5,
+                        "capital_2025_26": 83.6,
+                        "total_2025_26": 121.1,
+                        "revised_2024_25": 37.73,
+                        "capital_revised_2024_25": 75.57,
+                        "total_revised_2024_25": 113.3,
+                        "budget_2026_27": 41.43,
+                        "capital_2026_27": 91.57,
+                        "total_2026_27": 133.0
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "Actual Recoveries (CS)",
+                    "values": {
+                        "actual_2024_25": -1.8,
+                        "capital_2024_25": null,
+                        "total_2024_25": -1.8,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 7102.72,
+                        "capital_2024_25": 61.14,
+                        "total_2024_25": 7163.86,
+                        "budget_2025_26": 4147.22,
+                        "capital_2025_26": 83.6,
+                        "total_2025_26": 4230.82,
+                        "revised_2024_25": 3144.46,
+                        "capital_revised_2024_25": 75.57,
+                        "total_revised_2024_25": 3220.03,
+                        "budget_2026_27": 4230.13,
+                        "capital_2026_27": 91.87,
+                        "total_2026_27": 4322.0
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 7239.86,
+                        "capital_2024_25": 62.38,
+                        "total_2024_25": 7302.24,
+                        "budget_2025_26": 4276.3,
+                        "capital_2025_26": 84.42,
+                        "total_2025_26": 4360.72,
+                        "revised_2024_25": 3283.27,
+                        "capital_revised_2024_25": 78.55,
+                        "total_revised_2024_25": 3361.82,
+                        "budget_2026_27": 4380.75,
+                        "capital_2026_27": 93.42,
+                        "total_2026_27": 4474.17
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Industries",
+                    "values": {
+                        "actual_2024_25": 0.96,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.96,
+                        "budget_2025_26": 0.9,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.9,
+                        "revised_2024_25": 0.9,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.9,
+                        "budget_2026_27": 0.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 0.9
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Other Scientific Research",
+                    "values": {
+                        "actual_2024_25": 66.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 66.69,
+                        "budget_2025_26": 70.17,
+                        "capital_2025_26": null,
+                        "total_2025_26": 70.17,
+                        "revised_2024_25": 75.96,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 75.96,
+                        "budget_2026_27": 79.98,
+                        "capital_2026_27": null,
+                        "total_2026_27": 79.98
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Secretariat-Economic Services",
+                    "values": {
+                        "actual_2024_25": 38.69,
+                        "capital_2024_25": null,
+                        "total_2024_25": 38.69,
+                        "budget_2025_26": 35.66,
+                        "capital_2025_26": null,
+                        "total_2025_26": 35.66,
+                        "revised_2024_25": 38.98,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 38.98,
+                        "budget_2026_27": 41.44,
+                        "capital_2026_27": null,
+                        "total_2026_27": 41.44
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Civil Supplies",
+                    "values": {
+                        "actual_2024_25": 7114.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7114.89,
+                        "budget_2025_26": 3735.52,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3735.52,
+                        "revised_2024_25": 2836.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2836.1,
+                        "budget_2026_27": 3816.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3816.3
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": 18.89,
+                        "capital_2024_25": null,
+                        "total_2024_25": 18.89,
+                        "budget_2025_26": 21.02,
+                        "capital_2025_26": null,
+                        "total_2025_26": 21.02,
+                        "revised_2024_25": 18.64,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 18.64,
+                        "budget_2026_27": 20.73,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.73
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on Other Scientific and Environmental",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 15.88,
+                        "total_2024_25": 15.88,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 37.52,
+                        "total_2025_26": 37.52,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 28.27,
+                        "total_revised_2024_25": 28.27,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 34.72,
+                        "total_2026_27": 34.72
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Capital Outlay on Other General Economic Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 46.5,
+                        "total_2024_25": 46.5,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 36.82,
+                        "total_2025_26": 36.82,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 40.98,
+                        "total_revised_2024_25": 40.98,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 47.85,
+                        "total_2026_27": 47.85
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Economic Services",
+                    "values": {
+                        "actual_2024_25": 7240.12,
+                        "capital_2024_25": 62.38,
+                        "total_2024_25": 7302.5,
+                        "budget_2025_26": 3863.27,
+                        "capital_2025_26": 74.34,
+                        "total_2025_26": 3937.61,
+                        "revised_2024_25": 2970.58,
+                        "capital_revised_2024_25": 69.25,
+                        "total_revised_2024_25": 3039.83,
+                        "budget_2026_27": 3959.35,
+                        "capital_2026_27": 82.57,
+                        "total_2026_27": 4041.92
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "8",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 413.03,
+                        "capital_2025_26": null,
+                        "total_2025_26": 413.03,
+                        "revised_2024_25": 312.69,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 312.69,
+                        "budget_2026_27": 421.4,
+                        "capital_2026_27": null,
+                        "total_2026_27": 421.4
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Grants-in-aid to State Governments",
+                    "values": {
+                        "actual_2024_25": -0.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.26,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 10.08,
+                        "total_2025_26": 10.08,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 9.3,
+                        "total_revised_2024_25": 9.3,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 10.85,
+                        "total_2026_27": 10.85
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": -0.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.26,
+                        "budget_2025_26": 413.03,
+                        "capital_2025_26": 10.08,
+                        "total_2025_26": 423.11,
+                        "revised_2024_25": 312.69,
+                        "capital_revised_2024_25": 9.3,
+                        "total_revised_2024_25": 321.99,
+                        "budget_2026_27": 421.4,
+                        "capital_2026_27": 10.85,
+                        "total_2026_27": 432.25
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 7239.86,
+                        "capital_2024_25": 62.38,
+                        "total_2024_25": 7302.24,
+                        "budget_2025_26": 4276.3,
+                        "capital_2025_26": 84.42,
+                        "total_2025_26": 4360.72,
+                        "revised_2024_25": 3283.27,
+                        "capital_revised_2024_25": 78.55,
+                        "total_revised_2024_25": 3361.82,
+                        "budget_2026_27": 4380.75,
+                        "capital_2026_27": 93.42,
+                        "total_2026_27": 4474.17
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "1. Secretariat:..The provision is for establishment related expenditure of secretariat of the 6. Strengthening Consumer Forum, Consumer Counseling and Mediation:..The provision is",
+            "items": [
+                {
+                    "code": "2",
+                    "name": "Price Stabilisation Fund:..The provision is for maintaining buffer stock of Pulses, Onions and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "7.01. Consumer Welfare Fund:..The financial assistance from the Consumer Welfare Fund has",
+            "items": []
+        },
+        {
+            "heading": "been provided to the States/UTs to establish their respective State Consumer Welfare (Corpus) Fund. The interest",
+            "items": []
+        },
+        {
+            "heading": "earned on this corpus fund is utilized to support consumer welfare activities as per the Consumer Welfare Guidelines,",
+            "items": [
+                {
+                    "code": "3",
+                    "name": "CONFONET:..Computerization and Computer Networking of Consumer Fora (CONFONET).",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "2023",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8.01",
+                    "name": "Setting-up of Gold Hallmarking / Assaying Centers in India:..The provision is for setting-up",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 4.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "National Test House:..The provision is for setting-up/up-gradation of various Laboratories in",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Consumer Protection Cell:..The provision is for implementation of the Consumer Protection",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "1",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 1.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 9.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 8.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 6.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "10",
+                    "name": "Strengthening of Weights and Measures Infrastructure and Strengthening of Regional",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+            "items": []
+        }
+    ]
+}

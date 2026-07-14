@@ -1,0 +1,1401 @@
+{
+    "demand_no": 102,
+    "ministry": "Ministry Of Youth Affairs And Sports",
+    "department": "Department Of",
+    "sections": [
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Net",
+                    "values": {
+                        "actual_2024_25": 2708.49,
+                        "capital_2024_25": 2.24,
+                        "total_2024_25": 2710.73,
+                        "budget_2025_26": 3788.49,
+                        "capital_2025_26": 5.81,
+                        "total_2025_26": 3794.3,
+                        "revised_2024_25": 3343.43,
+                        "capital_revised_2024_25": 3.11,
+                        "total_revised_2024_25": 3346.54,
+                        "budget_2026_27": 4461.51,
+                        "capital_2026_27": 18.37,
+                        "total_2026_27": 4479.88
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "A. The Budget allocations, net of recoveries, are given below:",
+            "items": []
+        },
+        {
+            "heading": "CENTRE'S EXPENDITURE",
+            "items": []
+        },
+        {
+            "heading": "Establishment Expenditure of the Centre",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Secretariat Sports",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 30.4,
+                        "capital_2026_27": 1.45,
+                        "total_2026_27": 31.85
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat Youth Affairs",
+                    "values": {
+                        "actual_2024_25": 40.94,
+                        "capital_2024_25": 2.23,
+                        "total_2024_25": 43.17,
+                        "budget_2025_26": 39.53,
+                        "capital_2025_26": 2.26,
+                        "total_2025_26": 41.79,
+                        "revised_2024_25": 49.02,
+                        "capital_revised_2024_25": 2.66,
+                        "total_revised_2024_25": 51.68,
+                        "budget_2026_27": 32.31,
+                        "capital_2026_27": 1.47,
+                        "total_2026_27": 33.78
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Actual Recoveries (Estt.)",
+                    "values": {
+                        "actual_2024_25": -0.08,
+                        "capital_2024_25": null,
+                        "total_2024_25": -0.08,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Establishment Expenditure of the Centre",
+                    "values": {
+                        "actual_2024_25": 40.86,
+                        "capital_2024_25": 2.23,
+                        "total_2024_25": 43.09,
+                        "budget_2025_26": 39.53,
+                        "capital_2025_26": 2.26,
+                        "total_2025_26": 41.79,
+                        "revised_2024_25": 49.02,
+                        "capital_revised_2024_25": 2.66,
+                        "total_revised_2024_25": 51.68,
+                        "budget_2026_27": 62.71,
+                        "capital_2026_27": 2.92,
+                        "total_2026_27": 65.63
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Central Sector Schemes/Projects",
+            "items": [
+                {
+                    "code": "4",
+                    "name": "National Service Scheme",
+                    "values": {
+                        "actual_2024_25": 203.17,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 203.18,
+                        "budget_2025_26": 449.55,
+                        "capital_2025_26": 0.45,
+                        "total_2025_26": 450.0,
+                        "revised_2024_25": 274.55,
+                        "capital_revised_2024_25": 0.45,
+                        "total_revised_2024_25": 275.0,
+                        "budget_2026_27": 356.94,
+                        "capital_2026_27": 0.45,
+                        "total_2026_27": 357.39
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "Rashtriya Yuva Sashaktikaran Karyakaram",
+                    "values": {
+                        "actual_2024_25": 13.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 13.15,
+                        "budget_2025_26": 65.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 65.0,
+                        "revised_2024_25": 22.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22.0,
+                        "budget_2026_27": 77.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 77.0
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "National Youth Corps",
+                    "values": {
+                        "actual_2024_25": 13.15,
+                        "capital_2024_25": null,
+                        "total_2024_25": 13.15,
+                        "budget_2025_26": 65.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 65.0,
+                        "revised_2024_25": 22.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22.0,
+                        "budget_2026_27": 77.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 77.0
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "National Programme for Youth and Adolescent",
+                    "values": {
+                        "actual_2024_25": 33.92,
+                        "capital_2024_25": null,
+                        "total_2024_25": 33.92,
+                        "budget_2025_26": 25.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 25.0,
+                        "revised_2024_25": 57.68,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 57.68,
+                        "budget_2026_27": 58.41,
+                        "capital_2026_27": null,
+                        "total_2026_27": 58.41
+                    }
+                },
+                {
+                    "code": "5.03",
+                    "name": "International Cooperation",
+                    "values": {
+                        "actual_2024_25": 7.45,
+                        "capital_2024_25": null,
+                        "total_2024_25": 7.45,
+                        "budget_2025_26": 55.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 55.0,
+                        "revised_2024_25": 11.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 11.0,
+                        "budget_2026_27": 35.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 35.0
+                    }
+                },
+                {
+                    "code": "5.04",
+                    "name": "Youth Hostel",
+                    "values": {
+                        "actual_2024_25": 0.35,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.35,
+                        "budget_2025_26": 1.9,
+                        "capital_2025_26": 3.1,
+                        "total_2025_26": 5.0,
+                        "revised_2024_25": 1.1,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.1,
+                        "budget_2026_27": 4.2,
+                        "capital_2026_27": 15.0,
+                        "total_2026_27": 19.2
+                    }
+                },
+                {
+                    "code": "5.05",
+                    "name": "Scouting and Guiding",
+                    "values": {
+                        "actual_2024_25": 0.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.75,
+                        "budget_2025_26": 0.75,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.75,
+                        "revised_2024_25": 0.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 0.5,
+                        "budget_2026_27": 3.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 3.0
+                    }
+                },
+                {
+                    "code": "5.06",
+                    "name": "National Young Leaders Programme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 9.25,
+                        "capital_2025_26": null,
+                        "total_2025_26": 9.25,
+                        "revised_2024_25": 21.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 21.0,
+                        "budget_2026_27": 10.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 10.0
+                    }
+                },
+                {
+                    "code": "5.07",
+                    "name": "YUVA portal-Youth Leadership and Social",
+                    "values": {
+                        "actual_2024_25": 15.01,
+                        "capital_2024_25": null,
+                        "total_2024_25": 15.01,
+                        "budget_2025_26": 90.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 90.0,
+                        "revised_2024_25": 47.16,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 47.16,
+                        "budget_2026_27": 90.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 90.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total- Rashtriya Yuva Sashaktikaran Karyakaram",
+                    "values": {
+                        "actual_2024_25": 70.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": 70.63,
+                        "budget_2025_26": 246.9,
+                        "capital_2025_26": 3.1,
+                        "total_2025_26": 250.0,
+                        "revised_2024_25": 160.44,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 160.44,
+                        "budget_2026_27": 277.61,
+                        "capital_2026_27": 15.0,
+                        "total_2026_27": 292.61
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "6",
+                    "name": "Incentive to Sports Persons",
+                    "values": {
+                        "actual_2024_25": 42.38,
+                        "capital_2024_25": null,
+                        "total_2024_25": 42.38,
+                        "budget_2025_26": 37.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 37.0,
+                        "revised_2024_25": 28.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 28.0,
+                        "budget_2026_27": 40.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 40.0
+                    }
+                },
+                {
+                    "code": "7",
+                    "name": "Pandit Deendayal Upadhyay National Welfare for",
+                    "values": {
+                        "actual_2024_25": 0.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 0.95,
+                        "budget_2025_26": 2.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 2.0,
+                        "revised_2024_25": 1.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1.0,
+                        "budget_2026_27": 2.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 2.0
+                    }
+                },
+                {
+                    "code": "8",
+                    "name": "National Sports Development Fund",
+                    "values": {
+                        "actual_2024_25": 13.71,
+                        "capital_2024_25": null,
+                        "total_2024_25": 13.71,
+                        "budget_2025_26": 18.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 18.0,
+                        "revised_2024_25": 12.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 12.0,
+                        "budget_2026_27": 15.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15.0
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Assistance to National Sports Federations",
+                    "values": {
+                        "actual_2024_25": 256.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 256.06,
+                        "budget_2025_26": 400.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 400.0,
+                        "revised_2024_25": 400.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 400.0,
+                        "budget_2026_27": 425.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 425.0
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Scheme of Human Resource Development in Sports",
+                    "values": {
+                        "actual_2024_25": 2.65,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2.65,
+                        "budget_2025_26": 4.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 4.0,
+                        "revised_2024_25": 2.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.0,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "National Centre of Sports Science & Research",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": 5.0,
+                        "budget_2025_26": 10.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 10.0,
+                        "revised_2024_25": 78.64,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 78.64,
+                        "budget_2026_27": 15.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 15.0
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Khelo India",
+                    "values": {
+                        "actual_2024_25": 620.75,
+                        "capital_2024_25": null,
+                        "total_2024_25": 620.75,
+                        "budget_2025_26": 1000.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1000.0,
+                        "revised_2024_25": 700.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 700.0,
+                        "budget_2026_27": 924.35,
+                        "capital_2026_27": null,
+                        "total_2026_27": 924.35
+                    }
+                },
+                {
+                    "code": "13",
+                    "name": "Enhancement of Sports Facility at J& K",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 20.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 20.0,
+                        "revised_2024_25": 2.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2.0,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": "14",
+                    "name": "Commonwealth Games",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 0.01,
+                        "capital_2025_26": null,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": 28.05,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 28.05,
+                        "budget_2026_27": 50.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 50.0
+                    }
+                },
+                {
+                    "code": "15",
+                    "name": "Promotion of Sports Goods Manufacturing",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": 500.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 500.0
+                    }
+                },
+                {
+                    "code": "16",
+                    "name": "Recoveries",
+                    "values": {
+                        "actual_2024_25": -122.25,
+                        "capital_2024_25": null,
+                        "total_2024_25": -122.25,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Central Sector Schemes/Projects",
+                    "values": {
+                        "actual_2024_25": 1093.05,
+                        "capital_2024_25": 0.01,
+                        "total_2024_25": 1093.06,
+                        "budget_2025_26": 2187.46,
+                        "capital_2025_26": 3.55,
+                        "total_2025_26": 2191.01,
+                        "revised_2024_25": 1686.68,
+                        "capital_revised_2024_25": 0.45,
+                        "total_revised_2024_25": 1687.13,
+                        "budget_2026_27": 2615.9,
+                        "capital_2026_27": 15.45,
+                        "total_2026_27": 2631.35
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Other Central Sector Expenditure",
+            "items": []
+        },
+        {
+            "heading": "Autonomous Bodies",
+            "items": [
+                {
+                    "code": "17",
+                    "name": "Nehru Yuva Kendra Sangathan",
+                    "values": {
+                        "actual_2024_25": 339.95,
+                        "capital_2024_25": null,
+                        "total_2024_25": 339.95,
+                        "budget_2025_26": 423.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 423.5,
+                        "revised_2024_25": 423.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 423.0,
+                        "budget_2026_27": 1.02,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1.02
+                    }
+                },
+                {
+                    "code": "18",
+                    "name": "Rajiv Gandhi National Institute of Youth Development",
+                    "values": {
+                        "actual_2024_25": 23.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 23.5,
+                        "budget_2025_26": 26.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 26.0,
+                        "revised_2024_25": 22.5,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 22.5,
+                        "budget_2026_27": 26.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 26.5
+                    }
+                },
+                {
+                    "code": "19",
+                    "name": "Mera Yuva Bharat",
+                    "values": {
+                        "actual_2024_25": 15.64,
+                        "capital_2024_25": null,
+                        "total_2024_25": 15.64,
+                        "budget_2025_26": 82.48,
+                        "capital_2025_26": null,
+                        "total_2025_26": 82.48,
+                        "revised_2024_25": 66.78,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 66.78,
+                        "budget_2026_27": 655.22,
+                        "capital_2026_27": null,
+                        "total_2026_27": 655.22
+                    }
+                },
+                {
+                    "code": "20",
+                    "name": "Sports Authority of India",
+                    "values": {
+                        "actual_2024_25": 823.5,
+                        "capital_2024_25": null,
+                        "total_2024_25": 823.5,
+                        "budget_2025_26": 830.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 830.0,
+                        "revised_2024_25": 880.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 880.0,
+                        "budget_2026_27": 917.38,
+                        "capital_2026_27": null,
+                        "total_2026_27": 917.38
+                    }
+                },
+                {
+                    "code": "21",
+                    "name": "Laxmi Bai National Institute of Physical Education",
+                    "values": {
+                        "actual_2024_25": 46.4,
+                        "capital_2024_25": null,
+                        "total_2024_25": 46.4,
+                        "budget_2025_26": 85.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 85.0,
+                        "revised_2024_25": 79.96,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 79.96,
+                        "budget_2026_27": 87.5,
+                        "capital_2026_27": null,
+                        "total_2026_27": 87.5
+                    }
+                },
+                {
+                    "code": "22",
+                    "name": "National Dope Testing Laboratory",
+                    "values": {
+                        "actual_2024_25": 16.7,
+                        "capital_2024_25": null,
+                        "total_2024_25": 16.7,
+                        "budget_2025_26": 23.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 23.0,
+                        "revised_2024_25": 28.55,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 28.55,
+                        "budget_2026_27": 23.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 23.0
+                    }
+                },
+                {
+                    "code": "23",
+                    "name": "National Anti-Doping Agency",
+                    "values": {
+                        "actual_2024_25": 19.57,
+                        "capital_2024_25": null,
+                        "total_2024_25": 19.57,
+                        "budget_2025_26": 24.3,
+                        "capital_2025_26": null,
+                        "total_2025_26": 24.3,
+                        "revised_2024_25": 24.3,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 24.3,
+                        "budget_2026_27": 20.3,
+                        "capital_2026_27": null,
+                        "total_2026_27": 20.3
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "National Sports University",
+                    "values": {
+                        "actual_2024_25": 286.06,
+                        "capital_2024_25": null,
+                        "total_2024_25": 286.06,
+                        "budget_2025_26": 63.72,
+                        "capital_2025_26": null,
+                        "total_2025_26": 63.72,
+                        "revised_2024_25": 78.64,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 78.64,
+                        "budget_2026_27": 46.98,
+                        "capital_2026_27": null,
+                        "total_2026_27": 46.98
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Autonomous Bodies",
+                    "values": {
+                        "actual_2024_25": 1571.32,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1571.32,
+                        "budget_2025_26": 1558.0,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1558.0,
+                        "revised_2024_25": 1603.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1603.73,
+                        "budget_2026_27": 1777.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1777.9
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "25",
+                    "name": "Contribution to World Anti-Doping Agency",
+                    "values": {
+                        "actual_2024_25": 3.26,
+                        "capital_2024_25": null,
+                        "total_2024_25": 3.26,
+                        "budget_2025_26": 3.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3.5,
+                        "revised_2024_25": 4.0,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 4.0,
+                        "budget_2026_27": 5.0,
+                        "capital_2026_27": null,
+                        "total_2026_27": 5.0
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Other Central Sector Expenditure",
+                    "values": {
+                        "actual_2024_25": 1574.58,
+                        "capital_2024_25": null,
+                        "total_2024_25": 1574.58,
+                        "budget_2025_26": 1561.5,
+                        "capital_2025_26": null,
+                        "total_2025_26": 1561.5,
+                        "revised_2024_25": 1607.73,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 1607.73,
+                        "budget_2026_27": 1782.9,
+                        "capital_2026_27": null,
+                        "total_2026_27": 1782.9
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2708.49,
+                        "capital_2024_25": 2.24,
+                        "total_2024_25": 2710.73,
+                        "budget_2025_26": 3788.49,
+                        "capital_2025_26": 5.81,
+                        "total_2025_26": 3794.3,
+                        "revised_2024_25": 3343.43,
+                        "capital_revised_2024_25": 3.11,
+                        "total_revised_2024_25": 3346.54,
+                        "budget_2026_27": 4461.51,
+                        "capital_2026_27": 18.37,
+                        "total_2026_27": 4479.88
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "B. Developmental Heads",
+            "items": [
+                {
+                    "code": "1",
+                    "name": "Sports and Youth Services",
+                    "values": {
+                        "actual_2024_25": 2667.63,
+                        "capital_2024_25": null,
+                        "total_2024_25": 2667.63,
+                        "budget_2025_26": 3403.17,
+                        "capital_2025_26": null,
+                        "total_2025_26": 3403.17,
+                        "revised_2024_25": 2940.46,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 2940.46,
+                        "budget_2026_27": 4063.07,
+                        "capital_2026_27": null,
+                        "total_2026_27": 4063.07
+                    }
+                },
+                {
+                    "code": "2",
+                    "name": "Secretariat-Social Services",
+                    "values": {
+                        "actual_2024_25": 40.86,
+                        "capital_2024_25": null,
+                        "total_2024_25": 40.86,
+                        "budget_2025_26": 39.53,
+                        "capital_2025_26": null,
+                        "total_2025_26": 39.53,
+                        "revised_2024_25": 49.02,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 49.02,
+                        "budget_2026_27": 62.71,
+                        "capital_2026_27": null,
+                        "total_2026_27": 62.71
+                    }
+                },
+                {
+                    "code": "3",
+                    "name": "Capital Outlay on Education, Sports, Art and Culture",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 3.09,
+                        "total_2025_26": 3.09,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 13.5,
+                        "total_2026_27": 13.5
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "Capital Outlay on other Social Services",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": 2.24,
+                        "total_2024_25": 2.24,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 2.71,
+                        "total_2025_26": 2.71,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": 3.11,
+                        "total_revised_2024_25": 3.11,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 3.37,
+                        "total_2026_27": 3.37
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Social Services",
+                    "values": {
+                        "actual_2024_25": 2708.49,
+                        "capital_2024_25": 2.24,
+                        "total_2024_25": 2710.73,
+                        "budget_2025_26": 3442.7,
+                        "capital_2025_26": 5.8,
+                        "total_2025_26": 3448.5,
+                        "revised_2024_25": 2989.48,
+                        "capital_revised_2024_25": 3.11,
+                        "total_revised_2024_25": 2992.59,
+                        "budget_2026_27": 4125.78,
+                        "capital_2026_27": 16.87,
+                        "total_2026_27": 4142.65
+                    },
+                    "type": "total"
+                },
+                {
+                    "code": "5",
+                    "name": "North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 345.79,
+                        "capital_2025_26": null,
+                        "total_2025_26": 345.79,
+                        "revised_2024_25": 353.95,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 353.95,
+                        "budget_2026_27": 335.73,
+                        "capital_2026_27": null,
+                        "total_2026_27": 335.73
+                    }
+                },
+                {
+                    "code": "6",
+                    "name": "Capital Outlay on North Eastern Areas",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 0.01,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": 1.5,
+                        "total_2026_27": 1.5
+                    }
+                },
+                {
+                    "code": null,
+                    "name": "Total-Others",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": 345.79,
+                        "capital_2025_26": 0.01,
+                        "total_2025_26": 345.8,
+                        "revised_2024_25": 353.95,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": 353.95,
+                        "budget_2026_27": 335.73,
+                        "capital_2026_27": 1.5,
+                        "total_2026_27": 337.23
+                    },
+                    "type": "total"
+                }
+            ]
+        },
+        {
+            "heading": "Totals",
+            "items": [
+                {
+                    "code": null,
+                    "name": "Grand Total",
+                    "values": {
+                        "actual_2024_25": 2708.49,
+                        "capital_2024_25": 2.24,
+                        "total_2024_25": 2710.73,
+                        "budget_2025_26": 3788.49,
+                        "capital_2025_26": 5.81,
+                        "total_2025_26": 3794.3,
+                        "revised_2024_25": 3343.43,
+                        "capital_revised_2024_25": 3.11,
+                        "total_revised_2024_25": 3346.54,
+                        "budget_2026_27": 4461.51,
+                        "capital_2026_27": 18.37,
+                        "total_2026_27": 4479.88
+                    },
+                    "type": "grand_total"
+                }
+            ]
+        },
+        {
+            "heading": "and to promote welfare of sportspersons and their family members.",
+            "items": []
+        },
+        {
+            "heading": "2. Secretariat Youth Affairs:..This provision Provides for secretariat expenditure of the",
+            "items": []
+        },
+        {
+            "heading": "Department of Youth Affairs and Pay and accounts office. Upto RE2025-26, it also includes secretariat expenditure of",
+            "items": [
+                {
+                    "code": "8",
+                    "name": "National Sports Development Fund:..The fund was created in",
+                    "values": {
+                        "actual_2024_25": 1998.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "4",
+                    "name": "National Service Scheme:..The National Service Scheme (NSS) is a Central Sector Scheme",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "9",
+                    "name": "Assistance to National Sports Federations:..Financial assistance is given to recognized",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.01",
+                    "name": "National Youth Corps:..The objective of the National Youth Corps is to provide opportunities",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "10",
+                    "name": "Scheme of Human Resource Development in Sports:..The scheme of Human Resource",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.02",
+                    "name": "National Programme for Youth and Adolescent Development:..The sub-scheme of National",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "clinical training, workshops, qualifying examination and for Research Projects.",
+            "items": []
+        },
+        {
+            "heading": "aid schemes of the Ministry of Youth Affairs and Sports during 10th Plan namely, Promotion of Youth Activities and",
+            "items": [
+                {
+                    "code": "11",
+                    "name": "National Centre of Sports Science & Research:..Financial assistance is given to Medical",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5",
+                    "name": "",
+                    "values": {
+                        "actual_2024_25": 5.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "12",
+                    "name": "Khelo India:..Khelo India Scheme is an Umbrella scheme which aims to achieve the twin",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.04",
+                    "name": "Youth Hostel:..Youth Hostels are built to promote youth travel, within the country. The",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "provision is meant for meeting expenditure on on-going construction of Youth Hostels minor repairs of existing hostels",
+            "items": [
+                {
+                    "code": "5.05",
+                    "name": "Scouting and Guiding:..The provision is for financial assistance to Scouts and Guides for",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.06",
+                    "name": "National Young Leaders Programme:..The National Young Leaders Programme, aims at developed under this scheme.",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "5.07",
+                    "name": "YUVA portal-Youth Leadership and Social Engagement:..This is for creation and",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "management of Mera Yuva Bharat online portal. 17. Nehru Yuva Kendra Sangathan:..Nehru Yuva Kendra Sangathan, is an autonomous body",
+            "items": [
+                {
+                    "code": "6",
+                    "name": "Incentive to Sports Persons:..The scheme of Incentive to Sports Persons is for awarding engagement and inculcating leadership qualities for non-student rural youth in the age group of 15-29 years enrolled",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Sriperumbudur (Tamil Nadu) as an autonomous body registered as a society under the Societies Registration Act,",
+            "items": []
+        },
+        {
+            "heading": "Miscellaneous",
+            "items": [
+                {
+                    "code": "1860",
+                    "name": "fully funded by the Government of India. It is responsible for training, documentation, research and evaluation",
+                    "values": {
+                        "actual_2024_25": 1860.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "19. Mera Yuva Bharat:..Mera Yuva Bharat (MY Bharat) is an autonomous body under the",
+            "items": [
+                {
+                    "code": "20",
+                    "name": "Sports Authority of India:..Government of India established the Sports Authority of India in",
+                    "values": {
+                        "actual_2024_25": 1984.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "1984",
+                    "name": "with the twin objectives of spotting and nurturing talented children in different age groups for achieving excellence",
+                    "values": {
+                        "actual_2024_25": 1984.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "by providing them with requisite infrastructure and equipment support, coaching and other facilities. The schemes are",
+            "items": [
+                {
+                    "code": "21",
+                    "name": "Laxmi Bai National Institute of Physical Education:..Lakshmibai National Institute of",
+                    "values": {
+                        "actual_2024_25": 1957.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "status in 1995. The institute is an autonomous organization under the administrative control of the Ministry, which is",
+            "items": [
+                {
+                    "code": "22",
+                    "name": "National Dope Testing Laboratory:..The National Dope Testing Laboratory (NDTL) is a",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "premier analytical testing & research organization, an Autonomous Body funded via Grants in Aid by Ministry of Youth",
+            "items": [
+                {
+                    "code": "23",
+                    "name": "National Anti-Doping Agency:..National Anti Doping Agency (NADA) was set up as registered",
+                    "values": {
+                        "actual_2024_25": 1860.0,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "24",
+                    "name": "National Sports University:..National Sports University was established by the enactment of",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                },
+                {
+                    "code": "25",
+                    "name": "Contribution to World Anti-Doping Agency:..This provision is meant for contribution to",
+                    "values": {
+                        "actual_2024_25": null,
+                        "capital_2024_25": null,
+                        "total_2024_25": null,
+                        "budget_2025_26": null,
+                        "capital_2025_26": null,
+                        "total_2025_26": null,
+                        "revised_2024_25": null,
+                        "capital_revised_2024_25": null,
+                        "total_revised_2024_25": null,
+                        "budget_2026_27": null,
+                        "capital_2026_27": null,
+                        "total_2026_27": null
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "GOVERNMENT OF INDIA",
+            "items": []
+        },
+        {
+            "heading": "EXPENDITURE BUDGET",
+            "items": []
+        },
+        {
+            "heading": "MINISTRY OF FINANCE",
+            "items": []
+        },
+        {
+            "heading": "BUDGET DIVISION",
+            "items": []
+        }
+    ]
+}
