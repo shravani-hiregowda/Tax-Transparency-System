@@ -14,6 +14,7 @@ from openai import OpenAI
 # ==============================
 ALLOCATION_FILE = "data_allocation_2025.json"
 TAX_RATE_FILE = "tax_rate.json"
+UTTI_API_URL = os.getenv("UTTI_API_URL", "http://127.0.0.1:8001")
 
 # Fiscal realism constants (India-aligned model)
 DEVOLUTION_RATE = 0.41        # 41% Finance Commission devolution
@@ -198,7 +199,7 @@ def smart_tax_flow(user_text):
     # ==========================================================
     if utti:
         try:
-            res = requests.get(f"http://127.0.0.1:8001/slip/{utti}")
+            res = requests.get(f"{UTTI_API_URL}/slip/{utti}")
 
             if res.status_code != 200:
                 return None, "UTTI not found."
