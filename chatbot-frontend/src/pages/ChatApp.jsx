@@ -6,7 +6,7 @@ import Sidebar from "./Sidebar";
 import ChatArea from "./ChatArea";
 import Toast from "./Toast";
 import SlipEntry from "./SlipEntry";
-import "../styles/Chat.css";
+import "../styles/chat.css";
 
 export default function ChatApp() {
   const [chats, setChats] = useState([]);
