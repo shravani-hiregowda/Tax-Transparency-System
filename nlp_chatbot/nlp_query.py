@@ -305,6 +305,33 @@ def smart_tax_flow(user_text):
     products = detect_products(user_text)
     state = extract_state(user_text, tax_data.get("state_fees", {}).keys())
 
+    if products and not amounts:
+        lines = []
+        lines.append("I found the following tax rates for the products you mentioned:")
+        lines.append("")
+        goods = tax_data["categories"]["Goods"]
+        for product in products:
+            found = False
+            for sector, items in goods.items():
+                if product in items:
+                    lines.append(f"{product.title()} (under {sector}):")
+                    for variant, rule in items[product].items():
+                        total_rate = sum(c["rate_percent"] for c in rule["tax_components"] if isinstance(c["rate_percent"], (int, float)))
+                        rate_str = f"{total_rate}%"
+                        state_rates = [c["name"] for c in rule["tax_components"] if isinstance(c["rate_percent"], str)]
+                        if state_rates:
+                            rate_str += " + " + " & ".join(state_rates)
+                        
+                        lines.append(f"  - {variant} Variant: GST {rate_str}")
+                        if "notes" in rule:
+                            lines.append(f"    Note: {rule['notes']}")
+                    found = True
+                    break
+            if not found:
+                lines.append(f"  - {product.title()}: Tax rate details not found offline.")
+            lines.append("")
+        return None, "\n".join(lines)
+
     if not products or not amounts:
         return None, ai_explain(user_text)
 
