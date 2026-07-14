@@ -1,19 +1,18 @@
 from pymongo import MongoClient
 from typing import Optional
 from datetime import datetime, date, time
-
+import os
+from pymongo import MongoClient
 # -------------------------------------------------
 # MONGODB CONNECTION
 # -------------------------------------------------
 
-MONGO_URI = "mongodb://localhost:27017"
-DB_NAME = "utti_db"
-COLLECTION_NAME = "purchase_slips"
+MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017")
 
 client = MongoClient(MONGO_URI)
-db = client[DB_NAME]
-purchase_slips_collection = db[COLLECTION_NAME]
 
+db = client["utti_db"]
+purchase_slips_collection = db["purchase_slips"]
 # -------------------------------------------------
 # INTERNAL HELPER (MongoDB-safe conversion)
 # -------------------------------------------------

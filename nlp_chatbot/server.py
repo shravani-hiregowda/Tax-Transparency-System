@@ -8,6 +8,9 @@ from datetime import datetime
 from nlp_query import smart_tax_flow
 import base64
 from typing import List, Optional
+import os
+from pymongo import MongoClient
+
 
 app = FastAPI(title="Tax Allocation Chatbot + Signup API")
 
@@ -25,11 +28,14 @@ app.add_middleware(
 # ------------------------------------------------------------
 # MONGODB
 # ------------------------------------------------------------
-client = MongoClient("mongodb://localhost:27017")
+
+MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017")
+
+client = MongoClient(MONGO_URI)
+
 db = client["user_db"]
 users = db["users"]
-chats = db["chats"]   # ✅ NEW COLLECTION
-
+chats = db["chats"]
 # ------------------------------------------------------------
 # PASSWORD HASHING
 # ------------------------------------------------------------
