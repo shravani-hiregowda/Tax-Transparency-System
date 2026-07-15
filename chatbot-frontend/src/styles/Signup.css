@@ -82,6 +82,26 @@
   }
 }
 
+/* Redirect link styling */
+.redirect-text {
+  margin-top: 14px;
+  font-size: 0.9rem;
+  color: #64748b;
+  text-align: center;
+}
+
+.redirect-text a {
+  color: #0b5ed7;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.redirect-text a:hover {
+  color: #004aad;
+  text-decoration: underline;
+}
+
 .close-sidebar {
        border-radius: 5px;
        padding: 8px 10px; 
