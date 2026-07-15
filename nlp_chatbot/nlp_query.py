@@ -227,7 +227,7 @@ def ai_explain(user_text: str) -> str:
 
     try:
         response = ai_client.chat.completions.create(
-            model="openai/gpt-4o-mini",
+            model="google/gemma-2-9b-it:free",
             messages=[
                 {"role": "system", "content": AI_SYSTEM_PROMPT},
                 {"role": "user", "content": user_text}
