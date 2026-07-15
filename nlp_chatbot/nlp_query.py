@@ -175,8 +175,55 @@ def ai_explain(user_text: str) -> str:
     if clean_text in greetings:
         return "Hello! Welcome to the Tax Transparency System. How can I help you explore budget allocations or calculate tax distributions today?"
 
+    # Keyword-based fallbacks for when API Key is missing
+    core_query = clean_text.replace("what is ", "").replace("explain ", "").replace("tell me about ", "").strip()
+
+    if any(k in core_query for k in ["gst", "goods and services tax"]):
+        return (
+            "Goods and Services Tax, commonly known as GST, is a comprehensive indirect tax levied on the supply of goods and services in India. "
+            "It is divided into Central GST, State GST, and Integrated GST. Central and State GST are shared between governments, "
+            "while Integrated GST handles interstate commerce."
+        )
+
+    if any(k in core_query for k in ["allocation", "where does my tax go", "tax money", "spending", "spent", "budget"]):
+        return (
+            "Tax revenues collected by the Union Government flow into the Consolidated Fund of India. "
+            "Under the Finance Commission rules, forty-one percent of central taxes are devolved directly to State Governments. "
+            "The remaining portion is used to fund central ministries and public services including defence, road transport, and education."
+        )
+
+    if any(k in core_query for k in ["utti", "slip", "receipt", "invoice", "track", "reference"]):
+        return (
+            "A Unique Transaction Tax Identifier, or UTTI, is a special tracking code. You can paste an identifier such as "
+            "UTTI-GST-26-643C6C in the chat to track the tax flow, and I will generate a breakdown and a visual pie chart showing "
+            "exactly how that tax money is distributed."
+        )
+
+    if any(k in core_query for k in ["help", "do", "features", "capabilities", "guide"]):
+        return (
+            "I can help you explore tax transparency. You can check GST rates by asking about product taxes, like what is the tax rate of chocolate. "
+            "You can run tax calculations by typing an amount and product, such as GST on 1000 rupees smartphone. "
+            "You can also track receipts by entering a transaction reference like UTTI-GST-26-643C6C to visualize its distribution."
+        )
+
+    if any(k in core_query for k in ["education", "school", "college"]):
+        return (
+            "Education spending is funded by tax revenues and is allocated to the Ministry of Education to improve "
+            "literacy rates, maintain government schools, and fund higher education institutions."
+        )
+
+    if any(k in core_query for k in ["defense", "defence", "military"]):
+        return (
+            "National defence and security is funded through central tax revenues, supporting the armed forces, "
+            "modernization of equipment, and border security."
+        )
+
     if not OPENROUTER_API_KEY or not ai_client:
-        return "AI explanation unavailable. Please configure the OPENROUTER_API_KEY environment variable on your server to enable conversational AI."
+        return (
+            "I am currently running in Offline Mode because the server's OPENROUTER_API_KEY environment variable is not configured. "
+            "However, you can still ask me general offline questions such as what is GST, where does my tax money go, or check product tax rates like tax on chocolate. "
+            "You can also run tax calculations like tax on 1000 rupees, or look up transaction IDs like UTTI-GST-26-643C6C."
+        )
 
     try:
         response = ai_client.chat.completions.create(
