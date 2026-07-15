@@ -60,7 +60,16 @@ function Login() {
       }, 1500);
 
     } catch (err) {
-      const errorMsg = err.response?.data?.detail || "Login failed. Please check your credentials.";
+      let errorMsg = "Login failed. Please try again.";
+      if (err.response) {
+        // Server responded with non-2xx status code
+        errorMsg = err.response.data?.detail || `Server error (${err.response.status}).`;
+      } else if (err.request) {
+        // Server was not reached
+        errorMsg = "Network error: Connection refused. Please ensure backend server is running.";
+      } else {
+        errorMsg = err.message;
+      }
       setToast({ type: "error", text: errorMsg });
     }
   };
