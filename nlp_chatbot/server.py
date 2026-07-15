@@ -9,7 +9,10 @@ from nlp_query import smart_tax_flow
 import base64
 from typing import List, Optional
 import os
-from pymongo import MongoClient
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 
 app = FastAPI(title="Tax Allocation Chatbot + Signup API")
